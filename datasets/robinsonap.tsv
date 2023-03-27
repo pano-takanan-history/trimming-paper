@@ -1,0 +1,1425 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COG	COGID	ALIGNMENT	STRUCTURE
+295	blagar	(coral) reef	tómu	tómu	t o m u		1_coralreef-0	708	- - - - t o m u	C V C V
+303	klon	(coral) reef	muru tomu/mur tom	muru tomu	m u r u t o m u		1_coralreef-0	708	m u r u t o m u	C V C V C V C V
+293	teiwa	(coral) reef	tumu	tumu	t u m u		1_coralreef-0	708	- - - - t u m u	C V C V
+1429	abui	arm	tatang	tatang	t a t a ŋ		9_arm-0	2370	t a - t a ŋ	C V C V C
+1437	adang	arm	nataŋ	nataŋ	n a t a ŋ		9_arm-0	2370	n a - t a ŋ	C V C V C
+1431	blagar	arm	tataŋ	tataŋ	t a t a ŋ		9_arm-0	2370	t a - t a ŋ	C V C V C
+1434	kaera	arm	tatang	tatang	t a t a ŋ		9_arm-0	2370	t a - t a ŋ	C V C V C
+1432	kamang	arm	-tang	-tang	t a ŋ		9_arm-0	2370	- - - t a ŋ	C V C
+1440	klon	arm	gtan	gtan	g t a n		9_arm-0	2370	g - - t a n	C C V C
+1436	kui	arm	ta-tan	ta-tan	t a t a n		9_arm-0	2370	t a - t a n	C V C V C
+1439	nedebang	arm	gatang	gatang	g a t a ŋ		9_arm-0	2370	g a - t a ŋ	C V C V C
+1430	protoalorpantar	arm	-tang	-tang	t a ŋ		9_arm-0	2370	- - - t a ŋ	C V C
+1438	sawila	arm	gataŋ	gataŋ	g a t a ŋ		9_arm-0	2370	g a - t a ŋ	C V C V C
+1428	teiwa	arm	gətan	gətan	g ə t a n		9_arm-0	2370	g ə - t a n	C V C V C
+1433	wersing	arm	neteng	neteng	n e t e ŋ		9_arm-0	2370	n e - t e ŋ	C V C V C
+1435	westernpantar	arm	nattang	nattang	n a t t a ŋ		9_arm-0	2370	n a t t a ŋ	C V C C V C
+458	blagar	arrow	bulít	bulít	b u l i t		10_arrow-0	39	b u - - l - - i t	C V C V C
+461	kaera	arrow	qulubit	qulubit	q u l u b i t		10_arrow-0	39	q u - - l u b i t	C V C V C V C
+454	teiwa	arrow	qafalat	qafalat	q a f a l a t		10_arrow-0	39	q a f a l - - a t	C V C V C V C
+550	abui	ash	arui	arui	a r u i		11_ash-3	112	a r u i - -	V C V V
+559	klon	ash	adur	adur	a d u r		11_ash-3	112	a d u - r -	V C V C
+555	westernpantar	ash	duli	duli	d u l i		11_ash-3	112	- d u - l i	C V C V
+2418	adang	ask (question)	ʔatana	ʔatana	ʔ a t a n a		12_askquestion-1	190	ʔ a - t a n a -	C V C V C V
+2412	blagar	ask (question)	ventániŋ	ventániŋ	v e n t a n i ŋ		12_askquestion-1	190	v e n t a n i ŋ	C V C C V C V C
+2421	klon	ask (question)	tang, tkein,	tang	t a ŋ		12_askquestion-1	190	t a - - - ŋ - -	C V C
+2417	kui	ask (question)	gatangan	gatangan	g a t a ŋ a n		12_askquestion-1	190	g a - t a ŋ a n	C V C V C V C
+2420	nedebang	ask (question)	tiyani	tiyani	t i j a n i		12_askquestion-1	190	t i - j a n i -	C V C V C V
+2691	adang	bad	ariʔiŋ, saha 'broken', noʔo daŋ 'not good'	ariʔiŋ	a r i ʔ i ŋ		15_bad-0	397	- a r i ʔ i ŋ	V C V C V C
+2685	blagar	bad	jasi	jasi	dʒ a s i		15_bad-0	397	- - dʒ a s i -	C V C V
+2688	kaera	bad	yaaso	yaaso	j a a s o		15_bad-0	397	j a - a s o -	C V V C V
+2694	nedebang	bad	yeci	yeci	j e tʃ i		15_bad-0	397	j e - - tʃ i -	C V C V
+2684	protoalorpantar	bad	yasi	yasi	j a s i		15_bad-0	397	j a - - s i -	C V C V
+2693	sawila	bad	yaati	yaati	j a a t i		15_bad-0	397	j a - a t i -	C V V C V
+2682	teiwa	bad	yaas	yaas	j a a s		15_bad-0	397	j a - a s - -	C V V C
+2689	westernpantar	bad	yasa	yasa	j a s a		15_bad-0	397	j a - - s a -	C V C V
+1014	abui	bamboo	mai	mai	m a i		16_bamboo-0	482	m a - - i -	C V V
+1016	blagar	bamboo	petuŋ ‘large wild bamboo’, mári ‘smooth wild bamboo’, petuŋ vandaŋ ‘domestic bamboo’	petuŋ	p e t u ŋ		16_bamboo-0	482	p e t u - ŋ	C V C V C
+1019	kamang	bamboo	maai, toon	maai	m a a i		16_bamboo-0	482	m a - a i -	C V V V
+1015	protoalorpantar	bamboo	mari	mari	m a r i		16_bamboo-0	482	m a r - i -	C V C V
+1022	westernpantar	bamboo	mali	mali	m a l i		16_bamboo-0	482	m a l - i -	C V C V
+1041	adang	banana	moʔoi	moʔoi	m o ʔ o i		17_banana-0	562	m o - ʔ o i -	C V C V V
+1035	blagar	banana	mool	mool	m o o l		17_banana-0	562	m o - - o - l	C V V C
+1038	kaera	banana	mogoi	mogoi	m o g o i		17_banana-0	562	m o - g o i -	C V C V V
+1036	kamang	banana	mooi	mooi	m o o i		17_banana-0	562	m o - - o i -	C V V V
+1044	klon	banana	mɔgɔl	mɔgɔl	m ɔ g ɔ l		17_banana-0	562	m ɔ - g ɔ - l	C V C V C
+1034	protoalorpantar	banana	mogol	mogol	m o g o l		17_banana-0	562	m o - g o - l	C V C V C
+1032	teiwa	banana	moxoi	moxoi	m o ħ o i		17_banana-0	562	m o - ħ o i -	C V C V V
+1037	wersing	banana	mulúl   (mulula)	mulúl	m u l u l		17_banana-0	562	m u - l u - l	C V C V C
+1039	westernpantar	banana	maggi	maggi	m a g g i		17_banana-0	562	m a g g - i -	C V C C V
+1841	abui	bat	mare	mare	m a r e		20_bat-0	775	m a r - e -	C V C V
+1843	blagar	bat	demél	demél	d e m e l		20_bat-0	775	d e m e - l	C V C V C
+1844	kamang	bat	matei	matei	m a t e i		20_bat-0	775	m a t e i -	C V C V V
+1852	klon	bat	mdel	mdel	m d e l		20_bat-0	775	m - d e - l	C C V C
+1849	kui	bat	madél	madél	m a d e l		20_bat-0	775	m a d e - l	C V C V C
+1842	protoalorpantar	bat	madel	madel	m a d e l		20_bat-0	775	m a d e - l	C V C V C
+1840	teiwa	bat	mədi	mədi	m ə d i		20_bat-0	775	m ə d - i -	C V C V
+1847	westernpantar	bat	kalór, madde	kalór	k a l o r		20_bat-0	775	k a l o - r	C V C V C
+2150	abui	bedbug	tameak, ne-tameak	tameak	t a m e a k		22_bedbug-1	911	t a m e a k - -	C V C V V C
+2153	blagar	bedbug	temé	temé	t e m e		22_bedbug-1	911	t e m e - - - -	C V C V
+2156	kaera	bedbug	temek	temek	t e m e k		22_bedbug-1	911	t e m e - k - -	C V C V C
+2152	protoalorpantar	bedbug	temek	temek	t e m e k		22_bedbug-1	911	t e m e - k - -	C V C V C
+2155	wersing	bedbug	mekit	mekit	m e k i t		22_bedbug-1	911	- - m e - k i t	C V C V C
+856	abui	betel nut/areca	fu	fu	f u		23_betelnutareca-0	976	f u - - - -	C V
+864	adang	betel nut/areca	bu:	bu:	b uː		23_betelnutareca-0	976	b uː - - - -	C V
+858	blagar	betel nut/areca	bu	bu	b u		23_betelnutareca-0	976	b u - - - -	C V
+861	kaera	betel nut/areca	bui	bui	b u i		23_betelnutareca-0	976	b u - - i -	C V V
+867	klon	betel nut/areca	bʊiʔɪh	bʊiʔɪh	b ʊ i ʔ ɪ h		23_betelnutareca-0	976	b ʊ i ʔ ɪ h	C V V C V C
+863	kui	betel nut/areca	bui	bui	b u i		23_betelnutareca-0	976	b u - - i -	C V V
+866	nedebang	betel nut/areca	buya	buya	b u j a		23_betelnutareca-0	976	b u - j a -	C V C V
+857	protoalorpantar	betel nut/areca	bui	bui	b u i		23_betelnutareca-0	976	b u - - i -	C V V
+865	sawila	betel nut/areca	pu	pu	p u		23_betelnutareca-0	976	p u - - - -	C V
+855	teiwa	betel nut/areca	bui	bui	b u i		23_betelnutareca-0	976	b u - - i -	C V V
+860	wersing	betel nut/areca	pui	pui	p u i		23_betelnutareca-0	976	p u - - i -	C V V
+862	westernpantar	betel nut/areca	bu	bu	b u		23_betelnutareca-0	976	b u - - - -	C V
+869	abui	betel vine	ˈmeting	ˈmeting	ʔ m e t i ŋ		24_betelvine-0	1034	ʔ m e - t i ŋ	C C V C V C
+877	adang	betel vine	mece	mece	m e tʃ e		24_betelvine-0	1034	- m e - tʃ e -	C V C V
+871	blagar	betel vine	maat	maat	m a a t		24_betelvine-0	1034	- m a a t - -	C V V C
+874	kaera	betel vine	maat	maat	m a a t		24_betelvine-0	1034	- m a a t - -	C V V C
+872	kamang	betel vine	maisi	maisi	m a i s i		24_betelvine-0	1034	- m a i s i -	C V V C V
+880	klon	betel vine	mɛh	mɛh	m ɛ h		24_betelvine-0	1034	- m ɛ - h - -	C V C
+876	kui	betel vine	mesín	mesín	m e s i n		24_betelvine-0	1034	- m e - s i n	C V C V C
+879	nedebang	betel vine	matta	matta	m a t t a		24_betelvine-0	1034	- m a t t a -	C V C C V
+870	protoalorpantar	betel vine	mait	mait	m a i t		24_betelvine-0	1034	- m a i t - -	C V V C
+878	sawila	betel vine	maasi	maasi	m a a s i		24_betelvine-0	1034	- m a a s i -	C V V C V
+868	teiwa	betel vine	meet	meet	m e e t		24_betelvine-0	1034	- m e e t - -	C V V C
+873	wersing	betel vine	mas	mas	m a s		24_betelvine-0	1034	- m a - s - -	C V C
+875	westernpantar	betel vine	meta	meta	m e t a		24_betelvine-0	1034	- m e - t a -	C V C V
+1941	abui	bird	ruo haling tama	ruo haling tama	r u o h a l i ŋ t a m a		26_bird-6	1156	r u o h a l - - - i ŋ t - - a m a	C V V C V C V C C V C V
+1944	kamang	bird	atoi	atoi	a t o i		26_bird-6	1156	- a - t o - - - - - - - - - - - i	V C V V
+1948	kui	bird	adol	adol	a d o l		26_bird-6	1156	- a - d o l - - - - - - - - - - -	V C V C
+1951	nedebang	bird	daya	daya	d a j a		26_bird-6	1156	- - - d a j - - - - - - - - - - a	C V C V
+1942	protoalorpantar	bird	(a)dol	dol	d o l		26_bird-6	1156	- - - d o l - - - - - - - - - - -	C V C
+1950	sawila	bird	adala	adala	a d a l a		26_bird-6	1156	- a - d a l - - - - - - - - - - a	V C V C V
+1940	teiwa	bird	dei	dei	d e i		26_bird-6	1156	- - - d e - - - - - - - - - - - i	C V V
+1945	wersing	bird	adol gateng kurusi ('cakar burung')	adol gateng kurusi	a d o l g a t e ŋ k u r u s i		26_bird-6	1156	- a - d o l g a t e ŋ k u r u s i	V C V C C V C V C C V C V C V
+2170	adang	bite	(bεl) ʔihi	ʔihi	ʔ i h i		27_bite-0	1215	ʔ i - h i	C V C V
+2167	kaera	bite	sii	sii	s i i		27_bite-0	1215	s i - - i	C V V
+2164	kamang	bite	-eh	-eh	e h		27_bite-0	1215	- e - h -	V C
+2173	klon	bite	gɛh	gɛh	g ɛ h		27_bite-0	1215	g ɛ - h -	C V C
+2169	kui	bite	(kur) ges	ges	g e s		27_bite-0	1215	g e - s -	C V C
+2172	nedebang	bite	cia	cia	tʃ i a		27_bite-0	1215	tʃ i - - a	C V V
+2162	protoalorpantar	bite	asi	asi	a s i		27_bite-0	1215	- a - s i	V C V
+2160	teiwa	bite	si	si	s i		27_bite-0	1215	s i - - -	C V
+2168	westernpantar	bite	gassi	gassi	g a s s i		27_bite-0	1215	g a s s i	C V C C V
+2963	abui	bitter	makali	makali	m a k a l i		28_bitter-4	1278	m a k a l i -	C V C V C V
+2970	adang	bitter	maʔalaʔ	maʔalaʔ	m a ʔ a l a ʔ		28_bitter-4	1278	m a ʔ a l a ʔ	C V C V C V C
+2964	blagar	bitter	kamála	kamála	k a m a l a		28_bitter-4	1278	k a m a l a -	C V C V C V
+2973	klon	bitter	mkal	mkal	m k a l		28_bitter-4	1278	m - k a l - -	C C V C
+2969	kui	bitter	makala	makala	m a k a l a		28_bitter-4	1278	m a k a l a -	C V C V C V
+2971	sawila	bitter	makal	makal	m a k a l		28_bitter-4	1278	m a k a l - -	C V C V C
+3075	abui	black	akani	akani	a k a n i		29_black-0	1342	- - a k a n i -	V C V C V
+3083	adang	black	laʔanaʔ	laʔanaʔ	l a ʔ a n a ʔ		29_black-0	1342	- l a ʔ a n a ʔ	C V C V C V C
+3077	blagar	black	kána	kána	k a n a		29_black-0	1342	- - - k a n a -	C V C V
+3080	kaera	black	xano	xano	ħ a n o		29_black-0	1342	- - - ħ a n o -	C V C V
+3086	klon	black	ɑʔɑkɑn	ɑʔɑkɑn	ɑ ʔ ɑ k ɑ n		29_black-0	1342	ɑ ʔ ɑ k ɑ n - -	V C V C V C
+3082	kui	black	akana	akana	a k a n a		29_black-0	1342	- - a k a n a -	V C V C V
+3085	nedebang	black	qana	qana	q a n a		29_black-0	1342	- - - q a n a -	C V C V
+3076	protoalorpantar	black	aqana	aqana	a q a n a		29_black-0	1342	- - a q a n a -	V C V C V
+3084	sawila	black	akana	akana	a k a n a		29_black-0	1342	- - a k a n a -	V C V C V
+3074	teiwa	black	qa'an	qa'an	q a ʔ a n		29_black-0	1342	- q a ʔ a n - -	C V C V C
+3079	wersing	black	akeng	akeng	a k e ŋ		29_black-0	1342	- - a k e ŋ - -	V C V C
+1179	abui	blood	we	we	w e		31_blood-0	1434	- w e - -	C V
+1188	adang	blood	fi:	fi:	f iː		31_blood-0	1434	- f iː - -	C V
+1181	blagar	blood	eve, ve	eve	e v e		31_blood-0	1434	e v e - -	V C V
+1185	kaera	blood	wee	wee	w e e		31_blood-0	1434	- w e - e	C V V
+1183	kamang	blood	wee	wee	w e e		31_blood-0	1434	- w e - e	C V V
+1191	klon	blood	wɛʔ	wɛʔ	w ɛ ʔ		31_blood-0	1434	- w ɛ ʔ -	C V C
+1187	kui	blood	we	we	w e		31_blood-0	1434	- w e - -	C V
+1190	nedebang	blood	we	we	w e		31_blood-0	1434	- w e - -	C V
+1180	protoalorpantar	blood	wai	wai	w a i		31_blood-0	1434	- w a - i	C V V
+1189	sawila	blood	wii	wii	w i i		31_blood-0	1434	- w i - i	C V V
+1178	teiwa	blood	wei	wei	w e i		31_blood-0	1434	- w e - i	C V V
+1184	wersing	blood	wei	wei	w e i		31_blood-0	1434	- w e - i	C V V
+1186	westernpantar	blood	wai	wai	w a i		31_blood-0	1434	- w a - i	C V V
+1286	abui	body hair	amuri	amuri	a m u r i		34_bodyhair-0	1659	- a m u r i - -	V C V C V
+1294	adang	body hair	muj	muj	m u dʒ		34_bodyhair-0	1659	- - m u dʒ - - -	C V C
+1288	blagar	body hair	pimudi	pimudi	p i m u d i		34_bodyhair-0	1659	p i m u d i - -	C V C V C V
+1291	kaera	body hair	mudu' 'body hair, fur, feather'	mudu	m u d u		34_bodyhair-0	1659	- - m u d u - -	C V C V
+1297	klon	body hair	amudj	amudj	a m u d dʒ		34_bodyhair-0	1659	- a m u d - dʒ -	V C V C C
+1296	nedebang	body hair	muddi	muddi	m u d d i		34_bodyhair-0	1659	- - m u d - d i	C V C C V
+1287	protoalorpantar	body hair	mudi	mudi	m u d i		34_bodyhair-0	1659	- - m u d i - -	C V C V
+1295	sawila	body hair	madi	madi	m a d i		34_bodyhair-0	1659	- - m a d i - -	C V C V
+1285	teiwa	body hair	mud	mud	m u d		34_bodyhair-0	1659	- - m u d - - -	C V C
+1290	wersing	body hair	(ne)mudi	mudi	m u d i		34_bodyhair-0	1659	- - m u d i - -	C V C V
+1144	kaera	bone	kiri/giri	kiri	k i r i		35_bone-0	1734	k i r i	C V C V
+1150	nedebang	bone	kili	kili	k i l i		35_bone-0	1734	k i l i	C V C V
+1139	teiwa	bone	kir	kir	k i r		35_bone-0	1734	k i r -	C V C
+1142	kamang	bone	sel	sel	s e l		35_bone-5	1739	- - s e l -	C V C
+1149	sawila	bone	sara	sara	s a r a		35_bone-5	1739	- - s a r a	C V C V
+1143	wersing	bone	geséri	geséri	g e s e r i		35_bone-5	1739	g e s e r i	C V C V C V
+1148	adang	bone	talopo	talopo	t a l o p o		35_bone-3	1737	t a l o p o	C V C V C V
+1151	klon	bone	tərop	tərop	t ə r o p		35_bone-3	1737	t ə r o p -	C V C V C
+1147	kui	bone	taropa	taropa	t a r o p a		35_bone-3	1737	t a r o p a	C V C V C V
+443	abui	bow	peti	peti	p e t i		36_bow-5	1815	p e t i	C V C V
+450	adang	bow	pεhε	pεhε	p ɛ h ɛ		36_bow-5	1815	p ɛ h ɛ	C V C V
+453	klon	bow	peh	peh	p e h		36_bow-5	1815	p e h -	C V C
+449	kui	bow	pes	pes	p e s		36_bow-5	1815	p e s -	C V C
+719	adang	branch	ataŋ	ataŋ	a t a ŋ		37_branch-0	1841	- - - - a t a ŋ -	V C V C
+716	kaera	branch	tei getani	tei getani	t e i g e t a n i		37_branch-0	1841	t e i g e t a n i	C V V C V C V C V
+723	klon	branch	beh, gtan, kdar, tkam	beh	b e h		37_branch-0	1841	b e - - - - - h -	C V C
+718	kui	branch	gatan	gatan	g a t a n		37_branch-0	1841	- - - g a t a n -	C V C V C
+722	nedebang	branch	gatani	gatani	g a t a n i		37_branch-0	1841	- - - g a t a n i	C V C V C V
+711	teiwa	branch	tei getingi	tei getingi	t e i g e t i ŋ i		37_branch-0	1841	t e i g e t i ŋ i	C V V C V C V C V
+1093	adang	breadfruit	tombai	tombai	t o m b a i		38_breadfruit-3	1924	t o m b a i -	C V C C V V
+1086	kamang	breadfruit	kut ton	kut ton	k u t t o n		38_breadfruit-3	1924	k u t t o - n	C V C C V C
+1089	westernpantar	breadfruit	kili, tong	kili	k i l i		38_breadfruit-3	1924	k i - l i - -	C V C V
+1457	blagar	breast	a:m	a:m	aː m		39_breast-0	2012	- - - aː m -	V C
+1458	kamang	breast	ami	ami	a m i		39_breast-0	2012	- - - a m i	V C V
+1465	nedebang	breast	gayami (cf., aami 'milk')	gayami	g a j a m i		39_breast-0	2012	g a j a m i	C V C V C V
+1456	protoalorpantar	breast	ham-i	ham-i	h a m i		39_breast-0	2012	- - h a m i	C V C V
+1464	sawila	breast	gaami	gaami	g a a m i		39_breast-0	2012	g a - a m i	C V V C V
+1454	teiwa	breast	gəxam	gəxam	g ə ħ a m		39_breast-0	2012	g ə ħ a m -	C V C V C
+1459	wersing	breast	ami	ami	a m i		39_breast-0	2012	- - - a m i	V C V
+1748	kaera	bride price	gay	gay	g a j		40_brideprice-0	2018	g a - - j	C V C
+1752	nedebang	bride price	ga'a	ga'a	g a ʔ a		40_brideprice-0	2018	g a ʔ a -	C V C V
+1742	teiwa	bride price	go'oy	go'oy	g o ʔ o j		40_brideprice-0	2018	g o ʔ o j	C V C V C
+1749	westernpantar	bride price	gu'e	gu'e	g u ʔ e		40_brideprice-0	2018	g u ʔ e -	C V C V
+3630	abui	burn/shine	hiede	hiede	h i e d e		43_burnshine-0	2029	h i e d e -	C V V C V
+3632	blagar	burn/shine	ade	ade	a d e		43_burnshine-0	2029	- - a d e -	V C V
+3635	kaera	burn/shine	dee	dee	d e e		43_burnshine-0	2029	- - - d e e	C V V
+3629	teiwa	burn/shine	dee	dee	d e e		43_burnshine-0	2029	- - - d e e	C V V
+3680	abui	chase away/expel	he-tei, ha-loi	he-tei	h e t e i		49_chaseawayexpel-0	2076	h e t e i - -	C V C V V
+3683	blagar	chase away/expel	teri, sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’	teri	t e r i		49_chaseawayexpel-0	2076	- - t e - r i	C V C V
+3691	kaera	chase away/expel	getero	getero	g e t e r o		49_chaseawayexpel-0	2076	g e t e - r o	C V C V C V
+3699	nedebang	chase away/expel	getiala	getiala	g e t i a l a		49_chaseawayexpel-0	2076	g e t i a l a	C V C V V C V
+3682	protoalorpantar	chase away/expel	tiara	tiara	t i a r a		49_chaseawayexpel-0	2076	- - t i a r a	C V V C V
+3697	sawila	chase away/expel	tiira, diila	tiira	t i i r a		49_chaseawayexpel-0	2076	- - t i i r a	C V V C V
+3679	teiwa	chase away/expel	gətiar	gətiar	g ə t i a r		49_chaseawayexpel-0	2076	g ə t i a r -	C V C V V C
+1793	blagar	chicken	haŋi	haŋi	h a ŋ i		52_chicken-2	2095	h a ŋ i - -	C V C V
+1796	kaera	chicken	siaq	siaq	s i a q		52_chicken-2	2095	s i - a q -	C V V C
+1797	westernpantar	chicken	suake	suake	s u a k e		52_chicken-2	2095	s u - a k e	C V V C V
+1799	adang	chicken	hiu	hiu	h i u		52_chicken-4	2096	h i u	C V V
+1802	klon	chicken	hi	hi	h i		52_chicken-4	2096	h i -	C V
+1798	kui	chicken	sei	sei	s e i		52_chicken-4	2096	s e i	C V V
+1630	adang	child	ʔei	ʔei	ʔ e i		53_child-0	2101	ʔ e - - i - -	C V V
+1624	blagar	child	toál	toál	t o a l		53_child-0	2101	t o - - a l -	C V V C
+1627	kaera	child	tuaq	tuaq	t u a q		53_child-0	2101	t u - - a q -	C V V C
+1632	nedebang	child	guaqa	guaqa	g u a q a		53_child-0	2101	g u - - a q a	C V V C V
+1619	teiwa	child	goqai	goqai	g o q a i		53_child-0	2101	g o - q a - i	C V C V V
+1628	westernpantar	child	wakke	wakke	w a k k e		53_child-0	2101	w a k k e - -	C V C C V
+1633	klon	child	ʊl	ʊl	ʊ l		53_child-4	2105	ʊ l	V C
+1629	kui	child	ol	ol	o l		53_child-4	2105	o l	V C
+1626	wersing	child	ol	ol	o l		53_child-4	2105	o l	V C
+1350	abui	chin	tawa bak	tawa bak	t a w a b a k		54_chin-0	2106	t a - w - a b a k -	C V C V C V C
+1352	blagar	chin	təvá	təvá	t ə v a		54_chin-0	2106	t ə - v - - - a - -	C V C V
+1355	kaera	chin	tua somoi	tua somoi	t u a s o m o i		54_chin-0	2106	t u a s - o m o - i	C V V C V C V V
+1353	kamang	chin	-waa buk	-waa buk	w a a b u k		54_chin-0	2106	- - - w a a b u k -	C V V C V C
+1351	protoalorpantar	chin	-wa	-wa	w a		54_chin-0	2106	- - - w - - - a - -	C V
+1359	sawila	chin	wakooya	wakooya	w a k o o j a		54_chin-0	2106	w a - k - o - o j a	C V C V V C V
+1349	teiwa	chin	gaaw	gaaw	g a a w		54_chin-0	2106	- - - g - a - a w -	C V V C
+1354	wersing	chin	newakat	newakat	n e w a k a t		54_chin-0	2106	n e - w - a k a t -	C V C V C V C
+1817	abui	civet cat	ayo	ayo	a j o		56_civetcat-0	2123	- a j - - - - - - o	V C V
+1825	adang	civet cat	alumanεmε (lit, 'good smelling deer')	alumanεmε	a l u m a n ɛ m ɛ		56_civetcat-0	2123	- a l u m a n ɛ m ɛ	V C V C V C V C V
+1819	blagar	civet cat	ró	ró	r o		56_civetcat-0	2123	- - r o - - - - - -	C V
+1822	kaera	civet cat	orow	orow	o r o w		56_civetcat-0	2123	- o r o w - - - - -	V C V C
+1828	klon	civet cat	aru'	aru'	a r u ʔ		56_civetcat-0	2123	- a r u ʔ - - - - -	V C V C
+1818	protoalorpantar	civet cat	haraw	haraw	h a r a w		56_civetcat-0	2123	h a r a w - - - - -	C V C V C
+1826	sawila	civet cat	aruwaaka	aruwaaka	a r u w a a k a		56_civetcat-0	2123	- a r u w a - a k a	V C V C V V C V
+1816	teiwa	civet cat	xraw	xraw	ħ r a w		56_civetcat-0	2123	ħ - r a w - - - - -	C C V C
+4043	abui	climb	(hong) mira	mira	m i r a		59_climb-0	2139	m i r a -	C V C V
+4051	adang	climb	midiʔ	midiʔ	m i d i ʔ		59_climb-0	2139	m i d i ʔ	C V C V C
+4055	klon	climb	mde, mid, mod, pkas	mde	m d e		59_climb-0	2139	m - d e -	C C V
+4052	sawila	climb	mada, mudaata	mada	m a d a		59_climb-0	2139	m a d a -	C V C V
+4042	teiwa	climb	mir	mir	m i r		59_climb-0	2139	m i r - -	C V C
+953	abui	coconut	ˈwata	ˈwata	ʔ w a t a		61_coconut-0	2157	ʔ w a - t a -	C C V C V
+961	adang	coconut	faʔ	faʔ	f a ʔ		61_coconut-0	2157	- f a - ʔ - -	C V C
+955	blagar	coconut	vet	vet	v e t		61_coconut-0	2157	- v e - t - -	C V C
+958	kaera	coconut	waat	waat	w a a t		61_coconut-0	2157	- w a a t - -	C V V C
+956	kamang	coconut	wate	wate	w a t e		61_coconut-0	2157	- w a - t e -	C V C V
+963	nedebang	coconut	wata	wata	w a t a		61_coconut-0	2157	- w a - t a -	C V C V
+954	protoalorpantar	coconut	wat	wat	w a t		61_coconut-0	2157	- w a - t - -	C V C
+962	sawila	coconut	wata	wata	w a t a		61_coconut-0	2157	- w a - t a -	C V C V
+952	teiwa	coconut	wat	wat	w a t		61_coconut-0	2157	- w a - t - -	C V C
+957	wersing	coconut	watá'	watá'	w a t a ʔ		61_coconut-0	2157	- w a - t a ʔ	C V C V C
+2659	blagar	cold	jevi	jevi	dʒ e v i		62_cold-0	2161	- - dʒ e v i	C V C V
+2662	kaera	cold	qaiwo	qaiwo	q a i w o		62_cold-0	2161	q a - i w o	C V V C V
+2668	nedebang	cold	maxavu	maxavu	m a ħ a v u		62_cold-0	2161	m a ħ a v u	C V C V C V
+2657	teiwa	cold	qi'aw	qi'aw	q i ʔ a w		62_cold-0	2161	q i ʔ a w -	C V C V C
+817	abui	cooked rice	ajak ma:	ajak ma:	a dʒ a k m aː		67_cookedrice-0	2176	a dʒ a k m aː - - -	V C V C C V
+826	adang	cooked rice	a:la meje (lit., 'table rice')	a:la meje	aː l a m e dʒ e		67_cookedrice-0	2176	aː l a - m e dʒ e -	V C V C V C V
+822	kaera	cooked rice	naqar, naxaro	naqar	n a q a r		67_cookedrice-0	2176	- n a q - a r - -	C V C V C
+829	klon	cooked rice	ərɑkmɑi	ərɑkmɑi	ə r ɑ k m ɑ i		67_cookedrice-0	2176	ə r ɑ k m ɑ - i -	V C V C C V V
+825	kui	cooked rice	arak ma	arak ma	a r a k m a		67_cookedrice-0	2176	a r a k m a - - -	V C V C C V
+828	nedebang	cooked rice	qara	qara	q a r a		67_cookedrice-0	2176	- - - q - a r a -	C V C V
+818	protoalorpantar	cooked rice	araq	araq	a r a q		67_cookedrice-0	2176	- - - - - a r a q	V C V C
+827	sawila	cooked rice	araka ma	araka ma	a r a k a m a		67_cookedrice-0	2176	a r a k - a m a -	V C V C V C V
+816	teiwa	cooked rice	qar	qar	q a r		67_cookedrice-0	2176	- - - q - a r - -	C V C
+821	wersing	cooked rice	arák mad	arák mad	a r a k m a d		67_cookedrice-0	2176	a r a k m a d - -	V C V C C V C
+287	kaera	coral (rock)	xoqís	xoqís	ħ o q i s		68_coralrock-0	2180	ħ o q i s	C V C V C
+292	klon	coral (rock)	kokah	kokah	k o k a h		68_coralrock-0	2180	k o k a h	C V C V C
+282	teiwa	coral (rock)	qoqas	qoqas	q o q a s		68_coralrock-0	2180	q o q a s	C V C V C
+2915	kaera	correct	quuno	quuno	q u u n o		70_correct-0	2199	q u - u n o	C V V C V
+2920	nedebang	correct	qunna (also straight)	qunna	q u n n a		70_correct-0	2199	q u n - n a	C V C C V
+2910	teiwa	correct	quun	quun	q u u n		70_correct-0	2199	q u - u n -	C V V C
+1902	abui	crocodile	fahai	fahai	f a h a i		71_crocodile-0	2208	f a h a i -	C V C V V
+1910	adang	crocodile	baʔai	baʔai	b a ʔ a i		71_crocodile-0	2208	b a ʔ a i -	C V C V V
+1907	kaera	crocodile	bagay	bagay	b a g a j		71_crocodile-0	2208	b a g a - j	C V C V C
+1905	kamang	crocodile	piee	piee	p i e e		71_crocodile-0	2208	p i - e e -	C V V V
+1913	klon	crocodile	bəgɑi	bəgɑi	b ə g ɑ i		71_crocodile-0	2208	b ə g ɑ i -	C V C V V
+1903	protoalorpantar	crocodile	bagai	bagai	b a g a i		71_crocodile-0	2208	b a g a i -	C V C V V
+1901	teiwa	crocodile	baxai	baxai	b a ħ a i		71_crocodile-0	2208	b a ħ a i -	C V C V V
+1908	westernpantar	crocodile	bagai	bagai	b a g a i		71_crocodile-0	2208	b a g a i -	C V C V V
+763	kaera	dibble stick	yag	yag	j a g		78_dibblestick-0	2224	j a - g - -	C V C
+760	teiwa	dibble stick	yax	yax	j a ħ		78_dibblestick-0	2224	j a - ħ - -	C V C
+764	westernpantar	dibble stick	yaggas	yaggas	j a g g a s		78_dibblestick-0	2224	j a g g a s	C V C C V C
+2813	kaera	dirty	qaasi	qaasi	q a a s i		80_dirty-0	2235	- - - - q a a s i	C V V C V
+2818	nedebang	dirty	blaqqas	blaqqas	b l a q q a s		80_dirty-0	2235	b l a q q - a s -	C C V C C V C
+2808	teiwa	dirty	blaqas	blaqas	b l a q a s		80_dirty-0	2235	b l a - q - a s -	C C V C V C
+2815	kui	dirty	maakan	maakan	m a a k a n		80_dirty-6	2240	m a a k a n	C V V C V C
+2817	sawila	dirty	makaŋ	makaŋ	m a k a ŋ		80_dirty-6	2240	m a - k a ŋ	C V C V C
+2812	wersing	dirty	makang	makang	m a k a ŋ		80_dirty-6	2240	m a - k a ŋ	C V C V C
+1768	blagar	dog	jabar	jabar	dʒ a b a r		81_dog-0	2243	dʒ a - b a r	C V C V C
+1771	kaera	dog	ibar	ibar	i b a r		81_dog-0	2243	- i - b a r	V C V C
+1766	teiwa	dog	yifar	yifar	j i f a r		81_dog-0	2243	j i - f a r	C V C V C
+1772	westernpantar	dog	yabbe	yabbe	j a b b e		81_dog-0	2243	j a b b e -	C V C C V
+1767	abui	dog	kai	kai	k a i		81_dog-1	2244	k a i -	C V V
+1769	kamang	dog	kui	kui	k u i		81_dog-1	2244	k u i -	C V V
+1777	klon	dog	kʊr	kʊr	k ʊ r		81_dog-1	2244	k ʊ - r	C V C
+1773	kui	dog	kur	kur	k u r		81_dog-1	2244	k u - r	C V C
+3222	adang	dream	pei	pei	p e i		84_dream-2	2260	- - - p e i -	C V V
+3216	blagar	dream	yipár	yipár	j i p a r		84_dream-2	2260	j i - p a - r	C V C V C
+3219	kaera	dream	ipar	ipar	i p a r		84_dream-2	2260	- i - p a - r	V C V C
+3217	kamang	dream	-foi	-foi	f o i		84_dream-2	2260	- - - f o i -	C V V
+3224	klon	dream	eper	eper	e p e r		84_dream-2	2260	- e - p e - r	V C V C
+3215	protoalorpantar	dream	hipar	hipar	h i p a r		84_dream-2	2260	h i - p a - r	C V C V C
+3220	westernpantar	dream	hippe	hippe	h i p p e		84_dream-2	2260	h i p p e - -	C V C C V
+2736	kaera	dry	siso	siso	s i s o		85_dry-3	2267	s i - s o	C V C V
+2741	nedebang	dry	cici	cici	tʃ i tʃ i		85_dry-3	2267	tʃ i - tʃ i	C V C V
+2731	teiwa	dry	siis	siis	s i i s		85_dry-3	2267	s i i s -	C V V C
+2737	westernpantar	dry	sisa	sisa	s i s a		85_dry-3	2267	s i - s a	C V C V
+2732	abui	dry	takata	takata	t a k a t a		85_dry-0	2264	t a k a t a	C V C V C V
+2739	adang	dry	taʔata	taʔata	t a ʔ a t a		85_dry-0	2264	t a ʔ a t a	C V C V C V
+2733	blagar	dry	táta	táta	t a t a		85_dry-0	2264	t a - - t a	C V C V
+2742	klon	dry	təkɑt	təkɑt	t ə k ɑ t		85_dry-0	2264	t ə k ɑ t -	C V C V C
+2738	kui	dry	takata	takata	t a k a t a		85_dry-0	2264	t a k a t a	C V C V C V
+3663	adang	dry in sun	fεd poi	fεd poi	f ɛ d p o i		86_dryinsun-2	2270	f ɛ d p o - i -	C V C C V V
+3657	blagar	dry in sun	póriŋ	póriŋ	p o r i ŋ		86_dryinsun-2	2270	p o - - - r i ŋ	C V C V C
+3660	kaera	dry in sun	poring	poring	p o r i ŋ		86_dryinsun-2	2270	p o - - - r i ŋ	C V C V C
+3666	klon	dry in sun	ʊpur	ʊpur	ʊ p u r		86_dryinsun-2	2270	- ʊ - p u r - -	V C V C
+3656	protoalorpantar	dry in sun	por	por	p o r		86_dryinsun-2	2270	p o - - - r - -	C V C
+3664	sawila	dry in sun	po:pɒrɔ (not quite dry)	po:pɒrɔ	p oː p ɒ r ɔ		86_dryinsun-2	2270	p oː - p ɒ r ɔ -	C V C V C V
+565	kaera	dust/fine earth	braam	braam	b r a a m		87_dustfineearth-0	2275	- - - b - r a a m	C C V V C
+560	teiwa	dust/fine earth	di' bəraam	di' bəraam	d i ʔ b ə r a a m		87_dustfineearth-0	2275	d i ʔ b ə r a a m	C V C C V C V V C
+566	westernpantar	dust/fine earth	bro	bro	b r o		87_dustfineearth-0	2275	- - - b - r o - -	C C V
+1312	abui	ear	tawei	tawei	t a w e i		88_ear-0	2284	t a - w e - - - i -	C V C V V
+1317	kaera	ear	tuwar wa	tuwar wa	t u w a r w a		88_ear-0	2284	t u - w a r - w a -	C V C V C C V
+1315	kamang	ear	-wai	-wai	w a i		88_ear-0	2284	- - - w a - - - i -	C V V
+1323	klon	ear	gəwɛr	gəwɛr	g ə w ɛ r		88_ear-0	2284	g ə - w ɛ r - - - -	C V C V C
+1322	nedebang	ear	gowwa'a	gowwa'a	g o w w a ʔ a		88_ear-0	2284	g o w w a ʔ - - a -	C V C C V C V
+1313	protoalorpantar	ear	-uar-i	-uar-i	u a r i		88_ear-0	2284	- u - - a r - - i -	V V C V
+1321	sawila	ear	wari	wari	w a r i		88_ear-0	2284	- - - w a r - - i -	C V C V
+1311	teiwa	ear	-uwar wa'	-uwar wa'	u w a r w a ʔ		88_ear-0	2284	- u - w a r - w a ʔ	V C V C C V C
+1316	wersing	ear	neweri lak	neweri lak	n e w e r i l a k		88_ear-0	2284	n e - w e r i l a k	C V C V C V C V C
+1318	westernpantar	ear	nauwe	nauwe	n a u w e		88_ear-0	2284	n a - - u w - - e -	C V V C V
+214	blagar	earth	por	por	p o r		89_earth-0	2288	p o - r	C V C
+216	kaera	earth	par	par	p a r		89_earth-0	2288	p a - r	C V C
+212	teiwa	earth	iid, por 'island'	iid	i i d		89_earth-0	2288	- i i d	V V C
+2001	abui	egg	ruo bira	ruo bira	r u o b i r a		92_egg-4	2330	r u o - b i r a	C V V C V C V
+2008	adang	egg	(hiu) do	do	d o		92_egg-4	2330	d o - - - - - -	C V
+2002	blagar	egg	eʔdua	eʔdua	e ʔ d u a		92_egg-4	2330	- e - ʔ d u - a	V C C V V
+2525	abui	eleven	kar nuk wal nuku	kar nuk wal nuku	k a r n u k w a l n u k u		94_eleven-2	2337	k a - r n u k - w a - l n u k u	C V C C V C C V C C V C V
+2532	adang	eleven	airnu waliŋu	airnu waliŋu	a i r n u w a l i ŋ u		94_eleven-2	2337	- a i r n - - u w a - l - i ŋ u	V V C C V C V C V C V
+2527	kamang	eleven	waal	waal	w a a l		94_eleven-2	2337	- - - - - - - - w a a l - - - -	C V V C
+2531	kui	eleven	karnuk wail nuku	karnuk wail nuku	k a r n u k w a i l n u k u		94_eleven-2	2337	k a - r n u k - w a i l n u k u	C V C C V C C V V C C V C V
+2530	westernpantar	eleven	keanuku wali ye	keanuku wali ye	k e a n u k u w a l i j e		94_eleven-2	2337	k e a - n u k u w a - l - i j e	C V V C V C V C V C V C V
+2710	abui	empty	taka	taka	t a k a		95_empty-0	2340	t a k - a -	C V C V
+2714	kaera	empty	isik	isik	i s i k		95_empty-0	2340	- i - s i k	V C V C
+2713	kamang	empty	saka	saka	s a k a		95_empty-0	2340	s a k - a -	C V C V
+2711	protoalorpantar	empty	hasak	hasak	h a s a k		95_empty-0	2340	h a - s a k	C V C V C
+2709	teiwa	empty	hasak	hasak	h a s a k		95_empty-0	2340	h a - s a k	C V C V C
+2715	westernpantar	empty	hakkas	hakkas	h a k k a s		95_empty-0	2340	h a k k a s	C V C C V C
+1240	kamang	excrement	asi	asi	a s i		96_excrement-0	2345	- a s i	V C V
+1246	klon	excrement	ǝhi	ǝhi	ǝ h i		96_excrement-0	2345	- ǝ h i	V C V
+1243	kui	excrement	es	es	e s		96_excrement-0	2345	- e s -	V C
+1238	protoalorpantar	excrement	has	has	h a s		96_excrement-0	2345	h a s -	C V C
+1245	sawila	excrement	ɑtʊ	ɑtʊ	ɑ t ʊ		96_excrement-0	2345	- ɑ t ʊ	V C V
+1236	teiwa	excrement	xas	xas	ħ a s		96_excrement-0	2345	ħ a s -	C V C
+1241	wersing	excrement	atú	atú	a t u		96_excrement-0	2345	- a t u	V C V
+1242	westernpantar	excrement	has	has	h a s		96_excrement-0	2345	h a s -	C V C
+1303	kaera	eye	teet gwaq, teet mudu' 'eyelash'	teet gwaq	t e e t g w a q		97_eye-0	2349	t e e t g - w a q -	C V V C C C V C
+1308	nedebang	eye	gatabaga, natabaga	gatabaga	g a t a b a g a		97_eye-0	2349	g a - t - a b a g a	C V C V C V C V
+1298	teiwa	eye	tet baag	tet baag	t e t b a a g		97_eye-0	2349	t e - t b a - a g -	C V C C V V C
+1304	westernpantar	eye	naiti	naiti	n a i t i		97_eye-0	2349	n a i t - - - i - -	C V V C V
+1299	abui	eye	tieng bika	tieng bika	t i e ŋ b i k a		97_eye-3	2350	t i e ŋ b i k a	C V V C C V C V
+1306	adang	eye	ʔεŋwai	ʔεŋwai	ʔ ɛ ŋ w a i		97_eye-3	2350	ʔ ɛ - ŋ w a - i	C V C C V V
+1300	blagar	eye	teŋkulu	teŋkulu	t e ŋ k u l u		97_eye-3	2350	t e - ŋ k u l u	C V C C V C V
+1301	kamang	eye	-ng	-ng	ŋ		97_eye-3	2350	- - - ŋ - - - -	C
+1310	klon	eye	gɛɛn	gɛɛn	g ɛ ɛ n		97_eye-3	2350	g ɛ ɛ n - - - -	C V V C
+1305	kui	eye	t-en	t-en	t e n		97_eye-3	2350	t e - n - - - -	C V C
+3346	blagar	fall (from above)	ba héra	ba héra	b a h e r a		98_fallfromabove-0	2352	b a h e r a	C V C V C V
+3349	kaera	fall (from above)	ba sero	ba sero	b a s e r o		98_fallfromabove-0	2352	b a s e r o	C V C V C V
+3354	nedebang	fall (from above)	ba'a	ba'a	b a ʔ a		98_fallfromabove-0	2352	b a ʔ - - a	C V C V
+3343	teiwa	fall (from above)	ba'	ba'	b a ʔ		98_fallfromabove-0	2352	b a ʔ - - -	C V C
+1115	blagar	fat	təmá	təmá	t ə m a		100_fat-1	3	t ə m a - -	C V C V
+1118	kaera	fat	qaau, -tema	qaau	q a a u		100_fat-1	3	q a - a u -	C V V V
+1121	kui	fat	tamá	tamá	t a m a		100_fat-1	3	t a m a - -	C V C V
+1114	protoalorpantar	fat	tama	tama	t a m a		100_fat-1	3	t a m a - -	C V C V
+1112	teiwa	fat	tama'	tama'	t a m a ʔ		100_fat-1	3	t a m a - ʔ	C V C V C
+1676	abui	father	mama	mama	m a m a		101_father-2	12	m a m a -	C V C V
+1684	adang	father	nimiŋ	nimiŋ	n i m i ŋ		101_father-2	12	n i m i ŋ	C V C V C
+1678	blagar	father	nimaŋ	nimaŋ	n i m a ŋ		101_father-2	12	n i m a ŋ	C V C V C
+1681	kaera	father	namam	namam	n a m a m		101_father-2	12	n a m a m	C V C V C
+1687	klon	father	nɪmɑn	nɪmɑn	n ɪ m ɑ n		101_father-2	12	n ɪ m ɑ n	C V C V C
+1677	protoalorpantar	father	-mam	-mam	m a m		101_father-2	12	m a m - -	C V C
+1679	kamang	father	-paa	-paa	p a a		101_father-6	14	- - p a a	C V V
+1685	sawila	father	gipa	gipa	g i p a		101_father-6	14	g i p a -	C V C V
+1680	wersing	father	nepa	nepa	n e p a		101_father-6	14	n e p a -	C V C V
+1572	abui	feverish	kamura	kamura	k a m u r a		103_feverish-0	15	k a m u r a	C V C V C V
+1575	kaera	feverish	qomodi	qomodi	q o m o d i		103_feverish-0	15	q o m o d i	C V C V C V
+1571	teiwa	feverish	qamudi	qamudi	q a m u d i		103_feverish-0	15	q a m u d i	C V C V C V
+1450	adang	fingernail	ʔataŋ uhuŋ	ʔataŋ uhuŋ	ʔ a t a ŋ u h u ŋ		106_fingernail-1	31	ʔ a - t a ŋ - u h u ŋ	C V C V C V C V C
+1447	kaera	fingernail	tatang kusing	tatang kusing	t a t a ŋ k u s i ŋ		106_fingernail-1	31	t a - t a ŋ k u s i ŋ	C V C V C C V C V C
+1445	kamang	fingernail	kuising	kuising	k u i s i ŋ		106_fingernail-1	31	k u - - - - - i s i ŋ	C V V C V C
+1453	klon	fingernail	gətɑnkuh	gətɑnkuh	g ə t ɑ n k u h		106_fingernail-1	31	g ə - t ɑ n k u h - -	C V C V C C V C
+1449	kui	fingernail	(tatan) kusin	kusin	k u s i n		106_fingernail-1	31	k u - - - - - - s i n	C V C V C
+1452	nedebang	fingernail	gatang kucing	gatang kucing	g a t a ŋ k u tʃ i ŋ		106_fingernail-1	31	g a - t a ŋ k u tʃ i ŋ	C V C V C C V C V C
+1443	protoalorpantar	fingernail	kusin	kusin	k u s i n		106_fingernail-1	31	k u - - - - - - s i n	C V C V C
+1448	westernpantar	fingernail	nattang kusi	nattang kusi	n a t t a ŋ k u s i		106_fingernail-1	31	n a t t a ŋ k u s i -	C V C C V C C V C V
+524	abui	fire	ara	ara	a r a		107_fire-0	35	- - - - a r a -	V C V
+526	blagar	fire	aad beta	aad beta	a a d b e t a		107_fire-0	35	a a d b e t a -	V V C C V C V
+529	kaera	fire	aad wasing 'firewood'	aad wasing	a a d w a s i ŋ		107_fire-0	35	a a d w a s i ŋ	V V C C V C V C
+527	kamang	fire	ati	ati	a t i		107_fire-0	35	a - t - - - i -	V C V
+535	klon	fire	ədɑ	ədɑ	ə d ɑ		107_fire-0	35	ə - d - - - ɑ -	V C V
+531	kui	fire	ar	ar	a r		107_fire-0	35	- - - - a r - -	V C
+534	nedebang	fire	ar	ar	a r		107_fire-0	35	- - - - a r - -	V C
+525	protoalorpantar	fire	had(a)	had	h a d		107_fire-0	35	- - - h a d - -	C V C
+533	sawila	fire	ada	ada	a d a		107_fire-0	35	a - d - - - a -	V C V
+523	teiwa	fire	xar	xar	ħ a r		107_fire-0	35	- - - ħ a r - -	C V C
+528	wersing	fire	adá war	adá war	a d a w a r		107_fire-0	35	a - d - a w a r	V C V C V C
+1867	abui	fish	afu	afu	a f u		109_fish-0	38	- a - f u	V C V
+1875	adang	fish	a:b	a:b	aː b		109_fish-0	38	- aː - b -	V C
+1869	blagar	fish	aab	aab	a a b		109_fish-0	38	- a a b -	V V C
+1872	kaera	fish	ab	ab	a b		109_fish-0	38	- a - b -	V C
+1870	kamang	fish	api	api	a p i		109_fish-0	38	- a - p i	V C V
+1878	klon	fish	əbi	əbi	ə b i		109_fish-0	38	- ə - b i	V C V
+1874	kui	fish	eb	eb	e b		109_fish-0	38	- e - b -	V C
+1877	nedebang	fish	aafi	aafi	a a f i		109_fish-0	38	- a a f i	V V C V
+1868	protoalorpantar	fish	hab	hab	h a b		109_fish-0	38	h a - b -	C V C
+1876	sawila	fish	api	api	a p i		109_fish-0	38	- a - p i	V C V
+1866	teiwa	fish	xaf	xaf	ħ a f		109_fish-0	38	ħ a - f -	C V C
+1871	wersing	fish	api	api	a p i		109_fish-0	38	- a - p i	V C V
+1873	westernpantar	fish	hap	hap	h a p		109_fish-0	38	h a - p -	C V C
+2487	abui	five	yeting	yeting	j e t i ŋ		112_five-0	55	j e - - t i ŋ	C V C V C
+2495	adang	five	iwεhεŋ	iwεhεŋ	i w ɛ h ɛ ŋ		112_five-0	55	- i w ɛ h ɛ ŋ	V C V C V C
+2492	kaera	five	isin	isin	i s i n		112_five-0	55	- i - - s i n	V C V C
+2490	kamang	five	iwesing	iwesing	i w e s i ŋ		112_five-0	55	- i w e s i ŋ	V C V C V C
+2498	klon	five	əwəh	əwəh	ə w ə h		112_five-0	55	- ə w ə h - -	V C V C
+2494	kui	five	yesan	yesan	j e s a n		112_five-0	55	j e - - s a n	C V C V C
+2497	nedebang	five	yisin	yisin	j i s i n		112_five-0	55	j i - - s i n	C V C V C
+2488	protoalorpantar	five	yiwesin	yiwesin	j i w e s i n		112_five-0	55	j i w e s i n	C V C V C V C
+2496	sawila	five	yootiŋ	yootiŋ	j o o t i ŋ		112_five-0	55	j o - o t i ŋ	C V V C V C
+2486	teiwa	five	yusan	yusan	j u s a n		112_five-0	55	j u - - s a n	C V C V C
+2491	wersing	five	weting	weting	w e t i ŋ		112_five-0	55	w e - - t i ŋ	C V C V C
+2493	westernpantar	five	yasing	yasing	j a s i ŋ		112_five-0	55	j a - - s i ŋ	C V C V C
+2990	blagar	flat	bira	bira	b i r a		113_flat-2	59	b i - r a	C V C V
+2993	kaera	flat	biiro	biiro	b i i r o		113_flat-2	59	b i i r o	C V V C V
+3000	klon	flat	bʊʊr	bʊʊr	b ʊ ʊ r		113_flat-2	59	b ʊ ʊ r -	C V V C
+3868	adang	float	tεdεʔ	tεdεʔ	t ɛ d ɛ ʔ		116_float-3	88	t ɛ d ɛ ʔ	C V C V C
+3862	blagar	float	tediŋ	tediŋ	t e d i ŋ		116_float-3	88	t e d i ŋ	C V C V C
+3870	klon	float	tətɛd	tətɛd	t ə t ɛ d		116_float-3	88	t ə t ɛ d	C V C V C
+810	kaera	flower	qaaw	qaaw	q a a w		117_flower-0	93	q a a w - -	C V V C
+805	teiwa	flower	qaaw	qaaw	q a a w		117_flower-0	93	q a a w - -	C V V C
+811	westernpantar	flower	kawang	kawang	k a w a ŋ		117_flower-0	93	k a - w a ŋ	C V C V C
+806	abui	flower	kiki	kiki	k i k i		117_flower-5	98	k i k - - - - - i	C V C V
+808	kamang	flower	kik	kik	k i k		117_flower-5	98	k i k - - - - - -	C V C
+813	sawila	flower	kikileawa	kikileawa	k i k i l e a w a		117_flower-5	98	k i k i l e a w a	C V C V C V V C V
+809	wersing	flower	kikilau	kikilau	k i k i l a u		117_flower-5	98	k i k i l - a - u	C V C V C V V
+3336	kaera	fly	jiro	jiro	dʒ i r o		118_fly-0	99	dʒ i r o -	C V C V
+3341	nedebang	fly	jila	jila	dʒ i l a		118_fly-0	99	dʒ i l a -	C V C V
+3332	protoalorpantar	fly	yira(n)	yira	j i r a		118_fly-0	99	j i r a -	C V C V
+3340	sawila	fly	iriŋ	iriŋ	i r i ŋ		118_fly-0	99	- i r i ŋ	V C V C
+3330	teiwa	fly	jiran	jiran	dʒ i r a n		118_fly-0	99	dʒ i r a n	C V C V C
+3335	wersing	fly	ire	ire	i r e		118_fly-0	99	- i r e -	V C V
+3337	westernpantar	fly	hilang	hilang	h i l a ŋ		118_fly-0	99	h i l a ŋ	C V C V C
+3331	abui	fly	liʔ	liʔ	l i ʔ		118_fly-1	100	l i - - - ʔ	C V C
+3339	adang	fly	liliʔ	liliʔ	l i l i ʔ		118_fly-1	100	l i - l i ʔ	C V C V C
+3333	blagar	fly	líri	líri	l i r i		118_fly-1	100	l i - r i -	C V C V
+3334	kamang	fly	lila	lila	l i l a		118_fly-1	100	l i - l a -	C V C V
+3342	klon	fly	liir	liir	l i i r		118_fly-1	100	l i i r - -	C V V C
+3338	kui	fly	lir	lir	l i r		118_fly-1	100	l i - r - -	C V C
+2041	kaera	fly (n.)	ubar	ubar	u b a r		119_flyn-0	101	- u - - b a r	V C V C
+2046	nedebang	fly (n.)	yiifu	yiifu	j i i f u		119_flyn-0	101	j i i - f u -	C V V C V
+2036	teiwa	fly (n.)	ufar	ufar	u f a r		119_flyn-0	101	- u - - f a r	V C V C
+2042	westernpantar	fly (n.)	hibbi	hibbi	h i b b i		119_flyn-0	101	h i - b b i -	C V C C V
+2482	adang	four	wut	wut	w u t		123_four-0	138	w u t -	C V C
+2479	kaera	four	ut	ut	u t		123_four-0	138	- u t -	V C
+2485	klon	four	ʊt	ʊt	ʊ t		123_four-0	138	- ʊ t -	V C
+2484	nedebang	four	utu	utu	u t u		123_four-0	138	- u t u	V C V
+2474	teiwa	four	uut	uut	u u t		123_four-0	138	u u t -	V V C
+2480	westernpantar	four	atu	atu	a t u		123_four-0	138	- a t u	V C V
+780	abui	fruit	iti	iti	i t i		125_fruit-0	155	- - - i t i	V C V
+782	blagar	fruit	te hi	te hi	t e h i		125_fruit-0	155	t e - - h i	C V C V
+786	kaera	fruit	tei isi	tei isi	t e i i s i		125_fruit-0	155	t e i i s i	C V V V C V
+783	kamang	fruit	uh, ih	uh	u h		125_fruit-0	155	- - - u h -	V C
+792	klon	fruit	ɪh	ɪh	ɪ h		125_fruit-0	155	- - - ɪ h -	V C
+791	nedebang	fruit	ici	ici	i tʃ i		125_fruit-0	155	- - - i tʃ i	V C V
+781	protoalorpantar	fruit	is(i)	is	i s		125_fruit-0	155	- - - i s -	V C
+779	teiwa	fruit	ge yis	ge yis	g e j i s		125_fruit-0	155	g e j i s -	C V C V C
+2701	kaera	full	guali	guali	g u a l i		126_full-0	161	g u - a - l i	C V V C V
+2699	kamang	full	awila	awila	a w i l a		126_full-0	161	- a w i - l a	V C V C V
+2707	nedebang	full	walla	walla	w a l l a		126_full-0	161	- - w a l l a	C V C C V
+2696	teiwa	full	wal	wal	w a l		126_full-0	161	- - w a - l -	C V C
+393	adang	garden	butu 'garden used several times', dil 'garden used only once', maʔad 'work in garden'	butu	b u t u		127_garden-0	169	b u - - - t u	C V C V
+396	nedebang	garden	maxara	maxara	m a ħ a r a		127_garden-0	169	m a ħ - a r a	C V C V C V
+384	teiwa	garden	ar wan, maxar	ar wan	a r w a n		127_garden-0	169	- a r w a n -	V C C V C
+390	westernpantar	garden	bunni, maggar	bunni	b u n n i		127_garden-0	169	b u n - - n i	C V C C V
+2675	kaera	good	xowo	xowo	ħ o w o		128_good-0	177	ħ o w o	C V C V
+2680	nedebang	good	qawa	qawa	q a w a		128_good-0	177	q a w a	C V C V
+2670	teiwa	good	qaw	qaw	q a w		128_good-0	177	q a w -	C V C
+2671	abui	good	kang	kang	k a ŋ		128_good-5	179	- - k - a ŋ	C V C
+2672	blagar	good	auŋ	auŋ	a u ŋ		128_good-5	179	a - - - u ŋ	V V C
+2673	kamang	good	kang	kang	k a ŋ		128_good-5	179	- - k - a ŋ	C V C
+2679	sawila	good	kaaŋ	kaaŋ	k a a ŋ		128_good-5	179	- - k a a ŋ	C V V C
+2674	wersing	good	kang	kang	k a ŋ		128_good-5	179	- - k - a ŋ	C V C
+2676	westernpantar	good	akku	akku	a k k u		128_good-5	179	a k k - u -	V C C V
+2678	adang	good	noʔo	noʔo	n o ʔ o		128_good-4	178	n o ʔ o	C V C V
+2681	klon	good	nok	nok	n o k		128_good-4	178	n o k -	C V C
+2677	kui	good	noka	noka	n o k a		128_good-4	178	n o k a	C V C V
+602	kaera	grass/brush	te	te	t e		132_grassbrush-0	206	t e -	C V
+607	nedebang	grass/brush	to	to	t o		132_grassbrush-0	206	t o -	C V
+597	teiwa	grass/brush	ti'	ti'	t i ʔ		132_grassbrush-0	206	t i ʔ	C V C
+2084	kaera	grasshopper	ow	ow	o w		133_grasshopper-0	215	o w -	V C
+2089	nedebang	grasshopper	o	o	o		133_grasshopper-0	215	o - -	V
+2079	teiwa	grasshopper	ow	ow	o w		133_grasshopper-0	215	o w -	V C
+2085	westernpantar	grasshopper	au	au	a u		133_grasshopper-0	215	a - u	V V
+3112	abui	green	walangai	walangai	w a l a ŋ a i		135_green-8	231	w a l a ŋ a - i	C V C V C V V
+3120	sawila	green	walaŋara	walaŋara	w a l a ŋ a r a		135_green-8	231	w a l a ŋ a r a	C V C V C V C V
+3115	wersing	green	walar	walar	w a l a r		135_green-8	231	w a l - - a r -	C V C V C
+1002	kaera	gum tree/eucalyptus	paal	paal	p a a l		137_gumtreeeucalyptus-0	242	p a a l -	C V V C
+1007	nedebang	gum tree/eucalyptus	paala	paala	p a a l a		137_gumtreeeucalyptus-0	242	p a a l a	C V V C V
+996	teiwa	gum tree/eucalyptus	pal	pal	p a l		137_gumtreeeucalyptus-0	242	p a - l -	C V C
+1005	adang	gum tree/eucalyptus	pu	pu	p u		137_gumtreeeucalyptus-1	243	p u -	C V
+999	blagar	gum tree/eucalyptus	puu	puu	p u u		137_gumtreeeucalyptus-1	243	p u u	C V V
+1000	kamang	gum tree/eucalyptus	foo, taa	foo	f o o		137_gumtreeeucalyptus-1	243	f o o	C V V
+998	protoalorpantar	gum tree/eucalyptus	pu	pu	p u		137_gumtreeeucalyptus-1	243	p u -	C V
+1003	westernpantar	gum tree/eucalyptus	pu	pu	p u		137_gumtreeeucalyptus-1	243	p u -	C V
+1235	klon	guts	gɛh	gɛh	g ɛ h		138_guts-6	254	g ɛ - - h	C V C
+1231	kui	guts	te is	te is	t e i s		138_guts-6	254	t e - i s	C V V C
+1233	sawila	guts	gitu	gitu	g i t u		138_guts-6	254	g i t u -	C V C V
+1273	blagar	head	tooŋ	tooŋ	t o o ŋ		141_head-0	276	- - - - - - - t o o ŋ	C V V C
+1276	kaera	head	toong(kul)	toong	t o o ŋ		141_head-0	276	- - - - - - - t o o ŋ	C V V C
+1282	nedebang	head	gungkotang	gungkotang	g u ŋ k o t a ŋ		141_head-0	276	g u - - ŋ k o t - a ŋ	C V C C V C V C
+1271	teiwa	head	go'onqul	go'onqul	g o ʔ o n q u l		141_head-0	276	g o ʔ o n q - - - u l	C V C V C C V C
+1277	westernpantar	head	na'ung ki	na'ung ki	n a ʔ u ŋ k i		141_head-0	276	n a ʔ u ŋ k - - - i -	C V C V C C V
+2113	adang	headlice	ʔony	ʔony	ʔ o n j		142_headlice-0	283	- ʔ o - - - n j	C V C C
+2110	kaera	headlice	kuwang	kuwang	k u w a ŋ		142_headlice-0	283	- k u w - a ŋ -	C V C V C
+2116	klon	headlice	əkoin	əkoin	ə k o i n		142_headlice-0	283	ə k o - - i n -	V C V V C
+2112	kui	headlice	kon	kon	k o n		142_headlice-0	283	- k o - - - n -	C V C
+2115	nedebang	headlice	kung	kung	k u ŋ		142_headlice-0	283	- k u - - - ŋ -	C V C
+2105	teiwa	headlice	ku'aan	ku'aan	k u ʔ a a n		142_headlice-0	283	- k u ʔ a a n -	C V C V V C
+2868	adang	heavy	tarowi	tarowi	t a r o w i		144_heavy-3	303	t a r o w i	C V C V C V
+2871	klon	heavy	təkor	təkor	t ə k o r		144_heavy-3	303	t ə k o r -	C V C V C
+2860	teiwa	heavy	suxur	suxur	s u ħ u r		144_heavy-3	303	s u ħ u r -	C V C V C
+3604	blagar	help	aiŋ moliŋ	aiŋ moliŋ	a i ŋ m o l i ŋ		146_help-0	308	- a i ŋ m o l i ŋ	V V C C V C V C
+3613	klon	help	her, moi, moil	her	h e r		146_help-0	308	- - - - h e r - -	C V C
+3612	nedebang	help	gomoli	gomoli	g o m o l i		146_help-0	308	g o - - m o l i -	C V C V C V
+3602	teiwa	help	gunmola	gunmola	g u n m o l a		146_help-0	308	g u - n m o l a -	C V C C V C V
+2239	abui	hit (drum)	padang huwor	padang huwor	p a d a ŋ h u w o r		148_hitdrum-3	319	p a d a ŋ h u w o r	C V C V C C V C V C
+2246	adang	hit (drum)	Od	Od	O/ɔ d		148_hitdrum-3	319	- O/ɔ d - - - - - - -	0 C
+2240	blagar	hit (drum)	(na) oda	oda	o d a		148_hitdrum-3	319	- o d - - - - - a -	V C V
+2241	kamang	hit (drum)	wota	wota	w o t a		148_hitdrum-3	319	w o t - - - - - a -	C V C V
+2245	kui	hit (drum)	(padangin) gor	gor	g o r		148_hitdrum-3	319	- - - - - - - g o r	C V C
+2242	wersing	hit (drum)	wodo	wodo	w o d o		148_hitdrum-3	319	w o d - - - - - o -	C V C V
+229	adang	hole	boe	boe	b o e		149_hole-3	324	- - b o e -	C V V
+223	blagar	hole	ilbor	ilbor	i l b o r		149_hole-3	324	i l b o - r	V C C V C
+227	westernpantar	hole	bau	bau	b a u		149_hole-3	324	- - b a u -	C V V
+1965	abui	horn	haˈmuk	haˈmuk	h a ʔ m u k		151_horn-2	343	h a ʔ m u k -	C V C C V C
+1973	adang	horn	ʔamuʔu	ʔamuʔu	ʔ a m u ʔ u		151_horn-2	343	ʔ a - m u ʔ u	C V C V C V
+1967	blagar	horn	omú	omú	o m u		151_horn-2	343	- o - m u - -	V C V
+1970	kaera	horn	gumuk	gumuk	g u m u k		151_horn-2	343	g u - m u k -	C V C V C
+1975	klon	horn	gəmʊk	gəmʊk	g ə m ʊ k		151_horn-2	343	g ə - m ʊ k -	C V C V C
+1972	kui	horn	gamuk	gamuk	g a m u k		151_horn-2	343	g a - m u k -	C V C V C
+1966	protoalorpantar	horn	-muk	-muk	m u k		151_horn-2	343	- - - m u k -	C V C
+3539	kaera	itchy	xaxo	xaxo	ħ a ħ o		157_itchy-0	379	ħ a ħ o	C V C V
+3544	klon	itchy	ka:k	ka:k	k aː k		157_itchy-0	379	k aː k -	C V C
+3543	nedebang	itchy	qaqa	qaqa	q a q a		157_itchy-0	379	q a q a	C V C V
+3534	teiwa	itchy	qa:q	qa:q	q aː q		157_itchy-0	379	q aː q -	C V C
+3540	westernpantar	itchy	kaka	kaka	k a k a		157_itchy-0	379	k a k a	C V C V
+3535	abui	itchy	jokung	jokung	dʒ o k u ŋ		157_itchy-3	382	- dʒ o k u ŋ -	C V C V C
+3537	kamang	itchy	ilukui	ilukui	i l u k u i		157_itchy-3	382	i l u k u - i	V C V C V V
+3541	kui	itchy	rok	rok	r o k		157_itchy-3	382	- r o k - - -	C V C
+3538	wersing	itchy	iruk	iruk	i r u k		157_itchy-3	382	i r u k - - -	V C V C
+1080	adang	jackfruit	toŋ	toŋ	t o ŋ		158_jackfruit-4	387	- t o ŋ	C V C
+1076	kamang	jackfruit	ton	ton	t o n		158_jackfruit-4	387	- t o n	C V C
+1082	klon	jackfruit	aton	aton	a t o n		158_jackfruit-4	387	a t o n	V C V C
+1074	protoalorpantar	jackfruit	ton	ton	t o n		158_jackfruit-4	387	- t o n	C V C
+1517	kaera	knee	tabat uku	tabat uku	t a b a t u k u		159_knee-0	390	t a - b a - t u k u - -	C V C V C V C V
+1524	klon	knee	gɛiuk	gɛiuk	g ɛ i u k		159_knee-0	390	g ɛ i - u - - - k - - -	C V V V C
+1519	kui	knee	tei luk tuk	tei luk tuk	t e i l u k t u k		159_knee-0	390	t e i l u k t u k - - -	C V V C V C C V C
+1523	nedebang	knee	gay uku	gay uku	g a j u k u		159_knee-0	390	g a j - u - - - k u - -	C V C V C V
+1513	protoalorpantar	knee	uku	uku	u k u		159_knee-0	390	- - - - u - - - k u - -	V C V
+1511	teiwa	knee	gəfat kuu	gəfat kuu	g ə f a t k u u		159_knee-0	390	g ə - f a - t - k u - u	C V C V C C V V
+1518	westernpantar	knee	ukkang	ukkang	u k k a ŋ		159_knee-0	390	- - - - u k - - k a ŋ -	V C C V C
+476	kaera	knife	siar, səmering	siar	s i a r		160_knife-0	402	s i - a r	C V V C
+482	nedebang	knife	ciya/siya	ciya	tʃ i j a		160_knife-0	402	tʃ i j a -	C V C V
+471	teiwa	knife	si'ar	si'ar	s i ʔ a r		160_knife-0	402	s i ʔ a r	C V C V C
+478	westernpantar	knife	sila	sila	s i l a		160_knife-0	402	s i l a -	C V C V
+701	blagar	leaf	te va	te va	t e v a		164_leaf-0	440	- t e - v a - -	C V C V
+704	kaera	leaf	tei wa	tei wa	t e i w a		164_leaf-0	440	- t e i w a - -	C V V C V
+710	klon	leaf	ɛtɛwɛi	ɛtɛwɛi	ɛ t ɛ w ɛ i		164_leaf-0	440	ɛ t ɛ - w ɛ - i	V C V C V V
+709	nedebang	leaf	(tei) wa'a	wa'a	w a ʔ a		164_leaf-0	440	- - - - w a ʔ a	C V C V
+699	teiwa	leaf	tei wa'	tei wa'	t e i w a ʔ		164_leaf-0	440	- t e i w a ʔ -	C V V C V C
+705	westernpantar	leaf	waya	waya	w a j a		164_leaf-0	440	- - - - w a j a	C V C V
+2396	abui	lie (tell untruth)	okoli, edo okoli ‘you lie’	okoli	o k o l i		167_lietelluntruth-1	467	- o k o l - - i	V C V C V
+2404	adang	lie (tell untruth)	kaluwi	kaluwi	k a l u w i		167_lietelluntruth-1	467	- - k a l u w i	C V C V C V
+2398	blagar	lie (tell untruth)	léko	léko	l e k o		167_lietelluntruth-1	467	l e k - - - - o	C V C V
+2401	kaera	lie (tell untruth)	akal	akal	a k a l		167_lietelluntruth-1	467	- a k a l - - -	V C V C
+2403	kui	lie (tell untruth)	lako sola	lako sola	l a k o s o l a		167_lietelluntruth-1	467	l a k o s o l a	C V C V C V C V
+2405	nedebang	lie (tell untruth)	akalici	akalici	a k a l i tʃ i		167_lietelluntruth-1	467	- a k a l i tʃ i	V C V C V C V
+3226	abui	lie down	ta	ta	t a		168_liedown-0	472	- - - t a - - - -	C V
+3228	blagar	lie down	tiaʔ	tiaʔ	t i a ʔ		168_liedown-0	472	- - - t i a ʔ - -	C V V C
+3231	kaera	lie down	tee	tee	t e e		168_liedown-0	472	- - - t e e - - -	C V V
+3229	kamang	lie down	taa	taa	t a a		168_liedown-0	472	- - - t a a - - -	C V V
+3239	klon	lie down	tɑɑ	tɑɑ	t ɑ ɑ		168_liedown-0	472	- - - t ɑ ɑ - - -	C V V
+3238	nedebang	lie down	ta'a	ta'a	t a ʔ a		168_liedown-0	472	- - - t - a ʔ a -	C V C V
+3227	protoalorpantar	lie down	tia	tia	t i a		168_liedown-0	472	- - - t i a - - -	C V V
+3237	sawila	lie down	gate	gate	g a t e		168_liedown-0	472	- g a t - e - - -	C V C V
+3225	teiwa	lie down	unti'	unti'	u n t i ʔ		168_liedown-0	472	u n - t - i ʔ - -	V C C V C
+3230	wersing	lie down	netai ('saya baring')	netai	n e t a i		168_liedown-0	472	- n e t a i - - -	C V C V V
+3232	westernpantar	lie down	ti'ang	ti'ang	t i ʔ a ŋ		168_liedown-0	472	- - - t - i ʔ a ŋ	C V C V C
+2802	adang	light	filiŋ	filiŋ	f i l i ŋ		169_light-2	475	f i l i ŋ	C V C V C
+2796	blagar	light	víla	víla	v i l a		169_light-2	475	v i l a -	C V C V
+2799	kaera	light	wilo	wilo	w i l o		169_light-2	475	w i l o -	C V C V
+2794	teiwa	light	wul	wul	w u l		169_light-2	475	w u l - -	C V C
+882	abui	lime	awai	awai	a w a i		171_lime-0	498	- a - w a i -	V C V V
+890	adang	lime	a:wi	a:wi	aː w i		171_lime-0	498	- aː - w - i -	V C V
+884	blagar	lime	avar	avar	a v a r		171_lime-0	498	- a - v - a r	V C V C
+887	kaera	lime	awar	awar	a w a r		171_lime-0	498	- a - w - a r	V C V C
+885	kamang	lime	awoi	awoi	a w o i		171_lime-0	498	- a - w o i -	V C V V
+892	klon	lime	əwɛr	əwɛr	ə w ɛ r		171_lime-0	498	- ə - w - ɛ r	V C V C
+889	kui	lime	oor	oor	o o r		171_lime-0	498	- o - - - o r	V V C
+891	nedebang	lime	wa (also 'mother')	wa	w a		171_lime-0	498	- - - w - a -	C V
+883	protoalorpantar	lime	hawar	hawar	h a w a r		171_lime-0	498	h a - w a - r	C V C V C
+881	teiwa	lime	xor	xor	ħ o r		171_lime-0	498	ħ o - - - - r	C V C
+886	wersing	lime	or	or	o r		171_lime-0	498	- o - - - - r	V C
+888	westernpantar	lime	hauwe	hauwe	h a u w e		171_lime-0	498	h a u w - e -	C V V C V
+1214	abui	liver	tomi	tomi	t o m i		173_liver-3	514	t o m i	C V C V
+1220	adang	liver	om	om	o m		173_liver-3	514	- o m -	V C
+1218	westernpantar	liver	ume	ume	u m e		173_liver-3	514	- u m e	V C V
+2753	nedebang	long	tenu	tenu	t e n u		175_long-0	518	t e - - n u	C V C V
+2743	teiwa	long	tiyan	tiyan	t i j a n		175_long-0	518	t i j a n -	C V C V C
+2749	westernpantar	long	tiana	tiana	t i a n a		175_long-0	518	t i - a n a	C V V C V
+975	blagar	lontar palm	koli	koli	k o l i		176_lontarpalm-0	528	- - - k - o l i	C V C V
+977	kaera	lontar palm	ai qoli, tox 'palm wine'	ai qoli	a i q o l i		176_lontarpalm-0	528	- a i q - o l i	V V C V C V
+974	teiwa	lontar palm	xaiqual	xaiqual	ħ a i q u a l		176_lontarpalm-0	528	ħ a i q u a l -	C V V C V V C
+1051	kaera	mango	wow	wow	w o w		182_mango-0	577	w o w -	C V C
+1056	nedebang	mango	wowa	wowa	w o w a		182_mango-0	577	w o w a	C V C V
+1045	teiwa	mango	wow	wow	w o w		182_mango-0	577	w o w -	C V C
+984	abui	marungga	matoling	matoling	m a t o l i ŋ		183_marungga-2	588	m a t o l i ŋ	C V C V C V C
+986	blagar	marungga	təmóluŋ	təmóluŋ	t ə m o l u ŋ		183_marungga-2	588	t ə m o l u ŋ	C V C V C V C
+989	kaera	marungga	matoling/matolung	matoling	m a t o l i ŋ		183_marungga-2	588	m a t o l i ŋ	C V C V C V C
+985	protoalorpantar	marungga	matoling	matoling	m a t o l i ŋ		183_marungga-2	588	m a t o l i ŋ	C V C V C V C
+500	blagar	mat	bi	bi	b i		184_mat-0	594	b i - - -	C V
+503	kaera	mat	bis	bis	b i s		184_mat-0	594	b i - - s	C V C
+499	protoalorpantar	mat	bis	bis	b i s		184_mat-0	594	b i - - s	C V C
+497	teiwa	mat	bis	bis	b i s		184_mat-0	594	b i - - s	C V C
+502	wersing	mat	biti'	biti'	b i t i ʔ		184_mat-0	594	b i t i ʔ	C V C V C
+504	westernpantar	mat	bis	bis	b i s		184_mat-0	594	b i - - s	C V C
+933	blagar	millet	nuwát	nuwát	n u w a t		186_millet-0	601	n u w a t	C V C V C
+936	kaera	millet	naat	naat	n a a t		186_millet-0	601	n a - a t	C V V C
+931	teiwa	millet	naat	naat	n a a t		186_millet-0	601	n a - a t	C V V C
+1923	adang	monitor lizard	ʔalεhεʔ	ʔalεhεʔ	ʔ a l ɛ h ɛ ʔ		187_monitorlizard-1	608	ʔ a l ɛ h ɛ ʔ	C V C V C V C
+1917	blagar	monitor lizard	ri	ri	r i		187_monitorlizard-1	608	- - r - - i -	C V
+1920	kaera	monitor lizard	iris	iris	i r i s		187_monitorlizard-1	608	- i r i s - -	V C V C
+1925	klon	monitor lizard	wreh	wreh	w r e h		187_monitorlizard-1	608	w - r e h - -	C C V C
+1922	kui	monitor lizard	ros	ros	r o s		187_monitorlizard-1	608	- - r o s - -	C V C
+1924	nedebang	monitor lizard	lísi	lísi	l i s i		187_monitorlizard-1	608	- - l i s i -	C V C V
+1916	protoalorpantar	monitor lizard	haris	haris	h a r i s		187_monitorlizard-1	608	h a r i s - -	C V C V C
+1914	teiwa	monitor lizard	xaris	xaris	ħ a r i s		187_monitorlizard-1	608	ħ a r i s - -	C V C V C
+1919	wersing	monitor lizard	roti	roti	r o t i		187_monitorlizard-1	608	- - r o t i -	C V C V
+2057	adang	mosquito	ʔin	ʔin	ʔ i n		190_mosquito-0	621	- ʔ - i n	C V C
+2054	kaera	mosquito	king	king	k i ŋ		190_mosquito-0	621	- k - i ŋ	C V C
+2060	klon	mosquito	ikin	ikin	i k i n		190_mosquito-0	621	i k - i n	V C V C
+2056	kui	mosquito	kin	kin	k i n		190_mosquito-0	621	- k - i n	C V C
+2048	teiwa	mosquito	kiin, ki'in	kiin	k i i n		190_mosquito-0	621	- k i i n	C V V C
+1662	abui	mother	hea ‘his/her mother’, nia ‘my mother’	hea	h e a		191_mother-6	634	h e - a	C V V
+1671	sawila	mother	giya	giya	g i j a		191_mother-6	634	g i j a	C V C V
+1666	wersing	mother	nea	nea	n e a		191_mother-6	634	n e - a	C V V
+1670	adang	mother	niwi	niwi	n i w i		191_mother-3	631	n i w i	C V C V
+1664	blagar	mother	nivá	nivá	n i v a		191_mother-3	631	n i v a	C V C V
+1668	westernpantar	mother	niu	niu	n i u		191_mother-3	631	n i - u	C V V
+1338	abui	mouth	tawa	tawa	t a w a		194_mouth-0	645	t a w a -	C V C V
+1342	kaera	mouth	tua	tua	t u a		194_mouth-0	645	t u - a -	C V V
+1340	kamang	mouth	-waa	-waa	w a a		194_mouth-0	645	- - w a a	C V V
+1344	kui	mouth	to-wa	to-wa	t o w a		194_mouth-0	645	t o w a -	C V C V
+1607	abui	name	tane	tane	t a n e		196_name-1	664	t a - - n e -	C V C V
+1615	adang	name	ʔaniŋ	ʔaniŋ	ʔ a n i ŋ		196_name-1	664	ʔ a n i ŋ - -	C V C V C
+1609	blagar	name	tene	tene	t e n e		196_name-1	664	t e - - n e -	C V C V
+1612	kaera	name	teeni	teeni	t e e n i		196_name-1	664	t e - e n i -	C V V C V
+1610	kamang	name	-nei	-nei	n e i		196_name-1	664	n e - - - i -	C V V
+1618	klon	name	gənɛʔ	gənɛʔ	g ə n ɛ ʔ		196_name-1	664	g ə - - n ɛ ʔ	C V C V C
+1614	kui	name	t-enei	t-enei	t e n e i		196_name-1	664	t e - - n e i	C V C V V
+1617	nedebang	name	geynu	geynu	g e j n u		196_name-1	664	g e j - n u -	C V C C V
+1608	protoalorpantar	name	-ain	-ain	a i n		196_name-1	664	- a - i n - -	V V C
+1616	sawila	name	gani	gani	g a n i		196_name-1	664	g a - - n i -	C V C V
+1613	westernpantar	name	ninnu	ninnu	n i n n u		196_name-1	664	n i n - n u -	C V C C V
+1406	kamang	neck	-mang	-mang	m a ŋ		199_neck-7	694	- - m - a ŋ	C V C
+1413	sawila	neck	gamaŋ	gamaŋ	g a m a ŋ		199_neck-7	694	g a m - a ŋ	C V C V C
+1407	wersing	neck	nemeing	nemeing	n e m e i ŋ		199_neck-7	694	n e m e i ŋ	C V C V V C
+2578	abui	new (house)	(tofa) tifa	tifa	t i f a		201_newhouse-1	717	t i f - - a -	C V C V
+2586	adang	new (house)	habaraʔ	habaraʔ	h a b a r a ʔ		201_newhouse-1	717	h a b a r a ʔ	C V C V C V C
+2580	blagar	new (house)	hiba	hiba	h i b a		201_newhouse-1	717	h i b - - a -	C V C V
+2583	kaera	new (house)	sibo	sibo	s i b o		201_newhouse-1	717	s i b - - o -	C V C V
+2581	kamang	new (house)	supaka	supaka	s u p a k a		201_newhouse-1	717	s u p a k a -	C V C V C V
+2589	klon	new (house)	həbɑɑ	həbɑɑ	h ə b ɑ ɑ		201_newhouse-1	717	h ə b ɑ - ɑ -	C V C V V
+2585	kui	new (house)	(ou) saba	saba	s a b a		201_newhouse-1	717	s a b - - a -	C V C V
+2588	nedebang	new (house)	sava'a	sava'a	s a v a ʔ a		201_newhouse-1	717	s a v a ʔ a -	C V C V C V
+2579	protoalorpantar	new (house)	sabia	sabia	s a b i a		201_newhouse-1	717	s a b i - a -	C V C V V
+2587	sawila	new (house)	tipea	tipea	t i p e a		201_newhouse-1	717	t i p e - a -	C V C V V
+2582	wersing	new (house)	tpa	tpa	t p a		201_newhouse-1	717	t - p - - a -	C C V
+2584	westernpantar	new (house)	sabi'a	sabi'a	s a b i ʔ a		201_newhouse-1	717	s a b i ʔ a -	C V C V C V
+57	kaera	night	iqano	iqano	i q a n o		202_night-0	718	- i - - - - q - - a n o	V C V C V
+63	klon	night	əkɑn	əkɑn	ə k ɑ n		202_night-0	718	- ə - - - - k - - ɑ n -	V C V C
+59	kui	night	penen akana	penen akana	p e n e n a k a n a		202_night-0	718	p e n e n a k - - a n a	C V C V C V C V C V
+62	nedebang	night	ilaqana	ilaqana	i l a q a n a		202_night-0	718	- i l - - a q - - a n a	V C V C V C V
+52	teiwa	night	iqa'an	iqa'an	i q a ʔ a n		202_night-0	718	- i - - - - q a ʔ a n -	V C V C V C
+1330	kaera	nose	timim	timim	t i m i m		204_nose-2	728	t i m - i m -	C V C V C
+1336	klon	nose	gəmoin	gəmoin	g ə m o i n		204_nose-2	728	g ə m o i n -	C V C V V C
+1332	kui	nose	te-min	te-min	t e m i n		204_nose-2	728	t e m - i n -	C V C V C
+1326	protoalorpantar	nose	-mim	-mim	m i m		204_nose-2	728	- - m - i m -	C V C
+1334	sawila	nose	gamiŋi	gamiŋi	g a m i ŋ i		204_nose-2	728	g a m - i ŋ i	C V C V C V
+1329	wersing	nose	nemuing	nemuing	n e m u i ŋ		204_nose-2	728	n e m u i ŋ -	C V C V V C
+2592	blagar	old (people)	boma ‘old man'	boma	b o m a		205_oldpeople-1	734	b o - - m a	C V C V
+2595	kaera	old (people)	boom 'old man'	boom	b o o m		205_oldpeople-1	734	b o - o m -	C V V C
+2601	nedebang	old (people)	bamma (old man)	bamma	b a m m a		205_oldpeople-1	734	b a m - m a	C V C C V
+1689	abui	older sibling	nana	nana	n a n a		208_oldersibling-1	765	n a - n a -	C V C V
+1700	nedebang	older sibling	nenang, gənang	nenang	n e n a ŋ		208_oldersibling-1	765	n e - n a ŋ	C V C V C
+1690	protoalorpantar	older sibling	nan(a)	nan	n a n		208_oldersibling-1	765	n a - n - -	C V C
+1699	sawila	older sibling	naana	naana	n a a n a		208_oldersibling-1	765	n a a n a -	C V V C V
+1693	wersing	older sibling	nenang (nang 'sulung)	nenang	n e n a ŋ		208_oldersibling-1	765	n e - n a ŋ	C V C V C
+2436	abui	one	nuku	nuku	n u k u		209_one-0	773	- n u k u	C V C V
+2445	adang	one	nu	nu	n u		209_one-0	773	- n u - -	C V
+2438	blagar	one	nu	nu	n u		209_one-0	773	- n u - -	C V
+2441	kaera	one	nuko	nuko	n u k o		209_one-0	773	- n u k o	C V C V
+2439	kamang	one	nok	nok	n o k		209_one-0	773	- n o k -	C V C
+2448	klon	one	nʊk	nʊk	n ʊ k		209_one-0	773	- n ʊ k -	C V C
+2444	kui	one	nuku	nuku	n u k u		209_one-0	773	- n u k u	C V C V
+2447	nedebang	one	nuku	nuku	n u k u		209_one-0	773	- n u k u	C V C V
+2437	protoalorpantar	one	nuk	nuk	n u k		209_one-0	773	- n u k -	C V C
+2435	teiwa	one	nuk	nuk	n u k		209_one-0	773	- n u k -	C V C
+2440	wersing	one	no	no	n o		209_one-0	773	- n o - -	C V
+2442	westernpantar	one	anuku, ye	anuku	a n u k u		209_one-0	773	a n u k u	V C V C V
+512	blagar	oven	tutu	tutu	t u t u		212_oven-1	788	t u t - - - - u	C V C V
+521	nedebang	oven	tutuwala	tutuwala	t u t u w a l a		212_oven-1	788	t u t u w a l a	C V C V C V C V
+516	westernpantar	oven	tuttu	tuttu	t u t t u		212_oven-1	788	t u t - - - t u	C V C C V
+1067	adang	papaya	kahatεlε	kahatεlε	k a h a t ɛ l ɛ		213_papaya-4	801	k a h a t ɛ l ɛ	C V C V C V C V
+1066	kui	papaya	matakel	matakel	m a t a k e l		213_papaya-4	801	m a t a k e l -	C V C V C V C
+1069	nedebang	papaya	katela	katela	k a t e l a		213_papaya-4	801	k a t - - e l a	C V C V C V
+1065	westernpantar	papaya	kattelu	kattelu	k a t t e l u		213_papaya-4	801	k a t - t e l u	C V C C V C V
+1605	klon	person	ɑnɪnok	ɑnɪnok	ɑ n ɪ n o k		215_person-4	817	ɑ n ɪ n o k -	V C V C V C
+1600	kui	person	aninou	aninou	a n i n o u		215_person-4	817	a n i n o - u	V C V C V V
+1602	sawila	person	aniŋ, aniŋkaaŋ	aniŋ	a n i ŋ		215_person-4	817	a n i ŋ - - -	V C V C
+1597	wersing	person	aning	aning	a n i ŋ		215_person-4	817	a n i ŋ - - -	V C V C
+1779	abui	pig	fe	fe	f e		216_pig-0	820	f e - -	C V
+1787	adang	pig	bi	bi	b i		216_pig-0	820	b i - -	C V
+1781	blagar	pig	be	be	b e		216_pig-0	820	b e - -	C V
+1784	kaera	pig	bey	bey	b e j		216_pig-0	820	b e - j	C V C
+1782	kamang	pig	pee	pee	p e e		216_pig-0	820	p e e -	C V V
+1790	klon	pig	beeʔ	beeʔ	b e e ʔ		216_pig-0	820	b e e ʔ	C V V C
+1786	kui	pig	bei	bei	b e i		216_pig-0	820	b e i -	C V V
+1789	nedebang	pig	bei	bei	b e i		216_pig-0	820	b e i -	C V V
+1780	protoalorpantar	pig	bai	bai	b a i		216_pig-0	820	b a i -	C V V
+1788	sawila	pig	pi	pi	p i		216_pig-0	820	p i - -	C V
+1778	teiwa	pig	bai	bai	b a i		216_pig-0	820	b a i -	C V V
+1783	wersing	pig	pei	pei	p e i		216_pig-0	820	p e i -	C V V
+1785	westernpantar	pig	bai	bai	b a i		216_pig-0	820	b a i -	C V V
+119	kaera	rain	ay	ay	a j		217_rain-0	821	- a j -	V C
+124	nedebang	rain	ala	ala	a l a		217_rain-0	821	- a l a	V C V
+114	teiwa	rain	xal	xal	ħ a l		217_rain-0	821	ħ a l -	C V C
+115	abui	rain	anui	anui	a n u i		217_rain-2	823	a n u - i -	V C V V
+122	adang	rain	nui	nui	n u i		217_rain-2	823	- n u - i -	C V V
+116	blagar	rain	nuwar	nuwar	n u w a r		217_rain-2	823	- n u w a r	C V C V C
+125	klon	rain	unuur	unuur	u n u u r		217_rain-2	823	u n u - u r	V C V V C
+121	kui	rain	anor	anor	a n o r		217_rain-2	823	a n - - o r	V C V C
+117	kamang	rain	aii	aii	a i i		217_rain-3	824	- - - a - i i	V V V
+123	sawila	rain	ɑjaa	ɑjaa	ɑ dʒ a a		217_rain-3	824	- - - ɑ dʒ a a	V C V V
+118	wersing	rain	eiya mai	eiya mai	e i j a m a i		217_rain-3	824	e i j a m a i	V V C V C V V
+1804	abui	rat	rui	rui	r u i		220_rat-0	858	r u i - - -	C V V
+1806	blagar	rat	duru	duru	d u r u		220_rat-0	858	d u - r - u	C V C V
+1809	kaera	rat	dur	dur	d u r		220_rat-0	858	d u - r - -	C V C
+1807	kamang	rat	tui	tui	t u i		220_rat-0	858	t u i - - -	C V V
+1815	klon	rat	dʊr	dʊr	d ʊ r		220_rat-0	858	d ʊ - r - -	C V C
+1811	kui	rat	dur	dur	d u r		220_rat-0	858	d u - r - -	C V C
+1805	protoalorpantar	rat	dur	dur	d u r		220_rat-0	858	d u - r - -	C V C
+1813	sawila	rat	daru	daru	d a r u		220_rat-0	858	d a - r - u	C V C V
+1803	teiwa	rat	dur	dur	d u r		220_rat-0	858	d u - r - -	C V C
+1808	wersing	rat	durki	durki	d u r k i		220_rat-0	858	d u - r k i	C V C C V
+1810	westernpantar	rat	di	di	d i		220_rat-0	858	d i - - - -	C V
+750	adang	rattan	lεʔ	lεʔ	l ɛ ʔ		221_rattan-0	861	l ɛ ʔ - -	C V C
+742	blagar	rattan	líya ‘long rattan’, nəvár ‘short rattan’	líya	l i j a		221_rattan-0	861	l i j a -	C V C V
+747	kaera	rattan	leeg	leeg	l e e g		221_rattan-0	861	l e - e g	C V V C
+749	kui	rattan	le	le	l e		221_rattan-0	861	l e - - -	C V
+740	teiwa	rattan	liyag	liyag	l i j a g		221_rattan-0	861	l i j a g	C V C V C
+3106	kui	red	ika	ika	i k a		222_red-4	872	i k a	V C V
+3108	sawila	red	ike	ike	i k e		222_red-4	872	i k e	V C V
+3103	wersing	red	iki	iki	i k i		222_red-4	872	i k i	V C V
+1157	kaera	rib	paas	paas	p a a s		223_rib-0	874	- - - - - p a - a s	C V V C
+1163	klon	rib	dget, pih	dget	d g e t		223_rib-0	874	- - - - d g - - e t	C C V C
+1152	teiwa	rib	ga'an pa'as	ga'an pa'as	g a ʔ a n p a ʔ a s		223_rib-0	874	g a ʔ a n p a ʔ a s	C V C V C C V C V C
+4069	nedebang	right	yeding	yeding	j e d i ŋ		226_right-0	882	j e - d i ŋ	C V C V C
+4059	teiwa	right	yidan	yidan	j i d a n		226_right-0	882	j i - d a n	C V C V C
+4065	westernpantar	right	yadding	yadding	j a d d i ŋ		226_right-0	882	j a d d i ŋ	C V C C V C
+4060	abui	right	teikang	teikang	t e i k a ŋ		226_right-5	887	t e i k - a ŋ	C V V C V C
+4062	kamang	right	kang	kang	k a ŋ		226_right-5	887	- - - k - a ŋ	C V C
+4068	sawila	right	kaaŋ	kaaŋ	k a a ŋ		226_right-5	887	- - - k a a ŋ	C V V C
+4063	wersing	right	kang	kang	k a ŋ		226_right-5	887	- - - k - a ŋ	C V C
+2944	adang	ripe	tεnε 'ripe, red'	tεnε	t ɛ n ɛ		228_ripe-2	897	- t - ɛ n ɛ	C V C V
+2936	blagar	ripe	téna	téna	t e n a		228_ripe-2	897	- t - e n a	C V C V
+2939	kaera	ripe	yira, teno, xaro' 'cooked'	yira	j i r a		228_ripe-2	897	- j - i r a	C V C V
+2937	kamang	ripe	iten	iten	i t e n		228_ripe-2	897	i t - e n -	V C V C
+2947	klon	ripe	ətɛn	ətɛn	ə t ɛ n		228_ripe-2	897	ə t - ɛ n -	V C V C
+2943	kui	ripe	tain	tain	t a i n		228_ripe-2	897	- t a i n -	C V V C
+2935	protoalorpantar	ripe	ten	ten	t e n		228_ripe-2	897	- t - e n -	C V C
+2945	sawila	ripe	itiina	itiina	i t i i n a		228_ripe-2	897	i t i i n a	V C V V C V
+407	adang	road/path	seʔbur	seʔbur	s e ʔ b u r		230_roadpath-0	915	s e ʔ b u r -	C V C C V C
+409	nedebang	road/path	yiiya	yiiya	j i i j a		230_roadpath-0	915	j i - - i j a	C V V C V
+398	teiwa	road/path	yitar	yitar	j i t a r		230_roadpath-0	915	j i - t a r -	C V C V C
+682	adang	roof thatch	mIn men, uva 'to roof'	mIn men	m I/ɪ n m e n		231_roofthatch-0	925	- m I/ɪ n m e n	C 0 C C V C
+676	blagar	roof thatch	meniŋ	meniŋ	m e n i ŋ		231_roofthatch-0	925	- m e n - i ŋ	C V C V C
+679	kaera	roof thatch	maan	maan	m a a n		231_roofthatch-0	925	- m a - - a n	C V V C
+685	klon	roof thatch	eneːm	eneːm	e n eː m		231_roofthatch-0	925	- - e n - eː m	V C V C
+681	kui	roof thatch	amen	amen	a m e n		231_roofthatch-0	925	a m e - - - n	V C V C
+684	nedebang	roof thatch	mang	mang	m a ŋ		231_roofthatch-0	925	- m a - - - ŋ	C V C
+675	protoalorpantar	roof thatch	amen	amen	a m e n		231_roofthatch-0	925	a m e - - - n	V C V C
+683	sawila	roof thatch	amang	amang	a m a ŋ		231_roofthatch-0	925	a m a - - - ŋ	V C V C
+673	teiwa	roof thatch	man	man	m a n		231_roofthatch-0	925	- m a - - - n	C V C
+678	wersing	roof thatch	améng	améng	a m e ŋ		231_roofthatch-0	925	a m e - - - ŋ	V C V C
+775	adang	root	aliʔiŋ	aliʔiŋ	a l i ʔ i ŋ		232_root-0	929	- a l i ʔ i ŋ	V C V C V C
+778	klon	root	ərɪk	ərɪk	ə r ɪ k		232_root-0	929	- ə r ɪ k - -	V C V C
+767	teiwa	root	hroq	hroq	h r o q		232_root-0	929	h - r o q - -	C C V C
+488	kamang	rope	kape	kape	k a p e		233_rope-9	944	k a p e - -	C V C V
+494	sawila	rope	kape	kape	k a p e		233_rope-9	944	k a p e - -	C V C V
+489	wersing	rope	kpei'	kpei'	k p e i ʔ		233_rope-9	944	k - p e i ʔ	C C V V C
+2954	kaera	rotten	mino	mino	m i n o		234_rotten-1	946	- - m - i n o	C V C V
+2960	nedebang	rotten	gamini	gamini	g a m i n i		234_rotten-1	946	g a m - i n i	C V C V C V
+2948	teiwa	rotten	muun	muun	m u u n		234_rotten-1	946	- - m u u n -	C V V C
+2949	abui	rotten	hamuni	hamuni	h a m u n i		234_rotten-0	945	h a m u - n - i	C V C V C V
+2952	kamang	rotten	munta	munta	m u n t a		234_rotten-0	945	- - m u - n t a	C V C C V
+2961	klon	rotten	mʊin	mʊin	m ʊ i n		234_rotten-0	945	- - m ʊ i n - -	C V V C
+2950	protoalorpantar	rotten	mun	mun	m u n		234_rotten-0	945	- - m u - n - -	C V C
+3510	kaera	rub	todo 'rub, as bathing', osong 'rub, as oil into skin'	todo	t o d o		236_rub-0	961	t o - d o	C V C V
+3517	nedebang	rub	tudu	tudu	t u d u		236_rub-0	961	t u - d u	C V C V
+3505	teiwa	rub	tood	tood	t o o d		236_rub-0	961	t o o d -	C V V C
+3514	adang	rub	luhuʔ (also 'wipe')	luhuʔ	l u h u ʔ		236_rub-4	964	l u h u ʔ	C V C V C
+3508	kamang	rub	luh	luh	l u h		236_rub-4	964	l u - - h	C V C
+3513	kui	rub	ulús	ulús	u l u s		236_rub-4	964	- u l u s	V C V C
+3313	adang	run	tεʔεŋ	tεʔεŋ	t ɛ ʔ ɛ ŋ		237_run-3	972	t ɛ ʔ ɛ ŋ	C V C V C
+3308	kamang	run	tak	tak	t a k		237_run-3	972	t a k - -	C V C
+3316	klon	run	təkɪn	təkɪn	t ə k ɪ n		237_run-3	972	t ə k ɪ n	C V C V C
+3312	kui	run	taki	taki	t a k i		237_run-3	972	t a k i -	C V C V
+590	kaera	sand	weis	weis	w e i s		241_sand-0	978	- w e i s -	C V V C
+595	nedebang	sand	iyaasi	iyaasi	i j a a s i		241_sand-0	978	i j a a s i	V C V V C V
+585	teiwa	sand	ees	ees	e e s		241_sand-0	978	- - e e s -	V V C
+1989	abui	scorpion	pei	pei	p e i		244_scorpion-0	996	p e - - i -	C V V
+1997	adang	scorpion	pay	pay	p a j		244_scorpion-0	996	p a - - - j	C V C
+1991	blagar	scorpion	per	per	p e r		244_scorpion-0	996	p e r - - -	C V C
+1994	kaera	scorpion	par	par	p a r		244_scorpion-0	996	p a r - - -	C V C
+1992	kamang	scorpion	fal	fal	f a l		244_scorpion-0	996	f a l - - -	C V C
+1999	klon	scorpion	par	par	p a r		244_scorpion-0	996	p a r - - -	C V C
+1996	kui	scorpion	per	per	p e r		244_scorpion-0	996	p e r - - -	C V C
+1990	protoalorpantar	scorpion	pVr	pVr	p V/ǝ r		244_scorpion-0	996	p V/ǝ r - - -	C 0 C
+1988	teiwa	scorpion	par	par	p a r		244_scorpion-0	996	p a r - - -	C V C
+1993	wersing	scorpion	perbuk	perbuk	p e r b u k		244_scorpion-0	996	p e r b u k	C V C C V C
+3520	abui	scratch	kafi	kafi	k a f i		245_scratch-4	1003	- k a f - - i	C V C V
+3533	klon	scratch	kəbɛr	kəbɛr	k ə b ɛ r		245_scratch-4	1003	- k ə b ɛ r -	C V C V C
+3528	kui	scratch	ukuberi	ukuberi	u k u b e r i		245_scratch-4	1003	u k u b e r i	V C V C V C V
+3530	sawila	scratch	suruku, kapari	suruku	s u r u k u		245_scratch-4	1003	- s u r u k u	C V C V C V
+3523	wersing	scratch	kepir	kepir	k e p i r		245_scratch-4	1003	- k e p i r -	C V C V C
+3521	blagar	scratch	tuá	tuá	t u a		245_scratch-1	1000	- t u - a -	C V V
+3524	kaera	scratch	krabis, tuu	krabis	k r a b i s		245_scratch-1	1000	k r a b i s	C C V C V C
+3532	nedebang	scratch	tua	tua	t u a		245_scratch-1	1000	- t u - a -	C V V
+327	abui	sea/salt water	tama	tama	t a m a		246_seasaltwater-1	1006	t a m a -	C V C V
+335	adang	sea/salt water	taŋ	taŋ	t a ŋ		246_seasaltwater-1	1006	t a ŋ - -	C V C
+329	blagar	sea/salt water	taŋ	taŋ	t a ŋ		246_seasaltwater-1	1006	t a ŋ - -	C V C
+332	kaera	sea/salt water	tam	tam	t a m		246_seasaltwater-1	1006	t a m - -	C V C
+330	kamang	sea/salt water	tama	tama	t a m a		246_seasaltwater-1	1006	t a m a -	C V C V
+338	klon	sea/salt water	tan	tan	t a n		246_seasaltwater-1	1006	t a n - -	C V C
+334	kui	sea/salt water	tan	tan	t a n		246_seasaltwater-1	1006	t a n - -	C V C
+328	protoalorpantar	sea/salt water	tam	tam	t a m		246_seasaltwater-1	1006	t a m - -	C V C
+336	sawila	sea/salt water	tama	tama	t a m a		246_seasaltwater-1	1006	t a m a -	C V C V
+331	wersing	sea/salt water	tamá'	tamá'	t a m a ʔ		246_seasaltwater-1	1006	t a m a ʔ	C V C V C
+3675	adang	search/hunt for	la:p	la:p	l aː p		247_searchhuntfor-0	1008	- - l aː p - -	C V C
+3669	blagar	search/hunt for	rapiŋ	rapiŋ	r a p i ŋ		247_searchhuntfor-0	1008	- - r a p i ŋ	C V C V C
+3672	kaera	search/hunt for	rapo	rapo	r a p o		247_searchhuntfor-0	1008	- - r a p o -	C V C V
+3674	kui	search/hunt for	gorap	gorap	g o r a p		247_searchhuntfor-0	1008	g o r a p - -	C V C V C
+3677	nedebang	search/hunt for	lafi	lafi	l a f i		247_searchhuntfor-0	1008	- - l a f i -	C V C V
+1881	blagar	shark	hibír	hibír	h i b i r		252_shark-0	1035	h i - b i r	C V C V C
+1884	kaera	shark	sibar	sibar	s i b a r		252_shark-0	1035	s i - b a r	C V C V C
+1886	kui	shark	sobór	sobór	s o b o r		252_shark-0	1035	s o - b o r	C V C V C
+1888	nedebang	shark	sifi	sifi	s i f i		252_shark-0	1035	s i - f i -	C V C V
+1879	teiwa	shark	sifar	sifar	s i f a r		252_shark-0	1035	s i - f a r	C V C V C
+1885	westernpantar	shark	sibbu	sibbu	s i b b u		252_shark-0	1035	s i b b u -	C V C C V
+2838	blagar	sharp	maŋ	maŋ	m a ŋ		253_sharp-0	1041	m a - - - ŋ	C V C
+2841	kaera	sharp	magang	magang	m a g a ŋ		253_sharp-0	1041	m a - g a ŋ	C V C V C
+2846	nedebang	sharp	maxang	maxang	m a ħ a ŋ		253_sharp-0	1041	m a - ħ a ŋ	C V C V C
+2836	teiwa	sharp	maxan	maxan	m a ħ a n		253_sharp-0	1041	m a - ħ a n	C V C V C
+2842	westernpantar	sharp	maggang	maggang	m a g g a ŋ		253_sharp-0	1041	m a g g a ŋ	C V C C V C
+3653	klon	shine	idil	idil	i d i l		254_shine-1	1050	i d i - - l - - -	V C V C
+3647	wersing	shine	dial lur ʔ	dial lur ʔ	d i a l l u r ʔ		254_shine-1	1050	- d i a l l u r ʔ	C V V C C V C C
+3648	westernpantar	shine	diala	diala	d i a l a		254_shine-1	1050	- d i a - l a - -	C V V C V
+2777	adang	short	toʔoŋ	toʔoŋ	t o ʔ o ŋ		257_short-0	1065	t o ʔ o ŋ -	C V C V C
+2774	kaera	short	tuko	tuko	t u k o		257_short-0	1065	t u k - - o	C V C V
+2776	kui	short	tuk	tuk	t u k		257_short-0	1065	t u k - - -	C V C
+2779	nedebang	short	tukku	tukku	t u k k u		257_short-0	1065	t u k - k u	C V C C V
+2770	protoalorpantar	short	tuk	tuk	t u k		257_short-0	1065	t u k - - -	C V C
+2778	sawila	short	tukuda	tukuda	t u k u d a		257_short-0	1065	t u k u d a	C V C V C V
+2768	teiwa	short	tuk	tuk	t u k		257_short-0	1065	t u k - - -	C V C
+2773	wersing	short	tuk	tuk	t u k		257_short-0	1065	t u k - - -	C V C
+2775	westernpantar	short	tukka	tukka	t u k k a		257_short-0	1065	t u k - k a	C V C C V
+3254	abui	sit	miti	miti	m i t i		261_sit-0	1106	- m i t i -	C V C V
+3262	adang	sit	mihiʔ	mihiʔ	m i h i ʔ		261_sit-0	1106	- m i h i ʔ	C V C V C
+3256	blagar	sit	miŋ	miŋ	m i ŋ		261_sit-0	1106	- m i - - ŋ	C V C
+3259	kaera	sit	miso	miso	m i s o		261_sit-0	1106	- m i s o -	C V C V
+3265	klon	sit	mɪh	mɪh	m ɪ h		261_sit-0	1106	- m ɪ h - -	C V C
+3261	kui	sit	misa	misa	m i s a		261_sit-0	1106	- m i s a -	C V C V
+3264	nedebang	sit	misi	misi	m i s i		261_sit-0	1106	- m i s i -	C V C V
+3255	protoalorpantar	sit	mis	mis	m i s		261_sit-0	1106	- m i s - -	C V C
+3263	sawila	sit	miti	miti	m i t i		261_sit-0	1106	- m i t i -	C V C V
+3253	teiwa	sit	miis	miis	m i i s		261_sit-0	1106	- m i - i s	C V V C
+3258	wersing	sit	amit	amit	a m i t		261_sit-0	1106	a m i t - -	V C V C
+3260	westernpantar	sit	mising	mising	m i s i ŋ		261_sit-0	1106	- m i s i ŋ	C V C V C
+2505	kaera	six	tiam	tiam	t i a m		262_six-4	1112	t i - a m -	C V V C
+2510	nedebang	six	tiama	tiama	t i a m a		262_six-4	1112	t i - a m a	C V V C V
+2499	teiwa	six	tiaam	tiaam	t i a a m		262_six-4	1112	t i a a m -	C V V V C
+2500	abui	six	taˈlama	taˈlama	t a ʔ l a m a		262_six-0	1108	t a ʔ l a m a	C V C C V C V
+2508	adang	six	ta:laŋ	ta:laŋ	t aː l a ŋ		262_six-0	1108	t aː - l a ŋ -	C V C V C
+2502	blagar	six	taliŋ	taliŋ	t a l i ŋ		262_six-0	1108	t a - l i ŋ -	C V C V C
+2511	klon	six	təlɑn	təlɑn	t ə l ɑ n		262_six-0	1108	t ə - l ɑ n -	C V C V C
+2507	kui	six	talama	talama	t a l a m a		262_six-0	1108	t a - l a m a	C V C V C V
+3	blagar	sky	bulaŋ	bulaŋ	b u l a ŋ		264_sky-0	1113	b u l a ŋ	C V C V C
+6	kaera	sky	bulung	bulung	b u l u ŋ		264_sky-0	1113	b u l u ŋ	C V C V C
+1	teiwa	sky	bulan	bulan	b u l a n		264_sky-0	1113	b u l a n	C V C V C
+1755	abui	slave	maija	maija	m a i dʒ a		265_slave-7	1129	m a i dʒ a	C V V C V
+1757	kamang	slave	maai	maai	m a a i		265_slave-7	1129	m a a - i	C V V V
+1761	kui	slave	gur ('laki-laki'), mará ('perempuan')	gur	g u r		265_slave-7	1129	g u - r -	C V C
+2561	adang	small	kaʔai	kaʔai	k a ʔ a i		266_small-1	1132	k a ʔ a i -	C V C V V
+2558	kaera	small	kiki	kiki	k i k i		266_small-1	1132	k i k - i -	C V C V
+2564	klon	small	kɛkɛin	kɛkɛin	k ɛ k ɛ i n		266_small-1	1132	k ɛ k ɛ i n	C V C V V C
+545	adang	smoke	awai banoʔo	awai banoʔo	a w a i b a n o ʔ o		267_smoke-0	1140	a w a i - b a n - o - ʔ o	V C V V C V C V C V
+539	blagar	smoke	ad benaŋka	ad benaŋka	a d b e n a ŋ k a		267_smoke-0	1140	a d - - - b e n - a ŋ k a	V C C V C V C C V
+542	kaera	smoke	aad bənaax	aad bənaax	a a d b ə n a a ħ		267_smoke-0	1140	- - a a d b ə n a a - ħ -	V V C C V C V V C
+540	kamang	smoke	puna	puna	p u n a		267_smoke-0	1140	- - - - - p u - - - - n a	C V C V
+548	klon	smoke	ədɑbon	ədɑbon	ə d ɑ b o n		267_smoke-0	1140	ə d ɑ - - b o n - - - - -	V C V C V C
+544	kui	smoke	ar bonok	ar bonok	a r b o n o k		267_smoke-0	1140	a r - - - b o n - o - k -	V C C V C V C
+547	nedebang	smoke	arabun	arabun	a r a b u n		267_smoke-0	1140	a r a - - b u n - - - - -	V C V C V C
+538	protoalorpantar	smoke	bunaq	bunaq	b u n a q		267_smoke-0	1140	- - - - - b u n - a - q -	C V C V C
+546	sawila	smoke	punaka	punaka	p u n a k a		267_smoke-0	1140	- - - - - p u n - a - k a	C V C V C V
+536	teiwa	smoke	buun	buun	b u u n		267_smoke-0	1140	- - - - - b u - - u - n -	C V V C
+541	wersing	smoke	adá punak	adá punak	a d a p u n a k		267_smoke-0	1140	a d a - - p u n - a - k -	V C V C V C V C
+543	westernpantar	smoke	bunna	bunna	b u n n a		267_smoke-0	1140	- - - - - b u n - - - n a	C V C C V
+3002	abui	smooth	rula	rula	r u l a		268_smooth-2	1144	r u - - - - - - - - - l a - - -	C V C V
+3011	adang	smooth	duluʔ	duluʔ	d u l u ʔ		268_smooth-2	1144	d u - - - - - - - - - l u - ʔ -	C V C V C
+3004	blagar	smooth	dúla ‘slippery’	dúla	d u l a		268_smooth-2	1144	d u - - - - - - - - - l a - - -	C V C V
+3007	kaera	smooth	ibayaran'smooth', iduyo 'slippery'	ibayaran	i b a j a r a n		268_smooth-2	1144	- - - - - - i b a j a r a n - -	V C V C V C V C
+3005	kamang	smooth	tulaka	tulaka	t u l a k a		268_smooth-2	1144	t u - - - - - - - - - l a k - a	C V C V C V
+3013	klon	smooth	duul	duul	d u u l		268_smooth-2	1144	d u - - - - - - - - u l - - - -	C V V C
+3010	kui	smooth	dula	dula	d u l a		268_smooth-2	1144	d u - - - - - - - - - l a - - -	C V C V
+3003	protoalorpantar	smooth	dul- 'slippery'	dul- 'slippery'	d u l ʔ s l i p p e r j ʔ		268_smooth-2	1144	d u l ʔ s l i p - p e r - j ʔ -	C V C C C C V C C V C C C
+3006	wersing	smooth	terisi dolok	terisi dolok	t e r i s i d o l o k		268_smooth-2	1144	t e - - - r i s i d o l o k - -	C V C V C V C V C V C
+1986	nedebang	snake	daama	daama	d a a m a		269_snake-0	1146	d a a m a	C V V C V
+1976	teiwa	snake	daam	daam	d a a m		269_snake-0	1146	d a a m -	C V V C
+1982	westernpantar	snake	duang	duang	d u a ŋ		269_snake-0	1146	d u a ŋ -	C V V C
+1977	abui	snake	mon	mon	m o n		269_snake-2	1148	m o - n -	C V C
+1984	adang	snake	mon	mon	m o n		269_snake-2	1148	m o - n -	C V C
+1987	klon	snake	mɔɔn	mɔɔn	m ɔ ɔ n		269_snake-2	1148	m ɔ ɔ n -	C V V C
+1983	kui	snake	mon	mon	m o n		269_snake-2	1148	m o - n -	C V C
+1980	wersing	snake	munu	munu	m u n u		269_snake-2	1148	m u - n u	C V C V
+1540	blagar	sore/wound	báta ‘old wound’, íbat ‘new wound’	báta	b a t a		270_sorewound-0	1157	- - b a - t a	C V C V
+1544	kaera	sore/wound	ibat, bato	ibat	i b a t		270_sorewound-0	1157	- i b a - t -	V C V C
+1547	kui	sore/wound	bata	bata	b a t a		270_sorewound-0	1157	- - b a - t a	C V C V
+1550	nedebang	sore/wound	batta	batta	b a t t a		270_sorewound-0	1157	- - b a t t a	C V C C V
+1538	teiwa	sore/wound	jifat	jifat	dʒ i f a t		270_sorewound-0	1157	dʒ i f a - t -	C V C V C
+425	abui	spear	kafak	kafak	k a f a k		272_spear-0	1165	k a - f a k	C V C V C
+427	blagar	spear	ʔaba	ʔaba	ʔ a b a		272_spear-0	1165	ʔ a - b a -	C V C V
+430	kaera	spear	xabi	xabi	ħ a b i		272_spear-0	1165	ħ a - b i -	C V C V
+428	kamang	spear	kapa	kapa	k a p a		272_spear-0	1165	k a - p a -	C V C V
+436	klon	spear	kəbɑk	kəbɑk	k ə b ɑ k		272_spear-0	1165	k ə - b ɑ k	C V C V C
+432	kui	spear	kabak	kabak	k a b a k		272_spear-0	1165	k a - b a k	C V C V C
+426	protoalorpantar	spear	qaba(k)	qaba	q a b a		272_spear-0	1165	q a - b a -	C V C V
+431	westernpantar	spear	kabbi	kabbi	k a b b i		272_spear-0	1165	k a b b i -	C V C C V
+2100	adang	spider	ʔalεŋ	ʔalεŋ	ʔ a l ɛ ŋ		273_spider-2	1173	ʔ a - - l ɛ ŋ -	C V C V C
+2093	blagar	spider	kəráŋa	kəráŋa	k ə r a ŋ a		273_spider-2	1173	k ə - - r a ŋ a	C V C V C V
+2097	kaera	spider	kakaranga	kakaranga	k a k a r a ŋ a		273_spider-2	1173	k a k a r a ŋ a	C V C V C V C V
+3280	abui	squat/crouch	luk ˈbo	luk ˈbo	l u k ʔ b o		274_squatcrouch-2	1182	l u k ʔ b o -	C V C C C V
+3287	kui	squat/crouch	luk	luk	l u k		274_squatcrouch-2	1182	l u k - - - -	C V C
+3281	protoalorpantar	squat/crouch	luk(V)	luk	l u k		274_squatcrouch-2	1182	l u k - - - -	C V C
+3284	wersing	squat/crouch	lukuk	lukuk	l u k u k		274_squatcrouch-2	1182	l u k - - u k	C V C V C
+3286	westernpantar	squat/crouch	lukking	lukking	l u k k i ŋ		274_squatcrouch-2	1182	l u k - k i ŋ	C V C C V C
+3757	kamang	stab	tafe	tafe	t a f e		276_stab-0	1195	t a - f e	C V C V
+3764	nedebang	stab	tappa	tappa	t a p p a		276_stab-0	1195	t a p p a	C V C C V
+3753	teiwa	stab	tap	tap	t a p		276_stab-0	1195	t a - p -	C V C
+3754	abui	stab	takda 'to plant', tilok 'to stab'	takda	t a k d a		276_stab-1	1196	t a k d a	C V C C V
+3762	adang	stab	tεʔε 'to stab, to plant, to cut'	tεʔε	t ɛ ʔ ɛ		276_stab-1	1196	t ɛ - ʔ ɛ	C V C V
+3759	kaera	stab	qaxo	qaxo	q a ħ o		276_stab-1	1196	q a - ħ o	C V C V
+3765	klon	stab	tɛk	tɛk	t ɛ k		276_stab-1	1196	t ɛ k - -	C V C
+3761	kui	stab	tak 'to plant',	tak	t a k		276_stab-1	1196	t a k - -	C V C
+3763	sawila	stab	suwe	suwe	s u w e		276_stab-2	1197	s u w - e -	C V C V
+3758	wersing	stab	suai	suai	s u a i		276_stab-2	1197	s u - a i -	C V V V
+3760	westernpantar	stab	garung 'to plant'	garung	g a r u ŋ		276_stab-2	1197	g a r u - ŋ	C V C V C
+3275	adang	stand	tohO	tohO	t o h O/ɔ		277_stand-0	1199	- - t - o h O/ɔ	C V C 0
+3269	blagar	stand	tai	tai	t a i		277_stand-0	1199	- - t a i - -	C V V
+3272	kaera	stand	taso	taso	t a s o		277_stand-0	1199	- - t - a s o	C V C V
+3278	klon	stand	mətɛh	mətɛh	m ə t ɛ h		277_stand-0	1199	m ə t - ɛ h -	C V C V C
+3277	nedebang	stand	tasi	tasi	t a s i		277_stand-0	1199	- - t - a s i	C V C V
+3268	protoalorpantar	stand	tas	tas	t a s		277_stand-0	1199	- - t - a s -	C V C
+3266	teiwa	stand	taas	taas	t a a s		277_stand-0	1199	- - t a a s -	C V V C
+3271	wersing	stand	atati (tetati 'kita berdiri')	atati	a t a t i		277_stand-0	1199	- a t - a t i	V C V C V
+35	adang	star	i:b	i:b	iː b		278_star-0	1205	- iː b - - - - -	V C
+38	klon	star	ɪb	ɪb	ɪ b		278_star-0	1205	- ɪ b - - - - -	V C
+34	kui	star	i bra	i bra	i b r a		278_star-0	1205	- i b - - - r a	V C C V
+37	nedebang	star	ifahoya	ifahoya	i f a h o j a		278_star-0	1205	- i f a h o j a	V C V C V C V
+26	teiwa	star	yif	yif	j i f		278_star-0	1205	j i f - - - - -	C V C
+33	westernpantar	star	hibbe	hibbe	h i b b e		278_star-0	1205	h i b - - - b e	C V C C V
+730	kamang	stick/pole	teekang	teekang	t e e k a ŋ		281_stickpole-8	1227	t e e k a ŋ	C V V C V C
+736	sawila	stick/pole	diikang, saala	diikang	d i i k a ŋ		281_stickpole-8	1227	d i i k a ŋ	C V V C V C
+731	wersing	stick/pole	dekeng	dekeng	d e k e ŋ		281_stickpole-8	1227	d e - k e ŋ	C V C V C
+1258	abui	stomach	-took	-took	t o o k		282_stomach-1	1229	- - t o o k -	C V V C
+1267	adang	stomach	atuʔu	atuʔu	a t u ʔ u		282_stomach-1	1229	- a t u - ʔ u	V C V C V
+1260	blagar	stomach	tətow	tətow	t ə t o w		282_stomach-1	1229	t ə t o - w -	C V C V C
+1263	kaera	stomach	tətoki/tatoki	tətoki	t ə t o k i		282_stomach-1	1229	t ə t o - k i	C V C V C V
+1261	kamang	stomach	-tok	-tok	t o k		282_stomach-1	1229	- - t o - k -	C V C
+1259	protoalorpantar	stomach	-tok	-tok	t o k		282_stomach-1	1229	- - t o - k -	C V C
+1262	wersing	stomach	atoko	atoko	a t o k o		282_stomach-1	1229	- a t o - k o	V C V C V
+234	abui	stone	vi:	vi:	v iː		283_stone-0	1233	v iː - -	C V
+242	adang	stone	fui	fui	f u i		283_stone-0	1233	f u - i	C V V
+236	blagar	stone	var	var	v a r		283_stone-0	1233	v a r -	C V C
+239	kaera	stone	war	war	w a r		283_stone-0	1233	w a r -	C V C
+237	kamang	stone	woi	woi	w o i		283_stone-0	1233	w o - i	C V V
+245	klon	stone	wɔr	wɔr	w ɔ r		283_stone-0	1233	w ɔ r -	C V C
+241	kui	stone	wor	wor	w o r		283_stone-0	1233	w o r -	C V C
+244	nedebang	stone	wala	wala	w a l a		283_stone-0	1233	w a l a	C V C V
+235	protoalorpantar	stone	war	war	w a r		283_stone-0	1233	w a r -	C V C
+243	sawila	stone	wara	wara	w a r a		283_stone-0	1233	w a r a	C V C V
+233	teiwa	stone	war	war	w a r		283_stone-0	1233	w a r -	C V C
+238	wersing	stone	wor	wor	w o r		283_stone-0	1233	w o r -	C V C
+943	blagar	sugarcane	wub	wub	w u b		286_sugarcane-1	1247	w u - b -	C V C
+946	kaera	sugarcane	uub	uub	u u b		286_sugarcane-1	1247	- u u b -	V V C
+948	kui	sugarcane	uub	uub	u u b		286_sugarcane-1	1247	- u u b -	V V C
+950	nedebang	sugarcane	uufa	uufa	u u f a		286_sugarcane-1	1247	- u u f a	V V C V
+942	protoalorpantar	sugarcane	u:b	u:b	uː b		286_sugarcane-1	1247	- uː - b -	V C
+945	wersing	sugarcane	upá	upá	u p a		286_sugarcane-1	1247	- u - p a	V C V
+14	abui	sun	wari	wari	w a r i		287_sun-0	1252	w a r - i - -	C V C V
+22	adang	sun	fεd	fεd	f ɛ d		287_sun-0	1252	f ɛ - - - d -	C V C
+16	blagar	sun	ved	ved	v e d		287_sun-0	1252	v e - - - d -	C V C
+17	kamang	sun	wati	wati	w a t i		287_sun-0	1252	w a - - - t i	C V C V
+24	nedebang	sun	weri	weri	w e r i		287_sun-0	1252	w e r - i - -	C V C V
+15	protoalorpantar	sun	wad-i	wad-i	w a d i		287_sun-0	1252	w a - - - d i	C V C V
+23	sawila	sun	wadi	wadi	w a d i		287_sun-0	1252	w a - - - d i	C V C V
+13	teiwa	sun	war get	war get	w a r g e t		287_sun-0	1252	w a r g e t -	C V C C V C
+18	wersing	sun	widí	widí	w i d i		287_sun-0	1252	w i - - - d i	C V C V
+2975	abui	sweet	ralong	ralong	r a l o ŋ		289_sweet-4	1271	r a l - - o ŋ	C V C V C
+2982	adang	sweet	dεlεwεŋ, manεmεʔ 'tasty'	dεlεwεŋ	d ɛ l ɛ w ɛ ŋ		289_sweet-4	1271	d ɛ l ɛ w ɛ ŋ	C V C V C V C
+2981	kui	sweet	dalowan	dalowan	d a l o w a n		289_sweet-4	1271	d a l o w a n	C V C V C V C
+3553	adang	swell	falaʔ	falaʔ	f a l a ʔ		291_swell-0	1292	- f a l a ʔ -	C V C V C
+3547	blagar	swell	vára	vára	v a r a		291_swell-0	1292	- v a r a - -	C V C V
+3550	kaera	swell	waro	waro	w a r o		291_swell-0	1292	- w a r o - -	C V C V
+3556	klon	swell	uwɑr	uwɑr	u w ɑ r		291_swell-0	1292	u w ɑ r - - -	V C V C
+3545	teiwa	swell	wuran	wuran	w u r a n		291_swell-0	1292	- w u r a n -	C V C V C
+3551	westernpantar	swell	halua	halua	h a l u a		291_swell-0	1292	- h a l u - a	C V C V V
+3320	blagar	swim	tára	tára	t a r a		292_swim-0	1297	t a - r a -	C V C V
+3323	kaera	swim	taro	taro	t a r o		292_swim-0	1297	t a - r o -	C V C V
+3328	nedebang	swim	talang	talang	t a l a ŋ		292_swim-0	1297	t a - l a ŋ	C V C V C
+3317	teiwa	swim	taran	taran	t a r a n		292_swim-0	1297	t a - r a n	C V C V C
+3324	westernpantar	swim	tallang	tallang	t a l l a ŋ		292_swim-0	1297	t a l l a ŋ	C V C C V C
+1862	adang	tail	oloʔ	oloʔ	o l o ʔ		293_tail-0	1305	- o l - - o ʔ -	V C V C
+1856	blagar	tail	orá	orá	o r a		293_tail-0	1305	- o - - - - r a	V C V
+1859	kaera	tail	gor	gor	g o r		293_tail-0	1305	g o - - - - r -	C V C
+1857	kamang	tail	-wui	-wui	w u i		293_tail-0	1305	w u - - - - - i	C V V
+1865	klon	tail	gorəkɛi	gorəkɛi	g o r ə k ɛ i		293_tail-0	1305	g o r ə k ɛ - i	C V C V C V V
+1861	kui	tail	gor	gor	g o r		293_tail-0	1305	g o - - - - r -	C V C
+1864	nedebang	tail	gola	gola	g o l a		293_tail-0	1305	g o l - - a - -	C V C V
+1855	protoalorpantar	tail	-or(a)	-or	o r		293_tail-0	1305	- o - - - - r -	V C
+1863	sawila	tail	giwoora	giwoora	g i w o o r a		293_tail-0	1305	g i w o - o r a	C V C V V C V
+1853	teiwa	tail	goor	goor	g o o r		293_tail-0	1305	g o - - - o r -	C V V C
+1858	wersing	tail	wori	wori	w o r i		293_tail-0	1305	w o - - - - r i	C V C V
+1376	abui	teeth	taweiti	taweiti	t a w e i t i		297_teeth-0	1329	t a w e i t i -	C V C V V C V
+1384	adang	teeth	na-wεhεŋ	na-wεhεŋ	n a w ɛ h ɛ ŋ		297_teeth-0	1329	n a w ɛ - h ɛ ŋ	C V C V C V C
+1378	blagar	teeth	təvéŋ	təvéŋ	t ə v e ŋ		297_teeth-0	1329	t ə v e - - - ŋ	C V C V C
+1381	kaera	teeth	tua sing	tua sing	t u a s i ŋ		297_teeth-0	1329	t u - a - s i ŋ	C V V C V C
+1379	kamang	teeth	-weh	-weh	w e h		297_teeth-0	1329	- - w e - h - -	C V C
+1387	klon	teeth	gəwɛh	gəwɛh	g ə w ɛ h		297_teeth-0	1329	g ə w ɛ - h - -	C V C V C
+1383	kui	teeth	ta-wes	ta-wes	t a w e s		297_teeth-0	1329	t a w e - s - -	C V C V C
+1386	nedebang	teeth	gusing	gusing	g u s i ŋ		297_teeth-0	1329	g u - - - s i ŋ	C V C V C
+1377	protoalorpantar	teeth	-uasi(n)	-uasi	u a s i		297_teeth-0	1329	- u - a - s i -	V V C V
+1375	teiwa	teeth	gusan	gusan	g u s a n		297_teeth-0	1329	g u - - - s a n	C V C V C
+1382	westernpantar	teeth	nawasing	nawasing	n a w a s i ŋ		297_teeth-0	1329	n a w a - s i ŋ	C V C V C V C
+2514	blagar	ten	arnu	arnu	a r n u		298_ten-0	1332	- a r - n - - u	V C C V
+2517	kaera	ten	xar nuko	xar nuko	ħ a r n u k o		298_ten-0	1332	ħ a r - n u k o	C V C C V C V
+2523	klon	ten	kɑrənʊk	kɑrənʊk	k ɑ r ə n ʊ k		298_ten-0	1332	k ɑ r ə n ʊ k -	C V C V C V C
+2519	kui	ten	karnuku	karnuku	k a r n u k u		298_ten-0	1332	k a r - n u k u	C V C C V C V
+2522	nedebang	ten	qa nuk	qa nuk	q a n u k		298_ten-0	1332	q a - - n u k -	C V C V C
+2512	teiwa	ten	qar nuk	qar nuk	q a r n u k		298_ten-0	1332	q a r - n u k -	C V C C V C
+2518	westernpantar	ten	keanuku	keanuku	k e a n u k u		298_ten-0	1332	k e - a n u k u	C V V C V C V
+2515	kamang	ten	ataak	ataak	a t a a k		298_ten-4	1335	a t a - a k -	V C V V C
+2521	sawila	ten	adaaku	adaaku	a d a a k u		298_ten-4	1335	a d a - a k u	V C V V C V
+2516	wersing	ten	adayoku	adayoku	a d a j o k u		298_ten-4	1335	a d a j o k u	V C V C V C V
+1193	abui	tendon	teai	teai	t e a i		299_tendon-0	1336	t e - a i -	C V V V
+1197	kaera	tendon	turui	turui	t u r u i		299_tendon-0	1336	t u r u i -	C V C V V
+1192	teiwa	tendon	traw	traw	t r a w		299_tendon-0	1336	t - r a - w	C C V C
+660	abui	thatch	wai	wai	w a i		301_thatch-0	1345	w a - - i - -	C V V
+668	adang	thatch	de'e 'roof', u-va 'to roof'	de'e	d e ʔ e		301_thatch-0	1345	d e - - - ʔ e	C V C V
+662	blagar	thatch	vemvey	vemvey	v e m v e j		301_thatch-0	1345	v e m v e j -	C V C C V C
+672	klon	thatch	wei	wei	w e i		301_thatch-0	1345	w e - - i - -	C V V
+667	kui	thatch	wai	wai	w a i		301_thatch-0	1345	w a - - i - -	C V V
+671	nedebang	thatch	sewaya	sewaya	s e w a j a		301_thatch-0	1345	s e w - a j a	C V C V C V
+661	protoalorpantar	thatch	way	way	w a j		301_thatch-0	1345	w a - - - j -	C V C
+659	teiwa	thatch	(yaf) waai, (yaf) qul 'ridgepole'	waai'	w a a i ʔ		301_thatch-0	1345	w a - a i ʔ -	C V V V C
+666	westernpantar	thatch	wai	wai	w a i		301_thatch-0	1345	w a - - i - -	C V V
+3025	abui	thick	tapati	tapati	t a p a t i		302_thick-4	1354	t a p a t i	C V C V C V
+3032	adang	thick	tapaha	tapaha	t a p a h a		302_thick-4	1354	t a p a h a	C V C V C V
+3035	klon	thick	təpɛh	təpɛh	t ə p ɛ h		302_thick-4	1354	t ə p ɛ h -	C V C V C
+3031	kui	thick	tapás	tapás	t a p a s		302_thick-4	1354	t a p a s -	C V C V C
+3033	sawila	thick	dumu	dumu	d u m u		302_thick-0	1350	d u - m u	C V C V
+3028	wersing	thick	dum	dum	d u m		302_thick-0	1350	d u - m -	C V C
+3030	westernpantar	thick	dumma	dumma	d u m m a		302_thick-0	1350	d u m m a	C V C C V
+3044	adang	thin	tiʔi	tiʔi	t i ʔ i		303_thin-2	1358	t i ʔ i -	C V C V
+3038	blagar	thin	teil	teil	t e i l		303_thin-2	1358	t e - i l	C V V C
+3041	kaera	thin	teki	teki	t e k i		303_thin-2	1358	t e k i -	C V C V
+2464	blagar	three	tue	tue	t u e		307_three-2	1366	- t u e - -	C V V
+2467	kaera	three	utug	utug	u t u g		307_three-2	1366	u t u - g -	V C V C
+2468	westernpantar	three	atiga	atiga	a t i g a		307_three-2	1366	a t i - g a	V C V C V
+2465	kamang	three	su	su	s u		307_three-9	1371	s u -	C V
+2471	sawila	three	tuo	tuo	t u o		307_three-9	1371	t u o	C V V
+2466	wersing	three	tu	tu	t u		307_three-9	1371	t u -	C V
+2175	abui	to bark	lou	lou	l o u		310_tobark-0	1393	- l o - u -	C V V
+2183	adang	to bark	lowoʔ	lowoʔ	l o w o ʔ		310_tobark-0	1393	- l o w o ʔ	C V C V C
+2176	protoalorpantar	to bark	lVV	lVV	l V/ǝ V/ǝ		310_tobark-0	1393	- l V/ǝ - V/ǝ -	C 0 0
+2184	sawila	to bark	lu	lu	l u		310_tobark-0	1393	- l u - - -	C V
+2179	wersing	to bark	aloi	aloi	a l o i		310_tobark-0	1393	a l o - i -	V C V V
+2181	westernpantar	to bark	lau	lau	l a u		310_tobark-0	1393	- l a - u -	C V V
+3381	abui	to bathe	da-wel	da-wel	d a w e l		311_tobathe-0	1399	- - - d a w e l -	C V C V C
+3389	adang	to bathe	wili (voiceless w)	wili	w i l i		311_tobathe-0	1399	- - - - - w i l i	C V C V
+3383	blagar	to bathe	véla	véla	v e l a		311_tobathe-0	1399	- - - - - v e l a	C V C V
+3386	kaera	to bathe	tuweyo	tuweyo	t u w e j o		311_tobathe-0	1399	- - - t u w e j o	C V C V C V
+3384	kamang	to bathe	-wei	-wei	w e i		311_tobathe-0	1399	- - - - - w e - i	C V V
+3392	klon	to bathe	nɛwɛl	nɛwɛl	n ɛ w ɛ l		311_tobathe-0	1399	- - - n ɛ w ɛ l -	C V C V C
+3388	kui	to bathe	weli	weli	w e l i		311_tobathe-0	1399	- - - - - w e l i	C V C V
+3382	protoalorpantar	to bathe	weli	weli	w e l i		311_tobathe-0	1399	- - - - - w e l i	C V C V
+3390	sawila	to bathe	gawile	gawile	g a w i l e		311_tobathe-0	1399	- - - g a w i l e	C V C V C V
+3380	teiwa	to bathe	wei	wei	w e i		311_tobathe-0	1399	- - - - - w e - i	C V V
+3385	wersing	to bathe	ira teweli	ira teweli	i r a t e w e l i		311_tobathe-0	1399	i r a t e w e l i	V C V C V C V C V
+2277	kamang	to breathe	-king pil	-king pil	k i ŋ p i l		314_tobreathe-6	1408	- - k i ŋ p - - - i l	C V C C V C
+2281	kui	to breathe	kinsel	kinsel	k i n s e l		314_tobreathe-6	1408	- - k i n s - - - e l	C V C C V C
+2283	sawila	to breathe	gakiiŋ	gakiiŋ	g a k i i ŋ		314_tobreathe-6	1408	- - g a - k - - i i ŋ	C V C V V C
+2278	wersing	to breathe	tiking sasai	tiking sasai	t i k i ŋ s a s a i		314_tobreathe-6	1408	t i k i ŋ s a s a i -	C V C V C C V C V V
+4039	adang	to close	watεlε	watεlε	w a t ɛ l ɛ		316_toclose-0	1418	w a - t - ɛ l ɛ -	C V C V C V
+4033	blagar	to close	ven-teriŋ	ven-teriŋ	v e n t e r i ŋ		316_toclose-0	1418	v e n t - e r i ŋ	C V C C V C V C
+4036	kaera	to close	wan-tering	wan-tering	w a n t e r i ŋ		316_toclose-0	1418	w a n t - e r i ŋ	C V C C V C V C
+4041	klon	to close	uter	uter	u t e r		316_toclose-0	1418	- u - t - e r - -	V C V C
+4038	kui	to close	uteri	uteri	u t e r i		316_toclose-0	1418	- u - t - e r i -	V C V C V
+4032	protoalorpantar	to close	-tiari(n)	-tiari	t i a r i		316_toclose-0	1418	- - - t i a r i -	C V V C V
+4040	sawila	to close	-tiira	-tiira	t i i r a		316_toclose-0	1418	- - - t i i r a -	C V V C V
+3414	adang	to cook	dowoʔ	dowoʔ	d o w o ʔ		318_tocook-0	1424	- - d o w o ʔ	C V C V C
+3408	blagar	to cook	na doa	na doa	n a d o a		318_tocook-0	1424	n a d o - a -	C V C V V
+3411	kaera	to cook	na-dowo	na-dowo	n a d o w o		318_tocook-0	1424	n a d o w o -	C V C V C V
+3416	nedebang	to cook	dawa	dawa	d a w a		318_tocook-0	1424	- - d a w a -	C V C V
+3406	teiwa	to cook	dau	dau	d a u		318_tocook-0	1424	- - d a - u -	C V V
+2431	adang	to count	taʔana (also 'read')	taʔana	t a ʔ a n a		319_tocount-0	1430	t a - ʔ a n a	C V C V C V
+2428	kaera	to count	tego	tego	t e g o		319_tocount-0	1430	t e - g o - -	C V C V
+2423	teiwa	to count	tag	tag	t a g		319_tocount-0	1430	t a - g - - -	C V C
+2429	westernpantar	to count	taggang	taggang	t a g g a ŋ		319_tocount-0	1430	t a g g a ŋ -	C V C C V C
+2424	abui	to count	halakda	halakda	h a l a k d a		319_tocount-4	1433	h a l - a k d a	C V C V C C V
+2426	kamang	to count	galek	galek	g a l e k		319_tocount-4	1433	g a l - e k - -	C V C V C
+2434	klon	to count	gəlɪk	gəlɪk	g ə l ɪ k		319_tocount-4	1433	g ə l - ɪ k - -	C V C V C
+2430	kui	to count	galeki	galeki	g a l e k i		319_tocount-4	1433	g a l - e k - i	C V C V C V
+2432	sawila	to count	galiiki	galiiki	g a l i i k i		319_tocount-4	1433	g a l i i k - i	C V C V V C V
+2427	wersing	to count	geleki	geleki	g e l e k i		319_tocount-4	1433	g e l - e k - i	C V C V C V
+2373	kaera	to dance	suqai 'lego-lego'	suqai	s u q a i		323_todance-0	1465	s u q a i - - - - -	C V C V V
+2366	teiwa	to dance	soxai taxar, wan emelan	soxai taxar	s o ħ a i t a ħ a r		323_todance-0	1465	s o ħ a i t a ħ a r	C V C V V C V C V C
+2374	westernpantar	to dance	sauke	sauke	s a u k e		323_todance-0	1465	s a - - u k - - e -	C V V C V
+2287	abui	to die	mong	mong	m o ŋ		324_todie-0	1474	- - m o - ŋ - -	C V C
+2296	adang	to die	miniʔ	miniʔ	m i n i ʔ		324_todie-0	1474	- - m i - n i ʔ	C V C V C
+2289	blagar	to die	mina	mina	m i n a		324_todie-0	1474	- - m i - n a -	C V C V
+2293	kaera	to die	nimino	nimino	n i m i n o		324_todie-0	1474	n i m i - n o -	C V C V C V
+2295	kui	to die	min	min	m i n		324_todie-0	1474	- - m i - n - -	C V C
+2298	nedebang	to die	minna	minna	m i n n a		324_todie-0	1474	- - m i n n a -	C V C C V
+2288	protoalorpantar	to die	min(V)	min	m i n		324_todie-0	1474	- - m i - n - -	C V C
+2286	teiwa	to die	min	min	m i n		324_todie-0	1474	- - m i - n - -	C V C
+3841	kaera	to dig	ano	ano	a n o		325_todig-0	1480	- a - n o -	V C V
+3836	teiwa	to dig	xan	xan	ħ a n		325_todig-0	1480	ħ a - n - -	C V C
+3842	westernpantar	to dig	hannang	hannang	h a n n a ŋ		325_todig-0	1480	h a n n a ŋ	C V C C V C
+3837	abui	to dig	teu	teu	t e u		325_todig-5	1485	t e u	C V V
+3839	kamang	to dig	tee	tee	t e e		325_todig-5	1485	t e e	C V V
+3845	sawila	to dig	tii	tii	t i i		325_todig-5	1485	t i i	C V V
+3840	wersing	to dig	tei	tei	t e i		325_todig-5	1485	t e i	C V V
+3751	klon	to divide	gbak, gwai (divide evenly)	gbak	g b a k		326_todivide-6	1492	g b a k - - - -	C C V C
+3747	sawila	to divide	bakaara, saawang, yoosara	bakaara	b a k a a r a		326_todivide-6	1492	- b a k a a r a	C V C V V C V
+3742	wersing	to divide	bakár	bakár	b a k a r		326_todivide-6	1492	- b a k - a r -	C V C V C
+3427	adang	to drink	naʔ	naʔ	n a ʔ		327_todrink-2	1498	- - - n a - ʔ	C V C
+3421	blagar	to drink	jar na	jar na	dʒ a r n a		327_todrink-2	1498	dʒ a r n - a -	C V C C V
+3424	kaera	to drink	yir na	yir na	j i r n a		327_todrink-2	1498	j i r n - a -	C V C C V
+3422	kamang	to drink	ne	ne	n e		327_todrink-2	1498	- - - n - e -	C V
+3430	klon	to drink	nɑɑʔ	nɑɑʔ	n ɑ ɑ ʔ		327_todrink-2	1498	- - - n ɑ ɑ ʔ	C V V C
+3426	kui	to drink	nai	nai	n a i		327_todrink-2	1498	- - - n a i -	C V V
+3420	protoalorpantar	to drink	nai	nai	n a i		327_todrink-2	1498	- - - n a i -	C V V
+3428	sawila	to drink	ganee	ganee	g a n e e		327_todrink-2	1498	g a - n e e -	C V C V V
+3376	adang	to drop	amudi	amudi	a m u d i		328_todrop-1	1503	a m u d i	V C V C V
+3371	kamang	to drop	mota	mota	m o t a		328_todrop-1	1503	- m o t a	C V C V
+3378	nedebang	to drop	mora	mora	m o r a		328_todrop-1	1503	- m o r a	C V C V
+3432	abui	to eat	ne	ne	n e		329_toeat-0	1512	- - n - - - - - e - -	C V
+3434	blagar	to eat	na na	na na	n a n a		329_toeat-0	1512	- - n - - - - - a n a	C V C V
+3437	kaera	to eat	na	na	n a		329_toeat-0	1512	- - n - - - - - a - -	C V
+3435	kamang	to eat	na	na	n a		329_toeat-0	1512	- - n - - - - - a - -	C V
+3444	nedebang	to eat	ina	ina	i n a		329_toeat-0	1512	- i n - - - - - - - a	V C V
+3433	protoalorpantar	to eat	nai	nai	n a i		329_toeat-0	1512	- - n - - - - - a - i	C V V
+3441	sawila	to eat	ganee, gapaati, gapama	ganee	g a n e e		329_toeat-0	1512	g a n - - - - - e - e	C V C V V
+3431	teiwa	to eat	ina	ina	i n a		329_toeat-0	1512	- i n - - - - - - - a	V C V
+3436	wersing	to eat	tenai tepasi	tenai tepasi	t e n a i t e p a s i		329_toeat-0	1512	t e n a i t e p a s i	C V C V V C V C V C V
+3438	westernpantar	to eat	na	na	n a		329_toeat-0	1512	- - n - - - - - a - -	C V
+3770	kamang	to fight	taaka	taaka	t a a k a		330_tofight-8	1523	t a - - - - a k a	C V V C V
+3776	sawila	to fight	takitaaka	takitaaka	t a k i t a a k a		330_tofight-8	1523	t a k i t a a k a	C V C V C V V C V
+3771	wersing	to fight	takawai	takawai	t a k a w a i		330_tofight-8	1523	t a k a w - a - i	C V C V C V V
+3873	blagar	to flow	totu	totu	t o t u		331_toflow-0	1524	t o - t u -	C V C V
+3876	kaera	to flow	toto'	toto'	t o t o ʔ		331_toflow-0	1524	t o - t o ʔ	C V C V C
+3871	teiwa	to flow	tootan	tootan	t o o t a n		331_toflow-0	1524	t o o t a n	C V V C V C
+3872	abui	to flow	tavel	tavel	t a v e l		331_toflow-3	1527	t a v - e l -	C V C V C
+3879	adang	to flow	tawoi (voiceless w)	tawoi	t a w o i		331_toflow-3	1527	t a w - o - i	C V C V V
+3874	kamang	to flow	tawei	tawei	t a w e i		331_toflow-3	1527	t a w - e - i	C V C V V
+3882	klon	to flow	təwɛɛl	təwɛɛl	t ə w ɛ ɛ l		331_toflow-3	1527	t ə w ɛ ɛ l -	C V C V V C
+3878	kui	to flow	tewéli	tewéli	t e w e l i		331_toflow-3	1527	t e w - e l i	C V C V C V
+3598	adang	to give	ʔεnεʔ	ʔεnεʔ	ʔ ɛ n ɛ ʔ		333_togive-0	1539	- - - - ʔ ɛ n ɛ ʔ	C V C V C
+3591	blagar	to give	meʔenaŋ	meʔenaŋ	m e ʔ e n a ŋ		333_togive-0	1539	- - m e ʔ e n a ŋ	C V C V C V C
+3594	kaera	to give	megeng	megeng	m e g e ŋ		333_togive-0	1539	- - m e g e ŋ - -	C V C V C
+3592	kamang	to give	me –n	me –n	m e n		333_togive-0	1539	- - m e - - n - -	C V C
+3601	klon	to give	gɛn	gɛn	g ɛ n		333_togive-0	1539	- - - - g ɛ n - -	C V C
+3596	kui	to give	gei, gana	gei	g e i		333_togive-0	1539	- - - - g e - i -	C V V
+3600	nedebang	to give	ma-gena	ma-gena	m a g e n a		333_togive-0	1539	- - m a g e n a -	C V C V C V
+3590	protoalorpantar	to give	-ena	-ena	e n a		333_togive-0	1539	- - - - - e n a -	V C V
+3599	sawila	to give	garani	garani	g a r a n i		333_togive-0	1539	g a r - - a n i -	C V C V C V
+3587	teiwa	to give	gəmiyan	gəmiyan	g ə m i j a n		333_togive-0	1539	g ə m i j a n - -	C V C V C V C
+3595	westernpantar	to give	gania	gania	g a n i a		333_togive-0	1539	- - - - g a n i a	C V C V V
+3780	abui	to guard	weree, fukong	weree	w e r e e		334_toguard-2	1544	w e r - e - e -	C V C V V
+3789	adang	to guard	ʔubuʔuŋ	ʔubuʔuŋ	ʔ u b u ʔ u ŋ		334_toguard-2	1544	ʔ u b - u ʔ u ŋ	C V C V C V C
+3786	kaera	to guard	bukang	bukang	b u k a ŋ		334_toguard-2	1544	- - b - u k a ŋ	C V C V C
+3784	kamang	to guard	pukan	pukan	p u k a n		334_toguard-2	1544	- - p - u k a n	C V C V C
+3791	klon	to guard	buuk, toot	buuk	b u u k		334_toguard-2	1544	- - b - u - u k	C V V C
+3782	protoalorpantar	to guard	bukan	bukan	b u k a n		334_toguard-2	1544	- - b - u k a n	C V C V C
+3787	westernpantar	to guard	baukang	baukang	b a u k a ŋ		334_toguard-2	1544	- - b a u k a ŋ	C V V C V C
+3163	abui	to hear	mahia	mahia	m a h i a		335_tohear-3	1551	m a - h i a -	C V C V V
+3164	blagar	to hear	veŋ-me	veŋ-me	v e ŋ m e		335_tohear-3	1551	v e ŋ m - e -	C V C C V
+3165	kamang	to hear	-mai	-mai	m a i		335_tohear-3	1551	m a - - - i -	C V V
+3173	klon	to hear	məgɪh	məgɪh	m ə g ɪ h		335_tohear-3	1551	m ə - g - ɪ h	C V C V C
+3169	kui	to hear	magí	magí	m a g i		335_tohear-3	1551	m a - g - i -	C V C V
+3171	sawila	to hear	mayiiŋ	mayiiŋ	m a j i i ŋ		335_tohear-3	1551	m a - j i i ŋ	C V C V V C
+3884	abui	to hold	puna	puna	p u n a		337_tohold-0	1564	- - - p u - n a -	C V C V
+3892	adang	to hold	ʔapun	ʔapun	ʔ a p u n		337_tohold-0	1564	ʔ a - p u - n - -	C V C V C
+3886	blagar	to hold	pempiná	pempiná	p e m p i n a		337_tohold-0	1564	p e m p i - n a -	C V C C V C V
+3889	kaera	to hold	pino'	pino'	p i n o ʔ		337_tohold-0	1564	- - - p i - n o ʔ	C V C V C
+3887	kamang	to hold	fun	fun	f u n		337_tohold-0	1564	- - - f u - n - -	C V C
+3895	klon	to hold	gopʊɪn	gopʊɪn	g o p ʊ ɪ n		337_tohold-0	1564	g o - p ʊ ɪ n - -	C V C V V C
+3891	kui	to hold	gapúna	gapúna	g a p u n a		337_tohold-0	1564	g a - p u - n a -	C V C V C V
+3894	nedebang	to hold	pinni	pinni	p i n n i		337_tohold-0	1564	- - - p i n n i -	C V C C V
+3885	protoalorpantar	to hold	pVN2	pVN	p V/ǝ ŋ		337_tohold-0	1564	- - - p V/ǝ - ŋ - -	C 0 C
+3883	teiwa	to hold	wanpin	wanpin	w a n p i n		337_tohold-0	1564	w a n p i - n - -	C V C C V C
+3890	westernpantar	to hold	pinni	pinni	p i n n i		337_tohold-0	1564	- - - p i n n i -	C V C C V
+2192	kaera	to hunt	ira'po	ira'po	i r a ʔ p o		338_tohunt-1	1567	i r a ʔ - - p o -	V C V C C V
+2196	nedebang	to hunt	ilaafi	ilaafi	i l a a f i		338_tohunt-1	1567	i l a - a - f i -	V C V V C V
+2193	westernpantar	to hunt	ala gallang	ala gallang	a l a g a l l a ŋ		338_tohunt-1	1567	a l a g a l l a ŋ	V C V C V C C V C
+2255	kaera	to kill	gabar	gabar	g a b a r		339_tokill-0	1575	g a b a r - -	C V C V C
+2261	klon	to kill	gəbɛr	gəbɛr	g ə b ɛ r		339_tokill-0	1575	g ə b ɛ r - -	C V C V C
+2257	kui	to kill	gabarin	gabarin	g a b a r i n		339_tokill-0	1575	g a b a r i n	C V C V C V C
+2260	nedebang	to kill	gafala	gafala	g a f a l a		339_tokill-0	1575	g a f a l a -	C V C V C V
+2249	teiwa	to kill	gafar	gafar	g a f a r		339_tokill-0	1575	g a f a r - -	C V C V C
+2250	abui	to kill	faheng, ne-faheng	faheng	f a h e ŋ		339_tokill-4	1579	- - f a - - - h e ŋ	C V C V C
+2253	kamang	to kill	paan	paan	p a a n		339_tokill-4	1579	- - p a - - - - a n	C V V C
+2254	wersing	to kill	gepai gapang	gepai gapang	g e p a i g a p a ŋ		339_tokill-4	1579	g e p a i g a p a ŋ	C V C V V C V C V C
+2347	kaera	to laugh	agaro	agaro	a g a r o		341_tolaugh-0	1602	- a g a r o	V C V C V
+2353	klon	to laugh	əgɑr	əgɑr	ə g ɑ r		341_tolaugh-0	1602	- ə g ɑ r -	V C V C
+2352	nedebang	to laugh	gela	gela	g e l a		341_tolaugh-0	1602	- - g e l a	C V C V
+2340	teiwa	to laugh	yəxar	yəxar	j ə ħ a r		341_tolaugh-0	1602	j ə ħ a r -	C V C V C
+2350	adang	to laugh	asala	asala	a s a l a		341_tolaugh-1	1603	a s - a l a	V C V C V
+2344	blagar	to laugh	yaar	yaar	j a a r		341_tolaugh-1	1603	- j a a r -	C V V C
+2345	kamang	to laugh	yeei	yeei	j e e i		341_tolaugh-1	1603	- j e e - i	C V V V
+2349	kui	to laugh	yeri	yeri	j e r i		341_tolaugh-1	1603	- j - e r i	C V C V
+2343	protoalorpantar	to laugh	yari	yari	j a r i		341_tolaugh-1	1603	- j - a r i	C V C V
+2351	sawila	to laugh	yara	yara	j a r a		341_tolaugh-1	1603	- j - a r a	C V C V
+2346	wersing	to laugh	yer	yer	j e r		341_tolaugh-1	1603	- j - e r -	C V C
+2348	westernpantar	to laugh	yali	yali	j a l i		341_tolaugh-1	1603	- j - a l i	C V C V
+2265	kamang	to live	-ng kang	-ng kang	ŋ k a ŋ		342_tolive-7	1612	- - ŋ - - - - k - a ŋ -	C C V C
+2271	sawila	to live	ganiiri keana	ganiiri keana	g a n i i r i k e a n a		342_tolive-7	1612	g a n i i r i k e a n a	C V C V V C V C V V C V
+2266	wersing	to live	genirkang	genirkang	g e n i r k a ŋ		342_tolive-7	1612	g e n - i r - k - a ŋ -	C V C V C C V C
+831	abui	to plant 1	murow	murow	m u r o w		344_toplant1-0	1624	- - - - - m u - r o w	C V C V C
+838	adang	to plant 1	mudiŋ 'plant smth. like a tree that takes many years to grow	mudiŋ	m u d i ŋ		344_toplant1-0	1624	- - - - - m u - d i ŋ	C V C V C
+833	blagar	to plant 1	mudiŋ	mudiŋ	m u d i ŋ		344_toplant1-0	1624	- - - - - m u - d i ŋ	C V C V C
+834	kamang	to plant 1	mit	mit	m i t		344_toplant1-0	1624	- - - - - m i - t - -	C V C
+841	klon	to plant 1	mdin	mdin	m d i n		344_toplant1-0	1624	- - - - - m - - d i n	C C V C
+837	kui	to plant 1	atako medi	atako medi	a t a k o m e d i		344_toplant1-0	1624	a t a k o m e - d i -	V C V C V C V C V
+840	nedebang	to plant 1	muddi	muddi	m u d d i		344_toplant1-0	1624	- - - - - m u d d i -	C V C C V
+832	protoalorpantar	to plant 1	mudi-n	mudi-n	m u d i n		344_toplant1-0	1624	- - - - - m u - d i n	C V C V C
+839	sawila	to plant 1	mading	mading	m a d i ŋ		344_toplant1-0	1624	- - - - - m a - d i ŋ	C V C V C
+830	teiwa	to plant 1	midan	midan	m i d a n		344_toplant1-0	1624	- - - - - m i - d a n	C V C V C
+835	wersing	to plant 1	mdi	mdi	m d i		344_toplant1-0	1624	- - - - - m - - d i -	C C V
+836	westernpantar	to plant 1	midding	midding	m i d d i ŋ		344_toplant1-0	1624	- - - - - m i d d i ŋ	C V C C V C
+843	abui	to plant 2	tapei 'to pound'	tapei	t a p e i		345_toplant2-0	1625	- t a p e i - - - - - - - -	C V C V V
+851	adang	to plant 2	ta:pang 'to pound'	ta:pang	t aː p a ŋ		345_toplant2-0	1625	- t aː - - - - p - - - - a ŋ	C V C V C
+845	blagar	to plant 2	tapa 'to pound	tapa	t a p a		345_toplant2-0	1625	- t a p - - - - - - - - a -	C V C V
+848	kaera	to plant 2	tap 'to pound'	tap	t a p		345_toplant2-0	1625	- t a p - - - - - - - - - -	C V C
+846	kamang	to plant 2	tafe	tafe	t a f e		345_toplant2-0	1625	- t a f - - - - - - - - e -	C V C V
+850	kui	to plant 2	tapai 'to stab'	tapai	t a p a i		345_toplant2-0	1625	- t a p a i - - - - - - - -	C V C V V
+853	nedebang	to plant 2	tappa 'plant, pound rice, stab'	tappa	t a p p a		345_toplant2-0	1625	- t a p - - - p - - - - a -	C V C C V
+844	protoalorpantar	to plant 2	tapai 'pierce'	tapai 'pierce'	t a p a i ʔ p i e r tʃ e ʔ		345_toplant2-0	1625	- t a p a i ʔ p i e r tʃ e ʔ	C V C V V C C V V C C V C
+852	sawila	to plant 2	taan	taan	t a a n		345_toplant2-0	1625	- t a - - - - - - - - - a n	C V V C
+842	teiwa	to plant 2	itap	itap	i t a p		345_toplant2-0	1625	i t a p - - - - - - - - - -	V C V C
+847	wersing	to plant 2	ta	ta	t a		345_toplant2-0	1625	- t a - - - - - - - - - - -	C V
+849	westernpantar	to plant 2	tappang 'to stab'	tappang	t a p p a ŋ		345_toplant2-0	1625	- t a p - - - p - - - - a ŋ	C V C C V C
+3911	abui	to play	muila	muila	m u i l a		346_toplay-1	1628	- - m u i l a -	C V V C V
+3915	kaera	to play	mulay	mulay	m u l a j		346_toplay-1	1628	- - m u - l a j	C V C V C
+3917	kui	to play	namoli	namoli	n a m o l i		346_toplay-1	1628	n a m o - l i -	C V C V C V
+2223	abui	to pound	tape	tape	t a p e		347_topound-2	1637	- - t a - p e -	C V C V
+2232	adang	to pound	ta:paŋ	ta:paŋ	t aː p a ŋ		347_topound-2	1637	- - t aː - p a ŋ	C V C V C
+2225	blagar	to pound	tápa	tápa	t a p a		347_topound-2	1637	- - t a - p a -	C V C V
+2229	kaera	to pound	tapo'	tapo'	t a p o ʔ		347_topound-2	1637	- - t a - p o ʔ	C V C V C
+2226	kamang	to pound	wotafe	wotafe	w o t a f e		347_topound-2	1637	w o t a - f e -	C V C V C V
+2234	klon	to pound	tpan	tpan	t p a n		347_topound-2	1637	- - t - - p a n	C C V C
+2224	protoalorpantar	to pound	tap(a)	tap	t a p		347_topound-2	1637	- - t a - p - -	C V C
+2230	westernpantar	to pound	tappang	tappang	t a p p a ŋ		347_topound-2	1637	- - t a p p a ŋ	C V C C V C
+3923	abui	to pull	ha-fik	ha-fik	h a f i k		348_topull-4	1644	h a f i k - -	C V C V C
+3930	adang	to pull	ʔabiʔiŋ	ʔabiʔiŋ	ʔ a b i ʔ i ŋ		348_topull-4	1644	ʔ a b i ʔ i ŋ	C V C V C V C
+3933	klon	to pull	gəbɪk	gəbɪk	g ə b ɪ k		348_topull-4	1644	g ə b ɪ k - -	C V C V C
+3929	kui	to pull	gabik	gabik	g a b i k		348_topull-4	1644	g a b i k - -	C V C V C
+2391	adang	to sing	da:la	da:la	d aː l a		352_tosing-0	1673	d aː l - a -	C V C V
+2385	blagar	to sing	dar hóy	dar hóy	d a r h o j		352_tosing-0	1673	d a r h o j	C V C C V C
+2390	kui	to sing	dar	dar	d a r		352_tosing-0	1673	d a - - - r	C V C
+2384	protoalorpantar	to sing	dar	dar	d a r		352_tosing-0	1673	d a - - - r	C V C
+2392	sawila	to sing	dara	dara	d a r a		352_tosing-0	1673	d a r - a -	C V C V
+2382	teiwa	to sing	daar	daar	d a a r		352_tosing-0	1673	d a - - a r	C V V C
+2387	wersing	to sing	dra	dra	d r a		352_tosing-0	1673	d - r - a -	C C V
+2389	westernpantar	to sing	dali	dali	d a l i		352_tosing-0	1673	d a l - i -	C V C V
+3183	adang	to smell	ʔumuniŋ	ʔumuniŋ	ʔ u m u n i ŋ		354_tosmell-4	1683	ʔ u m u n i ŋ	C V C V C V C
+3186	klon	to smell	gəmoin	gəmoin	g ə m o i n		354_tosmell-4	1683	g ə m o - i n	C V C V V C
+3182	kui	to smell	gumun	gumun	g u m u n		354_tosmell-4	1683	g u m u - - n	C V C V C
+3179	wersing	to smell	muing	muing	m u i ŋ		354_tosmell-4	1683	- - m u - i ŋ	C V V C
+3470	abui	to spit	puina	puina	p u i n a		356_tospit-0	1698	- - - - p - - u i n a	C V V C V
+3472	blagar	to spit	puruŋ	puruŋ	p u r u ŋ		356_tospit-0	1698	- - - - p u r u - ŋ -	C V C V C
+3475	kaera	to spit	purang	purang	p u r a ŋ		356_tospit-0	1698	- - - - p u r a - ŋ -	C V C V C
+3473	kamang	to spit	supui	supui	s u p u i		356_tospit-0	1698	- - s u p - - u i - -	C V C V V
+3482	klon	to spit	pərʊin	pərʊin	p ə r ʊ i n		356_tospit-0	1698	- - - - p ə r ʊ i n -	C V C V V C
+3477	kui	to spit	puring	puring	p u r i ŋ		356_tospit-0	1698	- - - - p u r - i ŋ -	C V C V C
+3481	nedebang	to spit	maliplum	maliplum	m a l i p l u m		356_tospit-0	1698	m a l i p - l u - m -	C V C V C C V C
+3471	protoalorpantar	to spit	purVn	purVn	p u r V/ǝ n		356_tospit-0	1698	- - - - p u r V/ǝ - n -	C V C 0 C
+3469	teiwa	to spit	puran	puran	p u r a n		356_tospit-0	1698	- - - - p u r a - n -	C V C V C
+3728	blagar	to split	kay	kay	k a j		357_tosplit-0	1703	k a j - - -	C V C
+3731	kaera	to split	gaxasi	gaxasi	g a ħ a s i		357_tosplit-0	1703	g a ħ a s i	C V C V C V
+3726	teiwa	to split	qas	qas	q a s		357_tosplit-0	1703	q a - - s -	C V C
+3824	abui	to throw	huor	huor	h u o r		360_tothrow-0	1740	h u - - o r	C V V C
+3832	adang	to throw	Od	Od	O/ɔ d		360_tothrow-0	1740	- O/ɔ - d - -	0 C
+3826	blagar	to throw	odá	odá	o d a		360_tothrow-0	1740	- o - d a -	V C V
+3829	kaera	to throw	good	good	g o o d		360_tothrow-0	1740	g o o d - -	C V V C
+3835	klon	to throw	gɔɔd	gɔɔd	g ɔ ɔ d		360_tothrow-0	1740	g ɔ ɔ d - -	C V V C
+3831	kui	to throw	gor	gor	g o r		360_tothrow-0	1740	g o - - - r	C V C
+3825	protoalorpantar	to throw	-od	-od	o d		360_tothrow-0	1740	- o - d - -	V C
+3906	adang	to tie	ʔapeceʔ	ʔapeceʔ	ʔ a p e tʃ e ʔ		361_totie-2	1748	ʔ a p e tʃ e ʔ	C V C V C V C
+3902	kaera	to tie	pato'	pato'	p a t o ʔ		361_totie-2	1748	- - p a t o ʔ	C V C V C
+3909	klon	to tie	pɑt	pɑt	p ɑ t		361_totie-2	1748	- - p ɑ t - -	C V C
+3905	kui	to tie	upat	upat	u p a t		361_totie-2	1748	- u p a t - -	V C V C
+3490	kui	to vomit	karí	karí	k a r i		363_tovomit-1	1765	k a r - - i	C V C V
+3492	nedebang	to vomit	kala'a	kala'a	k a l a ʔ a		363_tovomit-1	1765	k a l a ʔ a	C V C V C V
+3489	westernpantar	to vomit	kale'e	kale'e	k a l e ʔ e		363_tovomit-1	1765	k a l e ʔ e	C V C V C V
+3246	kaera	to wake s.o up	geteno	geteno	g e t e n o		364_towakesoup-1	1773	g e t e - n o	C V C V C V
+3244	kamang	to wake s.o up	-tan	-tan	t a n		364_towakesoup-1	1773	- - t a - n -	C V C
+3252	klon	to wake s.o up	gətɛŋ	gətɛŋ	g ə t ɛ ŋ		364_towakesoup-1	1773	g ə t ɛ - ŋ -	C V C V C
+3251	nedebang	to wake s.o up	gətani	gətani	g ə t a n i		364_towakesoup-1	1773	g ə t a - n i	C V C V C V
+3242	protoalorpantar	to wake s.o up	-ten	-ten	t e n		364_towakesoup-1	1773	- - t e - n -	C V C
+3245	wersing	to wake s.o up	geteing	geteing	g e t e i ŋ		364_towakesoup-1	1773	g e t e i ŋ -	C V C V V C
+3301	adang	to walk	lami	lami	l a m i		366_towalk-2	1781	l a m i - - - -	C V C V
+3294	blagar	to walk	lamar	lamar	l a m a r		366_towalk-2	1781	l a m a - r - -	C V C V C
+3304	klon	to walk	gɛpunlɑm	gɛpunlɑm	g ɛ p u n l ɑ m		366_towalk-2	1781	g ɛ p u n l ɑ m	C V C V C C V C
+3291	teiwa	to walk	tewar 'to walk', lam 'to follow'	tewar	t e w a r		366_towalk-2	1781	t e w a - r - -	C V C V C
+3299	westernpantar	to walk	lama	lama	l a m a		366_towalk-2	1781	l a m a - - - -	C V C V
+3295	kamang	to walk	loo, maa	loo	l o o		366_towalk-0	1779	l o - - o -	C V V
+3302	sawila	to walk	loola	loola	l o o l a		366_towalk-0	1779	l o o l a -	C V V C V
+3297	wersing	to walk	lailol	lailol	l a i l o l		366_towalk-0	1779	l a i l o l	C V V C V C
+1389	abui	tongue	taleifi	taleifi	t a l e i f i		369_tongue-0	1806	t a l e i f i -	C V C V V C V
+1397	adang	tongue	talεb, nalεb	talεb	t a l ɛ b		369_tongue-0	1806	t a l - ɛ b - -	C V C V C
+1394	kaera	tongue	taleeb	taleeb	t a l e e b		369_tongue-0	1806	t a l e e b - -	C V C V V C
+1401	klon	tongue	gəlɛb	gəlɛb	g ə l ɛ b		369_tongue-0	1806	g ə l - ɛ b - -	C V C V C
+1396	kui	tongue	ta-liber	ta-liber	t a l i b e r		369_tongue-0	1806	t a l - i b e r	C V C V C V C
+1400	nedebang	tongue	gəlefu	gəlefu	g ə l e f u		369_tongue-0	1806	g ə l - e f u -	C V C V C V
+1390	protoalorpantar	tongue	-leb	-leb	l e b		369_tongue-0	1806	- - l - e b - -	C V C
+1388	teiwa	tongue	gelivi	gelivi	g e l i v i		369_tongue-0	1806	g e l - i v i -	C V C V C V
+1395	westernpantar	tongue	nalebu	nalebu	n a l e b u		369_tongue-0	1806	n a l - e b u -	C V C V C V
+687	abui	tree	ˈbata	ˈbata	ʔ b a t a		371_tree-0	1818	ʔ b a t a - -	C C V C V
+695	adang	tree	ti	ti	t i		371_tree-0	1818	- - - t i - -	C V
+689	blagar	tree	te	te	t e		371_tree-0	1818	- - - t e - -	C V
+692	kaera	tree	tei	tei	t e i		371_tree-0	1818	- - - t e - i	C V V
+698	klon	tree	ətəʔ	ətəʔ	ə t ə ʔ		371_tree-0	1818	- - ə t ə ʔ -	V C V C
+694	kui	tree	atei	atei	a t e i		371_tree-0	1818	- - a t e - i	V C V V
+697	nedebang	tree	tei	tei	t e i		371_tree-0	1818	- - - t e - i	C V V
+688	protoalorpantar	tree	tei	tei	t e i		371_tree-0	1818	- - - t e - i	C V V
+686	teiwa	tree	tei	tei	t e i		371_tree-0	1818	- - - t e - i	C V V
+1930	abui	turtle	youko	youko	j o u k o		372_turtle-0	1822	j o - u k - o	C V V C V
+1934	kaera	turtle	yirko	yirko	j i r k o		372_turtle-0	1822	j i r - k - o	C V C C V
+1932	kamang	turtle	yokee	yokee	j o k e e		372_turtle-0	1822	j o - - k e e	C V C V V
+1929	teiwa	turtle	yer kua	yer kua	j e r k u a		372_turtle-0	1822	j e r - k u a	C V C C V V
+1935	westernpantar	turtle	yiakau	yiakau	j i a k a u		372_turtle-0	1822	j i - a k a u	C V V C V V
+2450	abui	two	ayoku	ayoku	a j o k u		376_two-0	1829	a j o k u	V C V C V
+2458	adang	two	a:lu	a:lu	aː l u		376_two-0	1829	- - aː l u	V C V
+2452	blagar	two	aru	aru	a r u		376_two-0	1829	- - a r u	V C V
+2455	kaera	two	raxo	raxo	r a ħ o		376_two-0	1829	- r a ħ o	C V C V
+2461	klon	two	ərʊk	ərʊk	ə r ʊ k		376_two-0	1829	ə r ʊ k -	V C V C
+2457	kui	two	oruku	oruku	o r u k u		376_two-0	1829	o r u k u	V C V C V
+2451	protoalorpantar	two	araqu	araqu	a r a q u		376_two-0	1829	a r a q u	V C V C V
+2449	teiwa	two	raq	raq	r a q		376_two-0	1829	- r a q -	C V C
+2456	westernpantar	two	alaku	alaku	a l a k u		376_two-0	1829	a l a k u	V C V C V
+1490	abui	vagina	oy	oy	o j		378_vagina-0	1834	- o - j -	V C
+1492	blagar	vagina	ar	ar	a r		378_vagina-0	1834	- a - r -	V C
+1493	kamang	vagina	-ai	-ai	a i		378_vagina-0	1834	- a - - i	V V
+1498	klon	vagina	aar	aar	a a r		378_vagina-0	1834	- a a r -	V V C
+1496	kui	vagina	ar	ar	a r		378_vagina-0	1834	- a - r -	V C
+1491	protoalorpantar	vagina	-ar	-ar	a r		378_vagina-0	1834	- a - r -	V C
+1489	teiwa	vagina	taar	taar	t a a r		378_vagina-0	1834	t a a r -	C V V C
+196	adang	village	baŋ ʔεme (lit., 'old house')	baŋ ʔεme	b a ŋ ʔ ɛ m e		379_village-0	1838	- - - b a ŋ ʔ ɛ m e	C V C C V C V
+190	blagar	village	ábaŋ	ábaŋ	a b a ŋ		379_village-0	1838	- a - b a ŋ - - - -	V C V C
+193	kaera	village	aban	aban	a b a n		379_village-0	1838	- a - b a n - - - -	V C V C
+199	klon	village	eben	eben	e b e n		379_village-0	1838	- e - b e n - - - -	V C V C
+195	kui	village	abán	abán	a b a n		379_village-0	1838	- a - b a n - - - -	V C V C
+198	nedebang	village	afang	afang	a f a ŋ		379_village-0	1838	- a - f a ŋ - - - -	V C V C
+189	protoalorpantar	village	haban	haban	h a b a n		379_village-0	1838	h a - b a n - - - -	C V C V C
+187	teiwa	village	hafan	hafan	h a f a n		379_village-0	1838	h a - f a n - - - -	C V C V C
+194	westernpantar	village	habbang	habbang	h a b b a ŋ		379_village-0	1838	h a b b a ŋ - - - -	C V C C V C
+191	kamang	village	mane	mane	m a n e		379_village-1	1839	m a n - e -	C V C V
+197	sawila	village	manaa	manaa	m a n a a		379_village-1	1839	m a n a a -	C V C V V
+192	wersing	village	maná'	maná'	m a n a ʔ		379_village-1	1839	m a n a - ʔ	C V C V C
+247	abui	water (fresh)	ye	ye	j e		381_waterfresh-0	1857	j e - - - -	C V
+255	adang	water (fresh)	si	si	s i		381_waterfresh-0	1857	s i - - - -	C V
+249	blagar	water (fresh)	jar	jar	dʒ a r		381_waterfresh-0	1857	dʒ a - r - -	C V C
+252	kaera	water (fresh)	jiir	jiir	dʒ i i r		381_waterfresh-0	1857	dʒ i i r - -	C V V C
+250	kamang	water (fresh)	ili	ili	i l i		381_waterfresh-0	1857	- i - l - i	V C V
+258	klon	water (fresh)	arɑ	arɑ	a r ɑ		381_waterfresh-0	1857	- a - r - ɑ	V C V
+254	kui	water (fresh)	eer	eer	e e r		381_waterfresh-0	1857	- e e r - -	V V C
+257	nedebang	water (fresh)	yila	yila	j i l a		381_waterfresh-0	1857	j i - l - a	C V C V
+248	protoalorpantar	water (fresh)	yira	yira	j i r a		381_waterfresh-0	1857	j i - r - a	C V C V
+256	sawila	water (fresh)	iria	iria	i r i a		381_waterfresh-0	1857	- i - r i a	V C V V
+246	teiwa	water (fresh)	yir	yir	j i r		381_waterfresh-0	1857	j i - r - -	C V C
+251	wersing	water (fresh)	irá	irá	i r a		381_waterfresh-0	1857	- i - r - a	V C V
+340	abui	wave	fɔ	fɔ	f ɔ		382_wave-0	1859	f ɔ - - -	C V
+348	adang	wave	bobo	bobo	b o b o		382_wave-0	1859	b o - b o	C V C V
+345	kaera	wave	boob	boob	b o o b		382_wave-0	1859	b o o b -	C V V C
+351	klon	wave	bo:b	bo:b	b oː b		382_wave-0	1859	b oː - b -	C V C
+350	nedebang	wave	bova	bova	b o v a		382_wave-0	1859	b o - v a	C V C V
+341	protoalorpantar	wave	bob	bob	b o b		382_wave-0	1859	b o - b -	C V C
+339	teiwa	wave	boof	boof	b o o f		382_wave-0	1859	b o o f -	C V V C
+3089	blagar	white	məjá	məjá	m ə dʒ a		385_white-0	1887	m ə - - dʒ a	C V C V
+3092	kaera	white	miyeqo	miyeqo	m i j e q o		385_white-0	1887	m i j e q o	C V C V C V
+3097	nedebang	white	miyaqa	miyaqa	m i j a q a		385_white-0	1887	m i j a q a	C V C V C V
+3087	teiwa	white	miyaq	miyaq	m i j a q		385_white-0	1887	m i j a q -	C V C V C
+3093	westernpantar	white	miaka	miaka	m i a k a		385_white-0	1887	m i - a k a	C V V C V
+3495	abui	yawn	ahau	ahau	a h a u		394_yawn-0	1972	- a h a u -	V C V V
+3499	kaera	yawn	agur	agur	a g u r		394_yawn-0	1972	- a g u - r	V C V C
+3500	kui	yawn	agú	agú	a g u		394_yawn-0	1972	- a g u - -	V C V
+3494	teiwa	yawn	xaxar	xaxar	ħ a ħ a r		394_yawn-0	1972	ħ a ħ a - r	C V C V C
+3131	adang	yellow	baʔoi	baʔoi	b a ʔ o i		395_yellow-0	1977	b a ʔ o - i -	C V C V V
+3125	blagar	yellow	bóri	bóri	b o r i		395_yellow-0	1977	b o - - r i -	C V C V
+3128	kaera	yellow	bagari	bagari	b a g a r i		395_yellow-0	1977	b a g a r i -	C V C V C V
+3134	klon	yellow	bʊbʊgɔr	bʊbʊgɔr	b ʊ b ʊ g ɔ r		395_yellow-0	1977	b ʊ b ʊ g ɔ r	C V C V C V C
+3130	kui	yellow	bagura	bagura	b a g u r a		395_yellow-0	1977	b a g u r a -	C V C V C V
+3123	teiwa	yellow	baxari	baxari	b a ħ a r i		395_yellow-0	1977	b a ħ a r i -	C V C V C V
+3129	westernpantar	yellow	bugga	bugga	b u g g a		395_yellow-0	1977	b u g - g a -	C V C C V
+82	kaera	yesterday	miyag	miyag	m i j a g		396_yesterday-0	1982	m i j - a g -	C V C V C
+87	nedebang	yesterday	miyagi	miyagi	m i j a g i		396_yesterday-0	1982	m i j - a g i	C V C V C V
+77	teiwa	yesterday	miyaag	miyaag	m i j a a g		396_yesterday-0	1982	m i j a a g -	C V C V V C
+79	blagar	yesterday	maléŋ	maléŋ	m a l e ŋ		396_yesterday-2	1984	m a l e ŋ - -	C V C V C
+88	klon	yesterday	mleng	mleng	m l e ŋ		396_yesterday-2	1984	m - l e ŋ - -	C C V C
+81	wersing	yesterday	mlénya	mlénya	m l e n j a		396_yesterday-2	1984	m - l e n j a	C C V C C V

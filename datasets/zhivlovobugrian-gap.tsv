@@ -1,0 +1,1975 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COG	COGID	ALIGNMENT	STRUCTURE	ORIGINAL_ALIGNMENT	ORIGINAL_TOKENS	ORIGINAL_STRUCTURE
+782	jugankhanty	I	mæː	m.æː	m æː		82	224	m æː	C V	- m æː -	m æː	C V
+787	kazymkhanty	I	maː	m.aː	m aː		82	224	m aː	C V	- m aː -	m aː	C V
+784	kondakhanty	I	mæn	m.æ.n	m æ		82	224	m æ	C V	- m æ n	m æ n	C V C
+777	kondamansi	I	ɔm	ɔ.m	m		82	224	m -	C	ɔ m - -	ɔ m	V C
+775	lowerlozvamansi	I	am	a.m	m		82	224	m -	C	a m - -	a m	V C
+774	middlelozvamansi	I	æm	æ.m	m		82	224	m -	C	æ m - -	æ m	V C
+785	nizjamkhanty	I	maː	m.aː	m aː		82	224	m aː	C V	- m aː -	m aː	C V
+773	northmansi	I	am	a.m	m		82	224	m -	C	a m - -	a m	V C
+789	obdorskkhanty	I	mæː	m.æː	m æː		82	224	m æː	C V	- m æː -	m æː	C V
+776	pelymkamansi	I	ɔm	ɔ.m	m		82	224	m -	C	ɔ m - -	ɔ m	V C
+786	sherkalykhanty	I	maː	m.aː	m aː		82	224	m aː	C V	- m aː -	m aː	C V
+788	synjakhanty	I	maː	m.aː	m aː		82	224	m aː	C V	- m aː -	m aː	C V
+778	tavdamansi	I	æm	æ.m	m		82	224	m -	C	æ m - -	æ m	V C
+781	tremjugankhanty	I	mæː	m.æː	m æː		82	224	m æː	C V	- m æː -	m æː	C V
+783	upperdemjankakhanty	I	mæːn	m.æː.n	m æː		82	224	m æː	C V	- m æː n	m æː n	C V C
+779	vakhkhanty	I	mæː	m.æː	m æː		82	224	m æː	C V	- m æː -	m æː	C V
+780	vasjugankhanty	I	mæː	m.æː	m æː		82	224	m æː	C V	- m æː -	m æː	C V
+5	kondamansi	all	soq	s.o.q	s o q		2	121	s o q	C V C	s o q	s o q	C V C
+3	lowerlozvamansi	all	ʃaq	ʃ.a.q	ʃ a q		2	121	ʃ a q	C V C	ʃ a q	ʃ a q	C V C
+4	pelymkamansi	all	ʃoq	ʃ.o.q	ʃ o q		2	121	ʃ o q	C V C	ʃ o q	ʃ o q	C V C
+6	tavdamansi	all	ʃɔχ	ʃ.ɔ.χ	ʃ ɔ χ		2	121	ʃ ɔ χ	C V C	ʃ ɔ χ	ʃ ɔ χ	C V C
+13	jugankhanty	all	ejnæːm	e.j.n.æː.m	e j n æː m		3	168	e j n æː m	V C C V C	e j n æː m	e j n æː m	V C C V C
+10	likrisovskojekhanty	all	ejnæːm	e.j.n.æː.m	e j n æː m		3	168	e j n æː m	V C C V C	e j n æː m	e j n æː m	V C C V C
+11	malyjjugankhanty	all	ejnæːm	e.j.n.æː.m	e j n æː m		3	168	e j n æː m	V C C V C	e j n æː m	e j n æː m	V C C V C
+12	tremjugankhanty	all	ejnæːm	e.j.n.æː.m	e j n æː m		3	168	e j n æː m	V C C V C	e j n æː m	e j n æː m	V C C V C
+7	vakhkhanty	all	ejnæːm	e.j.n.æː.m	e j n æː m		3	168	e j n æː m	V C C V C	e j n æː m	e j n æː m	V C C V C
+9	vartovskojekhanty	all	ejnæːm	e.j.n.æː.m	e j n æː m		3	168	e j n æː m	V C C V C	e j n æː m	e j n æː m	V C C V C
+8	verkhnekalymskkhanty	all	ejnæːm	e.j.n.æː.m	e j n æː m		3	168	e j n æː m	V C C V C	e j n æː m	e j n æː m	V C C V C
+18	kazymkhanty	all	isaː	i.s.aː	i s aː		6	199	i s aː	V C V	i s - - aː -	i s aː	V C V
+16	nizjamkhanty	all	isaχaːt	i.s.a.χ.aː.t	i s aː		6	199	i s aː	V C V	i s a χ aː t	i s a χ aː t	V C V C V C
+17	sherkalykhanty	all	isaːt	i.s.aː.t	i s aː		6	199	i s aː	V C V	i s - - aː t	i s aː t	V C V C
+19	synjakhanty	all	isaː	i.s.aː	i s aː		6	199	i s aː	V C V	i s - - aː -	i s aː	V C V
+30	kondakhanty	ashes	χoːjəm	χ.oː.j.ə.m	χ oː j ə m		8	221	χ oː j ə m	C V C V C	χ oː j ə m	χ oː j ə m	C V C V C
+23	kondamansi	ashes	quʎəm	q.u.ʎ.ə.m	q u ʎ ə m		8	221	q u ʎ ə m	C V C V C	q u ʎ ə m	q u ʎ ə m	C V C V C
+22	lowerlozvamansi	ashes	quʎəm	q.u.ʎ.ə.m	q u ʎ ə m		8	221	q u ʎ ə m	C V C V C	q u ʎ ə m	q u ʎ ə m	C V C V C
+21	middlelozvamansi	ashes	quʎəm	q.u.ʎ.ə.m	q u ʎ ə m		8	221	q u ʎ ə m	C V C V C	q u ʎ ə m	q u ʎ ə m	C V C V C
+31	nizjamkhanty	ashes	χɔːjəm	χ.ɔː.j.ə.m	χ ɔː j ə m		8	221	χ ɔː j ə m	C V C V C	χ ɔː j ə m	χ ɔː j ə m	C V C V C
+20	northmansi	ashes	χuʎəm	χ.u.ʎ.ə.m	χ u ʎ ə m		8	221	χ u ʎ ə m	C V C V C	χ u ʎ ə m	χ u ʎ ə m	C V C V C
+32	sherkalykhanty	ashes	χɔːjəm	χ.ɔː.j.ə.m	χ ɔː j ə m		8	221	χ ɔː j ə m	C V C V C	χ ɔː j ə m	χ ɔː j ə m	C V C V C
+24	tavdamansi	ashes	qoːʎəm	q.oː.ʎ.ə.m	q oː ʎ ə m		8	221	q oː ʎ ə m	C V C V C	q oː ʎ ə m	q oː ʎ ə m	C V C V C
+29	upperdemjankakhanty	ashes	χoːjəm	χ.oː.j.ə.m	χ oː j ə m		8	221	χ oː j ə m	C V C V C	χ oː j ə m	χ oː j ə m	C V C V C
+28	jugankhanty	ashes	næːjpæːr	n.æː.j.p.æː.r	p æː r		9	232	p æː r	C V C	n æː j p æː r	n æː j p æː r	C V C C V C
+27	tremjugankhanty	ashes	næːjpæːr	n.æː.j.p.æː.r	p æː r		9	232	p æː r	C V C	n æː j p æː r	n æː j p æː r	C V C C V C
+25	vakhkhanty	ashes	pæːr	p.æː.r	p æː r		9	232	p æː r	C V C	- - - p æː r	p æː r	C V C
+26	vasjugankhanty	ashes	pæːr	p.æː.r	p æː r		9	232	p æː r	C V C	- - - p æː r	p æː r	C V C
+39	kondamansi	bark	suːl	s.uː.l	s uː l		-10	1	s uː l	C V C	s uː l	s uː l	C V C
+37	lowerlozvamansi	bark	sul	s.u.l	s u l		-10	1	s u l	C V C	s u l	s u l	C V C
+36	middlelozvamansi	bark	sul	s.u.l	s u l		-10	1	s u l	C V C	s u l	s u l	C V C
+35	northmansi	bark	sul	s.u.l	s u l		-10	1	s u l	C V C	s u l	s u l	C V C
+38	pelymkamansi	bark	sul	s.u.l	s u l		-10	1	s u l	C V C	s u l	s u l	C V C
+40	tavdamansi	bark	su	s.u	s u		-10	1	s u -	C V	s u -	s u	C V
+47	jugankhanty	bark	kæːr	k.æː.r	k æː r		11	24	k æː r	C V C	k æː r	k æː r	C V C
+51	kazymkhanty	bark	kaːr	k.aː.r	k aː r		11	24	k aː r	C V C	k aː r	k aː r	C V C
+49	kondakhanty	bark	kæːr	k.æː.r	k æː r		11	24	k æː r	C V C	k æː r	k æː r	C V C
+44	likrisovskojekhanty	bark	kæːr	k.æː.r	k æː r		11	24	k æː r	C V C	k æː r	k æː r	C V C
+45	malyjjugankhanty	bark	kæːr	k.æː.r	k æː r		11	24	k æː r	C V C	k æː r	k æː r	C V C
+50	nizjamkhanty	bark	kaːr	k.aː.r	k aː r		11	24	k aː r	C V C	k aː r	k aː r	C V C
+52	obdorskkhanty	bark	kæːr	k.æː.r	k æː r		11	24	k æː r	C V C	k æː r	k æː r	C V C
+46	tremjugankhanty	bark	kæːr	k.æː.r	k æː r		11	24	k æː r	C V C	k æː r	k æː r	C V C
+48	upperdemjankakhanty	bark	kæːr	k.æː.r	k æː r		11	24	k æː r	C V C	k æː r	k æː r	C V C
+41	vakhkhanty	bark	kæːr	k.æː.r	k æː r		11	24	k æː r	C V C	k æː r	k æː r	C V C
+43	vasjugankhanty	bark	kæːr	k.æː.r	k æː r		11	24	k æː r	C V C	k æː r	k æː r	C V C
+42	verkhnekalymskkhanty	bark	kæːr	k.æː.r	k æː r		11	24	k æː r	C V C	k æː r	k æː r	C V C
+74	middlelozvamansi	belly	sɔr	s.ɔ.r	s ɔ r		12	35	s ɔ r -	C V C	s ɔ r - -	s ɔ r	C V C
+73	northmansi	belly	sorɨɣ	s.o.r.ɨ.ɣ	s o r ɨ		12	35	s o r ɨ	C V C V	s o r ɨ ɣ	s o r ɨ ɣ	C V C V C
+75	pelymkamansi	belly	sori	s.o.r.i	s o r i		12	35	s o r i	C V C V	s o r i -	s o r i	C V C V
+83	jugankhanty	belly	kon	k.o.n	k o n		13	46	k o n	C V C	k o n	k o n	C V C
+88	kazymkhanty	belly	χoɳ	χ.o.ɳ	χ o ɳ		13	46	χ o ɳ	C V C	χ o ɳ	χ o ɳ	C V C
+85	kondakhanty	belly	χon	χ.o.n	χ o n		13	46	χ o n	C V C	χ o n	χ o n	C V C
+80	likrisovskojekhanty	belly	koɳ	k.o.ɳ	k o ɳ		13	46	k o ɳ	C V C	k o ɳ	k o ɳ	C V C
+81	malyjjugankhanty	belly	kon	k.o.n	k o n		13	46	k o n	C V C	k o n	k o n	C V C
+86	nizjamkhanty	belly	χon	χ.o.n	χ o n		13	46	χ o n	C V C	χ o n	χ o n	C V C
+90	obdorskkhanty	belly	χon	χ.o.n	χ o n		13	46	χ o n	C V C	χ o n	χ o n	C V C
+87	sherkalykhanty	belly	χon	χ.o.n	χ o n		13	46	χ o n	C V C	χ o n	χ o n	C V C
+89	synjakhanty	belly	χoɳ	χ.o.ɳ	χ o ɳ		13	46	χ o ɳ	C V C	χ o ɳ	χ o ɳ	C V C
+82	tremjugankhanty	belly	koɳ	k.o.ɳ	k o ɳ		13	46	k o ɳ	C V C	k o ɳ	k o ɳ	C V C
+76	vakhkhanty	belly	koɳ	k.o.ɳ	k o ɳ		13	46	k o ɳ	C V C	k o ɳ	k o ɳ	C V C
+79	vartovskojekhanty	belly	koɳ	k.o.ɳ	k o ɳ		13	46	k o ɳ	C V C	k o ɳ	k o ɳ	C V C
+78	vasjugankhanty	belly	koɳ	k.o.ɳ	k o ɳ		13	46	k o ɳ	C V C	k o ɳ	k o ɳ	C V C
+77	verkhnekalymskkhanty	belly	koɳ	k.o.ɳ	k o ɳ		13	46	k o ɳ	C V C	k o ɳ	k o ɳ	C V C
+66	jugankhanty	big	entɬ	e.n.t.ɬ	e n		15	68	e n -	V C	- e n t ɬ - -	e n t ɬ	V C C C
+68	kondakhanty	big	eːnə	eː.n.ə	eː n ə		15	68	eː n ə	V C V	- eː n - - ə -	eː n ə	V C V
+57	kondamansi	big	jæni	j.æ.n.i	æ n i		15	68	æ n i	V C V	j æ n - - i -	j æ n i	C V C V
+63	likrisovskojekhanty	big	eɭə	e.ɭ.ə	e ə		15	68	e - ə	V V	- e - - ɭ ə -	e ɭ ə	V C V
+55	lowerlozvamansi	big	jæni	j.æ.n.i	æ n i		15	68	æ n i	V C V	j æ n - - i -	j æ n i	C V C V
+64	malyjjugankhanty	big	enɬ	e.n.ɬ	e n		15	68	e n -	V C	- e n - ɬ - -	e n ɬ	V C C
+54	middlelozvamansi	big	jæni	j.æ.n.i	æ n i		15	68	æ n i	V C V	j æ n - - i -	j æ n i	C V C V
+53	northmansi	big	jænɨɣ	j.æ.n.ɨ.ɣ	æ n ɨ		15	68	æ n ɨ	V C V	j æ n - - ɨ ɣ	j æ n ɨ ɣ	C V C V C
+56	pelymkamansi	big	jæni	j.æ.n.i	æ n i		15	68	æ n i	V C V	j æ n - - i -	j æ n i	C V C V
+58	tavdamansi	big	jænu	j.æ.n.u	æ n u		15	68	æ n u	V C V	j æ n - - u -	j æ n u	C V C V
+65	tremjugankhanty	big	enɬ	e.n.ɬ	e n		15	68	e n -	V C	- e n - ɬ - -	e n ɬ	V C C
+67	upperdemjankakhanty	big	eːnə	eː.n.ə	eː n ə		15	68	eː n ə	V C V	- eː n - - ə -	eː n ə	V C V
+59	vakhkhanty	big	eɭɭə	e.ɭː.ə	e ə		15	68	e - ə	V V	- e - - ɭː ə -	e ɭː ə	V C V
+62	vartovskojekhanty	big	eɭə	e.ɭ.ə	e ə		15	68	e - ə	V V	- e - - ɭ ə -	e ɭ ə	V C V
+61	vasjugankhanty	big	eɭɭə	e.ɭː.ə	e ə		15	68	e - ə	V V	- e - - ɭː ə -	e ɭː ə	V C V
+60	verkhnekalymskkhanty	big	eɭə	e.ɭ.ə	e ə		15	68	e - ə	V V	- e - - ɭ ə -	e ɭ ə	V C V
+71	kazymkhanty	big	wɵːn	w.ɵː.n	ɵː n		16	77	ɵː n	V C	w ɵː n -	w ɵː n	C V C
+69	nizjamkhanty	big	uːnə	uː.n.ə	uː n		16	77	uː n	V C	- uː n ə	uː n ə	V C V
+70	sherkalykhanty	big	uːnə	uː.n.ə	uː n		16	77	uː n	V C	- uː n ə	uː n ə	V C V
+72	synjakhanty	big	uːn	uː.n	uː n		16	77	uː n	V C	- uː n -	uː n	V C
+102	kazymkhanty	bird	toχɬəŋwɔːj	t.o.χ.ɬ.ə.ŋ.w.ɔː.j	χ ɔː j		17	88	χ ɔː j	C V C	t o χ ɬ ə ŋ w ɔː j - -	t o χ ɬ ə ŋ w ɔː j	C V C C V C C V C
+95	kondamansi	bird	wuj	w.u.j	w u j		17	88	w u j	C V C	- - w - - - - u j - -	w u j	C V C
+93	lowerlozvamansi	bird	uj	u.j	u j		17	88	- u j	V C	- - - - - - - u j - -	u j	V C
+92	middlelozvamansi	bird	tɔuləŋuj	t.ɔu.l.ə.ŋ.u.j	u j		17	88	- u j	V C	t ɔu - l ə ŋ - u j - -	t ɔu l ə ŋ u j	C V C V C V C
+91	northmansi	bird	tɔwləŋuj	t.ɔ.w.l.ə.ŋ.u.j	w u j		17	88	w u j	C V C	t ɔ w l ə ŋ - u j - -	t ɔ w l ə ŋ u j	C V C C V C V C
+94	pelymkamansi	bird	wuj	w.u.j	w u j		17	88	w u j	C V C	- - w - - - - u j - -	w u j	C V C
+101	sherkalykhanty	bird	wɔːj	w.ɔː.j	w ɔː j		17	88	w ɔː j	C V C	- - w - - - - ɔː j - -	w ɔː j	C V C
+99	tremjugankhanty	bird	toɣɬəŋwɔːjəɣ	t.o.ɣ.ɬ.ə.ŋ.w.ɔː.j.ə.ɣ	ɣ ɔː j		17	88	ɣ ɔː j	C V C	t o ɣ ɬ ə ŋ w ɔː j ə ɣ	t o ɣ ɬ ə ŋ w ɔː j ə ɣ	C V C C V C C V C V C
+100	upperdemjankakhanty	bird	toχtəŋwoːjə	t.o.χ.t.ə.ŋ.w.oː.j.ə	χ oː j		17	88	χ oː j	C V C	t o χ t ə ŋ w oː j ə -	t o χ t ə ŋ w oː j ə	C V C C V C C V C V
+97	vakhkhanty	bird	waːjəɣ	w.aː.j.ə.ɣ	w aː j		17	88	w aː j	C V C	- - w - - - - aː j ə ɣ	w aː j ə ɣ	C V C V C
+98	vasjugankhanty	bird	waːjəɣ	w.aː.j.ə.ɣ	w aː j		17	88	w aː j	C V C	- - w - - - - aː j ə ɣ	w aː j ə ɣ	C V C V C
+115	jugankhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+120	kazymkhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+117	kondakhanty	bite	par	p.a.r	p a r		19	110	p a r	C V C	p a r -	p a r	C V C
+107	kondamansi	bite	pori	p.o.r.i	p o r		19	110	p o r	C V C	p o r i	p o r i	C V C V
+112	likrisovskojekhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+105	lowerlozvamansi	bite	puri	p.u.r.i	p u r		19	110	p u r	C V C	p u r i	p u r i	C V C V
+113	malyjjugankhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+104	middlelozvamansi	bite	puri	p.u.r.i	p u r		19	110	p u r	C V C	p u r i	p u r i	C V C V
+118	nizjamkhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+103	northmansi	bite	puri	p.u.r.i	p u r		19	110	p u r	C V C	p u r i	p u r i	C V C V
+122	obdorskkhanty	bite	par	p.a.r	p a r		19	110	p a r	C V C	p a r -	p a r	C V C
+106	pelymkamansi	bite	puri	p.u.r.i	p u r		19	110	p u r	C V C	p u r i	p u r i	C V C V
+119	sherkalykhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+121	synjakhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+108	tavdamansi	bite	pur	p.u.r	p u r		19	110	p u r	C V C	p u r -	p u r	C V C
+114	tremjugankhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+116	upperdemjankakhanty	bite	par	p.a.r	p a r		19	110	p a r	C V C	p a r -	p a r	C V C
+109	vakhkhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+111	vasjugankhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+110	verkhnekalymskkhanty	bite	por	p.o.r	p o r		19	110	p o r	C V C	p o r -	p o r	C V C
+127	kondamansi	black	seːməl	s.eː.m.ə.l	s eː m ə l		20	122	s eː m ə l	C V C V C	s eː m ə l	s eː m ə l	C V C V C
+125	lowerlozvamansi	black	ʃeːməl	ʃ.eː.m.ə.l	ʃ eː m ə l		20	122	ʃ eː m ə l	C V C V C	ʃ eː m ə l	ʃ eː m ə l	C V C V C
+124	middlelozvamansi	black	ʃeːməl	ʃ.eː.m.ə.l	ʃ eː m ə l		20	122	ʃ eː m ə l	C V C V C	ʃ eː m ə l	ʃ eː m ə l	C V C V C
+123	northmansi	black	seːməl	s.eː.m.ə.l	s eː m ə l		20	122	s eː m ə l	C V C V C	s eː m ə l	s eː m ə l	C V C V C
+126	pelymkamansi	black	ʃeːməl	ʃ.eː.m.ə.l	ʃ eː m ə l		20	122	ʃ eː m ə l	C V C V C	ʃ eː m ə l	ʃ eː m ə l	C V C V C
+135	jugankhanty	black	peɣtə	p.e.ɣ.t.ə	p e ɣ t ə		22	142	p e ɣ t ə	C V C C V	p e ɣ t ə	p e ɣ t ə	C V C C V
+140	kazymkhanty	black	pitiː	p.i.t.iː	p i t iː		22	142	p i - t iː	C V C V	p i - t iː	p i t iː	C V C V
+137	kondakhanty	black	peɣtə	p.e.ɣ.t.ə	p e ɣ t ə		22	142	p e ɣ t ə	C V C C V	p e ɣ t ə	p e ɣ t ə	C V C C V
+132	likrisovskojekhanty	black	peɣtə	p.e.ɣ.t.ə	p e ɣ t ə		22	142	p e ɣ t ə	C V C C V	p e ɣ t ə	p e ɣ t ə	C V C C V
+133	malyjjugankhanty	black	peɣtə	p.e.ɣ.t.ə	p e ɣ t ə		22	142	p e ɣ t ə	C V C C V	p e ɣ t ə	p e ɣ t ə	C V C C V
+138	nizjamkhanty	black	piɣtə	p.i.ɣ.t.ə	p i ɣ t ə		22	142	p i ɣ t ə	C V C C V	p i ɣ t ə	p i ɣ t ə	C V C C V
+142	obdorskkhanty	black	puːtiː	p.uː.t.iː	p uː t iː		22	142	p uː - t iː	C V C V	p uː - t iː	p uː t iː	C V C V
+139	sherkalykhanty	black	piɣtə	p.i.ɣ.t.ə	p i ɣ t ə		22	142	p i ɣ t ə	C V C C V	p i ɣ t ə	p i ɣ t ə	C V C C V
+141	synjakhanty	black	pitiː	p.i.t.iː	p i t iː		22	142	p i - t iː	C V C V	p i - t iː	p i t iː	C V C V
+134	tremjugankhanty	black	peɣtə	p.e.ɣ.t.ə	p e ɣ t ə		22	142	p e ɣ t ə	C V C C V	p e ɣ t ə	p e ɣ t ə	C V C C V
+136	upperdemjankakhanty	black	peɣtə	p.e.ɣ.t.ə	p e ɣ t ə		22	142	p e ɣ t ə	C V C C V	p e ɣ t ə	p e ɣ t ə	C V C C V
+129	vakhkhanty	black	peɣtə	p.e.ɣ.t.ə	p e ɣ t ə		22	142	p e ɣ t ə	C V C C V	p e ɣ t ə	p e ɣ t ə	C V C C V
+131	vasjugankhanty	black	peɣtə	p.e.ɣ.t.ə	p e ɣ t ə		22	142	p e ɣ t ə	C V C C V	p e ɣ t ə	p e ɣ t ə	C V C C V
+130	verkhnekalymskkhanty	black	peɣtə	p.e.ɣ.t.ə	p e ɣ t ə		22	142	p e ɣ t ə	C V C C V	p e ɣ t ə	p e ɣ t ə	C V C C V
+152	jugankhanty	blood	wer	w.e.r	w e r		24	162	w e r	C V C	w e - r	w e r	C V C
+154	kondakhanty	blood	wer	w.e.r	w e r		24	162	w e r	C V C	w e - r	w e r	C V C
+147	kondamansi	blood	wɨr	w.ɨ.r	w ɨ r		24	162	w ɨ r	C V C	w ɨ - r	w ɨ r	C V C
+145	lowerlozvamansi	blood	œːr	œː.r	œː r		24	162	- œː r	V C	- œː - r	œː r	V C
+144	middlelozvamansi	blood	wyir	w.yi.r	w y r		24	162	w y r	C V C	w y i r	w y i r	C V V C
+159	obdorskkhanty	blood	wuːr	w.uː.r	w uː r		24	162	w uː r	C V C	w uː - r	w uː r	C V C
+146	pelymkamansi	blood	wyɨr	w.yɨ.r	w y r		24	162	w y r	C V C	w y ɨ r	w y ɨ r	C V V C
+158	synjakhanty	blood	wur	w.u.r	w u r		24	162	w u r	C V C	w u - r	w u r	C V C
+148	tavdamansi	blood	uːr	uː.r	uː r		24	162	- uː r	V C	- uː - r	uː r	V C
+151	tremjugankhanty	blood	wer	w.e.r	w e r		24	162	w e r	C V C	w e - r	w e r	C V C
+153	upperdemjankakhanty	blood	wer	w.e.r	w e r		24	162	w e r	C V C	w e - r	w e r	C V C
+149	vakhkhanty	blood	wer	w.e.r	w e r		24	162	w e r	C V C	w e - r	w e r	C V C
+150	vasjugankhanty	blood	wer	w.e.r	w e r		24	162	w e r	C V C	w e - r	w e r	C V C
+157	kazymkhanty	blood	kaɬiː	k.a.ɬ.iː	k a ɬ iː		25	163	k a ɬ iː	C V C V	k a ɬ iː	k a ɬ iː	C V C V
+155	nizjamkhanty	blood	katə	k.a.t.ə	k a t ə		25	163	k a t ə	C V C V	k a t ə	k a t ə	C V C V
+156	sherkalykhanty	blood	katə	k.a.t.ə	k a t ə		25	163	k a t ə	C V C V	k a t ə	k a t ə	C V C V
+173	jugankhanty	bone	ɬow	ɬ.o.w	ɬ o w		26	164	ɬ o w	C V C	ɬ o w - -	ɬ o w	C V C
+178	kazymkhanty	bone	ɬuw	ɬ.u.w	ɬ u w		26	164	ɬ u w	C V C	ɬ u w - -	ɬ u w	C V C
+175	kondakhanty	bone	tow	t.o.w	t o w		26	164	t o w	C V C	t o w - -	t o w	C V C
+164	kondamansi	bone	lo	l.o	l o		26	164	l o -	C V	l o - - -	l o	C V
+170	likrisovskojekhanty	bone	θoɣ	θ.o.ɣ	θ o ɣ		26	164	θ o ɣ	C V C	θ o ɣ - -	θ o ɣ	C V C
+162	lowerlozvamansi	bone	luʃm	l.u.ʃ.m	l u ʃ		26	164	l u ʃ	C V C	l u ʃ - m	l u ʃ m	C V C C
+171	malyjjugankhanty	bone	ɬoɣʷ	ɬ.o.ɣʷ	ɬ o ɣʷ		26	164	ɬ o ɣʷ	C V C	ɬ o ɣʷ - -	ɬ o ɣʷ	C V C
+161	middlelozvamansi	bone	lu	l.u	l u		26	164	l u -	C V	l u - - -	l u	C V
+176	nizjamkhanty	bone	tuw	t.u.w	t u w		26	164	t u w	C V C	t u w - -	t u w	C V C
+160	northmansi	bone	lu	l.u	l u		26	164	l u -	C V	l u - - -	l u	C V
+180	obdorskkhanty	bone	law	l.a.w	l a w		26	164	l a w	C V C	l a w - -	l a w	C V C
+163	pelymkamansi	bone	lu	l.u	l u		26	164	l u -	C V	l u - - -	l u	C V
+177	sherkalykhanty	bone	tuw	t.u.w	t u w		26	164	t u w	C V C	t u w - -	t u w	C V C
+179	synjakhanty	bone	low	l.o.w	l o w		26	164	l o w	C V C	l o w - -	l o w	C V C
+165	tavdamansi	bone	loʃəm	l.o.ʃ.ə.m	l o ʃ		26	164	l o ʃ	C V C	l o ʃ ə m	l o ʃ ə m	C V C V C
+172	tremjugankhanty	bone	ɬoɣʷ	ɬ.o.ɣʷ	ɬ o ɣʷ		26	164	ɬ o ɣʷ	C V C	ɬ o ɣʷ - -	ɬ o ɣʷ	C V C
+174	upperdemjankakhanty	bone	tew	t.e.w	t e w		26	164	t e w	C V C	t e w - -	t e w	C V C
+166	vakhkhanty	bone	loɣ	l.o.ɣ	l o ɣ		26	164	l o ɣ	C V C	l o ɣ - -	l o ɣ	C V C
+169	vartovskojekhanty	bone	ɬoɣ	ɬ.o.ɣ	ɬ o ɣ		26	164	ɬ o ɣ	C V C	ɬ o ɣ - -	ɬ o ɣ	C V C
+168	vasjugankhanty	bone	loɣ	l.o.ɣ	l o ɣ		26	164	l o ɣ	C V C	l o ɣ - -	l o ɣ	C V C
+167	verkhnekalymskkhanty	bone	loɣ	l.o.ɣ	l o ɣ		26	164	l o ɣ	C V C	l o ɣ - -	l o ɣ	C V C
+194	jugankhanty	breast	mæwəɬ	m.æ.w.ə.ɬ	m æ w ə ɬ		27	165	m æ w ə ɬ	C V C V C	m æ w ə ɬ	m æ w ə ɬ	C V C V C
+199	kazymkhanty	breast	meːwəɬ	m.eː.w.ə.ɬ	m eː w ə ɬ		27	165	m eː w ə ɬ	C V C V C	m eː w ə ɬ	m eː w ə ɬ	C V C V C
+196	kondakhanty	breast	meːɣət	m.eː.ɣ.ə.t	m eː ɣ ə t		27	165	m eː ɣ ə t	C V C V C	m eː ɣ ə t	m eː ɣ ə t	C V C V C
+185	kondamansi	breast	mɔul	m.ɔu.l	m ɔu l		27	165	m ɔu - - l	C V C	m ɔu - - l	m ɔu l	C V C
+191	likrisovskojekhanty	breast	mæɣʷəθ	m.æ.ɣʷ.ə.θ	m æ ɣʷ ə θ		27	165	m æ ɣʷ ə θ	C V C V C	m æ ɣʷ ə θ	m æ ɣʷ ə θ	C V C V C
+183	lowerlozvamansi	breast	maɨl	m.aɨ.l	m a ɨ l		27	165	m a - ɨ l	C V V C	m a - ɨ l	m a ɨ l	C V V C
+192	malyjjugankhanty	breast	mæɣʷəɬ	m.æ.ɣʷ.ə.ɬ	m æ ɣʷ ə ɬ		27	165	m æ ɣʷ ə ɬ	C V C V C	m æ ɣʷ ə ɬ	m æ ɣʷ ə ɬ	C V C V C
+182	middlelozvamansi	breast	maɨl	m.aɨ.l	m a ɨ l		27	165	m a - ɨ l	C V V C	m a - ɨ l	m a ɨ l	C V V C
+197	nizjamkhanty	breast	meːwət	m.eː.w.ə.t	m eː w ə t		27	165	m eː w ə t	C V C V C	m eː w ə t	m eː w ə t	C V C V C
+181	northmansi	breast	maɣɨl	m.a.ɣ.ɨ.l	m a ɣ ɨ l		27	165	m a ɣ ɨ l	C V C V C	m a ɣ ɨ l	m a ɣ ɨ l	C V C V C
+201	obdorskkhanty	breast	meːwəl	m.eː.w.ə.l	m eː w ə l		27	165	m eː w ə l	C V C V C	m eː w ə l	m eː w ə l	C V C V C
+184	pelymkamansi	breast	maɣɨl	m.a.ɣ.ɨ.l	m a ɣ ɨ l		27	165	m a ɣ ɨ l	C V C V C	m a ɣ ɨ l	m a ɣ ɨ l	C V C V C
+198	sherkalykhanty	breast	meːɣət	m.eː.ɣ.ə.t	m eː ɣ ə t		27	165	m eː ɣ ə t	C V C V C	m eː ɣ ə t	m eː ɣ ə t	C V C V C
+200	synjakhanty	breast	meːwəl	m.eː.w.ə.l	m eː w ə l		27	165	m eː w ə l	C V C V C	m eː w ə l	m eː w ə l	C V C V C
+186	tavdamansi	breast	məul	m.əu.l	m ə u l		27	165	m ə - u l	C V V C	m ə - u l	m ə u l	C V V C
+193	tremjugankhanty	breast	mæɣʷəɬ	m.æ.ɣʷ.ə.ɬ	m æ ɣʷ ə ɬ		27	165	m æ ɣʷ ə ɬ	C V C V C	m æ ɣʷ ə ɬ	m æ ɣʷ ə ɬ	C V C V C
+195	upperdemjankakhanty	breast	meːɣət	m.eː.ɣ.ə.t	m eː ɣ ə t		27	165	m eː ɣ ə t	C V C V C	m eː ɣ ə t	m eː ɣ ə t	C V C V C
+187	vakhkhanty	breast	mœːɣəl	m.œː.ɣ.ə.l	m œː ɣ ə l		27	165	m œː ɣ ə l	C V C V C	m œː ɣ ə l	m œː ɣ ə l	C V C V C
+190	vartovskojekhanty	breast	mœɣəɬ	m.œ.ɣ.ə.ɬ	m œ ɣ ə ɬ		27	165	m œ ɣ ə ɬ	C V C V C	m œ ɣ ə ɬ	m œ ɣ ə ɬ	C V C V C
+189	vasjugankhanty	breast	mœːɣəl	m.œː.ɣ.ə.l	m œː ɣ ə l		27	165	m œː ɣ ə l	C V C V C	m œː ɣ ə l	m œː ɣ ə l	C V C V C
+188	verkhnekalymskkhanty	breast	mœːɣəl	m.œː.ɣ.ə.l	m œː ɣ ə l		27	165	m œː ɣ ə l	C V C V C	m œː ɣ ə l	m œː ɣ ə l	C V C V C
+208	jugankhanty	burn tr.	ɬæːpət	ɬ.æː.p.ə.t	ɬ æː p ə t		28	166	ɬ æː p ə t -	C V C V C	ɬ æː p ə t - -	ɬ æː p ə t	C V C V C
+211	kazymkhanty	burn tr.	ɬaːpət	ɬ.aː.p.ə.t	ɬ aː p ə t		28	166	ɬ aː p ə t -	C V C V C	ɬ aː p ə t - -	ɬ aː p ə t	C V C V C
+210	kondakhanty	burn tr.	tæːpət	t.æː.p.ə.t	t æː p ə t		28	166	t æː p ə t -	C V C V C	t æː p ə t - -	t æː p ə t	C V C V C
+206	kondamansi	burn tr.	təχti	t.ə.χ.t.i	t ə χ t i		28	166	t ə χ - t i	C V C C V	t ə χ - t i -	t ə χ t i	C V C C V
+204	lowerlozvamansi	burn tr.	tiχti	t.i.χ.t.i	t i χ t i		28	166	t i χ - t i	C V C C V	t i χ - t i -	t i χ t i	C V C C V
+203	middlelozvamansi	burn tr.	tiχti	t.i.χ.t.i	t i χ t i		28	166	t i χ - t i	C V C C V	t i χ - t i -	t i χ t i	C V C C V
+202	northmansi	burn tr.	titti	t.i.tː.i	t i tː i		28	166	t i - - tː i	C V C V	t i - - tː i -	t i tː i	C V C V
+205	pelymkamansi	burn tr.	tiχti	t.i.χ.t.i	t i χ t i		28	166	t i χ - t i	C V C C V	t i χ - t i -	t i χ t i	C V C C V
+212	synjakhanty	burn tr.	laːpət	l.aː.p.ə.t	l aː p ə t		28	166	l aː p ə t -	C V C V C	l aː p ə t - -	l aː p ə t	C V C V C
+207	tavdamansi	burn tr.	tæitæl	t.æi.t.æ.l	t æ i t æ		28	166	t æ - i t æ	C V V C V	t æ - i t æ l	t æ i t æ l	C V V C V C
+209	upperdemjankakhanty	burn tr.	tæːpət	t.æː.p.ə.t	t æː p ə t		28	166	t æː p ə t -	C V C V C	t æː p ə t - -	t æː p ə t	C V C V C
+226	jugankhanty	claw (nail)	kœnʧ	k.œ.n.ʧ	k œ n tʃ		29	167	k œ n tʃ	C V C C	k œ n tʃ	k œ n tʃ	C V C C
+231	kazymkhanty	claw (nail)	kuʃ	k.u.ʃ	k u ʃ		29	167	k u - ʃ	C V C	k u - ʃ	k u ʃ	C V C
+228	kondakhanty	claw (nail)	konʧ	k.o.n.ʧ	k o n tʃ		29	167	k o n tʃ	C V C C	k o n tʃ	k o n tʃ	C V C C
+217	kondamansi	claw (nail)	kʷæns	kʷ.æ.n.s	kʷ æ n s		29	167	kʷ æ n s	C V C C	kʷ æ n s	kʷ æ n s	C V C C
+223	likrisovskojekhanty	claw (nail)	kœɳʧ	k.œ.ɳ.ʧ	k œ ɳ tʃ		29	167	k œ ɳ tʃ	C V C C	k œ ɳ tʃ	k œ ɳ tʃ	C V C C
+215	lowerlozvamansi	claw (nail)	kʷænʃ	kʷ.æ.n.ʃ	kʷ æ n ʃ		29	167	kʷ æ n ʃ	C V C C	kʷ æ n ʃ	kʷ æ n ʃ	C V C C
+224	malyjjugankhanty	claw (nail)	kœɳʧ	k.œ.ɳ.ʧ	k œ ɳ tʃ		29	167	k œ ɳ tʃ	C V C C	k œ ɳ tʃ	k œ ɳ tʃ	C V C C
+214	middlelozvamansi	claw (nail)	kʷænʃ	kʷ.æ.n.ʃ	kʷ æ n ʃ		29	167	kʷ æ n ʃ	C V C C	kʷ æ n ʃ	kʷ æ n ʃ	C V C C
+229	nizjamkhanty	claw (nail)	kuʃ	k.u.ʃ	k u ʃ		29	167	k u - ʃ	C V C	k u - ʃ	k u ʃ	C V C
+213	northmansi	claw (nail)	kʷons	kʷ.o.n.s	kʷ o n s		29	167	kʷ o n s	C V C C	kʷ o n s	kʷ o n s	C V C C
+233	obdorskkhanty	claw (nail)	kuːs	k.uː.s	k uː s		29	167	k uː - s	C V C	k uː - s	k uː s	C V C
+216	pelymkamansi	claw (nail)	kʷænʃ	kʷ.æ.n.ʃ	kʷ æ n ʃ		29	167	kʷ æ n ʃ	C V C C	kʷ æ n ʃ	kʷ æ n ʃ	C V C C
+230	sherkalykhanty	claw (nail)	kuʃ	k.u.ʃ	k u ʃ		29	167	k u - ʃ	C V C	k u - ʃ	k u ʃ	C V C
+232	synjakhanty	claw (nail)	kuʃ	k.u.ʃ	k u ʃ		29	167	k u - ʃ	C V C	k u - ʃ	k u ʃ	C V C
+218	tavdamansi	claw (nail)	kunʃ	k.u.n.ʃ	k u n ʃ		29	167	k u n ʃ	C V C C	k u n ʃ	k u n ʃ	C V C C
+225	tremjugankhanty	claw (nail)	kœɳʧ	k.œ.ɳ.ʧ	k œ ɳ tʃ		29	167	k œ ɳ tʃ	C V C C	k œ ɳ tʃ	k œ ɳ tʃ	C V C C
+227	upperdemjankakhanty	claw (nail)	konʧ	k.o.n.ʧ	k o n tʃ		29	167	k o n tʃ	C V C C	k o n tʃ	k o n tʃ	C V C C
+219	vakhkhanty	claw (nail)	kœɳʧ	k.œ.ɳ.ʧ	k œ ɳ tʃ		29	167	k œ ɳ tʃ	C V C C	k œ ɳ tʃ	k œ ɳ tʃ	C V C C
+222	vartovskojekhanty	claw (nail)	kœɳʧ	k.œ.ɳ.ʧ	k œ ɳ tʃ		29	167	k œ ɳ tʃ	C V C C	k œ ɳ tʃ	k œ ɳ tʃ	C V C C
+221	vasjugankhanty	claw (nail)	kœɳʧ	k.œ.ɳ.ʧ	k œ ɳ tʃ		29	167	k œ ɳ tʃ	C V C C	k œ ɳ tʃ	k œ ɳ tʃ	C V C C
+220	verkhnekalymskkhanty	claw (nail)	kœɳʧ	k.œ.ɳ.ʧ	k œ ɳ tʃ		29	167	k œ ɳ tʃ	C V C C	k œ ɳ tʃ	k œ ɳ tʃ	C V C C
+238	kondamansi	cloud	tol	t.o.l	t o l		30	169	t o l	C V C	t o l	t o l	C V C
+236	lowerlozvamansi	cloud	tul	t.u.l	t u l		30	169	t u l	C V C	t u l	t u l	C V C
+235	middlelozvamansi	cloud	tul	t.u.l	t u l		30	169	t u l	C V C	t u l	t u l	C V C
+234	northmansi	cloud	tul	t.u.l	t u l		30	169	t u l	C V C	t u l	t u l	C V C
+237	pelymkamansi	cloud	tul	t.u.l	t u l		30	169	t u l	C V C	t u l	t u l	C V C
+239	tavdamansi	cloud	tul	t.u.l	t u l		30	169	t u l	C V C	t u l	t u l	C V C
+247	jugankhanty	cloud	peɬəŋ	p.e.ɬ.ə.ŋ	p e ɬ ə ŋ		31	170	p e ɬ ə ŋ	C V C V C	p e ɬ ə ŋ	p e ɬ ə ŋ	C V C V C
+251	kazymkhanty	cloud	paɬəŋ	p.a.ɬ.ə.ŋ	p a ɬ ə ŋ		31	170	p a ɬ ə ŋ	C V C V C	p a ɬ ə ŋ	p a ɬ ə ŋ	C V C V C
+244	likrisovskojekhanty	cloud	peθəŋ	p.e.θ.ə.ŋ	p e θ ə ŋ		31	170	p e θ ə ŋ	C V C V C	p e θ ə ŋ	p e θ ə ŋ	C V C V C
+245	malyjjugankhanty	cloud	peɬəŋ	p.e.ɬ.ə.ŋ	p e ɬ ə ŋ		31	170	p e ɬ ə ŋ	C V C V C	p e ɬ ə ŋ	p e ɬ ə ŋ	C V C V C
+249	nizjamkhanty	cloud	patəŋ	p.a.t.ə.ŋ	p a t ə ŋ		31	170	p a t ə ŋ	C V C V C	p a t ə ŋ	p a t ə ŋ	C V C V C
+253	obdorskkhanty	cloud	pæləŋ	p.æ.l.ə.ŋ	p æ l ə ŋ		31	170	p æ l ə ŋ	C V C V C	p æ l ə ŋ	p æ l ə ŋ	C V C V C
+250	sherkalykhanty	cloud	patəŋ	p.a.t.ə.ŋ	p a t ə ŋ		31	170	p a t ə ŋ	C V C V C	p a t ə ŋ	p a t ə ŋ	C V C V C
+252	synjakhanty	cloud	paləŋ	p.a.l.ə.ŋ	p a l ə ŋ		31	170	p a l ə ŋ	C V C V C	p a l ə ŋ	p a l ə ŋ	C V C V C
+246	tremjugankhanty	cloud	peɬəŋ	p.e.ɬ.ə.ŋ	p e ɬ ə ŋ		31	170	p e ɬ ə ŋ	C V C V C	p e ɬ ə ŋ	p e ɬ ə ŋ	C V C V C
+248	upperdemjankakhanty	cloud	petəŋ	p.e.t.ə.ŋ	p e t ə ŋ		31	170	p e t ə ŋ	C V C V C	p e t ə ŋ	p e t ə ŋ	C V C V C
+240	vakhkhanty	cloud	peləŋ	p.e.l.ə.ŋ	p e l ə ŋ		31	170	p e l ə ŋ	C V C V C	p e l ə ŋ	p e l ə ŋ	C V C V C
+243	vartovskojekhanty	cloud	peɬəŋ	p.e.ɬ.ə.ŋ	p e ɬ ə ŋ		31	170	p e ɬ ə ŋ	C V C V C	p e ɬ ə ŋ	p e ɬ ə ŋ	C V C V C
+242	vasjugankhanty	cloud	peləŋ	p.e.l.ə.ŋ	p e l ə ŋ		31	170	p e l ə ŋ	C V C V C	p e l ə ŋ	p e l ə ŋ	C V C V C
+241	verkhnekalymskkhanty	cloud	peləŋ	p.e.l.ə.ŋ	p e l ə ŋ		31	170	p e l ə ŋ	C V C V C	p e l ə ŋ	p e l ə ŋ	C V C V C
+258	kondamansi	cold	asʲərəm	a.sʲ.ə.r.ə.m	a sʲ ə r ə m		35	174	a sʲ ə r ə m	V C V C V C	a sʲ ə r ə m	a sʲ ə r ə m	V C V C V C
+256	lowerlozvamansi	cold	æsʲerəm	æ.sʲ.e.r.ə.m	æ sʲ e r ə m		35	174	æ sʲ e r ə m	V C V C V C	æ sʲ e r ə m	æ sʲ e r ə m	V C V C V C
+255	middlelozvamansi	cold	æsʲerəm	æ.sʲ.e.r.ə.m	æ sʲ e r ə m		35	174	æ sʲ e r ə m	V C V C V C	æ sʲ e r ə m	æ sʲ e r ə m	V C V C V C
+254	northmansi	cold	asʲerəm	a.sʲ.e.r.ə.m	a sʲ e r ə m		35	174	a sʲ e r ə m	V C V C V C	a sʲ e r ə m	a sʲ e r ə m	V C V C V C
+257	pelymkamansi	cold	æsʲərəm	æ.sʲ.ə.r.ə.m	æ sʲ ə r ə m		35	174	æ sʲ ə r ə m	V C V C V C	æ sʲ ə r ə m	æ sʲ ə r ə m	V C V C V C
+259	tavdamansi	cold	iʧirəm	i.ʧ.i.r.ə.m	i tʃ i r ə m		35	174	i tʃ i r ə m	V C V C V C	i tʃ i r ə m	i tʃ i r ə m	V C V C V C
+270	kazymkhanty	cold	isjkiː	i.s.j.k.iː	i s j k		32	171	i s j k	V C C C	i s j - k iː	i s j k iː	V C C C V
+267	kondakhanty	cold	etjək	e.t.j.ə.k	e t j k		32	171	e t j k	V C C C	e t j ə k -	e t j ə k	V C C V C
+268	nizjamkhanty	cold	isjkə	i.s.j.k.ə	i s j k		32	171	i s j k	V C C C	i s j - k ə	i s j k ə	V C C C V
+272	obdorskkhanty	cold	isjkiː	i.s.j.k.iː	i s j k		32	171	i s j k	V C C C	i s j - k iː	i s j k iː	V C C C V
+269	sherkalykhanty	cold	isjkə	i.s.j.k.ə	i s j k		32	171	i s j k	V C C C	i s j - k ə	i s j k ə	V C C C V
+271	synjakhanty	cold	isjkiː	i.s.j.k.iː	i s j k		32	171	i s j k	V C C C	i s j - k iː	i s j k iː	V C C C V
+266	upperdemjankakhanty	cold	etjək	e.t.j.ə.k	e t j k		32	171	e t j k	V C C C	e t j ə k -	e t j ə k	V C C V C
+260	vakhkhanty	cold	etjəɣ	e.t.j.ə.ɣ	e t j ɣ		32	171	e t j ɣ	V C C C	e t j ə ɣ -	e t j ə ɣ	V C C V C
+262	vasjugankhanty	cold	etjəɣ	e.t.j.ə.ɣ	e t j ɣ		32	171	e t j ɣ	V C C C	e t j ə ɣ -	e t j ə ɣ	V C C V C
+261	verkhnekalymskkhanty	cold	etjəɣ	e.t.j.ə.ɣ	e t j ɣ		32	171	e t j ɣ	V C C C	e t j ə ɣ -	e t j ə ɣ	V C C V C
+284	jugankhanty	come	jœ	j.œ	j œ		36	175	j œ	C V	j œ - -	j œ	C V
+288	kazymkhanty	come	ji	j.i	j i		36	175	j i	C V	j i - -	j i	C V
+286	kondakhanty	come	je	j.e	j e		36	175	j e	C V	j e - -	j e	C V
+277	kondamansi	come	jiw	j.i.w	j i		36	175	j i	C V	j i w -	j i w	C V C
+281	likrisovskojekhanty	come	jœ	j.œ	j œ		36	175	j œ	C V	j œ - -	j œ	C V
+275	lowerlozvamansi	come	iːw	iː.w	iː		36	175	- iː	V	- iː w -	iː w	V C
+282	malyjjugankhanty	come	jœ	j.œ	j œ		36	175	j œ	C V	j œ - -	j œ	C V
+274	middlelozvamansi	come	jiw	j.i.w	j i		36	175	j i	C V	j i w -	j i w	C V C
+273	northmansi	come	jiw	j.i.w	j i		36	175	j i	C V	j i w -	j i w	C V C
+290	obdorskkhanty	come	jiː	j.iː	j iː		36	175	j iː	C V	j iː - -	j iː	C V
+276	pelymkamansi	come	jiw	j.i.w	j i		36	175	j i	C V	j i w -	j i w	C V C
+287	sherkalykhanty	come	ji	j.i	j i		36	175	j i	C V	j i - -	j i	C V
+289	synjakhanty	come	ji	j.i	j i		36	175	j i	C V	j i - -	j i	C V
+278	tavdamansi	come	jæːnt	j.æː.n.t	j æː		36	175	j æː	C V	j æː n t	j æː n t	C V C C
+283	tremjugankhanty	come	jœ	j.œ	j œ		36	175	j œ	C V	j œ - -	j œ	C V
+285	upperdemjankakhanty	come	je	j.e	j e		36	175	j e	C V	j e - -	j e	C V
+279	vakhkhanty	come	jœ	j.œ	j œ		36	175	j œ	C V	j œ - -	j œ	C V
+280	vasjugankhanty	come	jœ	j.œ	j œ		36	175	j œ	C V	j œ - -	j œ	C V
+295	kondamansi	die	qoːli	q.oː.l.i	q oː l i		37	176	q oː l i	C V C V	q oː l i - -	q oː l i	C V C V
+293	lowerlozvamansi	die	qɔːli	q.ɔː.l.i	q ɔː l i		37	176	q ɔː l i	C V C V	q ɔː l i - -	q ɔː l i	C V C V
+292	middlelozvamansi	die	qɔli	q.ɔ.l.i	q ɔ l i		37	176	q ɔ l i	C V C V	q ɔ l i - -	q ɔ l i	C V C V
+291	northmansi	die	χɔːli	χ.ɔː.l.i	χ ɔː l i		37	176	χ ɔː l i	C V C V	χ ɔː l i - -	χ ɔː l i	C V C V
+294	pelymkamansi	die	qoːli	q.oː.l.i	q oː l i		37	176	q oː l i	C V C V	q oː l i - -	q oː l i	C V C V
+296	tavdamansi	die	qɔlɔnt	q.ɔ.l.ɔ.n.t	q ɔ l ɔ		37	176	q ɔ l ɔ	C V C V	q ɔ l ɔ n t	q ɔ l ɔ n t	C V C V C C
+304	jugankhanty	die	suːraːɬ	s.uː.r.aː.ɬ	s uː r		38	177	s uː r	C V C	s uː r aː ɬ	s uː r aː ɬ	C V C V C
+301	likrisovskojekhanty	die	suːr	s.uː.r	s uː r		38	177	s uː r	C V C	s uː r - -	s uː r	C V C
+302	malyjjugankhanty	die	suːræːɬ	s.uː.r.æː.ɬ	s uː r		38	177	s uː r	C V C	s uː r æː ɬ	s uː r æː ɬ	C V C V C
+303	tremjugankhanty	die	suːræːɬ	s.uː.r.æː.ɬ	s uː r		38	177	s uː r	C V C	s uː r æː ɬ	s uː r æː ɬ	C V C V C
+305	upperdemjankakhanty	die	suːraːt	s.uː.r.aː.t	s uː r		38	177	s uː r	C V C	s uː r aː t	s uː r aː t	C V C V C
+297	vakhkhanty	die	suːr	s.uː.r	s uː r		38	177	s uː r	C V C	s uː r - -	s uː r	C V C
+300	vartovskojekhanty	die	suːr	s.uː.r	s uː r		38	177	s uː r	C V C	s uː r - -	s uː r	C V C
+298	verkhnekalymskkhanty	die	suːr	s.uː.r	s uː r		38	177	s uː r	C V C	s uː r - -	s uː r	C V C
+308	kazymkhanty	die	pɔːsaːɬə	p.ɔː.s.aː.ɬ.ə	p ɔː s aː ɬ ə		-42	12	p ɔː s aː ɬ ə	C V C V C V	p ɔː s aː ɬ ə	p ɔː s aː ɬ ə	C V C V C V
+310	obdorskkhanty	die	paːsæːlə	p.aː.s.æː.l.ə	p aː s æː l ə		-42	12	p aː s æː l ə	C V C V C V	p aː s æː l ə	p aː s æː l ə	C V C V C V
+309	synjakhanty	die	posaːlə	p.o.s.aː.l.ə	p o s aː l ə		-42	12	p o s aː l ə	C V C V C V	p o s aː l ə	p o s aː l ə	C V C V C V
+322	jugankhanty	dog	æːmp	æː.m.p	æː m p		43	182	æː m p	V C C	æː m p	æː m p	V C C
+326	kazymkhanty	dog	aːmp	aː.m.p	aː m p		43	182	aː m p	V C C	aː m p	aː m p	V C C
+324	kondakhanty	dog	æːmp	æː.m.p	æː m p		43	182	æː m p	V C C	æː m p	æː m p	V C C
+315	kondamansi	dog	oɔmp	oɔ.m.p	oɔ m p		43	182	oɔ m p	V C C	oɔ m p	oɔ m p	V C C
+319	likrisovskojekhanty	dog	æːmp	æː.m.p	æː m p		43	182	æː m p	V C C	æː m p	æː m p	V C C
+313	lowerlozvamansi	dog	ɔːmp	ɔː.m.p	ɔː m p		43	182	ɔː m p	V C C	ɔː m p	ɔː m p	V C C
+320	malyjjugankhanty	dog	æːmp	æː.m.p	æː m p		43	182	æː m p	V C C	æː m p	æː m p	V C C
+312	middlelozvamansi	dog	oɔmp	oɔ.m.p	oɔ m p		43	182	oɔ m p	V C C	oɔ m p	oɔ m p	V C C
+325	nizjamkhanty	dog	aːmp	aː.m.p	aː m p		43	182	aː m p	V C C	aː m p	aː m p	V C C
+311	northmansi	dog	aːmp	aː.m.p	aː m p		43	182	aː m p	V C C	aː m p	aː m p	V C C
+328	obdorskkhanty	dog	æːmp	æː.m.p	æː m p		43	182	æː m p	V C C	æː m p	æː m p	V C C
+314	pelymkamansi	dog	oɔmp	oɔ.m.p	oɔ m p		43	182	oɔ m p	V C C	oɔ m p	oɔ m p	V C C
+327	synjakhanty	dog	aːp	aː.p	aː p		43	182	aː - p	V C	aː - p	aː p	V C
+316	tavdamansi	dog	æːmp	æː.m.p	æː m p		43	182	æː m p	V C C	æː m p	æː m p	V C C
+321	tremjugankhanty	dog	æːmp	æː.m.p	æː m p		43	182	æː m p	V C C	æː m p	æː m p	V C C
+323	upperdemjankakhanty	dog	æːmp	æː.m.p	æː m p		43	182	æː m p	V C C	æː m p	æː m p	V C C
+317	vakhkhanty	dog	æːmp	æː.m.p	æː m p		43	182	æː m p	V C C	æː m p	æː m p	V C C
+318	vasjugankhanty	dog	æːmp	æː.m.p	æː m p		43	182	æː m p	V C C	æː m p	æː m p	V C C
+333	kondamansi	drink	æji	æ.j.i	æ j i		44	183	æ j i	V C V	æ j i - -	æ j i	V C V
+331	lowerlozvamansi	drink	æji	æ.j.i	æ j i		44	183	æ j i	V C V	æ j i - -	æ j i	V C V
+330	middlelozvamansi	drink	æji	æ.j.i	æ j i		44	183	æ j i	V C V	æ j i - -	æ j i	V C V
+329	northmansi	drink	aji	a.j.i	a j i		44	183	a j i	V C V	a j i - -	a j i	V C V
+332	pelymkamansi	drink	æji	æ.j.i	æ j i		44	183	æ j i	V C V	æ j i - -	æ j i	V C V
+334	tavdamansi	drink	æjænt	æ.j.æ.n.t	æ j æ		44	183	æ j æ	V C V	æ j æ n t	æ j æ n t	V C V C C
+339	likrisovskojekhanty	drink	θiː	θ.iː	θ iː		45	184	θ iː	C V	θ iː	θ iː	C V
+340	malyjjugankhanty	drink	ɬiː	ɬ.iː	ɬ iː		45	184	ɬ iː	C V	ɬ iː	ɬ iː	C V
+335	vakhkhanty	drink	liː	l.iː	l iː		45	184	l iː	C V	l iː	l iː	C V
+338	vartovskojekhanty	drink	ɬiː	ɬ.iː	ɬ iː		45	184	ɬ iː	C V	ɬ iː	ɬ iː	C V
+337	vasjugankhanty	drink	iː	iː	iː		45	184	- iː	V	- iː	iː	V
+336	verkhnekalymskkhanty	drink	jiː	j.iː	j iː		45	184	j iː	C V	j iː	j iː	C V
+346	kazymkhanty	drink	jaːɲsj	j.aː.ɲ.s.j	j aː ɲ s j		46	185	j aː ɲ s j	C V C C C	j aː ɲ s j	j aː ɲ s j	C V C C C
+343	kondakhanty	drink	jæːɲtj	j.æː.ɲ.t.j	j æː ɲ t j		46	185	j æː ɲ t j	C V C C C	j æː ɲ t j	j æː ɲ t j	C V C C C
+344	nizjamkhanty	drink	jaːɲsj	j.aː.ɲ.s.j	j aː ɲ s j		46	185	j aː ɲ s j	C V C C C	j aː ɲ s j	j aː ɲ s j	C V C C C
+348	obdorskkhanty	drink	jeːɲsj	j.eː.ɲ.s.j	j eː ɲ s j		46	185	j eː ɲ s j	C V C C C	j eː ɲ s j	j eː ɲ s j	C V C C C
+345	sherkalykhanty	drink	jaːɲsj	j.aː.ɲ.s.j	j aː ɲ s j		46	185	j aː ɲ s j	C V C C C	j aː ɲ s j	j aː ɲ s j	C V C C C
+347	synjakhanty	drink	jiɲsj	j.i.ɲ.s.j	j i ɲ s j		46	185	j i ɲ s j	C V C C C	j i ɲ s j	j i ɲ s j	C V C C C
+341	tremjugankhanty	drink	jeːɲtj	j.eː.ɲ.t.j	j eː ɲ t j		46	185	j eː ɲ t j	C V C C C	j eː ɲ t j	j eː ɲ t j	C V C C C
+342	upperdemjankakhanty	drink	jæːɲtj	j.æː.ɲ.t.j	j æː ɲ t j		46	185	j æː ɲ t j	C V C C C	j æː ɲ t j	j æː ɲ t j	C V C C C
+353	kondamansi	dry	toːsəm	t.oː.s.ə.m	t oː s ə m		47	186	t oː s ə m	C V C V C	t oː s ə m	t oː s ə m	C V C V C
+351	lowerlozvamansi	dry	toːʃəm	t.oː.ʃ.ə.m	t oː ʃ ə m		47	186	t oː ʃ ə m	C V C V C	t oː ʃ ə m	t oː ʃ ə m	C V C V C
+350	middlelozvamansi	dry	toːʃəm	t.oː.ʃ.ə.m	t oː ʃ ə m		47	186	t oː ʃ ə m	C V C V C	t oː ʃ ə m	t oː ʃ ə m	C V C V C
+349	northmansi	dry	tɔːsəm	t.ɔː.s.ə.m	t ɔː s ə m		47	186	t ɔː s ə m	C V C V C	t ɔː s ə m	t ɔː s ə m	C V C V C
+352	pelymkamansi	dry	toːʃəm	t.oː.ʃ.ə.m	t oː ʃ ə m		47	186	t oː ʃ ə m	C V C V C	t oː ʃ ə m	t oː ʃ ə m	C V C V C
+354	tavdamansi	dry	tɔʃɔm	t.ɔ.ʃ.ɔ.m	t ɔ ʃ ɔ m		47	186	t ɔ ʃ ɔ m	C V C V C	t ɔ ʃ ɔ m	t ɔ ʃ ɔ m	C V C V C
+358	jugankhanty	dry	sɔːrəm	s.ɔː.r.ə.m	s ɔː r ə m		49	188	s ɔː r ə m	C V C V C	s ɔː r ə m	s ɔː r ə m	C V C V C
+363	kazymkhanty	dry	sɔːrəm	s.ɔː.r.ə.m	s ɔː r ə m		49	188	s ɔː r ə m	C V C V C	s ɔː r ə m	s ɔː r ə m	C V C V C
+360	kondakhanty	dry	soːrəm	s.oː.r.ə.m	s oː r ə m		49	188	s oː r ə m	C V C V C	s oː r ə m	s oː r ə m	C V C V C
+361	nizjamkhanty	dry	sɔːrəm	s.ɔː.r.ə.m	s ɔː r ə m		49	188	s ɔː r ə m	C V C V C	s ɔː r ə m	s ɔː r ə m	C V C V C
+365	obdorskkhanty	dry	saːrəm	s.aː.r.ə.m	s aː r ə m		49	188	s aː r ə m	C V C V C	s aː r ə m	s aː r ə m	C V C V C
+362	sherkalykhanty	dry	sɔːrəm	s.ɔː.r.ə.m	s ɔː r ə m		49	188	s ɔː r ə m	C V C V C	s ɔː r ə m	s ɔː r ə m	C V C V C
+364	synjakhanty	dry	sɔːrəm	s.ɔː.r.ə.m	s ɔː r ə m		49	188	s ɔː r ə m	C V C V C	s ɔː r ə m	s ɔː r ə m	C V C V C
+357	tremjugankhanty	dry	sɔːrəm	s.ɔː.r.ə.m	s ɔː r ə m		49	188	s ɔː r ə m	C V C V C	s ɔː r ə m	s ɔː r ə m	C V C V C
+359	upperdemjankakhanty	dry	soːrəm	s.oː.r.ə.m	s oː r ə m		49	188	s oː r ə m	C V C V C	s oː r ə m	s oː r ə m	C V C V C
+379	jugankhanty	ear	peɬ	p.e.ɬ	p e ɬ		50	190	p e ɬ	C V C	p e ɬ	p e ɬ	C V C
+384	kazymkhanty	ear	paɬ	p.a.ɬ	p a ɬ		50	190	p a ɬ	C V C	p a ɬ	p a ɬ	C V C
+381	kondakhanty	ear	pet	p.e.t	p e t		50	190	p e t	C V C	p e t	p e t	C V C
+370	kondamansi	ear	pæʎ	p.æ.ʎ	p æ ʎ		50	190	p æ ʎ	C V C	p æ ʎ	p æ ʎ	C V C
+376	likrisovskojekhanty	ear	peθ	p.e.θ	p e θ		50	190	p e θ	C V C	p e θ	p e θ	C V C
+368	lowerlozvamansi	ear	pæʎ	p.æ.ʎ	p æ ʎ		50	190	p æ ʎ	C V C	p æ ʎ	p æ ʎ	C V C
+377	malyjjugankhanty	ear	peɬ	p.e.ɬ	p e ɬ		50	190	p e ɬ	C V C	p e ɬ	p e ɬ	C V C
+367	middlelozvamansi	ear	pæʎ	p.æ.ʎ	p æ ʎ		50	190	p æ ʎ	C V C	p æ ʎ	p æ ʎ	C V C
+382	nizjamkhanty	ear	pat	p.a.t	p a t		50	190	p a t	C V C	p a t	p a t	C V C
+366	northmansi	ear	paʎ	p.a.ʎ	p a ʎ		50	190	p a ʎ	C V C	p a ʎ	p a ʎ	C V C
+385	obdorskkhanty	ear	pæl	p.æ.l	p æ l		50	190	p æ l	C V C	p æ l	p æ l	C V C
+369	pelymkamansi	ear	pæʎ	p.æ.ʎ	p æ ʎ		50	190	p æ ʎ	C V C	p æ ʎ	p æ ʎ	C V C
+383	sherkalykhanty	ear	pat	p.a.t	p a t		50	190	p a t	C V C	p a t	p a t	C V C
+371	tavdamansi	ear	piʎ	p.i.ʎ	p i ʎ		50	190	p i ʎ	C V C	p i ʎ	p i ʎ	C V C
+378	tremjugankhanty	ear	peɬ	p.e.ɬ	p e ɬ		50	190	p e ɬ	C V C	p e ɬ	p e ɬ	C V C
+380	upperdemjankakhanty	ear	pet	p.e.t	p e t		50	190	p e t	C V C	p e t	p e t	C V C
+372	vakhkhanty	ear	pel	p.e.l	p e l		50	190	p e l	C V C	p e l	p e l	C V C
+375	vartovskojekhanty	ear	peɬ	p.e.ɬ	p e ɬ		50	190	p e ɬ	C V C	p e ɬ	p e ɬ	C V C
+374	vasjugankhanty	ear	pel	p.e.l	p e l		50	190	p e l	C V C	p e l	p e l	C V C
+373	verkhnekalymskkhanty	ear	pel	p.e.l	p e l		50	190	p e l	C V C	p e l	p e l	C V C
+396	jugankhanty	earth	meɣ	m.e.ɣ	m e ɣ		51	191	m e ɣ	C V C	m e ɣ	m e ɣ	C V C
+401	kazymkhanty	earth	muw	m.u.w	m u w		51	191	m u w	C V C	m u w	m u w	C V C
+398	kondakhanty	earth	meɣ	m.e.ɣ	m e ɣ		51	191	m e ɣ	C V C	m e ɣ	m e ɣ	C V C
+390	kondamansi	earth	məː	m.əː	m əː		51	191	m əː -	C V	m əː -	m əː	C V
+388	lowerlozvamansi	earth	məː	m.əː	m əː		51	191	m əː -	C V	m əː -	m əː	C V
+387	middlelozvamansi	earth	məː	m.əː	m əː		51	191	m əː -	C V	m əː -	m əː	C V
+399	nizjamkhanty	earth	miɣ	m.i.ɣ	m i ɣ		51	191	m i ɣ	C V C	m i ɣ	m i ɣ	C V C
+386	northmansi	earth	maː	m.aː	m aː		51	191	m aː -	C V	m aː -	m aː	C V
+403	obdorskkhanty	earth	muːw	m.uː.w	m uː w		51	191	m uː w	C V C	m uː w	m uː w	C V C
+389	pelymkamansi	earth	məː	m.əː	m əː		51	191	m əː -	C V	m əː -	m əː	C V
+400	sherkalykhanty	earth	miɣ	m.i.ɣ	m i ɣ		51	191	m i ɣ	C V C	m i ɣ	m i ɣ	C V C
+402	synjakhanty	earth	muw	m.u.w	m u w		51	191	m u w	C V C	m u w	m u w	C V C
+391	tavdamansi	earth	maː	m.aː	m aː		51	191	m aː -	C V	m aː -	m aː	C V
+395	tremjugankhanty	earth	meɣ	m.e.ɣ	m e ɣ		51	191	m e ɣ	C V C	m e ɣ	m e ɣ	C V C
+397	upperdemjankakhanty	earth	meɣ	m.e.ɣ	m e ɣ		51	191	m e ɣ	C V C	m e ɣ	m e ɣ	C V C
+392	vakhkhanty	earth	meɣ	m.e.ɣ	m e ɣ		51	191	m e ɣ	C V C	m e ɣ	m e ɣ	C V C
+394	vasjugankhanty	earth	meɣ	m.e.ɣ	m e ɣ		51	191	m e ɣ	C V C	m e ɣ	m e ɣ	C V C
+393	verkhnekalymskkhanty	earth	meɣ	m.e.ɣ	m e ɣ		51	191	m e ɣ	C V C	m e ɣ	m e ɣ	C V C
+417	jugankhanty	eat	ɬiː	ɬ.iː	ɬ iː		52	192	ɬ iː	C V	ɬ iː - - - -	ɬ iː	C V
+422	kazymkhanty	eat	ɬɛː	ɬ.ɛː	ɬ ɛː		52	192	ɬ ɛː	C V	ɬ ɛː - - - -	ɬ ɛː	C V
+419	kondakhanty	eat	teː	t.eː	t eː		52	192	t eː	C V	t eː - - - -	t eː	C V
+408	kondamansi	eat	təɨɣ	t.əɨ.ɣ	t ə		52	192	t ə	C V	t ə - ɨ ɣ -	t ə ɨ ɣ	C V V C
+414	likrisovskojekhanty	eat	θiː	θ.iː	θ iː		52	192	θ iː	C V	θ iː - - - -	θ iː	C V
+406	lowerlozvamansi	eat	ti	t.i	t i		52	192	t i	C V	t i - - - -	t i	C V
+415	malyjjugankhanty	eat	ɬiː	ɬ.iː	ɬ iː		52	192	ɬ iː	C V	ɬ iː - - - -	ɬ iː	C V
+405	middlelozvamansi	eat	tij	t.i.j	t i		52	192	t i	C V	t i j - - -	t i j	C V C
+420	nizjamkhanty	eat	teː	t.eː	t eː		52	192	t eː	C V	t eː - - - -	t eː	C V
+404	northmansi	eat	teːɨɣ	t.eːɨ.ɣ	t eː		52	192	t eː	C V	t eː - ɨ ɣ -	t eː ɨ ɣ	C V V C
+424	obdorskkhanty	eat	liː	l.iː	l iː		52	192	l iː	C V	l iː - - - -	l iː	C V
+407	pelymkamansi	eat	teːi	t.eːi	t eː		52	192	t eː	C V	t eː - i - -	t eː i	C V V
+421	sherkalykhanty	eat	teː	t.eː	t eː		52	192	t eː	C V	t eː - - - -	t eː	C V
+423	synjakhanty	eat	leː	l.eː	l eː		52	192	l eː	C V	l eː - - - -	l eː	C V
+409	tavdamansi	eat	tæjænt	t.æ.j.æ.n.t	t æ		52	192	t æ	C V	t æ j æ n t	t æ j æ n t	C V C V C C
+416	tremjugankhanty	eat	ɬiː	ɬ.iː	ɬ iː		52	192	ɬ iː	C V	ɬ iː - - - -	ɬ iː	C V
+418	upperdemjankakhanty	eat	teː	t.eː	t eː		52	192	t eː	C V	t eː - - - -	t eː	C V
+410	vakhkhanty	eat	liː	l.iː	l iː		52	192	l iː	C V	l iː - - - -	l iː	C V
+413	vartovskojekhanty	eat	ɬiː	ɬ.iː	ɬ iː		52	192	ɬ iː	C V	ɬ iː - - - -	ɬ iː	C V
+412	vasjugankhanty	eat	iː	iː	iː		52	192	- iː	V	- iː - - - -	iː	V
+411	verkhnekalymskkhanty	eat	jiː	j.iː	j iː		52	192	j iː	C V	j iː - - - -	j iː	C V
+427	lowerlozvamansi	egg	ɲamrəχ	ɲ.a.m.r.ə.χ	ɲ a m r χ		-53	13	ɲ a m r χ	C V C C C	ɲ a m - r ə - χ -	ɲ a m r ə χ	C V C C V C
+426	middlelozvamansi	egg	ɲæmrəχ	ɲ.æ.m.r.ə.χ	ɲ æ m r χ		-53	13	ɲ æ m r χ	C V C C C	ɲ æ m - r ə - χ -	ɲ æ m r ə χ	C V C C V C
+428	pelymkamansi	egg	ɲɔmərtkə	ɲ.ɔ.m.ə.r.t.k.ə	ɲ ɔ m r k		-53	13	ɲ ɔ m r k	C V C C C	ɲ ɔ m ə r - t k ə	ɲ ɔ m ə r t k ə	C V C V C C C V
+430	tavdamansi	egg	ɲamərtk	ɲ.a.m.ə.r.t.k	ɲ a m r k		-53	13	ɲ a m r k	C V C C C	ɲ a m ə r - t k -	ɲ a m ə r t k	C V C V C C C
+437	jugankhanty	egg	moːk	m.oː.k	m oː k		55	194	m oː k	C V C	- - - - m oː k	m oː k	C V C
+439	kondakhanty	egg	kærəmoːχ	k.æ.r.ə.m.oː.χ	m oː χ		55	194	m oː χ	C V C	k æ r ə m oː χ	k æ r ə m oː χ	C V C V C V C
+434	likrisovskojekhanty	egg	maːkʷ	m.aː.kʷ	m aː kʷ		55	194	m aː kʷ	C V C	- - - - m aː kʷ	m aː kʷ	C V C
+435	malyjjugankhanty	egg	moːk	m.oː.k	m oː k		55	194	m oː k	C V C	- - - - m oː k	m oː k	C V C
+436	tremjugankhanty	egg	moːk	m.oː.k	m oː k		55	194	m oː k	C V C	- - - - m oː k	m oː k	C V C
+438	upperdemjankakhanty	egg	kæːrəmoːχ	k.æː.r.ə.m.oː.χ	m oː χ		55	194	m oː χ	C V C	k æː r ə m oː χ	k æː r ə m oː χ	C V C V C V C
+431	vakhkhanty	egg	mɔːk	m.ɔː.k	m ɔː k		55	194	m ɔː k	C V C	- - - - m ɔː k	m ɔː k	C V C
+433	vartovskojekhanty	egg	moːk	m.oː.k	m oː k		55	194	m oː k	C V C	- - - - m oː k	m oː k	C V C
+432	verkhnekalymskkhanty	egg	moːk	m.oː.k	m oː k		55	194	m oː k	C V C	- - - - m oː k	m oː k	C V C
+442	kazymkhanty	egg	poʃəχ	p.o.ʃ.ə.χ	p o ʃ ə χ		56	195	p o ʃ ə χ	C V C V C	p o ʃ ə χ	p o ʃ ə χ	C V C V C
+440	nizjamkhanty	egg	poʃəχ	p.o.ʃ.ə.χ	p o ʃ ə χ		56	195	p o ʃ ə χ	C V C V C	p o ʃ ə χ	p o ʃ ə χ	C V C V C
+443	obdorskkhanty	egg	pasəχ	p.a.s.ə.χ	p a s ə χ		56	195	p a s ə χ	C V C V C	p a s ə χ	p a s ə χ	C V C V C
+441	sherkalykhanty	egg	poʃəχ	p.o.ʃ.ə.χ	p o ʃ ə χ		56	195	p o ʃ ə χ	C V C V C	p o ʃ ə χ	p o ʃ ə χ	C V C V C
+455	jugankhanty	eye	sæm	s.æ.m	s æ m		57	196	s æ m	C V C	s æ m	s æ m	C V C
+460	kazymkhanty	eye	sɛːm	s.ɛː.m	s ɛː m		57	196	s ɛː m	C V C	s ɛː m	s ɛː m	C V C
+457	kondakhanty	eye	seːm	s.eː.m	s eː m		57	196	s eː m	C V C	s eː m	s eː m	C V C
+448	kondamansi	eye	sæm	s.æ.m	s æ m		57	196	s æ m	C V C	s æ m	s æ m	C V C
+446	lowerlozvamansi	eye	ʃæm	ʃ.æ.m	ʃ æ m		57	196	ʃ æ m	C V C	ʃ æ m	ʃ æ m	C V C
+445	middlelozvamansi	eye	ʃæm	ʃ.æ.m	ʃ æ m		57	196	ʃ æ m	C V C	ʃ æ m	ʃ æ m	C V C
+458	nizjamkhanty	eye	seːm	s.eː.m	s eː m		57	196	s eː m	C V C	s eː m	s eː m	C V C
+444	northmansi	eye	sam	s.a.m	s a m		57	196	s a m	C V C	s a m	s a m	C V C
+462	obdorskkhanty	eye	seːm	s.eː.m	s eː m		57	196	s eː m	C V C	s eː m	s eː m	C V C
+447	pelymkamansi	eye	ʃæm	ʃ.æ.m	ʃ æ m		57	196	ʃ æ m	C V C	ʃ æ m	ʃ æ m	C V C
+459	sherkalykhanty	eye	seːm	s.eː.m	s eː m		57	196	s eː m	C V C	s eː m	s eː m	C V C
+461	synjakhanty	eye	seːm	s.eː.m	s eː m		57	196	s eː m	C V C	s eː m	s eː m	C V C
+449	tavdamansi	eye	ʃəm	ʃ.ə.m	ʃ ə m		57	196	ʃ ə m	C V C	ʃ ə m	ʃ ə m	C V C
+454	tremjugankhanty	eye	sæm	s.æ.m	s æ m		57	196	s æ m	C V C	s æ m	s æ m	C V C
+456	upperdemjankakhanty	eye	seːm	s.eː.m	s eː m		57	196	s eː m	C V C	s eː m	s eː m	C V C
+450	vakhkhanty	eye	seːm	s.eː.m	s eː m		57	196	s eː m	C V C	s eː m	s eː m	C V C
+453	vartovskojekhanty	eye	sæm	s.æ.m	s æ m		57	196	s æ m	C V C	s æ m	s æ m	C V C
+452	vasjugankhanty	eye	seːm	s.eː.m	s eː m		57	196	s eː m	C V C	s eː m	s eː m	C V C
+451	verkhnekalymskkhanty	eye	seːm	s.eː.m	s eː m		57	196	s eː m	C V C	s eː m	s eː m	C V C
+1866	kondamansi	far	qʷɔʃæt	qʷ.ɔ.ʃ.æ.t	qʷ ɔ ʃ æ t		207	130	qʷ ɔ ʃ æ t	C V C V C	qʷ ɔ ʃ æ t	qʷ ɔ ʃ æ t	C V C V C
+1864	middlelozvamansi	far	qɔsæt	q.ɔ.s.æ.t	q ɔ s æ t		207	130	q ɔ s æ t	C V C V C	q ɔ s æ t	q ɔ s æ t	C V C V C
+1863	northmansi	far	χɔsæt	χ.ɔ.s.æ.t	χ ɔ s æ t		207	130	χ ɔ s æ t	C V C V C	χ ɔ s æ t	χ ɔ s æ t	C V C V C
+1865	pelymkamansi	far	qʷɔʃæt	qʷ.ɔ.ʃ.æ.t	qʷ ɔ ʃ æ t		207	130	qʷ ɔ ʃ æ t	C V C V C	qʷ ɔ ʃ æ t	qʷ ɔ ʃ æ t	C V C V C
+1867	tavdamansi	far	qoʃot	q.o.ʃ.o.t	q o ʃ o t		207	130	q o ʃ o t	C V C V C	q o ʃ o t	q o ʃ o t	C V C V C
+1874	kazymkhanty	far	χuwaː	χ.u.w.aː	χ u w aː		208	131	χ u w aː	C V C V	χ u w aː	χ u w aː	C V C V
+1872	kondakhanty	far	χowaː	χ.o.w.aː	χ o w aː		208	131	χ o w aː	C V C V	χ o w aː	χ o w aː	C V C V
+1873	nizjamkhanty	far	χuwaː	χ.u.w.aː	χ u w aː		208	131	χ u w aː	C V C V	χ u w aː	χ u w aː	C V C V
+1875	obdorskkhanty	far	χowiː	χ.o.w.iː	χ o w iː		208	131	χ o w iː	C V C V	χ o w iː	χ o w iː	C V C V
+1870	tremjugankhanty	far	kokkə	k.o.kː.ə	k o kː ə		208	131	k o kː ə	C V C V	k o kː ə	k o kː ə	C V C V
+1871	upperdemjankakhanty	far	χowaː	χ.o.w.aː	χ o w aː		208	131	χ o w aː	C V C V	χ o w aː	χ o w aː	C V C V
+1868	vakhkhanty	far	koːkkə	k.oː.kː.ə	k oː kː ə		208	131	k oː kː ə	C V C V	k oː kː ə	k oː kː ə	C V C V
+1869	vasjugankhanty	far	koːkkə	k.oː.kː.ə	k oː kː ə		208	131	k oː kː ə	C V C V	k oː kː ə	k oː kː ə	C V C V
+475	jugankhanty	fat n.	woj	w.o.j	w o j		58	197	w o j	C V C	w o - j	w o j	C V C
+480	kazymkhanty	fat n.	woj	w.o.j	w o j		58	197	w o j	C V C	w o - j	w o j	C V C
+477	kondakhanty	fat n.	yːj	yː.j	yː j		58	197	- yː j	V C	- yː - j	yː j	V C
+466	kondamansi	fat n.	wuoj	w.uo.j	w u j		58	197	w u j	C V C	w u o j	w u o j	C V V C
+472	likrisovskojekhanty	fat n.	woːj	w.oː.j	w oː j		58	197	w oː j	C V C	w oː - j	w oː j	C V C
+473	malyjjugankhanty	fat n.	woj	w.o.j	w o j		58	197	w o j	C V C	w o - j	w o j	C V C
+464	middlelozvamansi	fat n.	wuoj	w.uo.j	w u j		58	197	w u j	C V C	w u o j	w u o j	C V V C
+463	northmansi	fat n.	woːj	w.oː.j	w oː j		58	197	w oː j	C V C	w oː - j	w oː j	C V C
+482	obdorskkhanty	fat n.	waj	w.a.j	w a j		58	197	w a j	C V C	w a - j	w a j	C V C
+465	pelymkamansi	fat n.	wuoj	w.uo.j	w u j		58	197	w u j	C V C	w u o j	w u o j	C V V C
+481	synjakhanty	fat n.	woj	w.o.j	w o j		58	197	w o j	C V C	w o - j	w o j	C V C
+467	tavdamansi	fat n.	wɔːj	w.ɔː.j	w ɔː j		58	197	w ɔː j	C V C	w ɔː - j	w ɔː j	C V C
+474	tremjugankhanty	fat n.	woj	w.o.j	w o j		58	197	w o j	C V C	w o - j	w o j	C V C
+476	upperdemjankakhanty	fat n.	uːj	uː.j	uː j		58	197	- uː j	V C	- uː - j	uː j	V C
+468	vakhkhanty	fat n.	woːj	w.oː.j	w oː j		58	197	w oː j	C V C	w oː - j	w oː j	C V C
+471	vartovskojekhanty	fat n.	woːj	w.oː.j	w oː j		58	197	w oː j	C V C	w oː - j	w oː j	C V C
+470	vasjugankhanty	fat n.	woːj	w.oː.j	w oː j		58	197	w oː j	C V C	w oː - j	w oː j	C V C
+469	verkhnekalymskkhanty	fat n.	woːj	w.oː.j	w oː j		58	197	w oː j	C V C	w oː - j	w oː j	C V C
+499	kazymkhanty	feather	pun	p.u.n	p u n		60	200	p u n	C V C	p u n	p u n	C V C
+496	kondakhanty	feather	pyːn	p.yː.n	p yː n		60	200	p yː n	C V C	p yː n	p yː n	C V C
+487	kondamansi	feather	pon	p.o.n	p o n		60	200	p o n	C V C	p o n	p o n	C V C
+492	likrisovskojekhanty	feather	puːn	p.uː.n	p uː n		60	200	p uː n	C V C	p uː n	p uː n	C V C
+485	lowerlozvamansi	feather	pun	p.u.n	p u n		60	200	p u n	C V C	p u n	p u n	C V C
+493	malyjjugankhanty	feather	puːn	p.uː.n	p uː n		60	200	p uː n	C V C	p uː n	p uː n	C V C
+484	middlelozvamansi	feather	pun	p.u.n	p u n		60	200	p u n	C V C	p u n	p u n	C V C
+497	nizjamkhanty	feather	pun	p.u.n	p u n		60	200	p u n	C V C	p u n	p u n	C V C
+483	northmansi	feather	pun	p.u.n	p u n		60	200	p u n	C V C	p u n	p u n	C V C
+501	obdorskkhanty	feather	puːn	p.uː.n	p uː n		60	200	p uː n	C V C	p uː n	p uː n	C V C
+486	pelymkamansi	feather	pun	p.u.n	p u n		60	200	p u n	C V C	p u n	p u n	C V C
+498	sherkalykhanty	feather	pun	p.u.n	p u n		60	200	p u n	C V C	p u n	p u n	C V C
+500	synjakhanty	feather	pun	p.u.n	p u n		60	200	p u n	C V C	p u n	p u n	C V C
+488	tavdamansi	feather	pon	p.o.n	p o n		60	200	p o n	C V C	p o n	p o n	C V C
+494	tremjugankhanty	feather	puːn	p.uː.n	p uː n		60	200	p uː n	C V C	p uː n	p uː n	C V C
+495	upperdemjankakhanty	feather	pyːn	p.yː.n	p yː n		60	200	p yː n	C V C	p yː n	p yː n	C V C
+489	vakhkhanty	feather	puːn	p.uː.n	p uː n		60	200	p uː n	C V C	p uː n	p uː n	C V C
+491	vasjugankhanty	feather	puːn	p.uː.n	p uː n		60	200	p uː n	C V C	p uː n	p uː n	C V C
+490	verkhnekalymskkhanty	feather	puːn	p.uː.n	p uː n		60	200	p uː n	C V C	p uː n	p uː n	C V C
+515	jugankhanty	fire	tewət	t.e.w.ə.t	t e t		62	202	t e t	C V C	t e w ə t	t e w ə t	C V C V C
+520	kazymkhanty	fire	tut	t.u.t	t u t		62	202	t u t	C V C	t u - - t	t u t	C V C
+517	kondakhanty	fire	tyːt	t.yː.t	t yː t		62	202	t yː t	C V C	t yː - - t	t yː t	C V C
+506	kondamansi	fire	tɔut	t.ɔu.t	t ɔu t		62	202	t ɔu t	C V C	t ɔu - - t	t ɔu t	C V C
+512	likrisovskojekhanty	fire	teɣʷət	t.e.ɣʷ.ə.t	t e t		62	202	t e t	C V C	t e ɣʷ ə t	t e ɣʷ ə t	C V C V C
+504	lowerlozvamansi	fire	tɔːt	t.ɔː.t	t ɔː t		62	202	t ɔː t	C V C	t ɔː - - t	t ɔː t	C V C
+513	malyjjugankhanty	fire	teɣʷət	t.e.ɣʷ.ə.t	t e t		62	202	t e t	C V C	t e ɣʷ ə t	t e ɣʷ ə t	C V C V C
+503	middlelozvamansi	fire	toɔt	t.oɔ.t	t oɔ t		62	202	t oɔ t	C V C	t oɔ - - t	t oɔ t	C V C
+518	nizjamkhanty	fire	tut	t.u.t	t u t		62	202	t u t	C V C	t u - - t	t u t	C V C
+522	obdorskkhanty	fire	tuːt	t.uː.t	t uː t		62	202	t uː t	C V C	t uː - - t	t uː t	C V C
+519	sherkalykhanty	fire	tut	t.u.t	t u t		62	202	t u t	C V C	t u - - t	t u t	C V C
+521	synjakhanty	fire	tut	t.u.t	t u t		62	202	t u t	C V C	t u - - t	t u t	C V C
+507	tavdamansi	fire	tæut	t.æu.t	t æ t		62	202	t æ t	C V C	t æ - u t	t æ u t	C V V C
+514	tremjugankhanty	fire	teɣʷət	t.e.ɣʷ.ə.t	t e t		62	202	t e t	C V C	t e ɣʷ ə t	t e ɣʷ ə t	C V C V C
+516	upperdemjankakhanty	fire	tyːt	t.yː.t	t yː t		62	202	t yː t	C V C	t yː - - t	t yː t	C V C
+508	vakhkhanty	fire	tœɣət	t.œ.ɣ.ə.t	t œ t		62	202	t œ t	C V C	t œ ɣ ə t	t œ ɣ ə t	C V C V C
+511	vartovskojekhanty	fire	tœɣət	t.œ.ɣ.ə.t	t œ t		62	202	t œ t	C V C	t œ ɣ ə t	t œ ɣ ə t	C V C V C
+510	vasjugankhanty	fire	tœɣət	t.œ.ɣ.ə.t	t œ t		62	202	t œ t	C V C	t œ ɣ ə t	t œ ɣ ə t	C V C V C
+509	verkhnekalymskkhanty	fire	tœɣət	t.œ.ɣ.ə.t	t œ t		62	202	t œ t	C V C	t œ ɣ ə t	t œ ɣ ə t	C V C V C
+536	jugankhanty	fish	kuːɬ	k.uː.ɬ	k uː ɬ		64	204	k uː ɬ	C V C	k uː ɬ -	k uː ɬ	C V C
+541	kazymkhanty	fish	χuɬ	χ.u.ɬ	χ u ɬ		64	204	χ u ɬ	C V C	χ u ɬ -	χ u ɬ	C V C
+538	kondakhanty	fish	χuːtj	χ.uː.t.j	χ uː t		64	204	χ uː t	C V C	χ uː t j	χ uː t j	C V C C
+527	kondamansi	fish	qul	q.u.l	q u l		64	204	q u l	C V C	q u l -	q u l	C V C
+533	likrisovskojekhanty	fish	kuːθ	k.uː.θ	k uː θ		64	204	k uː θ	C V C	k uː θ -	k uː θ	C V C
+525	lowerlozvamansi	fish	qul	q.u.l	q u l		64	204	q u l	C V C	q u l -	q u l	C V C
+534	malyjjugankhanty	fish	kuːɬ	k.uː.ɬ	k uː ɬ		64	204	k uː ɬ	C V C	k uː ɬ -	k uː ɬ	C V C
+524	middlelozvamansi	fish	qul	q.u.l	q u l		64	204	q u l	C V C	q u l -	q u l	C V C
+539	nizjamkhanty	fish	χut	χ.u.t	χ u t		64	204	χ u t	C V C	χ u t -	χ u t	C V C
+523	northmansi	fish	χul	χ.u.l	χ u l		64	204	χ u l	C V C	χ u l -	χ u l	C V C
+543	obdorskkhanty	fish	χuːl	χ.uː.l	χ uː l		64	204	χ uː l	C V C	χ uː l -	χ uː l	C V C
+526	pelymkamansi	fish	qul	q.u.l	q u l		64	204	q u l	C V C	q u l -	q u l	C V C
+540	sherkalykhanty	fish	χut	χ.u.t	χ u t		64	204	χ u t	C V C	χ u t -	χ u t	C V C
+542	synjakhanty	fish	χul	χ.u.l	χ u l		64	204	χ u l	C V C	χ u l -	χ u l	C V C
+528	tavdamansi	fish	qol	q.o.l	q o l		64	204	q o l	C V C	q o l -	q o l	C V C
+535	tremjugankhanty	fish	kuːɬ	k.uː.ɬ	k uː ɬ		64	204	k uː ɬ	C V C	k uː ɬ -	k uː ɬ	C V C
+537	upperdemjankakhanty	fish	χuːtj	χ.uː.t.j	χ uː t		64	204	χ uː t	C V C	χ uː t j	χ uː t j	C V C C
+529	vakhkhanty	fish	kuːl	k.uː.l	k uː l		64	204	k uː l	C V C	k uː l -	k uː l	C V C
+532	vartovskojekhanty	fish	kuːɬ	k.uː.ɬ	k uː ɬ		64	204	k uː ɬ	C V C	k uː ɬ -	k uː ɬ	C V C
+531	vasjugankhanty	fish	kuːl	k.uː.l	k uː l		64	204	k uː l	C V C	k uː l -	k uː l	C V C
+530	verkhnekalymskkhanty	fish	kuːl	k.uː.l	k uː l		64	204	k uː l	C V C	k uː l -	k uː l	C V C
+552	jugankhanty	fly v.	ɬeɣəɬ	ɬ.e.ɣ.ə.ɬ	ɬ e ɣ ə ɬ		65	205	ɬ e ɣ ə ɬ	C V C V C	ɬ e - ɣ ə - ɬ	ɬ e ɣ ə ɬ	C V C V C
+554	kondakhanty	fly v.	teɣət	t.e.ɣ.ə.t	t e ɣ ə t		65	205	t e ɣ ə t	C V C V C	t e - ɣ ə - t	t e ɣ ə t	C V C V C
+548	kondamansi	fly v.	təɨli	t.əɨ.l.i	t ə l i		65	205	t ə l i -	C V C V	t ə ɨ l i - -	t ə ɨ l i	C V V C V
+546	lowerlozvamansi	fly v.	tiːli	t.iː.l.i	t iː l i		65	205	t iː l i -	C V C V	t iː - l i - -	t iː l i	C V C V
+545	middlelozvamansi	fly v.	tɨːli	t.ɨː.l.i	t ɨː l i		65	205	t ɨː l i -	C V C V	t ɨː - l i - -	t ɨː l i	C V C V
+544	northmansi	fly v.	tɨːli	t.ɨː.l.i	t ɨː l i		65	205	t ɨː l i -	C V C V	t ɨː - l i - -	t ɨː l i	C V C V
+547	pelymkamansi	fly v.	təɨli	t.əɨ.l.i	t ə l i		65	205	t ə l i -	C V C V	t ə ɨ l i - -	t ə ɨ l i	C V V C V
+549	tavdamansi	fly v.	tæulænt	t.æu.l.æ.n.t	t æ l æ t		65	205	t æ l æ t	C V C V C	t æ u l æ n t	t æ u l æ n t	C V V C V C C
+551	tremjugankhanty	fly v.	ɬeɣəɬ	ɬ.e.ɣ.ə.ɬ	ɬ e ɣ ə ɬ		65	205	ɬ e ɣ ə ɬ	C V C V C	ɬ e - ɣ ə - ɬ	ɬ e ɣ ə ɬ	C V C V C
+553	upperdemjankakhanty	fly v.	teɣət	t.e.ɣ.ə.t	t e ɣ ə t		65	205	t e ɣ ə t	C V C V C	t e - ɣ ə - t	t e ɣ ə t	C V C V C
+550	vakhkhanty	fly v.	leɣəl	l.e.ɣ.ə.l	l e ɣ ə l		65	205	l e ɣ ə l	C V C V C	l e - ɣ ə - l	l e ɣ ə l	C V C V C
+556	kazymkhanty	fly v.	jaŋ	j.a.ŋ	j a ŋ		66	206	j a ŋ -	C V C	j a ŋ -	j a ŋ	C V C
+555	sherkalykhanty	fly v.	jaŋχ	j.a.ŋ.χ	j a ŋ χ		66	206	j a ŋ χ	C V C C	j a ŋ χ	j a ŋ χ	C V C C
+557	synjakhanty	fly v.	jaŋχ	j.a.ŋ.χ	j a ŋ χ		66	206	j a ŋ χ	C V C C	j a ŋ χ	j a ŋ χ	C V C C
+562	kondamansi	foot	ləl	l.ə.l	l ə l		68	208	l ə l	C V C	l ə - - l	l ə l	C V C
+560	lowerlozvamansi	foot	ləl	l.ə.l	l ə l		68	208	l ə l	C V C	l ə - - l	l ə l	C V C
+559	middlelozvamansi	foot	ləl	l.ə.l	l ə l		68	208	l ə l	C V C	l ə - - l	l ə l	C V C
+558	northmansi	foot	laɣɨl	l.a.ɣ.ɨ.l	l a l		68	208	l a l	C V C	l a ɣ ɨ l	l a ɣ ɨ l	C V C V C
+561	pelymkamansi	foot	ləl	l.ə.l	l ə l		68	208	l ə l	C V C	l ə - - l	l ə l	C V C
+563	tavdamansi	foot	laəl	l.aə.l	l a l		68	208	l a l	C V C	l a - ə l	l a ə l	C V V C
+568	jugankhanty	foot	kœr	k.œ.r	k œ r		67	207	k œ r	C V C	k œ r	k œ r	C V C
+573	kazymkhanty	foot	kur	k.u.r	k u r		67	207	k u r	C V C	k u r	k u r	C V C
+570	kondakhanty	foot	kor	k.o.r	k o r		67	207	k o r	C V C	k o r	k o r	C V C
+571	nizjamkhanty	foot	kur	k.u.r	k u r		67	207	k u r	C V C	k u r	k u r	C V C
+575	obdorskkhanty	foot	kuːr	k.uː.r	k uː r		67	207	k uː r	C V C	k uː r	k uː r	C V C
+572	sherkalykhanty	foot	kur	k.u.r	k u r		67	207	k u r	C V C	k u r	k u r	C V C
+574	synjakhanty	foot	kur	k.u.r	k u r		67	207	k u r	C V C	k u r	k u r	C V C
+567	tremjugankhanty	foot	kœr	k.œ.r	k œ r		67	207	k œ r	C V C	k œ r	k œ r	C V C
+569	upperdemjankakhanty	foot	kor	k.o.r	k o r		67	207	k o r	C V C	k o r	k o r	C V C
+564	vakhkhanty	foot	kœr	k.œ.r	k œ r		67	207	k œ r	C V C	k œ r	k œ r	C V C
+566	vasjugankhanty	foot	kœr	k.œ.r	k œ r		67	207	k œ r	C V C	k œ r	k œ r	C V C
+565	verkhnekalymskkhanty	foot	kœr	k.œ.r	k œ r		67	207	k œ r	C V C	k œ r	k œ r	C V C
+588	jugankhanty	full	tæɬəɬ	t.æ.ɬ.ə.ɬ	t æ ɬ		69	209	t æ ɬ	C V C	t æ ɬ - ə ɬ	t æ ɬ ə ɬ	C V C V C
+593	kazymkhanty	full	tɛːɬ	t.ɛː.ɬ	t ɛː ɬ		69	209	t ɛː ɬ	C V C	t ɛː - - - ɬ	t ɛː ɬ	C V C
+590	kondakhanty	full	teːt	t.eː.t	t eː t		69	209	t eː t	C V C	t eː - - - t	t eː t	C V C
+580	kondamansi	full	taɣɨl	t.a.ɣ.ɨ.l	t a l		69	209	t a l	C V C	t a - ɣ ɨ l	t a ɣ ɨ l	C V C V C
+585	likrisovskojekhanty	full	tæθ	t.æ.θ	t æ θ		69	209	t æ θ	C V C	t æ - - - θ	t æ θ	C V C
+578	lowerlozvamansi	full	taɨl	t.aɨ.l	t a l		69	209	t a l	C V C	t a - - ɨ l	t a ɨ l	C V V C
+586	malyjjugankhanty	full	tæɬ	t.æ.ɬ	t æ ɬ		69	209	t æ ɬ	C V C	t æ - - - ɬ	t æ ɬ	C V C
+577	middlelozvamansi	full	taɨl	t.aɨ.l	t a l		69	209	t a l	C V C	t a - - ɨ l	t a ɨ l	C V V C
+591	nizjamkhanty	full	teːt	t.eː.t	t eː t		69	209	t eː t	C V C	t eː - - - t	t eː t	C V C
+576	northmansi	full	taɣɨl	t.a.ɣ.ɨ.l	t a l		69	209	t a l	C V C	t a - ɣ ɨ l	t a ɣ ɨ l	C V C V C
+595	obdorskkhanty	full	teːl	t.eː.l	t eː l		69	209	t eː l	C V C	t eː - - - l	t eː l	C V C
+579	pelymkamansi	full	tæɣɨl	t.æ.ɣ.ɨ.l	t æ l		69	209	t æ l	C V C	t æ - ɣ ɨ l	t æ ɣ ɨ l	C V C V C
+592	sherkalykhanty	full	teːt	t.eː.t	t eː t		69	209	t eː t	C V C	t eː - - - t	t eː t	C V C
+594	synjakhanty	full	teːl	t.eː.l	t eː l		69	209	t eː l	C V C	t eː - - - l	t eː l	C V C
+581	tavdamansi	full	tæul	t.æu.l	t æ l		69	209	t æ l	C V C	t æ - - u l	t æ u l	C V V C
+587	tremjugankhanty	full	tæɬ	t.æ.ɬ	t æ ɬ		69	209	t æ ɬ	C V C	t æ - - - ɬ	t æ ɬ	C V C
+589	upperdemjankakhanty	full	teːt	t.eː.t	t eː t		69	209	t eː t	C V C	t eː - - - t	t eː t	C V C
+582	vakhkhanty	full	teːlɣæːl	t.eː.l.ɣ.æː.l	t eː l		69	209	t eː l	C V C	t eː l ɣ æː l	t eː l ɣ æː l	C V C C V C
+584	vasjugankhanty	full	teːl	t.eː.l	t eː l		69	209	t eː l	C V C	t eː - - - l	t eː l	C V C
+583	verkhnekalymskkhanty	full	teːl	t.eː.l	t eː l		69	209	t eː l	C V C	t eː - - - l	t eː l	C V C
+605	jugankhanty	give	me	m.e	m e		70	211	m e	C V	m e - - - -	m e	C V
+610	kazymkhanty	give	ma	m.a	m a		70	211	m a	C V	m a - - - -	m a	C V
+607	kondakhanty	give	me	m.e	m e		70	211	m e	C V	m e - - - -	m e	C V
+600	kondamansi	give	məɨɣ	m.əɨ.ɣ	m ə		70	211	m ə	C V	m ə - ɨ ɣ -	m ə ɨ ɣ	C V V C
+598	lowerlozvamansi	give	miː	m.iː	m iː		70	211	m iː	C V	m iː - - - -	m iː	C V
+597	middlelozvamansi	give	mij	m.i.j	m i		70	211	m i	C V	m i j - - -	m i j	C V C
+608	nizjamkhanty	give	ma	m.a	m a		70	211	m a	C V	m a - - - -	m a	C V
+596	northmansi	give	mɨːɣ	m.ɨː.ɣ	m ɨː		70	211	m ɨː	C V	m ɨː - - ɣ -	m ɨː ɣ	C V C
+612	obdorskkhanty	give	mæ	m.æ	m æ		70	211	m æ	C V	m æ - - - -	m æ	C V
+599	pelymkamansi	give	mæji	m.æ.j.i	m æ		70	211	m æ	C V	m æ j i - -	m æ j i	C V C V
+609	sherkalykhanty	give	ma	m.a	m a		70	211	m a	C V	m a - - - -	m a	C V
+611	synjakhanty	give	ma	m.a	m a		70	211	m a	C V	m a - - - -	m a	C V
+601	tavdamansi	give	mæjænt	m.æ.j.æ.n.t	m æ		70	211	m æ	C V	m æ j æ n t	m æ j æ n t	C V C V C C
+604	tremjugankhanty	give	me	m.e	m e		70	211	m e	C V	m e - - - -	m e	C V
+606	upperdemjankakhanty	give	me	m.e	m e		70	211	m e	C V	m e - - - -	m e	C V
+602	vakhkhanty	give	me	m.e	m e		70	211	m e	C V	m e - - - -	m e	C V
+603	vasjugankhanty	give	me	m.e	m e		70	211	m e	C V	m e - - - -	m e	C V
+626	jugankhanty	good	jem	j.e.m	j e m		71	212	j e m	C V C	j e m - -	j e m	C V C
+631	kazymkhanty	good	jam	j.a.m	j a m		71	212	j a m	C V C	j a m - -	j a m	C V C
+628	kondakhanty	good	jem	j.e.m	j e m		71	212	j e m	C V C	j e m - -	j e m	C V C
+617	kondamansi	good	jɔməs	j.ɔ.m.ə.s	j ɔ m		71	212	j ɔ m	C V C	j ɔ m ə s	j ɔ m ə s	C V C V C
+623	likrisovskojekhanty	good	jem	j.e.m	j e m		71	212	j e m	C V C	j e m - -	j e m	C V C
+615	lowerlozvamansi	good	jæməs	j.æ.m.ə.s	j æ m		71	212	j æ m	C V C	j æ m ə s	j æ m ə s	C V C V C
+624	malyjjugankhanty	good	jem	j.e.m	j e m		71	212	j e m	C V C	j e m - -	j e m	C V C
+614	middlelozvamansi	good	jæməs	j.æ.m.ə.s	j æ m		71	212	j æ m	C V C	j æ m ə s	j æ m ə s	C V C V C
+629	nizjamkhanty	good	jam	j.a.m	j a m		71	212	j a m	C V C	j a m - -	j a m	C V C
+613	northmansi	good	jɔməs	j.ɔ.m.ə.s	j ɔ m		71	212	j ɔ m	C V C	j ɔ m ə s	j ɔ m ə s	C V C V C
+633	obdorskkhanty	good	jiːm	j.iː.m	j iː m		71	212	j iː m	C V C	j iː m - -	j iː m	C V C
+616	pelymkamansi	good	jɔməs	j.ɔ.m.ə.s	j ɔ m		71	212	j ɔ m	C V C	j ɔ m ə s	j ɔ m ə s	C V C V C
+630	sherkalykhanty	good	jam	j.a.m	j a m		71	212	j a m	C V C	j a m - -	j a m	C V C
+632	synjakhanty	good	jam	j.a.m	j a m		71	212	j a m	C V C	j a m - -	j a m	C V C
+618	tavdamansi	good	jumɔs	j.u.m.ɔ.s	j u m		71	212	j u m	C V C	j u m ɔ s	j u m ɔ s	C V C V C
+625	tremjugankhanty	good	jem	j.e.m	j e m		71	212	j e m	C V C	j e m - -	j e m	C V C
+627	upperdemjankakhanty	good	jem	j.e.m	j e m		71	212	j e m	C V C	j e m - -	j e m	C V C
+619	vakhkhanty	good	jem	j.e.m	j e m		71	212	j e m	C V C	j e m - -	j e m	C V C
+622	vartovskojekhanty	good	jem	j.e.m	j e m		71	212	j e m	C V C	j e m - -	j e m	C V C
+621	vasjugankhanty	good	jem	j.e.m	j e m		71	212	j e m	C V C	j e m - -	j e m	C V C
+620	verkhnekalymskkhanty	good	jem	j.e.m	j e m		71	212	j e m	C V C	j e m - -	j e m	C V C
+637	kondamansi	green	ɲoɔrpom	ɲ.oɔ.r.p.o.m	ɲ oɔ r p o m		72	213	ɲ oɔ r p o m	C V C C V C	ɲ oɔ r p o m	ɲ oɔ r p o m	C V C C V C
+635	middlelozvamansi	green	ɲoɔrpum	ɲ.oɔ.r.p.u.m	ɲ oɔ r p u m		72	213	ɲ oɔ r p u m	C V C C V C	ɲ oɔ r p u m	ɲ oɔ r p u m	C V C C V C
+634	northmansi	green	ɲaːrpum	ɲ.aː.r.p.u.m	ɲ aː r p u m		72	213	ɲ aː r p u m	C V C C V C	ɲ aː r p u m	ɲ aː r p u m	C V C C V C
+636	pelymkamansi	green	ɲɔːrpum	ɲ.ɔː.r.p.u.m	ɲ ɔː r p u m		72	213	ɲ ɔː r p u m	C V C C V C	ɲ ɔː r p u m	ɲ ɔː r p u m	C V C C V C
+638	tavdamansi	green	ɲærqɔr	ɲ.æ.r.q.ɔ.r	ɲ æ r q ɔ r		72	213	ɲ æ r q ɔ r	C V C C V C	ɲ æ r q ɔ r	ɲ æ r q ɔ r	C V C C V C
+640	jugankhanty	green	wastə	w.a.s.t.ə	w a s t ə		73	214	w a s t ə	C V C C V	w a s t ə	w a s t ə	C V C C V
+645	kazymkhanty	green	wostiː	w.o.s.t.iː	w o s t iː		73	214	w o s t iː	C V C C V	w o s t iː	w o s t iː	C V C C V
+642	kondakhanty	green	wastə	w.a.s.t.ə	w a s t ə		73	214	w a s t ə	C V C C V	w a s t ə	w a s t ə	C V C C V
+643	nizjamkhanty	green	wostə	w.o.s.t.ə	w o s t ə		73	214	w o s t ə	C V C C V	w o s t ə	w o s t ə	C V C C V
+647	obdorskkhanty	green	wastiː	w.a.s.t.iː	w a s t iː		73	214	w a s t iː	C V C C V	w a s t iː	w a s t iː	C V C C V
+644	sherkalykhanty	green	wostə	w.o.s.t.ə	w o s t ə		73	214	w o s t ə	C V C C V	w o s t ə	w o s t ə	C V C C V
+646	synjakhanty	green	wostiː	w.o.s.t.iː	w o s t iː		73	214	w o s t iː	C V C C V	w o s t iː	w o s t iː	C V C C V
+639	tremjugankhanty	green	wastə	w.a.s.t.ə	w a s t ə		73	214	w a s t ə	C V C C V	w a s t ə	w a s t ə	C V C C V
+641	upperdemjankakhanty	green	wastə	w.a.s.t.ə	w a s t ə		73	214	w a s t ə	C V C C V	w a s t ə	w a s t ə	C V C C V
+661	jugankhanty	hair	oːpət	oː.p.ə.t	oː p ə t		74	215	oː p ə t	V C V C	oː p ə t	oː p ə t	V C V C
+666	kazymkhanty	hair	ɵːpət	ɵː.p.ə.t	ɵː p ə t		74	215	ɵː p ə t	V C V C	ɵː p ə t	ɵː p ə t	V C V C
+663	kondakhanty	hair	uːpət	uː.p.ə.t	uː p ə t		74	215	uː p ə t	V C V C	uː p ə t	uː p ə t	V C V C
+652	kondamansi	hair	əːt	əː.t	əː t		74	215	- - əː t	V C	- - əː t	əː t	V C
+658	likrisovskojekhanty	hair	oːpət	oː.p.ə.t	oː p ə t		74	215	oː p ə t	V C V C	oː p ə t	oː p ə t	V C V C
+650	lowerlozvamansi	hair	əːt	əː.t	əː t		74	215	- - əː t	V C	- - əː t	əː t	V C
+659	malyjjugankhanty	hair	oːpət	oː.p.ə.t	oː p ə t		74	215	oː p ə t	V C V C	oː p ə t	oː p ə t	V C V C
+649	middlelozvamansi	hair	əːt	əː.t	əː t		74	215	- - əː t	V C	- - əː t	əː t	V C
+664	nizjamkhanty	hair	uːpət	uː.p.ə.t	uː p ə t		74	215	uː p ə t	V C V C	uː p ə t	uː p ə t	V C V C
+648	northmansi	hair	aːt	aː.t	aː t		74	215	- - aː t	V C	- - aː t	aː t	V C
+668	obdorskkhanty	hair	oːpət	oː.p.ə.t	oː p ə t		74	215	oː p ə t	V C V C	oː p ə t	oː p ə t	V C V C
+651	pelymkamansi	hair	əːt	əː.t	əː t		74	215	- - əː t	V C	- - əː t	əː t	V C
+665	sherkalykhanty	hair	uːpət	uː.p.ə.t	uː p ə t		74	215	uː p ə t	V C V C	uː p ə t	uː p ə t	V C V C
+667	synjakhanty	hair	uːpət	uː.p.ə.t	uː p ə t		74	215	uː p ə t	V C V C	uː p ə t	uː p ə t	V C V C
+653	tavdamansi	hair	æːt	æː.t	æː t		74	215	- - æː t	V C	- - æː t	æː t	V C
+660	tremjugankhanty	hair	oːpət	oː.p.ə.t	oː p ə t		74	215	oː p ə t	V C V C	oː p ə t	oː p ə t	V C V C
+662	upperdemjankakhanty	hair	uːpət	uː.p.ə.t	uː p ə t		74	215	uː p ə t	V C V C	uː p ə t	uː p ə t	V C V C
+654	vakhkhanty	hair	aːwət	aː.w.ə.t	aː w ə t		74	215	aː w ə t	V C V C	aː w ə t	aː w ə t	V C V C
+657	vartovskojekhanty	hair	aːwət	aː.w.ə.t	aː w ə t		74	215	aː w ə t	V C V C	aː w ə t	aː w ə t	V C V C
+656	vasjugankhanty	hair	aːwət	aː.w.ə.t	aː w ə t		74	215	aː w ə t	V C V C	aː w ə t	aː w ə t	V C V C
+655	verkhnekalymskkhanty	hair	aːwət	aː.w.ə.t	aː w ə t		74	215	aː w ə t	V C V C	aː w ə t	aː w ə t	V C V C
+682	jugankhanty	hand	kœt	k.œ.t	k œ t		75	216	k œ t	C V C	k œ - t	k œ t	C V C
+684	kondakhanty	hand	keːt	k.eː.t	k eː t		75	216	k eː t	C V C	k eː - t	k eː t	C V C
+673	kondamansi	hand	koæt	k.oæ.t	k o t		75	216	k o t	C V C	k o æ t	k o æ t	C V V C
+679	likrisovskojekhanty	hand	kœt	k.œ.t	k œ t		75	216	k œ t	C V C	k œ - t	k œ t	C V C
+671	lowerlozvamansi	hand	kɔːt	k.ɔː.t	k ɔː t		75	216	k ɔː t	C V C	k ɔː - t	k ɔː t	C V C
+680	malyjjugankhanty	hand	kœt	k.œ.t	k œ t		75	216	k œ t	C V C	k œ - t	k œ t	C V C
+670	middlelozvamansi	hand	koɔt	k.oɔ.t	k oɔ t		75	216	k oɔ t	C V C	k oɔ - t	k oɔ t	C V C
+669	northmansi	hand	kaːt	k.aː.t	k aː t		75	216	k aː t	C V C	k aː - t	k aː t	C V C
+672	pelymkamansi	hand	koɔt	k.oɔ.t	k oɔ t		75	216	k oɔ t	C V C	k oɔ - t	k oɔ t	C V C
+674	tavdamansi	hand	kæːt	k.æː.t	k æː t		75	216	k æː t	C V C	k æː - t	k æː t	C V C
+681	tremjugankhanty	hand	kœt	k.œ.t	k œ t		75	216	k œ t	C V C	k œ - t	k œ t	C V C
+683	upperdemjankakhanty	hand	keːt	k.eː.t	k eː t		75	216	k eː t	C V C	k eː - t	k eː t	C V C
+675	vakhkhanty	hand	kœːt	k.œː.t	k œː t		75	216	k œː t	C V C	k œː - t	k œː t	C V C
+678	vartovskojekhanty	hand	kœt	k.œ.t	k œ t		75	216	k œ t	C V C	k œ - t	k œ t	C V C
+677	vasjugankhanty	hand	kœːt	k.œː.t	k œː t		75	216	k œː t	C V C	k œː - t	k œː t	C V C
+676	verkhnekalymskkhanty	hand	kœːt	k.œː.t	k œː t		75	216	k œː t	C V C	k œː - t	k œː t	C V C
+687	kazymkhanty	hand	jɔːʃ	j.ɔː.ʃ	j ɔː ʃ		76	217	j ɔː ʃ	C V C	j ɔː ʃ	j ɔː ʃ	C V C
+685	nizjamkhanty	hand	jɔːʃ	j.ɔː.ʃ	j ɔː ʃ		76	217	j ɔː ʃ	C V C	j ɔː ʃ	j ɔː ʃ	C V C
+689	obdorskkhanty	hand	jaːs	j.aː.s	j aː s		76	217	j aː s	C V C	j aː s	j aː s	C V C
+686	sherkalykhanty	hand	jɔːʃ	j.ɔː.ʃ	j ɔː ʃ		76	217	j ɔː ʃ	C V C	j ɔː ʃ	j ɔː ʃ	C V C
+688	synjakhanty	hand	jɔːʃ	j.ɔː.ʃ	j ɔː ʃ		76	217	j ɔː ʃ	C V C	j ɔː ʃ	j ɔː ʃ	C V C
+694	kondamansi	head	pæŋk	p.æ.ŋ.k	p æ ŋ k		77	218	p æ ŋ k	C V C C	p æ ŋ k	p æ ŋ k	C V C C
+692	lowerlozvamansi	head	pəŋk	p.ə.ŋ.k	p ə ŋ k		77	218	p ə ŋ k	C V C C	p ə ŋ k	p ə ŋ k	C V C C
+691	middlelozvamansi	head	pəŋk	p.ə.ŋ.k	p ə ŋ k		77	218	p ə ŋ k	C V C C	p ə ŋ k	p ə ŋ k	C V C C
+690	northmansi	head	puŋk	p.u.ŋ.k	p u ŋ k		77	218	p u ŋ k	C V C C	p u ŋ k	p u ŋ k	C V C C
+693	pelymkamansi	head	pəŋk	p.ə.ŋ.k	p ə ŋ k		77	218	p ə ŋ k	C V C C	p ə ŋ k	p ə ŋ k	C V C C
+695	tavdamansi	head	pəŋ	p.ə.ŋ	p ə ŋ		77	218	p ə ŋ -	C V C	p ə ŋ -	p ə ŋ	C V C
+702	jugankhanty	head	oːw	oː.w	oː w		78	219	oː w	V C	oː w	oː w	V C
+707	kazymkhanty	head	oχ	o.χ	o χ		78	219	o χ	V C	o χ	o χ	V C
+704	kondakhanty	head	uːχ	uː.χ	uː χ		78	219	uː χ	V C	uː χ	uː χ	V C
+700	malyjjugankhanty	head	oːɣʷ	oː.ɣʷ	oː ɣʷ		78	219	oː ɣʷ	V C	oː ɣʷ	oː ɣʷ	V C
+705	nizjamkhanty	head	uːχ	uː.χ	uː χ		78	219	uː χ	V C	uː χ	uː χ	V C
+709	obdorskkhanty	head	oχ	o.χ	o χ		78	219	o χ	V C	o χ	o χ	V C
+706	sherkalykhanty	head	uːχ	uː.χ	uː χ		78	219	uː χ	V C	uː χ	uː χ	V C
+708	synjakhanty	head	oχ	o.χ	o χ		78	219	o χ	V C	o χ	o χ	V C
+701	tremjugankhanty	head	oːɣʷ	oː.ɣʷ	oː ɣʷ		78	219	oː ɣʷ	V C	oː ɣʷ	oː ɣʷ	V C
+703	upperdemjankakhanty	head	uːχ	uː.χ	uː χ		78	219	uː χ	V C	uː χ	uː χ	V C
+696	vakhkhanty	head	ɔːɣ	ɔː.ɣ	ɔː ɣ		78	219	ɔː ɣ	V C	ɔː ɣ	ɔː ɣ	V C
+699	vartovskojekhanty	head	oːɣ	oː.ɣ	oː ɣ		78	219	oː ɣ	V C	oː ɣ	oː ɣ	V C
+698	vasjugankhanty	head	ɔːɣ	ɔː.ɣ	ɔː ɣ		78	219	ɔː ɣ	V C	ɔː ɣ	ɔː ɣ	V C
+697	verkhnekalymskkhanty	head	oːɣ	oː.ɣ	oː ɣ		78	219	oː ɣ	V C	oː ɣ	oː ɣ	V C
+723	jugankhanty	hear	koːɬ	k.oː.ɬ	k oː ɬ		79	220	k oː ɬ	C V C	k oː ɬ - - -	k oː ɬ	C V C
+728	kazymkhanty	hear	χɵːɬ	χ.ɵː.ɬ	χ ɵː ɬ		79	220	χ ɵː ɬ	C V C	χ ɵː ɬ - - -	χ ɵː ɬ	C V C
+725	kondakhanty	hear	χuːt	χ.uː.t	χ uː		79	220	χ uː -	C V	χ uː - - - t	χ uː t	C V C
+714	kondamansi	hear	qoːli	q.oː.l.i	q oː l		79	220	q oː l	C V C	q oː l i - -	q oː l i	C V C V
+720	likrisovskojekhanty	hear	koːθ	k.oː.θ	k oː		79	220	k oː -	C V	k oː - - - θ	k oː θ	C V C
+712	lowerlozvamansi	hear	qoːli	q.oː.l.i	q oː l		79	220	q oː l	C V C	q oː l i - -	q oː l i	C V C V
+721	malyjjugankhanty	hear	koːɬ	k.oː.ɬ	k oː ɬ		79	220	k oː ɬ	C V C	k oː ɬ - - -	k oː ɬ	C V C
+711	middlelozvamansi	hear	qʷoli	qʷ.o.l.i	qʷ o l		79	220	qʷ o l	C V C	qʷ o l i - -	qʷ o l i	C V C V
+726	nizjamkhanty	hear	χuːt	χ.uː.t	χ uː		79	220	χ uː -	C V	χ uː - - - t	χ uː t	C V C
+710	northmansi	hear	χɔːli	χ.ɔː.l.i	χ ɔː l		79	220	χ ɔː l	C V C	χ ɔː l i - -	χ ɔː l i	C V C V
+730	obdorskkhanty	hear	χoːl	χ.oː.l	χ oː l		79	220	χ oː l	C V C	χ oː l - - -	χ oː l	C V C
+713	pelymkamansi	hear	qoːli	q.oː.l.i	q oː l		79	220	q oː l	C V C	q oː l i - -	q oː l i	C V C V
+727	sherkalykhanty	hear	χuːt	χ.uː.t	χ uː		79	220	χ uː -	C V	χ uː - - - t	χ uː t	C V C
+729	synjakhanty	hear	χuːl	χ.uː.l	χ uː l		79	220	χ uː l	C V C	χ uː l - - -	χ uː l	C V C
+715	tavdamansi	hear	qɔlɔnt	q.ɔ.l.ɔ.n.t	q ɔ l		79	220	q ɔ l	C V C	q ɔ l ɔ n t	q ɔ l ɔ n t	C V C V C C
+722	tremjugankhanty	hear	koːɬ	k.oː.ɬ	k oː ɬ		79	220	k oː ɬ	C V C	k oː ɬ - - -	k oː ɬ	C V C
+724	upperdemjankakhanty	hear	χuːt	χ.uː.t	χ uː		79	220	χ uː -	C V	χ uː - - - t	χ uː t	C V C
+716	vakhkhanty	hear	kɔːl	k.ɔː.l	k ɔː l		79	220	k ɔː l	C V C	k ɔː l - - -	k ɔː l	C V C
+719	vartovskojekhanty	hear	koːɬ	k.oː.ɬ	k oː ɬ		79	220	k oː ɬ	C V C	k oː ɬ - - -	k oː ɬ	C V C
+718	vasjugankhanty	hear	kɔːl	k.ɔː.l	k ɔː l		79	220	k ɔː l	C V C	k ɔː l - - -	k ɔː l	C V C
+717	verkhnekalymskkhanty	hear	koːl	k.oː.l	k oː l		79	220	k oː l	C V C	k oː l - - -	k oː l	C V C
+744	jugankhanty	heart	sem	s.e.m	s e m		80	222	s e m	C V C	s e m	s e m	C V C
+749	kazymkhanty	heart	sam	s.a.m	s a m		80	222	s a m	C V C	s a m	s a m	C V C
+746	kondakhanty	heart	sem	s.e.m	s e m		80	222	s e m	C V C	s e m	s e m	C V C
+735	kondamansi	heart	səm	s.ə.m	s ə m		80	222	s ə m	C V C	s ə m	s ə m	C V C
+741	likrisovskojekhanty	heart	sem	s.e.m	s e m		80	222	s e m	C V C	s e m	s e m	C V C
+733	lowerlozvamansi	heart	ʃim	ʃ.i.m	ʃ i m		80	222	ʃ i m	C V C	ʃ i m	ʃ i m	C V C
+742	malyjjugankhanty	heart	sem	s.e.m	s e m		80	222	s e m	C V C	s e m	s e m	C V C
+732	middlelozvamansi	heart	ʃim	ʃ.i.m	ʃ i m		80	222	ʃ i m	C V C	ʃ i m	ʃ i m	C V C
+747	nizjamkhanty	heart	sam	s.a.m	s a m		80	222	s a m	C V C	s a m	s a m	C V C
+731	northmansi	heart	sim	s.i.m	s i m		80	222	s i m	C V C	s i m	s i m	C V C
+751	obdorskkhanty	heart	sæm	s.æ.m	s æ m		80	222	s æ m	C V C	s æ m	s æ m	C V C
+734	pelymkamansi	heart	ʃim	ʃ.i.m	ʃ i m		80	222	ʃ i m	C V C	ʃ i m	ʃ i m	C V C
+748	sherkalykhanty	heart	sam	s.a.m	s a m		80	222	s a m	C V C	s a m	s a m	C V C
+750	synjakhanty	heart	sam	s.a.m	s a m		80	222	s a m	C V C	s a m	s a m	C V C
+736	tavdamansi	heart	ʃɔm	ʃ.ɔ.m	ʃ ɔ m		80	222	ʃ ɔ m	C V C	ʃ ɔ m	ʃ ɔ m	C V C
+743	tremjugankhanty	heart	sem	s.e.m	s e m		80	222	s e m	C V C	s e m	s e m	C V C
+745	upperdemjankakhanty	heart	sem	s.e.m	s e m		80	222	s e m	C V C	s e m	s e m	C V C
+737	vakhkhanty	heart	sem	s.e.m	s e m		80	222	s e m	C V C	s e m	s e m	C V C
+740	vartovskojekhanty	heart	sem	s.e.m	s e m		80	222	s e m	C V C	s e m	s e m	C V C
+739	vasjugankhanty	heart	sem	s.e.m	s e m		80	222	s e m	C V C	s e m	s e m	C V C
+738	verkhnekalymskkhanty	heart	sem	s.e.m	s e m		80	222	s e m	C V C	s e m	s e m	C V C
+1888	jugankhanty	heavy	ɬæːɣərt	ɬ.æː.ɣ.ə.r.t	ɬ æː ɣ ə r t		210	134	ɬ æː ɣ ə r t	C V C V C C	ɬ æː - ɣ ə r t - -	ɬ æː ɣ ə r t	C V C V C C
+1893	kazymkhanty	heavy	ɬaːwərt	ɬ.aː.w.ə.r.t	ɬ aː w ə r t		210	134	ɬ aː w ə r t	C V C V C C	ɬ aː - w ə r t - -	ɬ aː w ə r t	C V C V C C
+1890	kondakhanty	heavy	tæːɣərt	t.æː.ɣ.ə.r.t	t æː ɣ ə r t		210	134	t æː ɣ ə r t	C V C V C C	t æː - ɣ ə r t - -	t æː ɣ ə r t	C V C V C C
+1879	kondamansi	heavy	toɔrwitʲiŋ	t.oɔ.r.w.i.tʲ.i.ŋ	t oɔ w i tʲ		210	134	t oɔ w i - tʲ	C V C V C	t oɔ r w i - tʲ i ŋ	t oɔ r w i tʲ i ŋ	C V C C V C V C
+1885	likrisovskojekhanty	heavy	θæːɣərt	θ.æː.ɣ.ə.r.t	θ æː ɣ ə r t		210	134	θ æː ɣ ə r t	C V C V C C	θ æː - ɣ ə r t - -	θ æː ɣ ə r t	C V C V C C
+1886	malyjjugankhanty	heavy	ɬæːɣərt	ɬ.æː.ɣ.ə.r.t	ɬ æː ɣ ə r t		210	134	ɬ æː ɣ ə r t	C V C V C C	ɬ æː - ɣ ə r t - -	ɬ æː ɣ ə r t	C V C V C C
+1877	middlelozvamansi	heavy	taːrytʲəŋ	t.aː.r.y.tʲ.ə.ŋ	t aː y tʲ		210	134	t aː - y - tʲ	C V V C	t aː r - y - tʲ ə ŋ	t aː r y tʲ ə ŋ	C V C V C V C
+1891	nizjamkhanty	heavy	taːwərt	t.aː.w.ə.r.t	t aː w ə r t		210	134	t aː w ə r t	C V C V C C	t aː - w ə r t - -	t aː w ə r t	C V C V C C
+1876	northmansi	heavy	taːrwitəŋ	t.aː.r.w.i.t.ə.ŋ	t aː w i t		210	134	t aː w i - t	C V C V C	t aː r w i - t ə ŋ	t aː r w i t ə ŋ	C V C C V C V C
+1878	pelymkamansi	heavy	taːrwytʲiŋ	t.aː.r.w.y.tʲ.i.ŋ	t aː w y tʲ		210	134	t aː w y - tʲ	C V C V C	t aː r w y - tʲ i ŋ	t aː r w y tʲ i ŋ	C V C C V C V C
+1892	sherkalykhanty	heavy	taːɣər	t.aː.ɣ.ə.r	t aː ɣ ə r		210	134	t aː ɣ ə r -	C V C V C	t aː - ɣ ə r - - -	t aː ɣ ə r	C V C V C
+1894	synjakhanty	heavy	laːwər	l.aː.w.ə.r	l aː w ə r		210	134	l aː w ə r -	C V C V C	l aː - w ə r - - -	l aː w ə r	C V C V C
+1880	tavdamansi	heavy	tærkutʲəŋ	t.æ.r.k.u.tʲ.ə.ŋ	t æ k u tʲ		210	134	t æ k u - tʲ	C V C V C	t æ r k u - tʲ ə ŋ	t æ r k u tʲ ə ŋ	C V C C V C V C
+1887	tremjugankhanty	heavy	ɬæːɣərt	ɬ.æː.ɣ.ə.r.t	ɬ æː ɣ ə r t		210	134	ɬ æː ɣ ə r t	C V C V C C	ɬ æː - ɣ ə r t - -	ɬ æː ɣ ə r t	C V C V C C
+1889	upperdemjankakhanty	heavy	tæːɣərt	t.æː.ɣ.ə.r.t	t æː ɣ ə r t		210	134	t æː ɣ ə r t	C V C V C C	t æː - ɣ ə r t - -	t æː ɣ ə r t	C V C V C C
+1881	vakhkhanty	heavy	læːɣərt	l.æː.ɣ.ə.r.t	l æː ɣ ə r t		210	134	l æː ɣ ə r t	C V C V C C	l æː - ɣ ə r t - -	l æː ɣ ə r t	C V C V C C
+1884	vartovskojekhanty	heavy	ɬæːɣərt	ɬ.æː.ɣ.ə.r.t	ɬ æː ɣ ə r t		210	134	ɬ æː ɣ ə r t	C V C V C C	ɬ æː - ɣ ə r t - -	ɬ æː ɣ ə r t	C V C V C C
+1883	vasjugankhanty	heavy	jæːɣərt	j.æː.ɣ.ə.r.t	j æː ɣ ə r t		210	134	j æː ɣ ə r t	C V C V C C	j æː - ɣ ə r t - -	j æː ɣ ə r t	C V C V C C
+1882	verkhnekalymskkhanty	heavy	jæːɣərt	j.æː.ɣ.ə.r.t	j æː ɣ ə r t		210	134	j æː ɣ ə r t	C V C V C C	j æː - ɣ ə r t - -	j æː ɣ ə r t	C V C V C C
+765	jugankhanty	horn	ɔːŋət	ɔː.ŋ.ə.t	ɔː ŋ ə t		81	223	ɔː ŋ ə t	V C V C	ɔː ŋ ə t	ɔː ŋ ə t	V C V C
+770	kazymkhanty	horn	ɔːŋət	ɔː.ŋ.ə.t	ɔː ŋ ə t		81	223	ɔː ŋ ə t	V C V C	ɔː ŋ ə t	ɔː ŋ ə t	V C V C
+767	kondakhanty	horn	oːŋət	oː.ŋ.ə.t	oː ŋ ə t		81	223	oː ŋ ə t	V C V C	oː ŋ ə t	oː ŋ ə t	V C V C
+756	kondamansi	horn	əːɲtʲ	əː.ɲ.tʲ	əː ɲ tʲ		81	223	əː ɲ - tʲ	V C C	əː ɲ - tʲ	əː ɲ tʲ	V C C
+762	likrisovskojekhanty	horn	aŋət	a.ŋ.ə.t	a ŋ ə t		81	223	a ŋ ə t	V C V C	a ŋ ə t	a ŋ ə t	V C V C
+754	lowerlozvamansi	horn	aɲt	a.ɲ.t	a ɲ t		81	223	a ɲ - t	V C C	a ɲ - t	a ɲ t	V C C
+763	malyjjugankhanty	horn	ɔːŋət	ɔː.ŋ.ə.t	ɔː ŋ ə t		81	223	ɔː ŋ ə t	V C V C	ɔː ŋ ə t	ɔː ŋ ə t	V C V C
+753	middlelozvamansi	horn	ɔɲt	ɔ.ɲ.t	ɔ ɲ t		81	223	ɔ ɲ - t	V C C	ɔ ɲ - t	ɔ ɲ t	V C C
+768	nizjamkhanty	horn	ɔːŋət	ɔː.ŋ.ə.t	ɔː ŋ ə t		81	223	ɔː ŋ ə t	V C V C	ɔː ŋ ə t	ɔː ŋ ə t	V C V C
+752	northmansi	horn	aːɲt	aː.ɲ.t	aː ɲ t		81	223	aː ɲ - t	V C C	aː ɲ - t	aː ɲ t	V C C
+772	obdorskkhanty	horn	aːŋət	aː.ŋ.ə.t	aː ŋ ə t		81	223	aː ŋ ə t	V C V C	aː ŋ ə t	aː ŋ ə t	V C V C
+755	pelymkamansi	horn	ɔɲt	ɔ.ɲ.t	ɔ ɲ t		81	223	ɔ ɲ - t	V C C	ɔ ɲ - t	ɔ ɲ t	V C C
+769	sherkalykhanty	horn	ɔːŋət	ɔː.ŋ.ə.t	ɔː ŋ ə t		81	223	ɔː ŋ ə t	V C V C	ɔː ŋ ə t	ɔː ŋ ə t	V C V C
+771	synjakhanty	horn	ɔːŋət	ɔː.ŋ.ə.t	ɔː ŋ ə t		81	223	ɔː ŋ ə t	V C V C	ɔː ŋ ə t	ɔː ŋ ə t	V C V C
+757	tavdamansi	horn	æːnt	æː.n.t	æː n t		81	223	æː n - t	V C C	æː n - t	æː n t	V C C
+764	tremjugankhanty	horn	ɔːŋət	ɔː.ŋ.ə.t	ɔː ŋ ə t		81	223	ɔː ŋ ə t	V C V C	ɔː ŋ ə t	ɔː ŋ ə t	V C V C
+766	upperdemjankakhanty	horn	oːŋət	oː.ŋ.ə.t	oː ŋ ə t		81	223	oː ŋ ə t	V C V C	oː ŋ ə t	oː ŋ ə t	V C V C
+758	vakhkhanty	horn	aŋət	a.ŋ.ə.t	a ŋ ə t		81	223	a ŋ ə t	V C V C	a ŋ ə t	a ŋ ə t	V C V C
+761	vartovskojekhanty	horn	aŋət	a.ŋ.ə.t	a ŋ ə t		81	223	a ŋ ə t	V C V C	a ŋ ə t	a ŋ ə t	V C V C
+760	vasjugankhanty	horn	aŋət	a.ŋ.ə.t	a ŋ ə t		81	223	a ŋ ə t	V C V C	a ŋ ə t	a ŋ ə t	V C V C
+759	verkhnekalymskkhanty	horn	aŋət	a.ŋ.ə.t	a ŋ ə t		81	223	a ŋ ə t	V C V C	a ŋ ə t	a ŋ ə t	V C V C
+801	jugankhanty	kill	wæɬ	w.æ.ɬ	w æ ɬ		83	225	w æ ɬ	C V C	- w æ - ɬ	w æ ɬ	C V C
+806	kazymkhanty	kill	weːɬ	w.eː.ɬ	w eː ɬ		83	225	w eː ɬ	C V C	- w eː - ɬ	w eː ɬ	C V C
+803	kondakhanty	kill	weːt	w.eː.t	w eː t		83	225	w eː t	C V C	- w eː - t	w eː t	C V C
+794	kondamansi	kill	æli	æ.l.i	l i		83	225	l i -	C V	æ l i - -	æ l i	V C V
+798	likrisovskojekhanty	kill	wæθ	w.æ.θ	w æ θ		83	225	w æ θ	C V C	- w æ - θ	w æ θ	C V C
+792	lowerlozvamansi	kill	æli	æ.l.i	l i		83	225	l i -	C V	æ l i - -	æ l i	V C V
+799	malyjjugankhanty	kill	wæɬ	w.æ.ɬ	w æ ɬ		83	225	w æ ɬ	C V C	- w æ - ɬ	w æ ɬ	C V C
+791	middlelozvamansi	kill	æli	æ.l.i	l i		83	225	l i -	C V	æ l i - -	æ l i	V C V
+804	nizjamkhanty	kill	weːt	w.eː.t	w eː t		83	225	w eː t	C V C	- w eː - t	w eː t	C V C
+790	northmansi	kill	ali	a.l.i	l i		83	225	l i -	C V	a l i - -	a l i	V C V
+808	obdorskkhanty	kill	weːl	w.eː.l	w eː l		83	225	w eː l	C V C	- w eː - l	w eː l	C V C
+793	pelymkamansi	kill	æli	æ.l.i	l i		83	225	l i -	C V	æ l i - -	æ l i	V C V
+805	sherkalykhanty	kill	weːt	w.eː.t	w eː t		83	225	w eː t	C V C	- w eː - t	w eː t	C V C
+807	synjakhanty	kill	weːl	w.eː.l	w eː l		83	225	w eː l	C V C	- w eː - l	w eː l	C V C
+795	tavdamansi	kill	ælænt	æ.l.æ.n.t	l æ t		83	225	l æ t	C V C	æ l æ n t	æ l æ n t	V C V C C
+800	tremjugankhanty	kill	wæɬ	w.æ.ɬ	w æ ɬ		83	225	w æ ɬ	C V C	- w æ - ɬ	w æ ɬ	C V C
+802	upperdemjankakhanty	kill	weːt	w.eː.t	w eː t		83	225	w eː t	C V C	- w eː - t	w eː t	C V C
+796	vakhkhanty	kill	weːl	w.eː.l	w eː l		83	225	w eː l	C V C	- w eː - l	w eː l	C V C
+797	vasjugankhanty	kill	weːl	w.eː.l	w eː l		83	225	w eː l	C V C	- w eː - l	w eː l	C V C
+822	jugankhanty	knee	ʧæːnʧ	ʧ.æː.n.ʧ	tʃ æː n tʃ		84	226	tʃ æː n tʃ	C V C C	tʃ æː n - tʃ	tʃ æː n tʃ	C V C C
+827	kazymkhanty	knee	ʃaːʃ	ʃ.aː.ʃ	ʃ aː ʃ		84	226	ʃ aː - ʃ	C V C	ʃ aː - - ʃ	ʃ aː ʃ	C V C
+824	kondakhanty	knee	ʧæːnʧ	ʧ.æː.n.ʧ	tʃ æː n tʃ		84	226	tʃ æː n tʃ	C V C C	tʃ æː n - tʃ	tʃ æː n tʃ	C V C C
+813	kondamansi	knee	sɔnəs	s.ɔ.n.ə.s	s ɔ n s		84	226	s ɔ n s	C V C C	s ɔ n ə s	s ɔ n ə s	C V C V C
+819	likrisovskojekhanty	knee	ʧæːɳʧ	ʧ.æː.ɳ.ʧ	tʃ æː ɳ tʃ		84	226	tʃ æː ɳ tʃ	C V C C	tʃ æː ɳ - tʃ	tʃ æː ɳ tʃ	C V C C
+811	lowerlozvamansi	knee	ʃaːnʃ	ʃ.aː.n.ʃ	ʃ aː n ʃ		84	226	ʃ aː n ʃ	C V C C	ʃ aː n - ʃ	ʃ aː n ʃ	C V C C
+820	malyjjugankhanty	knee	ʧæːnʧ	ʧ.æː.n.ʧ	tʃ æː n tʃ		84	226	tʃ æː n tʃ	C V C C	tʃ æː n - tʃ	tʃ æː n tʃ	C V C C
+810	middlelozvamansi	knee	ʃanʃ	ʃ.a.n.ʃ	ʃ a n ʃ		84	226	ʃ a n ʃ	C V C C	ʃ a n - ʃ	ʃ a n ʃ	C V C C
+825	nizjamkhanty	knee	ʃaːʃ	ʃ.aː.ʃ	ʃ aː ʃ		84	226	ʃ aː - ʃ	C V C	ʃ aː - - ʃ	ʃ aː ʃ	C V C
+809	northmansi	knee	saːns	s.aː.n.s	s aː n s		84	226	s aː n s	C V C C	s aː n - s	s aː n s	C V C C
+829	obdorskkhanty	knee	sæːs	s.æː.s	s æː s		84	226	s æː - s	C V C	s æː - - s	s æː s	C V C
+812	pelymkamansi	knee	ʃanʃ	ʃ.a.n.ʃ	ʃ a n ʃ		84	226	ʃ a n ʃ	C V C C	ʃ a n - ʃ	ʃ a n ʃ	C V C C
+826	sherkalykhanty	knee	ʃaːʃ	ʃ.aː.ʃ	ʃ aː ʃ		84	226	ʃ aː - ʃ	C V C	ʃ aː - - ʃ	ʃ aː ʃ	C V C
+828	synjakhanty	knee	ʃaːʃ	ʃ.aː.ʃ	ʃ aː ʃ		84	226	ʃ aː - ʃ	C V C	ʃ aː - - ʃ	ʃ aː ʃ	C V C
+814	tavdamansi	knee	ʃɔnʃ	ʃ.ɔ.n.ʃ	ʃ ɔ n ʃ		84	226	ʃ ɔ n ʃ	C V C C	ʃ ɔ n - ʃ	ʃ ɔ n ʃ	C V C C
+821	tremjugankhanty	knee	ʧæːɳʧ	ʧ.æː.ɳ.ʧ	tʃ æː ɳ tʃ		84	226	tʃ æː ɳ tʃ	C V C C	tʃ æː ɳ - tʃ	tʃ æː ɳ tʃ	C V C C
+823	upperdemjankakhanty	knee	ʧæːnʧ	ʧ.æː.n.ʧ	tʃ æː n tʃ		84	226	tʃ æː n tʃ	C V C C	tʃ æː n - tʃ	tʃ æː n tʃ	C V C C
+815	vakhkhanty	knee	ʧæːɳʧ	ʧ.æː.ɳ.ʧ	tʃ æː ɳ tʃ		84	226	tʃ æː ɳ tʃ	C V C C	tʃ æː ɳ - tʃ	tʃ æː ɳ tʃ	C V C C
+818	vartovskojekhanty	knee	ʧæːɳʧ	ʧ.æː.ɳ.ʧ	tʃ æː ɳ tʃ		84	226	tʃ æː ɳ tʃ	C V C C	tʃ æː ɳ - tʃ	tʃ æː ɳ tʃ	C V C C
+817	vasjugankhanty	knee	ʧæːɳʧ	ʧ.æː.ɳ.ʧ	tʃ æː ɳ tʃ		84	226	tʃ æː ɳ tʃ	C V C C	tʃ æː ɳ - tʃ	tʃ æː ɳ tʃ	C V C C
+816	verkhnekalymskkhanty	knee	ʧæːɳʧ	ʧ.æː.ɳ.ʧ	tʃ æː ɳ tʃ		84	226	tʃ æː ɳ tʃ	C V C C	tʃ æː ɳ - tʃ	tʃ æː ɳ tʃ	C V C C
+843	jugankhanty	know	uː	uː	uː		85	227	uː - -	V	uː - - - -	uː	V
+847	kazymkhanty	know	wɵː	w.ɵː	w ɵː		85	227	- w ɵː	C V	- - w ɵː -	w ɵː	C V
+845	nizjamkhanty	know	uː	uː	uː		85	227	uː - -	V	uː - - - -	uː	V
+830	northmansi	know	waːɣ	w.aː.ɣ	w aː		85	227	- w aː	C V	- - w aː ɣ	w aː ɣ	C V C
+849	obdorskkhanty	know	oːsj	oː.s.j	oː j		85	227	oː j -	V C	oː s j - -	oː s j	V C C
+846	sherkalykhanty	know	uː	uː	uː		85	227	uː - -	V	uː - - - -	uː	V
+848	synjakhanty	know	uːjət	uː.j.ə.t	uː j ə		85	227	uː j ə	V C V	uː - j ə t	uː j ə t	V C V C
+842	tremjugankhanty	know	wuː	w.uː	w uː		85	227	- w uː	C V	- - w uː -	w uː	C V
+844	upperdemjankakhanty	know	woː	w.oː	w oː		85	227	- w oː	C V	- - w oː -	w oː	C V
+834	kondamansi	know	qaɲsʲi	q.a.ɲ.sʲ.i	q a ɲ sʲ i		86	228	q a ɲ sʲ i	C V C C V	q a ɲ sʲ i - -	q a ɲ sʲ i	C V C C V
+832	lowerlozvamansi	know	qanʃi	q.a.n.ʃ.i	q a n ʃ i		86	228	q a n ʃ i	C V C C V	q a n ʃ i - -	q a n ʃ i	C V C C V
+831	middlelozvamansi	know	qaɲsʲi	q.a.ɲ.sʲ.i	q a ɲ sʲ i		86	228	q a ɲ sʲ i	C V C C V	q a ɲ sʲ i - -	q a ɲ sʲ i	C V C C V
+833	pelymkamansi	know	qaɲʃi	q.a.ɲ.ʃ.i	q a ɲ ʃ i		86	228	q a ɲ ʃ i	C V C C V	q a ɲ ʃ i - -	q a ɲ ʃ i	C V C C V
+835	tavdamansi	know	qaɲʃant	q.a.ɲ.ʃ.a.n.t	q a ɲ ʃ a		86	228	q a ɲ ʃ a	C V C C V	q a ɲ ʃ a n t	q a ɲ ʃ a n t	C V C C V C C
+840	likrisovskojekhanty	know	toŋəmtə	t.o.ŋ.ə.m.t.ə	t o ŋ ə m t		87	229	t o ŋ ə m t	C V C V C C	t o ŋ ə m t ə	t o ŋ ə m t ə	C V C V C C V
+841	malyjjugankhanty	know	toŋəmtə	t.o.ŋ.ə.m.t.ə	t o ŋ ə m t		87	229	t o ŋ ə m t	C V C V C C	t o ŋ ə m t ə	t o ŋ ə m t ə	C V C V C C V
+836	vakhkhanty	know	toŋəmt	t.o.ŋ.ə.m.t	t o ŋ ə m t		87	229	t o ŋ ə m t	C V C V C C	t o ŋ ə m t -	t o ŋ ə m t	C V C V C C
+839	vartovskojekhanty	know	toŋəmt	t.o.ŋ.ə.m.t	t o ŋ ə m t		87	229	t o ŋ ə m t	C V C V C C	t o ŋ ə m t -	t o ŋ ə m t	C V C V C C
+838	vasjugankhanty	know	toŋəmt	t.o.ŋ.ə.m.t	t o ŋ ə m t		87	229	t o ŋ ə m t	C V C V C C	t o ŋ ə m t -	t o ŋ ə m t	C V C V C C
+837	verkhnekalymskkhanty	know	toŋəmt	t.o.ŋ.ə.m.t	t o ŋ ə m t		87	229	t o ŋ ə m t	C V C V C C	t o ŋ ə m t -	t o ŋ ə m t	C V C V C C
+863	jugankhanty	leaf	ɭɨːpət	ɭ.ɨː.p.ə.t	ɭ ɨː p ə t		88	230	ɭ ɨː p ə t	C V C V C	ɭ ɨː - p ə t -	ɭ ɨː p ə t	C V C V C
+868	kazymkhanty	leaf	ɭipət	ɭ.i.p.ə.t	ɭ i p ə t		88	230	ɭ i p ə t	C V C V C	ɭ i - p ə t -	ɭ i p ə t	C V C V C
+865	kondakhanty	leaf	liːpət	l.iː.p.ə.t	l iː p ə t		88	230	l iː p ə t	C V C V C	l iː - p ə t -	l iː p ə t	C V C V C
+854	kondamansi	leaf	ləptə	l.ə.p.t.ə	l ə p t		88	230	l ə p - t	C V C C	l ə - p - t ə	l ə p t ə	C V C C V
+860	likrisovskojekhanty	leaf	ɭɨːpət	ɭ.ɨː.p.ə.t	ɭ ɨː p ə t		88	230	ɭ ɨː p ə t	C V C V C	ɭ ɨː - p ə t -	ɭ ɨː p ə t	C V C V C
+852	lowerlozvamansi	leaf	lɔːpta	l.ɔː.p.t.a	l ɔː p t		88	230	l ɔː p - t	C V C C	l ɔː - p - t a	l ɔː p t a	C V C C V
+861	malyjjugankhanty	leaf	ɭɨːpət	ɭ.ɨː.p.ə.t	ɭ ɨː p ə t		88	230	ɭ ɨː p ə t	C V C V C	ɭ ɨː - p ə t -	ɭ ɨː p ə t	C V C V C
+851	middlelozvamansi	leaf	luoptæ	l.uo.p.t.æ	l u p t		88	230	l u p - t	C V C C	l u o p - t æ	l u o p t æ	C V V C C V
+866	nizjamkhanty	leaf	lipət	l.i.p.ə.t	l i p ə t		88	230	l i p ə t	C V C V C	l i - p ə t -	l i p ə t	C V C V C
+850	northmansi	leaf	luːptæ	l.uː.p.t.æ	l uː p t		88	230	l uː p - t	C V C C	l uː - p - t æ	l uː p t æ	C V C C V
+870	obdorskkhanty	leaf	liːpət	l.iː.p.ə.t	l iː p ə t		88	230	l iː p ə t	C V C V C	l iː - p ə t -	l iː p ə t	C V C V C
+853	pelymkamansi	leaf	luptə	l.u.p.t.ə	l u p t		88	230	l u p - t	C V C C	l u - p - t ə	l u p t ə	C V C C V
+867	sherkalykhanty	leaf	lipət	l.i.p.ə.t	l i p ə t		88	230	l i p ə t	C V C V C	l i - p ə t -	l i p ə t	C V C V C
+869	synjakhanty	leaf	ɭipət	ɭ.i.p.ə.t	ɭ i p ə t		88	230	ɭ i p ə t	C V C V C	ɭ i - p ə t -	ɭ i p ə t	C V C V C
+855	tavdamansi	leaf	lɔptɔ	l.ɔ.p.t.ɔ	l ɔ p t		88	230	l ɔ p - t	C V C C	l ɔ - p - t ɔ	l ɔ p t ɔ	C V C C V
+862	tremjugankhanty	leaf	ɭɨːpət	ɭ.ɨː.p.ə.t	ɭ ɨː p ə t		88	230	ɭ ɨː p ə t	C V C V C	ɭ ɨː - p ə t -	ɭ ɨː p ə t	C V C V C
+864	upperdemjankakhanty	leaf	liːpət	l.iː.p.ə.t	l iː p ə t		88	230	l iː p ə t	C V C V C	l iː - p ə t -	l iː p ə t	C V C V C
+856	vakhkhanty	leaf	ɭɨːwət	ɭ.ɨː.w.ə.t	ɭ ɨː w ə t		88	230	ɭ ɨː w ə t	C V C V C	ɭ ɨː - w ə t -	ɭ ɨː w ə t	C V C V C
+859	vartovskojekhanty	leaf	ɭɨːwət	ɭ.ɨː.w.ə.t	ɭ ɨː w ə t		88	230	ɭ ɨː w ə t	C V C V C	ɭ ɨː - w ə t -	ɭ ɨː w ə t	C V C V C
+858	vasjugankhanty	leaf	ɭɨːwət	ɭ.ɨː.w.ə.t	ɭ ɨː w ə t		88	230	ɭ ɨː w ə t	C V C V C	ɭ ɨː - w ə t -	ɭ ɨː w ə t	C V C V C
+857	verkhnekalymskkhanty	leaf	ɭɨːwət	ɭ.ɨː.w.ə.t	ɭ ɨː w ə t		88	230	ɭ ɨː w ə t	C V C V C	ɭ ɨː - w ə t -	ɭ ɨː w ə t	C V C V C
+875	kondamansi	lie	qoji	q.o.j.i	q o j i		90	233	q o j i	C V C V	q o j i	q o j i	C V C V
+873	lowerlozvamansi	lie	quji	q.u.j.i	q u j i		90	233	q u j i	C V C V	q u j i	q u j i	C V C V
+872	middlelozvamansi	lie	qujji	q.u.jː.i	q u jː i		90	233	q u jː i	C V C V	q u jː i	q u jː i	C V C V
+871	northmansi	lie	χuji	χ.u.j.i	χ u j i		90	233	χ u j i	C V C V	χ u j i	χ u j i	C V C V
+886	obdorskkhanty	lie	χoːj	χ.oː.j	χ oː j		90	233	χ oː j -	C V C	χ oː j -	χ oː j	C V C
+874	pelymkamansi	lie	quji	q.u.j.i	q u j i		90	233	q u j i	C V C V	q u j i	q u j i	C V C V
+876	tavdamansi	lie	quj	q.u.j	q u j		90	233	q u j -	C V C	q u j -	q u j	C V C
+880	jugankhanty	lie	aɬ	a.ɬ	a ɬ		89	231	a ɬ	V C	a ɬ -	a ɬ	V C
+884	kazymkhanty	lie	oɬ	o.ɬ	o ɬ		89	231	o ɬ	V C	o ɬ -	o ɬ	V C
+882	kondakhanty	lie	at	a.t	a t		89	231	a t	V C	a t -	a t	V C
+883	sherkalykhanty	lie	ot	o.t	o t		89	231	o t	V C	o t -	o t	V C
+885	synjakhanty	lie	ol	o.l	o l		89	231	o l	V C	o l -	o l	V C
+879	tremjugankhanty	lie	aɬ	a.ɬ	a ɬ		89	231	a ɬ	V C	a ɬ -	a ɬ	V C
+881	upperdemjankakhanty	lie	at	a.t	a t		89	231	a t	V C	a t -	a t	V C
+877	vakhkhanty	lie	alaː	a.l.aː	a l		89	231	a l	V C	a l aː	a l aː	V C V
+878	vasjugankhanty	lie	alaː	a.l.aː	a l		89	231	a l	V C	a l aː	a l aː	V C V
+899	jugankhanty	liver	muːwɬ	m.uː.w.ɬ	m uː w ɬ		91	234	m uː w - ɬ	C V C C	m uː w - ɬ	m uː w ɬ	C V C C
+904	kazymkhanty	liver	moχəɬ	m.o.χ.ə.ɬ	m o χ ə ɬ		91	234	m o χ ə ɬ	C V C V C	m o χ ə ɬ	m o χ ə ɬ	C V C V C
+901	kondakhanty	liver	muːχət	m.uː.χ.ə.t	m uː χ ə t		91	234	m uː χ ə t	C V C V C	m uː χ ə t	m uː χ ə t	C V C V C
+891	kondamansi	liver	məːt	m.əː.t	m əː t		91	234	m əː - - t	C V C	m əː - - t	m əː t	C V C
+896	likrisovskojekhanty	liver	muːɣəθ	m.uː.ɣ.ə.θ	m uː ɣ ə θ		91	234	m uː ɣ ə θ	C V C V C	m uː ɣ ə θ	m uː ɣ ə θ	C V C V C
+889	lowerlozvamansi	liver	mət	m.ə.t	m ə t		91	234	m ə - - t	C V C	m ə - - t	m ə t	C V C
+897	malyjjugankhanty	liver	muːɣəɬ	m.uː.ɣ.ə.ɬ	m uː ɣ ə ɬ		91	234	m uː ɣ ə ɬ	C V C V C	m uː ɣ ə ɬ	m uː ɣ ə ɬ	C V C V C
+888	middlelozvamansi	liver	məːt	m.əː.t	m əː t		91	234	m əː - - t	C V C	m əː - - t	m əː t	C V C
+902	nizjamkhanty	liver	muːχət	m.uː.χ.ə.t	m uː χ ə t		91	234	m uː χ ə t	C V C V C	m uː χ ə t	m uː χ ə t	C V C V C
+887	northmansi	liver	majt	m.a.j.t	m a j t		91	234	m a j - t	C V C C	m a j - t	m a j t	C V C C
+905	obdorskkhanty	liver	maχəl	m.a.χ.ə.l	m a χ ə l		91	234	m a χ ə l	C V C V C	m a χ ə l	m a χ ə l	C V C V C
+890	pelymkamansi	liver	mət	m.ə.t	m ə t		91	234	m ə - - t	C V C	m ə - - t	m ə t	C V C
+903	sherkalykhanty	liver	muːχət	m.uː.χ.ə.t	m uː χ ə t		91	234	m uː χ ə t	C V C V C	m uː χ ə t	m uː χ ə t	C V C V C
+892	tavdamansi	liver	mait	m.ai.t	m ai t		91	234	m ai - - t	C V C	m ai - - t	m ai t	C V C
+898	tremjugankhanty	liver	muːɣəɬ	m.uː.ɣ.ə.ɬ	m uː ɣ ə ɬ		91	234	m uː ɣ ə ɬ	C V C V C	m uː ɣ ə ɬ	m uː ɣ ə ɬ	C V C V C
+900	upperdemjankakhanty	liver	muːχət	m.uː.χ.ə.t	m uː χ ə t		91	234	m uː χ ə t	C V C V C	m uː χ ə t	m uː χ ə t	C V C V C
+893	vakhkhanty	liver	muːɣəl	m.uː.ɣ.ə.l	m uː ɣ ə l		91	234	m uː ɣ ə l	C V C V C	m uː ɣ ə l	m uː ɣ ə l	C V C V C
+895	vasjugankhanty	liver	muːɣəl	m.uː.ɣ.ə.l	m uː ɣ ə l		91	234	m uː ɣ ə l	C V C V C	m uː ɣ ə l	m uː ɣ ə l	C V C V C
+894	verkhnekalymskkhanty	liver	muːɣəl	m.uː.ɣ.ə.l	m uː ɣ ə l		91	234	m uː ɣ ə l	C V C V C	m uː ɣ ə l	m uː ɣ ə l	C V C V C
+910	kondamansi	long	qʷɔisʲə	qʷ.ɔi.sʲ.ə	qʷ ɔi sʲ ə		92	235	qʷ ɔi sʲ ə	C V C V	qʷ ɔi sʲ ə	qʷ ɔi sʲ ə	C V C V
+908	lowerlozvamansi	long	qʷɔʃæ	qʷ.ɔ.ʃ.æ	qʷ ɔ ʃ æ		92	235	qʷ ɔ ʃ æ	C V C V	qʷ ɔ ʃ æ	qʷ ɔ ʃ æ	C V C V
+907	middlelozvamansi	long	qʷɔʃæ	qʷ.ɔ.ʃ.æ	qʷ ɔ ʃ æ		92	235	qʷ ɔ ʃ æ	C V C V	qʷ ɔ ʃ æ	qʷ ɔ ʃ æ	C V C V
+906	northmansi	long	χɔsæ	χ.ɔ.s.æ	χ ɔ s æ		92	235	χ ɔ s æ	C V C V	χ ɔ s æ	χ ɔ s æ	C V C V
+909	pelymkamansi	long	qʷɔʃæ	qʷ.ɔ.ʃ.æ	qʷ ɔ ʃ æ		92	235	qʷ ɔ ʃ æ	C V C V	qʷ ɔ ʃ æ	qʷ ɔ ʃ æ	C V C V
+911	tavdamansi	long	quʃo	q.u.ʃ.o	q u ʃ o		92	235	q u ʃ o	C V C V	q u ʃ o	q u ʃ o	C V C V
+919	jugankhanty	long	kow	k.o.w	k o w		93	236	k o w	C V C	k o w	k o w	C V C
+924	kazymkhanty	long	χuw	χ.u.w	χ u w		93	236	χ u w	C V C	χ u w	χ u w	C V C
+921	kondakhanty	long	χow	χ.o.w	χ o w		93	236	χ o w	C V C	χ o w	χ o w	C V C
+916	likrisovskojekhanty	long	kɔɣ	k.ɔ.ɣ	k ɔ ɣ		93	236	k ɔ ɣ	C V C	k ɔ ɣ	k ɔ ɣ	C V C
+917	malyjjugankhanty	long	koɣʷ	k.o.ɣʷ	k o ɣʷ		93	236	k o ɣʷ	C V C	k o ɣʷ	k o ɣʷ	C V C
+922	nizjamkhanty	long	χuw	χ.u.w	χ u w		93	236	χ u w	C V C	χ u w	χ u w	C V C
+926	obdorskkhanty	long	χow	χ.o.w	χ o w		93	236	χ o w	C V C	χ o w	χ o w	C V C
+923	sherkalykhanty	long	χuw	χ.u.w	χ u w		93	236	χ u w	C V C	χ u w	χ u w	C V C
+925	synjakhanty	long	χuw	χ.u.w	χ u w		93	236	χ u w	C V C	χ u w	χ u w	C V C
+918	tremjugankhanty	long	koɣʷ	k.o.ɣʷ	k o ɣʷ		93	236	k o ɣʷ	C V C	k o ɣʷ	k o ɣʷ	C V C
+920	upperdemjankakhanty	long	χow	χ.o.w	χ o w		93	236	χ o w	C V C	χ o w	χ o w	C V C
+912	vakhkhanty	long	koːɣ	k.oː.ɣ	k oː ɣ		93	236	k oː ɣ	C V C	k oː ɣ	k oː ɣ	C V C
+915	vartovskojekhanty	long	kɔɣ	k.ɔ.ɣ	k ɔ ɣ		93	236	k ɔ ɣ	C V C	k ɔ ɣ	k ɔ ɣ	C V C
+914	vasjugankhanty	long	koːɣ	k.oː.ɣ	k oː ɣ		93	236	k oː ɣ	C V C	k oː ɣ	k oː ɣ	C V C
+913	verkhnekalymskkhanty	long	koːɣ	k.oː.ɣ	k oː ɣ		93	236	k oː ɣ	C V C	k oː ɣ	k oː ɣ	C V C
+939	jugankhanty	louse	tæwtəm	t.æ.w.t.ə.m	t æ w t ə m		94	237	t æ w t ə m	C V C C V C	t æ w t ə m	t æ w t ə m	C V C C V C
+944	kazymkhanty	louse	teːwtəm	t.eː.w.t.ə.m	t eː w t ə m		94	237	t eː w t ə m	C V C C V C	t eː w t ə m	t eː w t ə m	C V C C V C
+941	kondakhanty	louse	teːwtəm	t.eː.w.t.ə.m	t eː w t ə m		94	237	t eː w t ə m	C V C C V C	t eː w t ə m	t eː w t ə m	C V C C V C
+931	kondamansi	louse	tɔːχəm	t.ɔː.χ.ə.m	t ɔː χ ə m		94	237	t ɔː χ - ə m	C V C V C	t ɔː χ - ə m	t ɔː χ ə m	C V C V C
+936	likrisovskojekhanty	louse	teɣʷtəm	t.e.ɣʷ.t.ə.m	t e ɣʷ t ə m		94	237	t e ɣʷ t ə m	C V C C V C	t e ɣʷ t ə m	t e ɣʷ t ə m	C V C C V C
+929	lowerlozvamansi	louse	taχəm	t.a.χ.ə.m	t a χ ə m		94	237	t a χ - ə m	C V C V C	t a χ - ə m	t a χ ə m	C V C V C
+937	malyjjugankhanty	louse	tæɣʷtəm	t.æ.ɣʷ.t.ə.m	t æ ɣʷ t ə m		94	237	t æ ɣʷ t ə m	C V C C V C	t æ ɣʷ t ə m	t æ ɣʷ t ə m	C V C C V C
+928	middlelozvamansi	louse	taːχəm	t.aː.χ.ə.m	t aː χ ə m		94	237	t aː χ - ə m	C V C V C	t aː χ - ə m	t aː χ ə m	C V C V C
+942	nizjamkhanty	louse	teːwtəm	t.eː.w.t.ə.m	t eː w t ə m		94	237	t eː w t ə m	C V C C V C	t eː w t ə m	t eː w t ə m	C V C C V C
+927	northmansi	louse	taːkəm	t.aː.k.ə.m	t aː k ə m		94	237	t aː k - ə m	C V C V C	t aː k - ə m	t aː k ə m	C V C V C
+946	obdorskkhanty	louse	teːwtəm	t.eː.w.t.ə.m	t eː w t ə m		94	237	t eː w t ə m	C V C C V C	t eː w t ə m	t eː w t ə m	C V C C V C
+930	pelymkamansi	louse	taχəm	t.a.χ.ə.m	t a χ ə m		94	237	t a χ - ə m	C V C V C	t a χ - ə m	t a χ ə m	C V C V C
+943	sherkalykhanty	louse	teːwtəm	t.eː.w.t.ə.m	t eː w t ə m		94	237	t eː w t ə m	C V C C V C	t eː w t ə m	t eː w t ə m	C V C C V C
+945	synjakhanty	louse	teːwtəm	t.eː.w.t.ə.m	t eː w t ə m		94	237	t eː w t ə m	C V C C V C	t eː w t ə m	t eː w t ə m	C V C C V C
+932	tavdamansi	louse	tæχəm	t.æ.χ.ə.m	t æ χ ə m		94	237	t æ χ - ə m	C V C V C	t æ χ - ə m	t æ χ ə m	C V C V C
+938	tremjugankhanty	louse	tæɣʷtəm	t.æ.ɣʷ.t.ə.m	t æ ɣʷ t ə m		94	237	t æ ɣʷ t ə m	C V C C V C	t æ ɣʷ t ə m	t æ ɣʷ t ə m	C V C C V C
+940	upperdemjankakhanty	louse	teːwtəm	t.eː.w.t.ə.m	t eː w t ə m		94	237	t eː w t ə m	C V C C V C	t eː w t ə m	t eː w t ə m	C V C C V C
+933	vakhkhanty	louse	tœːɣtəm	t.œː.ɣ.t.ə.m	t œː ɣ t ə m		94	237	t œː ɣ t ə m	C V C C V C	t œː ɣ t ə m	t œː ɣ t ə m	C V C C V C
+935	vasjugankhanty	louse	tœːɣtəm	t.œː.ɣ.t.ə.m	t œː ɣ t ə m		94	237	t œː ɣ t ə m	C V C C V C	t œː ɣ t ə m	t œː ɣ t ə m	C V C C V C
+934	verkhnekalymskkhanty	louse	tœːɣtəm	t.œː.ɣ.t.ə.m	t œː ɣ t ə m		94	237	t œː ɣ t ə m	C V C C V C	t œː ɣ t ə m	t œː ɣ t ə m	C V C C V C
+951	kondamansi	man	qom	q.o.m	q o m		95	238	q o m	C V C	q o m	q o m	C V C
+949	lowerlozvamansi	man	qum	q.u.m	q u m		95	238	q u m	C V C	q u m	q u m	C V C
+948	middlelozvamansi	man	qum	q.u.m	q u m		95	238	q u m	C V C	q u m	q u m	C V C
+947	northmansi	man	χum	χ.u.m	χ u m		95	238	χ u m	C V C	χ u m	χ u m	C V C
+950	pelymkamansi	man	qum	q.u.m	q u m		95	238	q u m	C V C	q u m	q u m	C V C
+952	tavdamansi	man	qom	q.o.m	q o m		95	238	q o m	C V C	q o m	q o m	C V C
+960	jugankhanty	man	koː	k.oː	k oː		96	239	k oː	C V	k oː -	k oː	C V
+965	kazymkhanty	man	χɵː	χ.ɵː	χ ɵː		96	239	χ ɵː	C V	χ ɵː -	χ ɵː	C V
+962	kondakhanty	man	χuːj	χ.uː.j	χ uː		96	239	χ uː	C V	χ uː j	χ uː j	C V C
+957	likrisovskojekhanty	man	kuː	k.uː	k uː		96	239	k uː	C V	k uː -	k uː	C V
+958	malyjjugankhanty	man	koː	k.oː	k oː		96	239	k oː	C V	k oː -	k oː	C V
+963	nizjamkhanty	man	χuː	χ.uː	χ uː		96	239	χ uː	C V	χ uː -	χ uː	C V
+967	obdorskkhanty	man	χoːj	χ.oː.j	χ oː		96	239	χ oː	C V	χ oː j	χ oː j	C V C
+964	sherkalykhanty	man	χuː	χ.uː	χ uː		96	239	χ uː	C V	χ uː -	χ uː	C V
+966	synjakhanty	man	χuː	χ.uː	χ uː		96	239	χ uː	C V	χ uː -	χ uː	C V
+959	tremjugankhanty	man	koː	k.oː	k oː		96	239	k oː	C V	k oː -	k oː	C V
+961	upperdemjankakhanty	man	χoːj	χ.oː.j	χ oː		96	239	χ oː	C V	χ oː j	χ oː j	C V C
+953	vakhkhanty	man	kuː	k.uː	k uː		96	239	k uː	C V	k uː -	k uː	C V
+956	vartovskojekhanty	man	kuː	k.uː	k uː		96	239	k uː	C V	k uː -	k uː	C V
+955	vasjugankhanty	man	kuː	k.uː	k uː		96	239	k uː	C V	k uː -	k uː	C V
+954	verkhnekalymskkhanty	man	kuː	k.uː	k uː		96	239	k uː	C V	k uː -	k uː	C V
+972	kondamansi	many	sɔu	s.ɔu	s ɔu		97	240	s ɔu	C V	s ɔu -	s ɔu	C V
+970	lowerlozvamansi	many	ʃɔu	ʃ.ɔu	ʃ ɔu		97	240	ʃ ɔu	C V	ʃ ɔu -	ʃ ɔu	C V
+969	middlelozvamansi	many	ʃoɔw	ʃ.oɔ.w	ʃ oɔ		97	240	ʃ oɔ	C V	ʃ oɔ w	ʃ oɔ w	C V C
+968	northmansi	many	saw	s.a.w	s a		97	240	s a	C V	s a w	s a w	C V C
+971	pelymkamansi	many	ʃɔu	ʃ.ɔu	ʃ ɔu		97	240	ʃ ɔu	C V	ʃ ɔu -	ʃ ɔu	C V
+973	tavdamansi	many	ʃɔu	ʃ.ɔu	ʃ ɔu		97	240	ʃ ɔu	C V	ʃ ɔu -	ʃ ɔu	C V
+977	jugankhanty	many	æːr	æː.r	æː r		98	241	æː r	V C	æː r	æː r	V C
+982	kazymkhanty	many	aːr	aː.r	aː r		98	241	aː r	V C	aː r	aː r	V C
+979	kondakhanty	many	æːr	æː.r	æː r		98	241	æː r	V C	æː r	æː r	V C
+980	nizjamkhanty	many	aːr	aː.r	aː r		98	241	aː r	V C	aː r	aː r	V C
+984	obdorskkhanty	many	æːr	æː.r	æː r		98	241	æː r	V C	æː r	æː r	V C
+981	sherkalykhanty	many	aːr	aː.r	aː r		98	241	aː r	V C	aː r	aː r	V C
+983	synjakhanty	many	aːr	aː.r	aː r		98	241	aː r	V C	aː r	aː r	V C
+976	tremjugankhanty	many	æːr	æː.r	æː r		98	241	æː r	V C	æː r	æː r	V C
+978	upperdemjankakhanty	many	æːr	æː.r	æː r		98	241	æː r	V C	æː r	æː r	V C
+974	vakhkhanty	many	æːr	æː.r	æː r		98	241	æː r	V C	æː r	æː r	V C
+975	vasjugankhanty	many	æːr	æː.r	æː r		98	241	æː r	V C	æː r	æː r	V C
+998	jugankhanty	meat	ɲawɨː	ɲ.a.w.ɨː	ɲ a w ɨː		99	242	ɲ a w ɨː	C V C V	ɲ a w ɨː -	ɲ a w ɨː	C V C V
+1003	kazymkhanty	meat	ɲoχiː	ɲ.o.χ.iː	ɲ o χ iː		99	242	ɲ o χ iː	C V C V	ɲ o χ iː -	ɲ o χ iː	C V C V
+1000	kondakhanty	meat	ɲoχə	ɲ.o.χ.ə	ɲ o χ ə		99	242	ɲ o χ ə	C V C V	ɲ o χ ə -	ɲ o χ ə	C V C V
+989	kondamansi	meat	ɲoul	ɲ.ou.l	ɲ ou		99	242	ɲ ou - -	C V	ɲ ou - - l	ɲ ou l	C V C
+995	likrisovskojekhanty	meat	ɲaɣʷɨː	ɲ.a.ɣʷ.ɨː	ɲ a ɣʷ ɨː		99	242	ɲ a ɣʷ ɨː	C V C V	ɲ a ɣʷ ɨː -	ɲ a ɣʷ ɨː	C V C V
+987	lowerlozvamansi	meat	ɲɔul	ɲ.ɔu.l	ɲ ɔu		99	242	ɲ ɔu - -	C V	ɲ ɔu - - l	ɲ ɔu l	C V C
+996	malyjjugankhanty	meat	ɲaɣʷɨː	ɲ.a.ɣʷ.ɨː	ɲ a ɣʷ ɨː		99	242	ɲ a ɣʷ ɨː	C V C V	ɲ a ɣʷ ɨː -	ɲ a ɣʷ ɨː	C V C V
+986	middlelozvamansi	meat	ɲoul	ɲ.ou.l	ɲ ou		99	242	ɲ ou - -	C V	ɲ ou - - l	ɲ ou l	C V C
+1001	nizjamkhanty	meat	ɲoχə	ɲ.o.χ.ə	ɲ o χ ə		99	242	ɲ o χ ə	C V C V	ɲ o χ ə -	ɲ o χ ə	C V C V
+985	northmansi	meat	ɲɔwəʎ	ɲ.ɔ.w.ə.ʎ	ɲ ɔ w ə		99	242	ɲ ɔ w ə	C V C V	ɲ ɔ w ə ʎ	ɲ ɔ w ə ʎ	C V C V C
+1005	obdorskkhanty	meat	ɲoχaː	ɲ.o.χ.aː	ɲ o χ aː		99	242	ɲ o χ aː	C V C V	ɲ o χ aː -	ɲ o χ aː	C V C V
+988	pelymkamansi	meat	ɲɔuʎ	ɲ.ɔu.ʎ	ɲ ɔu		99	242	ɲ ɔu - -	C V	ɲ ɔu - - ʎ	ɲ ɔu ʎ	C V C
+1002	sherkalykhanty	meat	ɲoχə	ɲ.o.χ.ə	ɲ o χ ə		99	242	ɲ o χ ə	C V C V	ɲ o χ ə -	ɲ o χ ə	C V C V
+1004	synjakhanty	meat	ɲoχiː	ɲ.o.χ.iː	ɲ o χ iː		99	242	ɲ o χ iː	C V C V	ɲ o χ iː -	ɲ o χ iː	C V C V
+990	tavdamansi	meat	ɲəːul	ɲ.əːu.l	ɲ əː u		99	242	ɲ əː - u	C V V	ɲ əː - u l	ɲ əː u l	C V V C
+997	tremjugankhanty	meat	ɲaɣʷɨː	ɲ.a.ɣʷ.ɨː	ɲ a ɣʷ ɨː		99	242	ɲ a ɣʷ ɨː	C V C V	ɲ a ɣʷ ɨː -	ɲ a ɣʷ ɨː	C V C V
+999	upperdemjankakhanty	meat	ɲoχə	ɲ.o.χ.ə	ɲ o χ ə		99	242	ɲ o χ ə	C V C V	ɲ o χ ə -	ɲ o χ ə	C V C V
+991	vakhkhanty	meat	ɲoːɣɨː	ɲ.oː.ɣ.ɨː	ɲ oː ɣ ɨː		99	242	ɲ oː ɣ ɨː	C V C V	ɲ oː ɣ ɨː -	ɲ oː ɣ ɨː	C V C V
+994	vartovskojekhanty	meat	ɲoːɣɨː	ɲ.oː.ɣ.ɨː	ɲ oː ɣ ɨː		99	242	ɲ oː ɣ ɨː	C V C V	ɲ oː ɣ ɨː -	ɲ oː ɣ ɨː	C V C V
+993	vasjugankhanty	meat	ɲoːɣɨː	ɲ.oː.ɣ.ɨː	ɲ oː ɣ ɨː		99	242	ɲ oː ɣ ɨː	C V C V	ɲ oː ɣ ɨː -	ɲ oː ɣ ɨː	C V C V
+992	verkhnekalymskkhanty	meat	ɲoːɣɨː	ɲ.oː.ɣ.ɨː	ɲ oː ɣ ɨː		99	242	ɲ oː ɣ ɨː	C V C V	ɲ oː ɣ ɨː -	ɲ oː ɣ ɨː	C V C V
+1010	kondamansi	moon	joːŋqəp	j.oː.ŋ.q.ə.p	j oː ŋ q ə p		100	15	j oː ŋ q ə p	C V C C V C	j oː ŋ q ə p	j oː ŋ q ə p	C V C C V C
+1008	lowerlozvamansi	moon	jɔːŋχəp	j.ɔː.ŋ.χ.ə.p	j ɔː ŋ χ ə p		100	15	j ɔː ŋ χ ə p	C V C C V C	j ɔː ŋ χ ə p	j ɔː ŋ χ ə p	C V C C V C
+1007	middlelozvamansi	moon	joɔŋqəp	j.oɔ.ŋ.q.ə.p	j oɔ ŋ q ə p		100	15	j oɔ ŋ q ə p	C V C C V C	j oɔ ŋ q ə p	j oɔ ŋ q ə p	C V C C V C
+1006	northmansi	moon	jɔːŋχəp	j.ɔː.ŋ.χ.ə.p	j ɔː ŋ χ ə p		100	15	j ɔː ŋ χ ə p	C V C C V C	j ɔː ŋ χ ə p	j ɔː ŋ χ ə p	C V C C V C
+1009	pelymkamansi	moon	joːŋqəp	j.oː.ŋ.q.ə.p	j oː ŋ q ə p		100	15	j oː ŋ q ə p	C V C C V C	j oː ŋ q ə p	j oː ŋ q ə p	C V C C V C
+1011	tavdamansi	moon	jamp	j.a.m.p	j a m p		100	15	j a - m - p	C V C C	j a - m - p	j a m p	C V C C
+1015	jugankhanty	moon	tɨːləs	t.ɨː.l.ə.s	t ɨː l ə s		-102	2	t ɨː l ə s -	C V C V C	t ɨː l ə s -	t ɨː l ə s	C V C V C
+1020	kazymkhanty	moon	tiɬəsj	t.i.ɬ.ə.s.j	t i ɬ ə s j		-102	2	t i ɬ ə s j	C V C V C C	t i ɬ ə s j	t i ɬ ə s j	C V C V C C
+1017	kondakhanty	moon	tiːləʃ	t.iː.l.ə.ʃ	t iː l ə ʃ		-102	2	t iː l ə ʃ -	C V C V C	t iː l ə ʃ -	t iː l ə ʃ	C V C V C
+1018	nizjamkhanty	moon	tiləsj	t.i.l.ə.s.j	t i l ə s j		-102	2	t i l ə s j	C V C V C C	t i l ə s j	t i l ə s j	C V C V C C
+1022	obdorskkhanty	moon	tiːləsj	t.iː.l.ə.s.j	t iː l ə s j		-102	2	t iː l ə s j	C V C V C C	t iː l ə s j	t iː l ə s j	C V C V C C
+1019	sherkalykhanty	moon	tiləsj	t.i.l.ə.s.j	t i l ə s j		-102	2	t i l ə s j	C V C V C C	t i l ə s j	t i l ə s j	C V C V C C
+1021	synjakhanty	moon	tiləsj	t.i.l.ə.s.j	t i l ə s j		-102	2	t i l ə s j	C V C V C C	t i l ə s j	t i l ə s j	C V C V C C
+1014	tremjugankhanty	moon	tɨːɬəs	t.ɨː.ɬ.ə.s	t ɨː ɬ ə s		-102	2	t ɨː ɬ ə s -	C V C V C	t ɨː ɬ ə s -	t ɨː ɬ ə s	C V C V C
+1016	upperdemjankakhanty	moon	tiːləʃ	t.iː.l.ə.ʃ	t iː l ə ʃ		-102	2	t iː l ə ʃ -	C V C V C	t iː l ə ʃ -	t iː l ə ʃ	C V C V C
+1027	kondamansi	mountain	əχ	ə.χ	ə χ		103	17	ə χ	V C	ə χ	ə χ	V C
+1025	lowerlozvamansi	mountain	əχ	ə.χ	ə χ		103	17	ə χ	V C	ə χ	ə χ	V C
+1026	pelymkamansi	mountain	əχ	ə.χ	ə χ		103	17	ə χ	V C	ə χ	ə χ	V C
+1028	tavdamansi	mountain	æχ	æ.χ	æ χ		103	17	æ χ	V C	æ χ	æ χ	V C
+1035	jugankhanty	mountain	ræp	r.æ.p	r æ p		105	19	r æ p	C V C	r æ p	r æ p	C V C
+1040	kazymkhanty	mountain	rɛːp	r.ɛː.p	r ɛː p		105	19	r ɛː p	C V C	r ɛː p	r ɛː p	C V C
+1037	kondakhanty	mountain	reːp	r.eː.p	r eː p		105	19	r eː p	C V C	r eː p	r eː p	C V C
+1033	likrisovskojekhanty	mountain	ræp	r.æ.p	r æ p		105	19	r æ p	C V C	r æ p	r æ p	C V C
+1038	nizjamkhanty	mountain	reːp	r.eː.p	r eː p		105	19	r eː p	C V C	r eː p	r eː p	C V C
+1042	obdorskkhanty	mountain	reːp	r.eː.p	r eː p		105	19	r eː p	C V C	r eː p	r eː p	C V C
+1041	synjakhanty	mountain	reːp	r.eː.p	r eː p		105	19	r eː p	C V C	r eː p	r eː p	C V C
+1034	tremjugankhanty	mountain	ræp	r.æ.p	r æ p		105	19	r æ p	C V C	r æ p	r æ p	C V C
+1036	upperdemjankakhanty	mountain	reːp	r.eː.p	r eː p		105	19	r eː p	C V C	r eː p	r eː p	C V C
+1032	vartovskojekhanty	mountain	ræw	r.æ.w	r æ w		105	19	r æ w	C V C	r æ w	r æ w	C V C
+1031	vasjugankhanty	mountain	reːw	r.eː.w	r eː w		105	19	r eː w	C V C	r eː w	r eː w	C V C
+1030	verkhnekalymskkhanty	mountain	reːw	r.eː.w	r eː w		105	19	r eː w	C V C	r eː w	r eː w	C V C
+1047	kondamansi	mouth	tus	t.u.s	t u s		109	23	t u s	C V C	t u s	t u s	C V C
+1045	lowerlozvamansi	mouth	tus	t.u.s	t u s		109	23	t u s	C V C	t u s	t u s	C V C
+1044	middlelozvamansi	mouth	tus	t.u.s	t u s		109	23	t u s	C V C	t u s	t u s	C V C
+1046	pelymkamansi	mouth	tus	t.u.s	t u s		109	23	t u s	C V C	t u s	t u s	C V C
+1048	tavdamansi	mouth	toːʃ	t.oː.ʃ	t oː ʃ		109	23	t oː ʃ	C V C	t oː ʃ	t oː ʃ	C V C
+1056	jugankhanty	mouth	ɬuːɬ	ɬ.uː.ɬ	ɬ uː ɬ		110	25	ɬ uː ɬ	C V C	ɬ uː ɬ	ɬ uː ɬ	C V C
+1058	kondakhanty	mouth	tuːt	t.uː.t	t uː t		110	25	t uː t	C V C	t uː t	t uː t	C V C
+1053	likrisovskojekhanty	mouth	θuːθ	θ.uː.θ	θ uː θ		110	25	θ uː θ	C V C	θ uː θ	θ uː θ	C V C
+1054	malyjjugankhanty	mouth	ɬuːɬ	ɬ.uː.ɬ	ɬ uː ɬ		110	25	ɬ uː ɬ	C V C	ɬ uː ɬ	ɬ uː ɬ	C V C
+1059	nizjamkhanty	mouth	tuːt	t.uː.t	t uː t		110	25	t uː t	C V C	t uː t	t uː t	C V C
+1060	sherkalykhanty	mouth	tuːt	t.uː.t	t uː t		110	25	t uː t	C V C	t uː t	t uː t	C V C
+1055	tremjugankhanty	mouth	ɬuːɬ	ɬ.uː.ɬ	ɬ uː ɬ		110	25	ɬ uː ɬ	C V C	ɬ uː ɬ	ɬ uː ɬ	C V C
+1057	upperdemjankakhanty	mouth	tuːt	t.uː.t	t uː t		110	25	t uː t	C V C	t uː t	t uː t	C V C
+1049	vakhkhanty	mouth	luːl	l.uː.l	l uː l		110	25	l uː l	C V C	l uː l	l uː l	C V C
+1052	vartovskojekhanty	mouth	ɬuːɬ	ɬ.uː.ɬ	ɬ uː ɬ		110	25	ɬ uː ɬ	C V C	ɬ uː ɬ	ɬ uː ɬ	C V C
+1051	vasjugankhanty	mouth	juːl	j.uː.l	j uː l		110	25	j uː l	C V C	j uː l	j uː l	C V C
+1050	verkhnekalymskkhanty	mouth	juːl	j.uː.l	j uː l		110	25	j uː l	C V C	j uː l	j uː l	C V C
+1061	kazymkhanty	mouth	uŋəɬ	u.ŋ.ə.ɬ	u ŋ ə ɬ		111	26	u ŋ ə ɬ	V C V C	u ŋ ə ɬ	u ŋ ə ɬ	V C V C
+1063	obdorskkhanty	mouth	uːŋəl	uː.ŋ.ə.l	uː ŋ ə l		111	26	uː ŋ ə l	V C V C	uː ŋ ə l	uː ŋ ə l	V C V C
+1062	synjakhanty	mouth	uŋəl	u.ŋ.ə.l	u ŋ ə l		111	26	u ŋ ə l	V C V C	u ŋ ə l	u ŋ ə l	V C V C
+1076	jugankhanty	name	næm	n.æ.m	n æ m		112	27	n æ m	C V C	n æ m	n æ m	C V C
+1081	kazymkhanty	name	nɛːm	n.ɛː.m	n ɛː m		112	27	n ɛː m	C V C	n ɛː m	n ɛː m	C V C
+1078	kondakhanty	name	neːm	n.eː.m	n eː m		112	27	n eː m	C V C	n eː m	n eː m	C V C
+1067	kondamansi	name	næm	n.æ.m	n æ m		112	27	n æ m	C V C	n æ m	n æ m	C V C
+1073	likrisovskojekhanty	name	næm	n.æ.m	n æ m		112	27	n æ m	C V C	n æ m	n æ m	C V C
+1074	malyjjugankhanty	name	næm	n.æ.m	n æ m		112	27	n æ m	C V C	n æ m	n æ m	C V C
+1065	middlelozvamansi	name	næm	n.æ.m	n æ m		112	27	n æ m	C V C	n æ m	n æ m	C V C
+1079	nizjamkhanty	name	neːm	n.eː.m	n eː m		112	27	n eː m	C V C	n eː m	n eː m	C V C
+1064	northmansi	name	nam	n.a.m	n a m		112	27	n a m	C V C	n a m	n a m	C V C
+1083	obdorskkhanty	name	neːm	n.eː.m	n eː m		112	27	n eː m	C V C	n eː m	n eː m	C V C
+1066	pelymkamansi	name	næm	n.æ.m	n æ m		112	27	n æ m	C V C	n æ m	n æ m	C V C
+1080	sherkalykhanty	name	neːm	n.eː.m	n eː m		112	27	n eː m	C V C	n eː m	n eː m	C V C
+1082	synjakhanty	name	neːm	n.eː.m	n eː m		112	27	n eː m	C V C	n eː m	n eː m	C V C
+1068	tavdamansi	name	næm	n.æ.m	n æ m		112	27	n æ m	C V C	n æ m	n æ m	C V C
+1075	tremjugankhanty	name	næm	n.æ.m	n æ m		112	27	n æ m	C V C	n æ m	n æ m	C V C
+1077	upperdemjankakhanty	name	neːm	n.eː.m	n eː m		112	27	n eː m	C V C	n eː m	n eː m	C V C
+1069	vakhkhanty	name	neːm	n.eː.m	n eː m		112	27	n eː m	C V C	n eː m	n eː m	C V C
+1072	vartovskojekhanty	name	næm	n.æ.m	n æ m		112	27	n æ m	C V C	n æ m	n æ m	C V C
+1071	vasjugankhanty	name	neːm	n.eː.m	n eː m		112	27	n eː m	C V C	n eː m	n eː m	C V C
+1070	verkhnekalymskkhanty	name	neːm	n.eː.m	n eː m		112	27	n eː m	C V C	n eː m	n eː m	C V C
+1899	kondamansi	near	æli	æ.l.i	æ l i		212	136	æ l i	V C V	æ l - i	æ l i	V C V
+1897	middlelozvamansi	near	ælæ	æ.l.æ	æ l æ		212	136	æ l æ	V C V	æ l - æ	æ l æ	V C V
+1898	pelymkamansi	near	ælæɨ	æ.l.æɨ	æ l ɨ		212	136	æ l ɨ	V C V	æ l æ ɨ	æ l æ ɨ	V C V V
+1900	tavdamansi	near	ælæu	æ.l.æu	æ l u		212	136	æ l u	V C V	æ l æ u	æ l æ u	V C V V
+1904	jugankhanty	near	wæːnnə	w.æː.nː.ə	w æː nː ə		213	137	w æː nː ə	C V C V	w æː nː ə	w æː nː ə	C V C V
+1908	kazymkhanty	near	waːɳɳə	w.aː.ɳː.ə	w aː ɳː ə		213	137	w aː ɳː ə	C V C V	w aː ɳː ə	w aː ɳː ə	C V C V
+1906	kondakhanty	near	wæːnnə	w.æː.nː.ə	w æː nː ə		213	137	w æː nː ə	C V C V	w æː nː ə	w æː nː ə	C V C V
+1907	nizjamkhanty	near	waːnnaː	w.aː.nː.aː	w aː nː aː		213	137	w aː nː aː	C V C V	w aː nː aː	w aː nː aː	C V C V
+1909	obdorskkhanty	near	wæːnnæː	w.æː.nː.æː	w æː nː æː		213	137	w æː nː æː	C V C V	w æː nː æː	w æː nː æː	C V C V
+1903	tremjugankhanty	near	wæːɳɳə	w.æː.ɳː.ə	w æː ɳː ə		213	137	w æː ɳː ə	C V C V	w æː ɳː ə	w æː ɳː ə	C V C V
+1905	upperdemjankakhanty	near	wæːnnə	w.æː.nː.ə	w æː nː ə		213	137	w æː nː ə	C V C V	w æː nː ə	w æː nː ə	C V C V
+1901	vakhkhanty	near	wæːɳɳə	w.æː.ɳː.ə	w æː ɳː ə		213	137	w æː ɳː ə	C V C V	w æː ɳː ə	w æː ɳː ə	C V C V
+1094	jugankhanty	neck	sæːpəɬ	s.æː.p.ə.ɬ	s æː p ə ɬ		113	28	s æː p ə ɬ	C V C V C	s æː p - ə ɬ	s æː p ə ɬ	C V C V C
+1098	kazymkhanty	neck	saːpəɬ	s.aː.p.ə.ɬ	s aː p ə ɬ		113	28	s aː p ə ɬ	C V C V C	s aː p - ə ɬ	s aː p ə ɬ	C V C V C
+1087	kondamansi	neck	soplo	s.o.p.l.o	s o p o		113	28	s o p o -	C V C V	s o p l o -	s o p l o	C V C C V
+1091	likrisovskojekhanty	neck	sæːpəθ	s.æː.p.ə.θ	s æː p ə θ		113	28	s æː p ə θ	C V C V C	s æː p - ə θ	s æː p ə θ	C V C V C
+1092	malyjjugankhanty	neck	sæːpəɬ	s.æː.p.ə.ɬ	s æː p ə ɬ		113	28	s æː p ə ɬ	C V C V C	s æː p - ə ɬ	s æː p ə ɬ	C V C V C
+1085	middlelozvamansi	neck	ʃiplu	ʃ.i.p.l.u	ʃ i p u		113	28	ʃ i p u -	C V C V	ʃ i p l u -	ʃ i p l u	C V C C V
+1096	nizjamkhanty	neck	saːpət	s.aː.p.ə.t	s aː p ə t		113	28	s aː p ə t	C V C V C	s aː p - ə t	s aː p ə t	C V C V C
+1084	northmansi	neck	siplu	s.i.p.l.u	s i p u		113	28	s i p u -	C V C V	s i p l u -	s i p l u	C V C C V
+1100	obdorskkhanty	neck	sæːpəl	s.æː.p.ə.l	s æː p ə l		113	28	s æː p ə l	C V C V C	s æː p - ə l	s æː p ə l	C V C V C
+1086	pelymkamansi	neck	ʃiplu	ʃ.i.p.l.u	ʃ i p u		113	28	ʃ i p u -	C V C V	ʃ i p l u -	ʃ i p l u	C V C C V
+1097	sherkalykhanty	neck	saːpət	s.aː.p.ə.t	s aː p ə t		113	28	s aː p ə t	C V C V C	s aː p - ə t	s aː p ə t	C V C V C
+1099	synjakhanty	neck	saːpəl	s.aː.p.ə.l	s aː p ə l		113	28	s aː p ə l	C V C V C	s aː p - ə l	s aː p ə l	C V C V C
+1093	tremjugankhanty	neck	sæːpəɬ	s.æː.p.ə.ɬ	s æː p ə ɬ		113	28	s æː p ə ɬ	C V C V C	s æː p - ə ɬ	s æː p ə ɬ	C V C V C
+1095	upperdemjankakhanty	neck	sæːpət	s.æː.p.ə.t	s æː p ə t		113	28	s æː p ə t	C V C V C	s æː p - ə t	s æː p ə t	C V C V C
+1088	vakhkhanty	neck	sæːwəl	s.æː.w.ə.l	s æː w ə l		113	28	s æː w ə l	C V C V C	s æː w - ə l	s æː w ə l	C V C V C
+1090	vasjugankhanty	neck	sæːwəl	s.æː.w.ə.l	s æː w ə l		113	28	s æː w ə l	C V C V C	s æː w - ə l	s æː w ə l	C V C V C
+1089	verkhnekalymskkhanty	neck	sæːwəl	s.æː.w.ə.l	s æː w ə l		113	28	s æː w ə l	C V C V C	s æː w - ə l	s æː w ə l	C V C V C
+1114	jugankhanty	new	jeɬəp	j.e.ɬ.ə.p	j e ɬ ə p		114	29	j e ɬ ə p	C V C V C	j e ɬ ə p - -	j e ɬ ə p	C V C V C
+1119	kazymkhanty	new	jiɬəp	j.i.ɬ.ə.p	j i ɬ ə p		114	29	j i ɬ ə p	C V C V C	j i ɬ ə p - -	j i ɬ ə p	C V C V C
+1116	kondakhanty	new	jetəp	j.e.t.ə.p	j e t ə p		114	29	j e t ə p	C V C V C	j e t ə p - -	j e t ə p	C V C V C
+1105	kondamansi	new	jelpəl	j.e.l.p.ə.l	j e l p		114	29	j e l - p	C V C C	j e l - p ə l	j e l p ə l	C V C C V C
+1111	likrisovskojekhanty	new	jeθəp	j.e.θ.ə.p	j e θ ə p		114	29	j e θ ə p	C V C V C	j e θ ə p - -	j e θ ə p	C V C V C
+1103	lowerlozvamansi	new	ʎæʎpəl	ʎ.æ.ʎ.p.ə.l	ʎ æ ʎ p		114	29	ʎ æ ʎ - p	C V C C	ʎ æ ʎ - p ə l	ʎ æ ʎ p ə l	C V C C V C
+1112	malyjjugankhanty	new	jeɬəp	j.e.ɬ.ə.p	j e ɬ ə p		114	29	j e ɬ ə p	C V C V C	j e ɬ ə p - -	j e ɬ ə p	C V C V C
+1102	middlelozvamansi	new	ʎæʎpəl	ʎ.æ.ʎ.p.ə.l	ʎ æ ʎ p		114	29	ʎ æ ʎ - p	C V C C	ʎ æ ʎ - p ə l	ʎ æ ʎ p ə l	C V C C V C
+1117	nizjamkhanty	new	jitəp	j.i.t.ə.p	j i t ə p		114	29	j i t ə p	C V C V C	j i t ə p - -	j i t ə p	C V C V C
+1101	northmansi	new	iʎp	i.ʎ.p	i ʎ p		114	29	- i ʎ - p	V C C	- i ʎ - p - -	i ʎ p	V C C
+1121	obdorskkhanty	new	jiːləp	j.iː.l.ə.p	j iː l ə p		114	29	j iː l ə p	C V C V C	j iː l ə p - -	j iː l ə p	C V C V C
+1104	pelymkamansi	new	ʎæʎpəl	ʎ.æ.ʎ.p.ə.l	ʎ æ ʎ p		114	29	ʎ æ ʎ - p	C V C C	ʎ æ ʎ - p ə l	ʎ æ ʎ p ə l	C V C C V C
+1118	sherkalykhanty	new	jatəp	j.a.t.ə.p	j a t ə p		114	29	j a t ə p	C V C V C	j a t ə p - -	j a t ə p	C V C V C
+1120	synjakhanty	new	jaləp	j.a.l.ə.p	j a l ə p		114	29	j a l ə p	C V C V C	j a l ə p - -	j a l ə p	C V C V C
+1106	tavdamansi	new	elpəʎ	e.l.p.ə.ʎ	e l p		114	29	- e l - p	V C C	- e l - p ə ʎ	e l p ə ʎ	V C C V C
+1113	tremjugankhanty	new	jeɬəp	j.e.ɬ.ə.p	j e ɬ ə p		114	29	j e ɬ ə p	C V C V C	j e ɬ ə p - -	j e ɬ ə p	C V C V C
+1115	upperdemjankakhanty	new	jetəp	j.e.t.ə.p	j e t ə p		114	29	j e t ə p	C V C V C	j e t ə p - -	j e t ə p	C V C V C
+1107	vakhkhanty	new	jeləw	j.e.l.ə.w	j e l		114	29	j e l - -	C V C	j e l - - ə w	j e l ə w	C V C V C
+1110	vartovskojekhanty	new	jeɬəw	j.e.ɬ.ə.w	j e ɬ		114	29	j e ɬ - -	C V C	j e ɬ - - ə w	j e ɬ ə w	C V C V C
+1109	vasjugankhanty	new	jeləw	j.e.l.ə.w	j e l		114	29	j e l - -	C V C	j e l - - ə w	j e l ə w	C V C V C
+1108	verkhnekalymskkhanty	new	jeləw	j.e.l.ə.w	j e l		114	29	j e l - -	C V C	j e l - - ə w	j e l ə w	C V C V C
+1134	jugankhanty	night	æːt	æː.t	æː t		115	30	æː t	V C	æː t	æː t	V C
+1139	kazymkhanty	night	aːt	aː.t	aː t		115	30	aː t	V C	aː t	aː t	V C
+1136	kondakhanty	night	æːt	æː.t	æː t		115	30	æː t	V C	æː t	æː t	V C
+1132	malyjjugankhanty	night	æːt	æː.t	æː t		115	30	æː t	V C	æː t	æː t	V C
+1137	nizjamkhanty	night	aːt	aː.t	aː t		115	30	aː t	V C	aː t	aː t	V C
+1122	northmansi	night	eːt	eː.t	eː t		115	30	eː t	V C	eː t	eː t	V C
+1141	obdorskkhanty	night	æːt	æː.t	æː t		115	30	æː t	V C	æː t	æː t	V C
+1138	sherkalykhanty	night	aːt	aː.t	aː t		115	30	aː t	V C	aː t	aː t	V C
+1140	synjakhanty	night	aːt	aː.t	aː t		115	30	aː t	V C	aː t	aː t	V C
+1133	tremjugankhanty	night	æːt	æː.t	æː t		115	30	æː t	V C	æː t	æː t	V C
+1135	upperdemjankakhanty	night	æːt	æː.t	æː t		115	30	æː t	V C	æː t	æː t	V C
+1126	kondamansi	night	jə	j.ə	j ə		116	31	j ə	C V	j ə -	j ə	C V
+1124	lowerlozvamansi	night	i	i	i		116	31	- i	V	- i -	i	V
+1123	middlelozvamansi	night	jiː	j.iː	j iː		116	31	j iː	C V	j iː -	j iː	C V
+1125	pelymkamansi	night	jiː	j.iː	j iː		116	31	j iː	C V	j iː -	j iː	C V
+1127	tavdamansi	night	jiː	j.iː	j iː		116	31	j iː	C V	j iː -	j iː	C V
+1128	vakhkhanty	night	jej	j.e.j	j e		116	31	j e	C V	j e j	j e j	C V C
+1131	vartovskojekhanty	night	jej	j.e.j	j e		116	31	j e	C V	j e j	j e j	C V C
+1130	vasjugankhanty	night	ej	e.j	e		116	31	- e	V	- e j	e j	V C
+1129	verkhnekalymskkhanty	night	jej	j.e.j	j e		116	31	j e	C V	j e j	j e j	C V C
+1154	jugankhanty	nose	ɲoɬ	ɲ.o.ɬ	ɲ o ɬ		117	32	ɲ o ɬ	C V C	ɲ o ɬ	ɲ o ɬ	C V C
+1159	kazymkhanty	nose	ɲoɬ	ɲ.o.ɬ	ɲ o ɬ		117	32	ɲ o ɬ	C V C	ɲ o ɬ	ɲ o ɬ	C V C
+1156	kondakhanty	nose	ɲat	ɲ.a.t	ɲ a t		117	32	ɲ a t	C V C	ɲ a t	ɲ a t	C V C
+1146	kondamansi	nose	ɲɔl	ɲ.ɔ.l	ɲ ɔ l		117	32	ɲ ɔ l	C V C	ɲ ɔ l	ɲ ɔ l	C V C
+1151	likrisovskojekhanty	nose	ɲoθ	ɲ.o.θ	ɲ o θ		117	32	ɲ o θ	C V C	ɲ o θ	ɲ o θ	C V C
+1144	lowerlozvamansi	nose	ɲal	ɲ.a.l	ɲ a l		117	32	ɲ a l	C V C	ɲ a l	ɲ a l	C V C
+1152	malyjjugankhanty	nose	ɲoɬ	ɲ.o.ɬ	ɲ o ɬ		117	32	ɲ o ɬ	C V C	ɲ o ɬ	ɲ o ɬ	C V C
+1143	middlelozvamansi	nose	ɲal	ɲ.a.l	ɲ a l		117	32	ɲ a l	C V C	ɲ a l	ɲ a l	C V C
+1157	nizjamkhanty	nose	ɲot	ɲ.o.t	ɲ o t		117	32	ɲ o t	C V C	ɲ o t	ɲ o t	C V C
+1142	northmansi	nose	ɲol	ɲ.o.l	ɲ o l		117	32	ɲ o l	C V C	ɲ o l	ɲ o l	C V C
+1161	obdorskkhanty	nose	ɲal	ɲ.a.l	ɲ a l		117	32	ɲ a l	C V C	ɲ a l	ɲ a l	C V C
+1145	pelymkamansi	nose	ɲal	ɲ.a.l	ɲ a l		117	32	ɲ a l	C V C	ɲ a l	ɲ a l	C V C
+1158	sherkalykhanty	nose	ɲot	ɲ.o.t	ɲ o t		117	32	ɲ o t	C V C	ɲ o t	ɲ o t	C V C
+1160	synjakhanty	nose	ɲol	ɲ.o.l	ɲ o l		117	32	ɲ o l	C V C	ɲ o l	ɲ o l	C V C
+1147	tavdamansi	nose	ɲɔl	ɲ.ɔ.l	ɲ ɔ l		117	32	ɲ ɔ l	C V C	ɲ ɔ l	ɲ ɔ l	C V C
+1153	tremjugankhanty	nose	ɲoɬ	ɲ.o.ɬ	ɲ o ɬ		117	32	ɲ o ɬ	C V C	ɲ o ɬ	ɲ o ɬ	C V C
+1155	upperdemjankakhanty	nose	ɲat	ɲ.a.t	ɲ a t		117	32	ɲ a t	C V C	ɲ a t	ɲ a t	C V C
+1148	vakhkhanty	nose	ɲol	ɲ.o.l	ɲ o l		117	32	ɲ o l	C V C	ɲ o l	ɲ o l	C V C
+1150	vasjugankhanty	nose	ɲol	ɲ.o.l	ɲ o l		117	32	ɲ o l	C V C	ɲ o l	ɲ o l	C V C
+1149	verkhnekalymskkhanty	nose	ɲol	ɲ.o.l	ɲ o l		117	32	ɲ o l	C V C	ɲ o l	ɲ o l	C V C
+1166	kondamansi	not	oɔt	oɔ.t	oɔ t		118	33	oɔ t	V C	oɔ t	oɔ t	V C
+1164	lowerlozvamansi	not	at	a.t	a t		118	33	a t	V C	a t	a t	V C
+1163	middlelozvamansi	not	at	a.t	a t		118	33	a t	V C	a t	a t	V C
+1162	northmansi	not	at	a.t	a t		118	33	a t	V C	a t	a t	V C
+1165	pelymkamansi	not	at	a.t	a t		118	33	a t	V C	a t	a t	V C
+1171	jugankhanty	not	entə	e.n.t.ə	e n t		120	36	e n t	V C C	e n t ə	e n t ə	V C C V
+1176	kazymkhanty	not	an	a.n	a n		120	36	a n -	V C	a n - -	a n	V C
+1173	kondakhanty	not	en	e.n	e n		120	36	e n -	V C	e n - -	e n	V C
+1174	nizjamkhanty	not	anta	a.n.t.a	a n t		120	36	a n t	V C C	a n t a	a n t a	V C C V
+1178	obdorskkhanty	not	æn	æ.n	æ n		120	36	æ n -	V C	æ n - -	æ n	V C
+1175	sherkalykhanty	not	ant	a.n.t	a n t		120	36	a n t	V C C	a n t -	a n t	V C C
+1177	synjakhanty	not	at	a.t	a t		120	36	a - t	V C	a - t -	a t	V C
+1170	tremjugankhanty	not	entə	e.n.t.ə	e n t		120	36	e n t	V C C	e n t ə	e n t ə	V C C V
+1172	upperdemjankakhanty	not	en	e.n	e n		120	36	e n -	V C	e n - -	e n	V C
+1168	vakhkhanty	not	entə	e.n.t.ə	e n t		120	36	e n t	V C C	e n t ə	e n t ə	V C C V
+1169	vasjugankhanty	not	entə	e.n.t.ə	e n t		120	36	e n t	V C C	e n t ə	e n t ə	V C C V
+1183	kondamansi	one	ækʷ	æ.kʷ	æ kʷ		122	38	æ kʷ	V C	æ kʷ	æ kʷ	V C
+1181	lowerlozvamansi	one	æk	æ.k	æ k		122	38	æ k	V C	æ k	æ k	V C
+1180	middlelozvamansi	one	ækʷ	æ.kʷ	æ kʷ		122	38	æ kʷ	V C	æ kʷ	æ kʷ	V C
+1179	northmansi	one	akʷ	a.kʷ	a kʷ		122	38	a kʷ	V C	a kʷ	a kʷ	V C
+1182	pelymkamansi	one	əkʷ	ə.kʷ	ə kʷ		122	38	ə kʷ	V C	ə kʷ	ə kʷ	V C
+1184	tavdamansi	one	uχ	u.χ	u χ		122	38	u χ	V C	u χ	u χ	V C
+1189	jugankhanty	one	ej	e.j	e j		121	37	e j	V C	e j	e j	V C
+1194	kazymkhanty	one	i	i	i		121	37	i -	V	i -	i	V
+1191	kondakhanty	one	ej	e.j	e j		121	37	e j	V C	e j	e j	V C
+1192	nizjamkhanty	one	ij	i.j	i j		121	37	i j	V C	i j	i j	V C
+1196	obdorskkhanty	one	iːj	iː.j	iː j		121	37	iː j	V C	iː j	iː j	V C
+1193	sherkalykhanty	one	ij	i.j	i j		121	37	i j	V C	i j	i j	V C
+1195	synjakhanty	one	i	i	i		121	37	i -	V	i -	i	V
+1188	tremjugankhanty	one	ej	e.j	e j		121	37	e j	V C	e j	e j	V C
+1190	upperdemjankakhanty	one	ej	e.j	e j		121	37	e j	V C	e j	e j	V C
+1185	vakhkhanty	one	ej	e.j	e j		121	37	e j	V C	e j	e j	V C
+1187	vasjugankhanty	one	ej	e.j	e j		121	37	e j	V C	e j	e j	V C
+1186	verkhnekalymskkhanty	one	ej	e.j	e j		121	37	e j	V C	e j	e j	V C
+1201	kondamansi	person	qoləs	q.o.l.ə.s	q o l ə s		124	40	q o l ə s	C V C V C	- - - - q o l ə s	q o l ə s	C V C V C
+1199	lowerlozvamansi	person	qɔls	q.ɔ.l.s	q ɔ l s		124	40	q ɔ l - s	C V C C	- - - - q ɔ l - s	q ɔ l s	C V C C
+1198	middlelozvamansi	person	qɔls	q.ɔ.l.s	q ɔ l s		124	40	q ɔ l - s	C V C C	- - - - q ɔ l - s	q ɔ l s	C V C C
+1197	northmansi	person	eːləmχɔːləs	eː.l.ə.m.χ.ɔː.l.ə.s	χ ɔː l ə s		124	40	χ ɔː l ə s	C V C V C	eː l ə m χ ɔː l ə s	eː l ə m χ ɔː l ə s	V C V C C V C V C
+1200	pelymkamansi	person	qɔləs	q.ɔ.l.ə.s	q ɔ l ə s		124	40	q ɔ l ə s	C V C V C	- - - - q ɔ l ə s	q ɔ l ə s	C V C V C
+1202	tavdamansi	person	qɔlɔs	q.ɔ.l.ɔ.s	q ɔ l ɔ s		124	40	q ɔ l ɔ s	C V C V C	- - - - q ɔ l ɔ s	q ɔ l ɔ s	C V C V C
+1210	kazymkhanty	person	χojaːt	χ.o.j.aː.t	χ o j aː t		127	43	χ o j aː t	C V C V C	χ o j aː t	χ o j aː t	C V C V C
+1207	kondakhanty	person	χajæːt	χ.a.j.æː.t	χ a j æː t		127	43	χ a j æː t	C V C V C	χ a j æː t	χ a j æː t	C V C V C
+1208	nizjamkhanty	person	χojaːt	χ.o.j.aː.t	χ o j aː t		127	43	χ o j aː t	C V C V C	χ o j aː t	χ o j aː t	C V C V C
+1209	sherkalykhanty	person	χojaːt	χ.o.j.aː.t	χ o j aː t		127	43	χ o j aː t	C V C V C	χ o j aː t	χ o j aː t	C V C V C
+1211	synjakhanty	person	χojaːt	χ.o.j.aː.t	χ o j aː t		127	43	χ o j aː t	C V C V C	χ o j aː t	χ o j aː t	C V C V C
+1206	upperdemjankakhanty	person	χajeːt	χ.a.j.eː.t	χ a j eː t		127	43	χ a j eː t	C V C V C	χ a j eː t	χ a j eː t	C V C V C
+1217	kondamansi	rain	ræχʷ	r.æ.χʷ	r æ χʷ		128	44	r æ χʷ	C V C	r æ χʷ	r æ χʷ	C V C
+1215	lowerlozvamansi	rain	ræχʷ	r.æ.χʷ	r æ χʷ		128	44	r æ χʷ	C V C	r æ χʷ	r æ χʷ	C V C
+1214	middlelozvamansi	rain	ræχʷ	r.æ.χʷ	r æ χʷ		128	44	r æ χʷ	C V C	r æ χʷ	r æ χʷ	C V C
+1213	northmansi	rain	rakʷ	r.a.kʷ	r a kʷ		128	44	r a kʷ	C V C	r a kʷ	r a kʷ	C V C
+1216	pelymkamansi	rain	ræχʷ	r.æ.χʷ	r æ χʷ		128	44	r æ χʷ	C V C	r æ χʷ	r æ χʷ	C V C
+1218	tavdamansi	rain	ruχ	r.u.χ	r u χ		128	44	r u χ	C V C	r u χ	r u χ	C V C
+1223	likrisovskojekhanty	rain	ɭopətj	ɭ.o.p.ə.t.j	ɭ o p ə t j		129	45	ɭ o p ə t j	C V C V C C	ɭ o p ə t j	ɭ o p ə t j	C V C V C C
+1219	vakhkhanty	rain	ɭawətj	ɭ.a.w.ə.t.j	ɭ a w ə t j		129	45	ɭ a w ə t j	C V C V C C	ɭ a w ə t j	ɭ a w ə t j	C V C V C C
+1222	vartovskojekhanty	rain	ɭɔwətj	ɭ.ɔ.w.ə.t.j	ɭ ɔ w ə t j		129	45	ɭ ɔ w ə t j	C V C V C C	ɭ ɔ w ə t j	ɭ ɔ w ə t j	C V C V C C
+1221	vasjugankhanty	rain	ɭawətj	ɭ.a.w.ə.t.j	ɭ a w ə t j		129	45	ɭ a w ə t j	C V C V C C	ɭ a w ə t j	ɭ a w ə t j	C V C V C C
+1220	verkhnekalymskkhanty	rain	ɭawətj	ɭ.a.w.ə.t.j	ɭ a w ə t j		129	45	ɭ a w ə t j	C V C V C C	ɭ a w ə t j	ɭ a w ə t j	C V C V C C
+1226	jugankhanty	rain	jom	j.o.m	j o m		130	47	j o m	C V C	j o m	j o m	C V C
+1224	malyjjugankhanty	rain	jom	j.o.m	j o m		130	47	j o m	C V C	j o m	j o m	C V C
+1225	tremjugankhanty	rain	jom	j.o.m	j o m		130	47	j o m	C V C	j o m	j o m	C V C
+1231	kazymkhanty	rain	jɛːrt	j.ɛː.r.t	j ɛː r t		131	48	j ɛː r t	C V C C	j ɛː r t	j ɛː r t	C V C C
+1228	kondakhanty	rain	jeːrt	j.eː.r.t	j eː r t		131	48	j eː r t	C V C C	j eː r t	j eː r t	C V C C
+1229	nizjamkhanty	rain	jeːrt	j.eː.r.t	j eː r t		131	48	j eː r t	C V C C	j eː r t	j eː r t	C V C C
+1233	obdorskkhanty	rain	jeːrt	j.eː.r.t	j eː r t		131	48	j eː r t	C V C C	j eː r t	j eː r t	C V C C
+1230	sherkalykhanty	rain	jeːr	j.eː.r	j eː r		131	48	j eː r -	C V C	j eː r -	j eː r	C V C
+1232	synjakhanty	rain	jeːr	j.eː.r	j eː r		131	48	j eː r -	C V C	j eː r -	j eː r	C V C
+1227	upperdemjankakhanty	rain	jeːrt	j.eː.r.t	j eː r t		131	48	j eː r t	C V C C	j eː r t	j eː r t	C V C C
+1243	jugankhanty	red	wertə	w.e.r.t.ə	w e r t ə		132	49	w e r t ə	C V C C V	w e - - r t ə -	w e r t ə	C V C C V
+1248	kazymkhanty	red	wurtiː	w.u.r.t.iː	w u r t iː		132	49	w u r t iː	C V C C V	w u - - r t iː -	w u r t iː	C V C C V
+1245	kondakhanty	red	wertə	w.e.r.t.ə	w e r t ə		132	49	w e r t ə	C V C C V	w e - - r t ə -	w e r t ə	C V C C V
+1238	kondamansi	red	wɨr	w.ɨ.r	w ɨ r		132	49	w ɨ r - -	C V C	w ɨ - - r - - -	w ɨ r	C V C
+1236	lowerlozvamansi	red	œːr	œː.r	œː r		132	49	- œː r - -	V C	- œː - - r - - -	œː r	V C
+1235	middlelozvamansi	red	wyir	w.yi.r	w y r		132	49	w y r - -	C V C	w y - i r - - -	w y i r	C V V C
+1246	nizjamkhanty	red	wurtə	w.u.r.t.ə	w u r t ə		132	49	w u r t ə	C V C C V	w u - - r t ə -	w u r t ə	C V C C V
+1234	northmansi	red	wɨɣɨr	w.ɨ.ɣ.ɨ.r	w ɨ r		132	49	w ɨ r - -	C V C	w ɨ ɣ ɨ r - - -	w ɨ ɣ ɨ r	C V C V C
+1237	pelymkamansi	red	wyɨr	w.yɨ.r	w y r		132	49	w y r - -	C V C	w y - ɨ r - - -	w y ɨ r	C V V C
+1247	sherkalykhanty	red	wurtə	w.u.r.t.ə	w u r t ə		132	49	w u r t ə	C V C C V	w u - - r t ə -	w u r t ə	C V C C V
+1249	synjakhanty	red	wurtiː	w.u.r.t.iː	w u r t iː		132	49	w u r t iː	C V C C V	w u - - r t iː -	w u r t iː	C V C C V
+1239	tavdamansi	red	uːrqɔr	uː.r.q.ɔ.r	uː r q ɔ		132	49	- uː r q ɔ	V C C V	- uː - - r q ɔ r	uː r q ɔ r	V C C V C
+1242	tremjugankhanty	red	wertə	w.e.r.t.ə	w e r t ə		132	49	w e r t ə	C V C C V	w e - - r t ə -	w e r t ə	C V C C V
+1244	upperdemjankakhanty	red	wertə	w.e.r.t.ə	w e r t ə		132	49	w e r t ə	C V C C V	w e - - r t ə -	w e r t ə	C V C C V
+1240	vakhkhanty	red	wertə	w.e.r.t.ə	w e r t ə		132	49	w e r t ə	C V C C V	w e - - r t ə -	w e r t ə	C V C C V
+1241	vasjugankhanty	red	wertə	w.e.r.t.ə	w e r t ə		132	49	w e r t ə	C V C C V	w e - - r t ə -	w e r t ə	C V C C V
+1254	kondamansi	road	ʎoːŋq	ʎ.oː.ŋ.q	ʎ oː ŋ q		133	50	ʎ oː ŋ q	C V C C	ʎ oː ŋ q	ʎ oː ŋ q	C V C C
+1252	lowerlozvamansi	road	ʎoχ	ʎ.o.χ	ʎ o χ		133	50	ʎ o - χ	C V C	ʎ o - χ	ʎ o χ	C V C
+1251	middlelozvamansi	road	ʎoχ	ʎ.o.χ	ʎ o χ		133	50	ʎ o - χ	C V C	ʎ o - χ	ʎ o χ	C V C
+1250	northmansi	road	ʎɔːŋχ	ʎ.ɔː.ŋ.χ	ʎ ɔː ŋ χ		133	50	ʎ ɔː ŋ χ	C V C C	ʎ ɔː ŋ χ	ʎ ɔː ŋ χ	C V C C
+1253	pelymkamansi	road	ʎoːŋq	ʎ.oː.ŋ.q	ʎ oː ŋ q		133	50	ʎ oː ŋ q	C V C C	ʎ oː ŋ q	ʎ oː ŋ q	C V C C
+1255	tavdamansi	road	ʎɔŋ	ʎ.ɔ.ŋ	ʎ ɔ ŋ		133	50	ʎ ɔ ŋ -	C V C	ʎ ɔ ŋ -	ʎ ɔ ŋ	C V C
+1263	jugankhanty	road	ɭeːkʷ	ɭ.eː.kʷ	ɭ eː kʷ		134	51	ɭ eː kʷ	C V C	ɭ eː kʷ	ɭ eː kʷ	C V C
+1260	likrisovskojekhanty	road	ɭeːkʷ	ɭ.eː.kʷ	ɭ eː kʷ		134	51	ɭ eː kʷ	C V C	ɭ eː kʷ	ɭ eː kʷ	C V C
+1261	malyjjugankhanty	road	ɭeːkʷ	ɭ.eː.kʷ	ɭ eː kʷ		134	51	ɭ eː kʷ	C V C	ɭ eː kʷ	ɭ eː kʷ	C V C
+1262	tremjugankhanty	road	ɭeːkʷ	ɭ.eː.kʷ	ɭ eː kʷ		134	51	ɭ eː kʷ	C V C	ɭ eː kʷ	ɭ eː kʷ	C V C
+1256	vakhkhanty	road	ɭœːk	ɭ.œː.k	ɭ œː k		134	51	ɭ œː k	C V C	ɭ œː k	ɭ œː k	C V C
+1259	vartovskojekhanty	road	ɭœːk	ɭ.œː.k	ɭ œː k		134	51	ɭ œː k	C V C	ɭ œː k	ɭ œː k	C V C
+1258	vasjugankhanty	road	ɭœːk	ɭ.œː.k	ɭ œː k		134	51	ɭ œː k	C V C	ɭ œː k	ɭ œː k	C V C
+1257	verkhnekalymskkhanty	road	ɭœːk	ɭ.œː.k	ɭ œː k		134	51	ɭ œː k	C V C	ɭ œː k	ɭ œː k	C V C
+1268	kazymkhanty	road	pant	p.a.n.t	p a n t		135	52	p a n t	C V C C	p a n t	p a n t	C V C C
+1265	kondakhanty	road	pent	p.e.n.t	p e n t		135	52	p e n t	C V C C	p e n t	p e n t	C V C C
+1266	nizjamkhanty	road	pant	p.a.n.t	p a n t		135	52	p a n t	C V C C	p a n t	p a n t	C V C C
+1267	sherkalykhanty	road	pant	p.a.n.t	p a n t		135	52	p a n t	C V C C	p a n t	p a n t	C V C C
+1264	upperdemjankakhanty	road	pent	p.e.n.t	p e n t		135	52	p e n t	C V C C	p e n t	p e n t	C V C C
+1275	kondamansi	root	toɔr	t.oɔ.r	t oɔ r		137	54	t oɔ r	C V C	t oɔ r	t oɔ r	C V C
+1273	lowerlozvamansi	root	tɔːr	t.ɔː.r	t ɔː r		137	54	t ɔː r	C V C	t ɔː r	t ɔː r	C V C
+1272	middlelozvamansi	root	toɔr	t.oɔ.r	t oɔ r		137	54	t oɔ r	C V C	t oɔ r	t oɔ r	C V C
+1271	northmansi	root	taːr	t.aː.r	t aː r		137	54	t aː r	C V C	t aː r	t aː r	C V C
+1274	pelymkamansi	root	tɔːr	t.ɔː.r	t ɔː r		137	54	t ɔː r	C V C	t ɔː r	t ɔː r	C V C
+1276	tavdamansi	root	tæːr	t.æː.r	t æː r		137	54	t æː r	C V C	t æː r	t æː r	C V C
+1284	jugankhanty	root	ɬort	ɬ.o.r.t	ɬ o r		138	55	ɬ o r	C V C	ɬ o r t	ɬ o r t	C V C C
+1285	kondakhanty	root	tuːrt	t.uː.r.t	t uː r		138	55	t uː r	C V C	t uː r t	t uː r t	C V C C
+1281	likrisovskojekhanty	root	θɔr	θ.ɔ.r	θ ɔ r		138	55	θ ɔ r	C V C	θ ɔ r -	θ ɔ r	C V C
+1282	malyjjugankhanty	root	ɬort	ɬ.o.r.t	ɬ o r		138	55	ɬ o r	C V C	ɬ o r t	ɬ o r t	C V C C
+1283	tremjugankhanty	root	ɬort	ɬ.o.r.t	ɬ o r		138	55	ɬ o r	C V C	ɬ o r t	ɬ o r t	C V C C
+1277	vakhkhanty	root	loːr	l.oː.r	l oː r		138	55	l oː r	C V C	l oː r -	l oː r	C V C
+1280	vartovskojekhanty	root	ɬɔr	ɬ.ɔ.r	ɬ ɔ r		138	55	ɬ ɔ r	C V C	ɬ ɔ r -	ɬ ɔ r	C V C
+1279	vasjugankhanty	root	joːr	j.oː.r	j oː r		138	55	j oː r	C V C	j oː r -	j oː r	C V C
+1278	verkhnekalymskkhanty	root	joːr	j.oː.r	j oː r		138	55	j oː r	C V C	j oː r -	j oː r	C V C
+1295	jugankhanty	round	peŋrək	p.e.ŋ.r.ə.k	p e ŋ r		141	59	p e ŋ r	C V C C	p e ŋ - r ə k	p e ŋ r ə k	C V C C V C
+1290	kondamansi	round	pæwər	p.æ.w.ə.r	p æ w r		141	59	p æ w r	C V C C	p æ w ə r - -	p æ w ə r	C V C V C
+1288	lowerlozvamansi	round	pæːr	p.æː.r	p æː r		141	59	p æː - r	C V C	p æː - - r - -	p æː r	C V C
+1287	middlelozvamansi	round	pæːr	p.æː.r	p æː r		141	59	p æː - r	C V C	p æː - - r - -	p æː r	C V C
+1286	northmansi	round	puːɣər	p.uː.ɣ.ə.r	p uː ɣ r		141	59	p uː ɣ r	C V C C	p uː ɣ ə r - -	p uː ɣ ə r	C V C V C
+1289	pelymkamansi	round	pæwər	p.æ.w.ə.r	p æ w r		141	59	p æ w r	C V C C	p æ w ə r - -	p æ w ə r	C V C V C
+1291	tavdamansi	round	pəur	p.əu.r	p ə r		141	59	p ə - r	C V C	p ə - u r - -	p ə u r	C V V C
+1294	tremjugankhanty	round	peŋrək	p.e.ŋ.r.ə.k	p e ŋ r		141	59	p e ŋ r	C V C C	p e ŋ - r ə k	p e ŋ r ə k	C V C C V C
+1297	kazymkhanty	round	ɲɵːmər	ɲ.ɵː.m.ə.r	ɲ ɵː m ə r		143	61	ɲ ɵː m ə r	C V C V C	ɲ ɵː m ə r -	ɲ ɵː m ə r	C V C V C
+1296	nizjamkhanty	round	ɲuːmrə	ɲ.uː.m.r.ə	ɲ uː m r		143	61	ɲ uː m - r	C V C C	ɲ uː m - r ə	ɲ uː m r ə	C V C C V
+1298	synjakhanty	round	ɲuːmər	ɲ.uː.m.ə.r	ɲ uː m ə r		143	61	ɲ uː m ə r	C V C V C	ɲ uː m ə r -	ɲ uː m ə r	C V C V C
+1302	kondamansi	round	mærwə	m.æ.r.w.ə	m æ r ə		139	56	m æ r ə	C V C V	m æ r - w ə	m æ r w ə	C V C C V
+1300	middlelozvamansi	round	mæræu	m.æ.r.æu	m æ r u		139	56	m æ r u	C V C V	m æ r æ - u	m æ r æ u	C V C V V
+1299	northmansi	round	marawi	m.a.r.a.w.i	m a r i		139	56	m a r i	C V C V	m a r a w i	m a r a w i	C V C V C V
+1301	pelymkamansi	round	mæru	m.æ.r.u	m æ r u		139	56	m æ r u	C V C V	m æ r - - u	m æ r u	C V C V
+1305	kazymkhanty	round	jɛːŋtaː	j.ɛː.ŋ.t.aː	j ɛː ŋ t aː		140	58	j ɛː ŋ t aː	C V C C V	j ɛː ŋ t aː	j ɛː ŋ t aː	C V C C V
+1303	kondakhanty	round	jæŋtæː	j.æ.ŋ.t.æː	j æ ŋ t æː		140	58	j æ ŋ t æː	C V C C V	j æ ŋ t æː	j æ ŋ t æː	C V C C V
+1304	nizjamkhanty	round	jeːŋtaː	j.eː.ŋ.t.aː	j eː ŋ t aː		140	58	j eː ŋ t aː	C V C C V	j eː ŋ t aː	j eː ŋ t aː	C V C C V
+1307	obdorskkhanty	round	jeːŋtæː	j.eː.ŋ.t.æː	j eː ŋ t æː		140	58	j eː ŋ t æː	C V C C V	j eː ŋ t æː	j eː ŋ t æː	C V C C V
+1306	synjakhanty	round	jeːŋtaː	j.eː.ŋ.t.aː	j eː ŋ t aː		140	58	j eː ŋ t aː	C V C C V	j eː ŋ t aː	j eː ŋ t aː	C V C C V
+1914	kondamansi	salt	ʃæχ	ʃ.æ.χ	ʃ æ χ		216	139	ʃ æ χ	C V C	ʃ æ χ	ʃ æ χ	C V C
+1912	lowerlozvamansi	salt	ʃæχ	ʃ.æ.χ	ʃ æ χ		216	139	ʃ æ χ	C V C	ʃ æ χ	ʃ æ χ	C V C
+1911	middlelozvamansi	salt	sʲæχ	sʲ.æ.χ	sʲ æ χ		216	139	sʲ æ χ	C V C	sʲ æ χ	sʲ æ χ	C V C
+1913	pelymkamansi	salt	sʲæχ	sʲ.æ.χ	sʲ æ χ		216	139	sʲ æ χ	C V C	sʲ æ χ	sʲ æ χ	C V C
+1915	tavdamansi	salt	ʧiχ	ʧ.i.χ	tʃ i χ		216	139	tʃ i χ	C V C	tʃ i χ	tʃ i χ	C V C
+1923	jugankhanty	salt	saɬɬə	s.a.ɬː.ə	s a ɬː ə		-217	9	s a ɬː ə	C V C V	s a ɬː - ə	s a ɬː ə	C V C V
+1928	kazymkhanty	salt	soɬ	s.o.ɬ	s o ɬ		-217	9	s o ɬ -	C V C	s o ɬ - -	s o ɬ	C V C
+1925	kondakhanty	salt	sat	s.a.t	s a t		-217	9	s a t -	C V C	s a t - -	s a t	C V C
+1920	likrisovskojekhanty	salt	saθnə	s.a.θ.n.ə	s a θ ə		-217	9	s a θ ə	C V C V	s a θ n ə	s a θ n ə	C V C C V
+1921	malyjjugankhanty	salt	saɬɬə	s.a.ɬː.ə	s a ɬː ə		-217	9	s a ɬː ə	C V C V	s a ɬː - ə	s a ɬː ə	C V C V
+1926	nizjamkhanty	salt	sotə	s.o.t.ə	s o t ə		-217	9	s o t ə	C V C V	s o t - ə	s o t ə	C V C V
+1929	obdorskkhanty	salt	sal	s.a.l	s a l		-217	9	s a l -	C V C	s a l - -	s a l	C V C
+1927	sherkalykhanty	salt	sotə	s.o.t.ə	s o t ə		-217	9	s o t ə	C V C V	s o t - ə	s o t ə	C V C V
+1922	tremjugankhanty	salt	saɬɬə	s.a.ɬː.ə	s a ɬː ə		-217	9	s a ɬː ə	C V C V	s a ɬː - ə	s a ɬː ə	C V C V
+1924	upperdemjankakhanty	salt	sat	s.a.t	s a t		-217	9	s a t -	C V C	s a t - -	s a t	C V C
+1916	vakhkhanty	salt	salnə	s.a.l.n.ə	s a l ə		-217	9	s a l ə	C V C V	s a l n ə	s a l n ə	C V C C V
+1919	vartovskojekhanty	salt	saɬnə	s.a.ɬ.n.ə	s a ɬ ə		-217	9	s a ɬ ə	C V C V	s a ɬ n ə	s a ɬ n ə	C V C C V
+1918	vasjugankhanty	salt	salnaː	s.a.l.n.aː	s a l aː		-217	9	s a l aː	C V C V	s a l n aː	s a l n aː	C V C C V
+1917	verkhnekalymskkhanty	salt	salnaː	s.a.l.n.aː	s a l aː		-217	9	s a l aː	C V C V	s a l n aː	s a l n aː	C V C C V
+1312	kondamansi	sand	jəm	j.ə.m	j ə m		146	64	j ə m	C V C	j ə m	j ə m	C V C
+1310	lowerlozvamansi	sand	jeːm	j.eː.m	j eː m		146	64	j eː m	C V C	j eː m	j eː m	C V C
+1309	middlelozvamansi	sand	jiːm	j.iː.m	j iː m		146	64	j iː m	C V C	j iː m	j iː m	C V C
+1308	northmansi	sand	jeːm	j.eː.m	j eː m		146	64	j eː m	C V C	j eː m	j eː m	C V C
+1311	pelymkamansi	sand	jeːm	j.eː.m	j eː m		146	64	j eː m	C V C	j eː m	j eː m	C V C
+1313	tavdamansi	sand	iːm	iː.m	iː m		146	64	- iː m	V C	- iː m	iː m	V C
+1317	jugankhanty	sand	saŋkɨː	s.a.ŋ.k.ɨː	s a ŋ k ɨː		144	62	s a ŋ k ɨː	C V C C V	s a ŋ k ɨː	s a ŋ k ɨː	C V C C V
+1319	kondakhanty	sand	saŋχə	s.a.ŋ.χ.ə	s a ŋ χ ə		144	62	s a ŋ χ ə	C V C C V	s a ŋ χ ə	s a ŋ χ ə	C V C C V
+1316	tremjugankhanty	sand	saŋkɨː	s.a.ŋ.k.ɨː	s a ŋ k ɨː		144	62	s a ŋ k ɨː	C V C C V	s a ŋ k ɨː	s a ŋ k ɨː	C V C C V
+1318	upperdemjankakhanty	sand	saŋχə	s.a.ŋ.χ.ə	s a ŋ χ ə		144	62	s a ŋ χ ə	C V C C V	s a ŋ χ ə	s a ŋ χ ə	C V C C V
+1314	vakhkhanty	sand	saŋkɨː	s.a.ŋ.k.ɨː	s a ŋ k ɨː		144	62	s a ŋ k ɨː	C V C C V	s a ŋ k ɨː	s a ŋ k ɨː	C V C C V
+1315	vasjugankhanty	sand	saŋkɨː	s.a.ŋ.k.ɨː	s a ŋ k ɨː		144	62	s a ŋ k ɨː	C V C C V	s a ŋ k ɨː	s a ŋ k ɨː	C V C C V
+1321	kazymkhanty	sand	seːj	s.eː.j	s eː j		145	63	s eː j	C V C	s eː j	s eː j	C V C
+1320	nizjamkhanty	sand	seːj	s.eː.j	s eː j		145	63	s eː j	C V C	s eː j	s eː j	C V C
+1322	synjakhanty	sand	seːj	s.eː.j	s eː j		145	63	s eː j	C V C	s eː j	s eː j	C V C
+1347	kondamansi	say	lɔːwi	l.ɔː.w.i	l ɔː w i		147	65	l ɔː w i	C V C V	l ɔː w i -	l ɔː w i	C V C V
+1345	lowerlozvamansi	say	lɔːi	l.ɔːi	l ɔː i		147	65	l ɔː - i	C V V	l ɔː - i -	l ɔː i	C V V
+1344	middlelozvamansi	say	loɔɣi	l.oɔ.ɣ.i	l oɔ ɣ i		147	65	l oɔ ɣ i	C V C V	l oɔ ɣ i -	l oɔ ɣ i	C V C V
+1343	northmansi	say	laːwi	l.aː.w.i	l aː w i		147	65	l aː w i	C V C V	l aː w i -	l aː w i	C V C V
+1346	pelymkamansi	say	lɔːwi	l.ɔː.w.i	l ɔː w i		147	65	l ɔː w i	C V C V	l ɔː w i -	l ɔː w i	C V C V
+1348	tavdamansi	say	læːnt	l.æː.n.t	l æː n		147	65	l æː n -	C V C	l æː n - t	l æː n t	C V C C
+1353	jugankhanty	say	jæːstə	j.æː.s.t.ə	j æː s t ə		149	67	j æː s t ə	C V C C V	j æː s t ə -	j æː s t ə	C V C C V
+1355	kondakhanty	say	jæːstə	j.æː.s.t.ə	j æː s t ə		149	67	j æː s t ə	C V C C V	j æː s t ə -	j æː s t ə	C V C C V
+1359	synjakhanty	say	jaːstə	j.aː.s.t.ə	j aː s t ə		149	67	j aː s t ə	C V C C V	j aː s t ə -	j aː s t ə	C V C C V
+1352	tremjugankhanty	say	jæːstə	j.æː.s.t.ə	j æː s t ə		149	67	j æː s t ə	C V C C V	j æː s t ə -	j æː s t ə	C V C C V
+1354	upperdemjankakhanty	say	jæːstə	j.æː.s.t.ə	j æː s t ə		149	67	j æː s t ə	C V C C V	j æː s t ə -	j æː s t ə	C V C C V
+1351	vasjugankhanty	say	jæːsŋəl	j.æː.s.ŋ.ə.l	j æː s ŋ ə		149	67	j æː s ŋ ə	C V C C V	j æː s ŋ ə l	j æː s ŋ ə l	C V C C V C
+1350	verkhnekalymskkhanty	say	jæːsŋəl	j.æː.s.ŋ.ə.l	j æː s ŋ ə		149	67	j æː s ŋ ə	C V C C V	j æː s ŋ ə l	j æː s ŋ ə l	C V C C V C
+1358	kazymkhanty	say	ɭop	ɭ.o.p	ɭ o p		150	69	ɭ o p	C V C	ɭ o p	ɭ o p	C V C
+1356	nizjamkhanty	say	lop	l.o.p	l o p		150	69	l o p	C V C	l o p	l o p	C V C
+1357	sherkalykhanty	say	lop	l.o.p	l o p		150	69	l o p	C V C	l o p	l o p	C V C
+1335	jugankhanty	see	uː	uː	uː		151	70	- uː	V	- uː - - - -	uː	V
+1337	kondakhanty	see	uː	uː	uː		151	70	- uː	V	- uː - - - -	uː	V
+1326	kondamansi	see	woj	w.o.j	w o		151	70	w o	C V	w o j - - -	w o j	C V C
+1332	likrisovskojekhanty	see	wuː	w.uː	w uː		151	70	w uː	C V	w uː - - - -	w uː	C V
+1333	malyjjugankhanty	see	wuː	w.uː	w uː		151	70	w uː	C V	w uː - - - -	w uː	C V
+1324	middlelozvamansi	see	uj	u.j	u		151	70	- u	V	- u j - - -	u j	V C
+1338	nizjamkhanty	see	uː	uː	uː		151	70	- uː	V	- uː - - - -	uː	V
+1323	northmansi	see	waːɣ	w.aː.ɣ	w aː		151	70	w aː	C V	w aː ɣ - - -	w aː ɣ	C V C
+1325	pelymkamansi	see	wəi	w.əi	w əi		151	70	w əi	C V	w əi - - - -	w əi	C V
+1339	sherkalykhanty	see	uː	uː	uː		151	70	- uː	V	- uː - - - -	uː	V
+1327	tavdamansi	see	wajant	w.a.j.a.n.t	w a		151	70	w a	C V	w a j a n t	w a j a n t	C V C V C C
+1334	tremjugankhanty	see	wuː	w.uː	w uː		151	70	w uː	C V	w uː - - - -	w uː	C V
+1336	upperdemjankakhanty	see	woː	w.oː	w oː		151	70	w oː	C V	w oː - - - -	w oː	C V
+1328	vakhkhanty	see	wuː	w.uː	w uː		151	70	w uː	C V	w uː - - - -	w uː	C V
+1331	vartovskojekhanty	see	wuː	w.uː	w uː		151	70	w uː	C V	w uː - - - -	w uː	C V
+1330	vasjugankhanty	see	uː	uː	uː		151	70	- uː	V	- uː - - - -	uː	V
+1329	verkhnekalymskkhanty	see	wuː	w.uː	w uː		151	70	w uː	C V	w uː - - - -	w uː	C V
+1340	kazymkhanty	see	waːnt	w.aː.n.t	w aː n t		152	71	w aː n t	C V C C	w aː n t	w aː n t	C V C C
+1342	obdorskkhanty	see	wæːnt	w.æː.n.t	w æː n t		152	71	w æː n t	C V C C	w æː n t	w æː n t	C V C C
+1341	synjakhanty	see	waːt	w.aː.t	w aː t		152	71	w aː - t	C V C	w aː - t	w aː t	C V C
+1364	kondamansi	seed	toɔjəm	t.oɔ.j.ə.m	t oɔ j ə m		155	72	t oɔ j ə m	C V C V C	t oɔ j ə m	t oɔ j ə m	C V C V C
+1363	pelymkamansi	seed	tajim	t.a.j.i.m	t a j i m		155	72	t a j i m	C V C V C	t a j i m	t a j i m	C V C V C
+1365	tavdamansi	seed	tejim	t.e.j.i.m	t e j i m		155	72	t e j i m	C V C V C	t e j i m	t e j i m	C V C V C
+1368	kondakhanty	seed	jeːm	j.eː.m	j eː m		-153	4	j eː m	C V C	- j eː m -	j eː m	C V C
+1369	nizjamkhanty	seed	sjeːmaː	s.j.eː.m.aː	j eː m		-153	4	j eː m	C V C	s j eː m aː	s j eː m aː	C C V C V
+1367	upperdemjankakhanty	seed	jeːm	j.eː.m	j eː m		-153	4	j eː m	C V C	- j eː m -	j eː m	C V C
+1934	kondamansi	short	uːŋkʷə	uː.ŋ.kʷ.ə	uː ŋ kʷ ə		220	143	uː ŋ kʷ ə	V C C V	uː ŋ - kʷ ə	uː ŋ kʷ ə	V C C V
+1932	lowerlozvamansi	short	œːnkʷə	œː.n.kʷ.ə	œː n kʷ ə		220	143	œː n kʷ ə	V C C V	œː n - kʷ ə	œː n kʷ ə	V C C V
+1931	middlelozvamansi	short	uːŋkʷæ	uː.ŋ.kʷ.æ	uː ŋ kʷ æ		220	143	uː ŋ kʷ æ	V C C V	uː ŋ - kʷ æ	uː ŋ kʷ æ	V C C V
+1933	pelymkamansi	short	uːnək	uː.n.ə.k	uː n k		220	143	uː n k -	V C C	uː n ə k -	uː n ə k	V C V C
+1935	tavdamansi	short	oːn	oː.n	oː n		220	143	oː n - -	V C	oː n - - -	oː n	V C
+1942	jugankhanty	short	wæːn	w.æː.n	w æː n		218	140	w æː n	C V C	w æː n	w æː n	C V C
+1947	kazymkhanty	short	waːɳ	w.aː.ɳ	w aː ɳ		218	140	w aː ɳ	C V C	w aː ɳ	w aː ɳ	C V C
+1944	kondakhanty	short	wæːn	w.æː.n	w æː n		218	140	w æː n	C V C	w æː n	w æː n	C V C
+1939	likrisovskojekhanty	short	wæːɳ	w.æː.ɳ	w æː ɳ		218	140	w æː ɳ	C V C	w æː ɳ	w æː ɳ	C V C
+1940	malyjjugankhanty	short	wæːn	w.æː.n	w æː n		218	140	w æː n	C V C	w æː n	w æː n	C V C
+1945	nizjamkhanty	short	waːn	w.aː.n	w aː n		218	140	w aː n	C V C	w aː n	w aː n	C V C
+1949	obdorskkhanty	short	wæːn	w.æː.n	w æː n		218	140	w æː n	C V C	w æː n	w æː n	C V C
+1946	sherkalykhanty	short	waːn	w.aː.n	w aː n		218	140	w aː n	C V C	w aː n	w aː n	C V C
+1948	synjakhanty	short	waːɳ	w.aː.ɳ	w aː ɳ		218	140	w aː ɳ	C V C	w aː ɳ	w aː ɳ	C V C
+1941	tremjugankhanty	short	wæːɳ	w.æː.ɳ	w æː ɳ		218	140	w æː ɳ	C V C	w æː ɳ	w æː ɳ	C V C
+1943	upperdemjankakhanty	short	wæːn	w.æː.n	w æː n		218	140	w æː n	C V C	w æː n	w æː n	C V C
+1936	vakhkhanty	short	wæːɳ	w.æː.ɳ	w æː ɳ		218	140	w æː ɳ	C V C	w æː ɳ	w æː ɳ	C V C
+1938	vasjugankhanty	short	wæːɳ	w.æː.ɳ	w æː ɳ		218	140	w æː ɳ	C V C	w æː ɳ	w æː ɳ	C V C
+1937	verkhnekalymskkhanty	short	wæːɳ	w.æː.ɳ	w æː ɳ		218	140	w æː ɳ	C V C	w æː ɳ	w æː ɳ	C V C
+1374	kondamansi	sit	wonli	w.o.n.l.i	o n l i		157	74	o n l i	V C C V	w o n l i - -	w o n l i	C V C C V
+1372	lowerlozvamansi	sit	unli	u.n.l.i	u n l i		157	74	u n l i	V C C V	- u n l i - -	u n l i	V C C V
+1371	middlelozvamansi	sit	unli	u.n.l.i	u n l i		157	74	u n l i	V C C V	- u n l i - -	u n l i	V C C V
+1370	northmansi	sit	uːnli	uː.n.l.i	uː n l i		157	74	uː n l i	V C C V	- uː n l i - -	uː n l i	V C C V
+1373	pelymkamansi	sit	wunli	w.u.n.l.i	u n l i		157	74	u n l i	V C C V	w u n l i - -	w u n l i	C V C C V
+1375	tavdamansi	sit	oːnɔnt	oː.n.ɔ.n.t	oː n ɔ		157	74	oː n - ɔ	V C V	- oː n - ɔ n t	oː n ɔ n t	V C V C C
+1382	jugankhanty	sit	ɔːməs	ɔː.m.ə.s	ɔː m ə s		158	75	ɔː m ə s	V C V C	ɔː m ə s	ɔː m ə s	V C V C
+1387	kazymkhanty	sit	ɔːməs	ɔː.m.ə.s	ɔː m ə s		158	75	ɔː m ə s	V C V C	ɔː m ə s	ɔː m ə s	V C V C
+1384	kondakhanty	sit	oːməs	oː.m.ə.s	oː m ə s		158	75	oː m ə s	V C V C	oː m ə s	oː m ə s	V C V C
+1379	likrisovskojekhanty	sit	aːməs	aː.m.ə.s	aː m ə s		158	75	aː m ə s	V C V C	aː m ə s	aː m ə s	V C V C
+1380	malyjjugankhanty	sit	aːməs	aː.m.ə.s	aː m ə s		158	75	aː m ə s	V C V C	aː m ə s	aː m ə s	V C V C
+1385	nizjamkhanty	sit	ɔːməs	ɔː.m.ə.s	ɔː m ə s		158	75	ɔː m ə s	V C V C	ɔː m ə s	ɔː m ə s	V C V C
+1389	obdorskkhanty	sit	aːməs	aː.m.ə.s	aː m ə s		158	75	aː m ə s	V C V C	aː m ə s	aː m ə s	V C V C
+1386	sherkalykhanty	sit	ɔːməs	ɔː.m.ə.s	ɔː m ə s		158	75	ɔː m ə s	V C V C	ɔː m ə s	ɔː m ə s	V C V C
+1388	synjakhanty	sit	ɔːməs	ɔː.m.ə.s	ɔː m ə s		158	75	ɔː m ə s	V C V C	ɔː m ə s	ɔː m ə s	V C V C
+1381	tremjugankhanty	sit	ɔːməs	ɔː.m.ə.s	ɔː m ə s		158	75	ɔː m ə s	V C V C	ɔː m ə s	ɔː m ə s	V C V C
+1383	upperdemjankakhanty	sit	oːməs	oː.m.ə.s	oː m ə s		158	75	oː m ə s	V C V C	oː m ə s	oː m ə s	V C V C
+1376	vakhkhanty	sit	aːməs	aː.m.ə.s	aː m ə s		158	75	aː m ə s	V C V C	aː m ə s	aː m ə s	V C V C
+1378	vasjugankhanty	sit	aːməs	aː.m.ə.s	aː m ə s		158	75	aː m ə s	V C V C	aː m ə s	aː m ə s	V C V C
+1377	verkhnekalymskkhanty	sit	aːməs	aː.m.ə.s	aː m ə s		158	75	aː m ə s	V C V C	aː m ə s	aː m ə s	V C V C
+1401	jugankhanty	skin	sow	s.o.w	s o w		159	76	s o w	C V C	s o w	s o w	C V C
+1406	kazymkhanty	skin	soχ	s.o.χ	s o χ		159	76	s o χ	C V C	s o χ	s o χ	C V C
+1403	kondakhanty	skin	soχ	s.o.χ	s o χ		159	76	s o χ	C V C	s o χ	s o χ	C V C
+1393	kondamansi	skin	sɔu	s.ɔu	s ɔu		159	76	s ɔu -	C V	s ɔu -	s ɔu	C V
+1398	likrisovskojekhanty	skin	soɣ	s.o.ɣ	s o ɣ		159	76	s o ɣ	C V C	s o ɣ	s o ɣ	C V C
+1399	malyjjugankhanty	skin	soɣʷ	s.o.ɣʷ	s o ɣʷ		159	76	s o ɣʷ	C V C	s o ɣʷ	s o ɣʷ	C V C
+1391	middlelozvamansi	skin	sɔu	s.ɔu	s ɔu		159	76	s ɔu -	C V	s ɔu -	s ɔu	C V
+1404	nizjamkhanty	skin	soχ	s.o.χ	s o χ		159	76	s o χ	C V C	s o χ	s o χ	C V C
+1390	northmansi	skin	sɔw	s.ɔ.w	s ɔ w		159	76	s ɔ w	C V C	s ɔ w	s ɔ w	C V C
+1408	obdorskkhanty	skin	soχ	s.o.χ	s o χ		159	76	s o χ	C V C	s o χ	s o χ	C V C
+1392	pelymkamansi	skin	sɔu	s.ɔu	s ɔu		159	76	s ɔu -	C V	s ɔu -	s ɔu	C V
+1405	sherkalykhanty	skin	soχ	s.o.χ	s o χ		159	76	s o χ	C V C	s o χ	s o χ	C V C
+1407	synjakhanty	skin	soχ	s.o.χ	s o χ		159	76	s o χ	C V C	s o χ	s o χ	C V C
+1400	tremjugankhanty	skin	soɣʷ	s.o.ɣʷ	s o ɣʷ		159	76	s o ɣʷ	C V C	s o ɣʷ	s o ɣʷ	C V C
+1402	upperdemjankakhanty	skin	soχ	s.o.χ	s o χ		159	76	s o χ	C V C	s o χ	s o χ	C V C
+1394	vakhkhanty	skin	soɣ	s.o.ɣ	s o ɣ		159	76	s o ɣ	C V C	s o ɣ	s o ɣ	C V C
+1397	vartovskojekhanty	skin	soɣ	s.o.ɣ	s o ɣ		159	76	s o ɣ	C V C	s o ɣ	s o ɣ	C V C
+1396	vasjugankhanty	skin	soɣ	s.o.ɣ	s o ɣ		159	76	s o ɣ	C V C	s o ɣ	s o ɣ	C V C
+1395	verkhnekalymskkhanty	skin	soɣ	s.o.ɣ	s o ɣ		159	76	s o ɣ	C V C	s o ɣ	s o ɣ	C V C
+1413	kondamansi	sleep	qoji	q.o.j.i	q o j i		160	78	q o j i	C V C V	q o j i	q o j i	C V C V
+1411	lowerlozvamansi	sleep	quji	q.u.j.i	q u j i		160	78	q u j i	C V C V	q u j i	q u j i	C V C V
+1410	middlelozvamansi	sleep	qujji	q.u.jː.i	q u jː i		160	78	q u jː i	C V C V	q u jː i	q u jː i	C V C V
+1409	northmansi	sleep	χuji	χ.u.j.i	χ u j i		160	78	χ u j i	C V C V	χ u j i	χ u j i	C V C V
+1424	obdorskkhanty	sleep	χoːj	χ.oː.j	χ oː j		160	78	χ oː j -	C V C	χ oː j -	χ oː j	C V C
+1412	pelymkamansi	sleep	quji	q.u.j.i	q u j i		160	78	q u j i	C V C V	q u j i	q u j i	C V C V
+1414	tavdamansi	sleep	quj	q.u.j	q u j		160	78	q u j -	C V C	q u j -	q u j	C V C
+1418	jugankhanty	sleep	aɬ	a.ɬ	a ɬ		161	79	a ɬ	V C	a ɬ -	a ɬ	V C
+1422	kazymkhanty	sleep	oɬ	o.ɬ	o ɬ		161	79	o ɬ	V C	o ɬ -	o ɬ	V C
+1420	kondakhanty	sleep	at	a.t	a t		161	79	a t	V C	a t -	a t	V C
+1421	sherkalykhanty	sleep	ot	o.t	o t		161	79	o t	V C	o t -	o t	V C
+1423	synjakhanty	sleep	ol	o.l	o l		161	79	o l	V C	o l -	o l	V C
+1417	tremjugankhanty	sleep	aɬ	a.ɬ	a ɬ		161	79	a ɬ	V C	a ɬ -	a ɬ	V C
+1419	upperdemjankakhanty	sleep	at	a.t	a t		161	79	a t	V C	a t -	a t	V C
+1415	vakhkhanty	sleep	alaː	a.l.aː	a l		161	79	a l	V C	a l aː	a l aː	V C V
+1416	vasjugankhanty	sleep	alaː	a.l.aː	a l		161	79	a l	V C	a l aː	a l aː	V C V
+1429	kondamansi	small	wisʲ	w.i.sʲ	i sʲ		163	81	i sʲ	V C	w i sʲ	w i sʲ	C V C
+1427	lowerlozvamansi	small	isʲ	i.sʲ	i sʲ		163	81	i sʲ	V C	- i sʲ	i sʲ	V C
+1426	middlelozvamansi	small	wysʲ	w.y.sʲ	y sʲ		163	81	y sʲ	V C	w y sʲ	w y sʲ	C V C
+1428	pelymkamansi	small	isʲ	i.sʲ	i sʲ		163	81	i sʲ	V C	- i sʲ	i sʲ	V C
+1430	tavdamansi	small	usʲ	u.sʲ	u sʲ		163	81	u sʲ	V C	- u sʲ	u sʲ	V C
+1438	jugankhanty	small	æːj	æː.j	æː j		164	82	æː j	V C	æː j	æː j	V C
+1443	kazymkhanty	small	aːj	aː.j	aː j		164	82	aː j	V C	aː j	aː j	V C
+1440	kondakhanty	small	æːj	æː.j	æː j		164	82	æː j	V C	æː j	æː j	V C
+1435	likrisovskojekhanty	small	æːj	æː.j	æː j		164	82	æː j	V C	æː j	æː j	V C
+1436	malyjjugankhanty	small	æːj	æː.j	æː j		164	82	æː j	V C	æː j	æː j	V C
+1441	nizjamkhanty	small	aːj	aː.j	aː j		164	82	aː j	V C	aː j	aː j	V C
+1445	obdorskkhanty	small	æːj	æː.j	æː j		164	82	æː j	V C	æː j	æː j	V C
+1442	sherkalykhanty	small	aːj	aː.j	aː j		164	82	aː j	V C	aː j	aː j	V C
+1444	synjakhanty	small	aːj	aː.j	aː j		164	82	aː j	V C	aː j	aː j	V C
+1437	tremjugankhanty	small	æːj	æː.j	æː j		164	82	æː j	V C	æː j	æː j	V C
+1439	upperdemjankakhanty	small	æːj	æː.j	æː j		164	82	æː j	V C	æː j	æː j	V C
+1431	vakhkhanty	small	æːj	æː.j	æː j		164	82	æː j	V C	æː j	æː j	V C
+1433	vasjugankhanty	small	æːj	æː.j	æː j		164	82	æː j	V C	æː j	æː j	V C
+1432	verkhnekalymskkhanty	small	æːj	æː.j	æː j		164	82	æː j	V C	æː j	æː j	V C
+1462	kazymkhanty	smoke	pɵːsəŋ	p.ɵː.s.ə.ŋ	p ɵː s ə ŋ		169	87	p ɵː s ə ŋ	C V C V C	p ɵː s ə ŋ	p ɵː s ə ŋ	C V C V C
+1450	kondamansi	smoke	pɔsəm	p.ɔ.s.ə.m	p ɔ s ə m		169	87	p ɔ s ə m	C V C V C	p ɔ s ə m	p ɔ s ə m	C V C V C
+1448	lowerlozvamansi	smoke	paʃʃəm	p.a.ʃː.ə.m	p a ʃː ə m		169	87	p a ʃː ə m	C V C V C	p a ʃː ə m	p a ʃː ə m	C V C V C
+1447	middlelozvamansi	smoke	pɔʃm	p.ɔ.ʃ.m	p ɔ ʃ m		169	87	p ɔ ʃ - m	C V C C	p ɔ ʃ - m	p ɔ ʃ m	C V C C
+1461	nizjamkhanty	smoke	puːsəŋ	p.uː.s.ə.ŋ	p uː s ə ŋ		169	87	p uː s ə ŋ	C V C V C	p uː s ə ŋ	p uː s ə ŋ	C V C V C
+1446	northmansi	smoke	posim	p.o.s.i.m	p o s i m		169	87	p o s i m	C V C V C	p o s i m	p o s i m	C V C V C
+1464	obdorskkhanty	smoke	poːsəŋ	p.oː.s.ə.ŋ	p oː s ə ŋ		169	87	p oː s ə ŋ	C V C V C	p oː s ə ŋ	p oː s ə ŋ	C V C V C
+1449	pelymkamansi	smoke	pɔʃm	p.ɔ.ʃ.m	p ɔ ʃ m		169	87	p ɔ ʃ - m	C V C C	p ɔ ʃ - m	p ɔ ʃ m	C V C C
+1463	synjakhanty	smoke	puːsəŋ	p.uː.s.ə.ŋ	p uː s ə ŋ		169	87	p uː s ə ŋ	C V C V C	p uː s ə ŋ	p uː s ə ŋ	C V C V C
+1451	tavdamansi	smoke	poʃəm	p.o.ʃ.ə.m	p o ʃ ə m		169	87	p o ʃ ə m	C V C V C	p o ʃ ə m	p o ʃ ə m	C V C V C
+1452	vakhkhanty	smoke	porkɨː	p.o.r.k.ɨː	p o r k ɨː		166	84	p o r k ɨː	C V C C V	p o r k ɨː	p o r k ɨː	C V C C V
+1454	vasjugankhanty	smoke	porkɨː	p.o.r.k.ɨː	p o r k ɨː		166	84	p o r k ɨː	C V C C V	p o r k ɨː	p o r k ɨː	C V C C V
+1453	verkhnekalymskkhanty	smoke	porkɨː	p.o.r.k.ɨː	p o r k ɨː		166	84	p o r k ɨː	C V C C V	p o r k ɨː	p o r k ɨː	C V C C V
+1458	jugankhanty	smoke	næːjɬɨːpət	n.æː.j.ɬ.ɨː.p.ə.t	n æː j ɬ ɨː p ə t		167	85	n æː j ɬ ɨː p ə t	C V C C V C V C	n æː j - ɬ ɨː p ə t	n æː j ɬ ɨː p ə t	C V C C V C V C
+1455	likrisovskojekhanty	smoke	tœɣəθɨːpət	t.œ.ɣ.ə.θ.ɨː.p.ə.t	t œ ɣ θ ɨː p ə t		167	85	t œ ɣ θ ɨː p ə t	C V C C V C V C	t œ ɣ ə θ ɨː p ə t	t œ ɣ ə θ ɨː p ə t	C V C V C V C V C
+1456	malyjjugankhanty	smoke	ɬɨːpət	ɬ.ɨː.p.ə.t	ɬ ɨː p ə t		167	85	- - - ɬ ɨː p ə t	C V C V C	- - - - ɬ ɨː p ə t	ɬ ɨː p ə t	C V C V C
+1457	tremjugankhanty	smoke	næːjɬɨːpət	n.æː.j.ɬ.ɨː.p.ə.t	n æː j ɬ ɨː p ə t		167	85	n æː j ɬ ɨː p ə t	C V C C V C V C	n æː j - ɬ ɨː p ə t	n æː j ɬ ɨː p ə t	C V C C V C V C
+1954	kondamansi	snake	ɲolɨ	ɲ.o.l.ɨ	ɲ o l ɨ		221	144	ɲ o l ɨ	C V C V	ɲ o l ɨ -	ɲ o l ɨ	C V C V
+1952	lowerlozvamansi	snake	ɲoli	ɲ.o.l.i	ɲ o l i		221	144	ɲ o l i	C V C V	ɲ o l i -	ɲ o l i	C V C V
+1951	middlelozvamansi	snake	ɲoli	ɲ.o.l.i	ɲ o l i		221	144	ɲ o l i	C V C V	ɲ o l i -	ɲ o l i	C V C V
+1950	northmansi	snake	ɲɔːlɨɣ	ɲ.ɔː.l.ɨ.ɣ	ɲ ɔː l ɨ		221	144	ɲ ɔː l ɨ	C V C V	ɲ ɔː l ɨ ɣ	ɲ ɔː l ɨ ɣ	C V C V C
+1953	pelymkamansi	snake	ɲoli	ɲ.o.l.i	ɲ o l i		221	144	ɲ o l i	C V C V	ɲ o l i -	ɲ o l i	C V C V
+1955	tavdamansi	snake	ɲɔlu	ɲ.ɔ.l.u	ɲ ɔ l u		221	144	ɲ ɔ l u	C V C V	ɲ ɔ l u -	ɲ ɔ l u	C V C V
+1956	vakhkhanty	snake	mœːŋkæːm	m.œː.ŋ.k.æː.m	m œː ŋ k æː m		222	145	m œː ŋ k æː m	C V C C V C	m œː ŋ k æː m	m œː ŋ k æː m	C V C C V C
+1958	vasjugankhanty	snake	mœːŋkæːm	m.œː.ŋ.k.æː.m	m œː ŋ k æː m		222	145	m œː ŋ k æː m	C V C C V C	m œː ŋ k æː m	m œː ŋ k æː m	C V C C V C
+1957	verkhnekalymskkhanty	snake	mœːŋkæːm	m.œː.ŋ.k.æː.m	m œː ŋ k æː m		222	145	m œː ŋ k æː m	C V C C V C	m œː ŋ k æː m	m œː ŋ k æː m	C V C C V C
+1469	kondamansi	stand	tuɲsʲi	t.u.ɲ.sʲ.i	t u ɲ sʲ i		170	89	t u ɲ sʲ i	C V C C V	t u ɲ sʲ i	t u ɲ sʲ i	C V C C V
+1467	lowerlozvamansi	stand	toɲsʲi	t.o.ɲ.sʲ.i	t o ɲ sʲ i		170	89	t o ɲ sʲ i	C V C C V	t o ɲ sʲ i	t o ɲ sʲ i	C V C C V
+1466	middlelozvamansi	stand	tuɲsʲi	t.u.ɲ.sʲ.i	t u ɲ sʲ i		170	89	t u ɲ sʲ i	C V C C V	t u ɲ sʲ i	t u ɲ sʲ i	C V C C V
+1468	pelymkamansi	stand	tuɲsʲi	t.u.ɲ.sʲ.i	t u ɲ sʲ i		170	89	t u ɲ sʲ i	C V C C V	t u ɲ sʲ i	t u ɲ sʲ i	C V C C V
+1470	tavdamansi	stand	toɲsʲ	t.o.ɲ.sʲ	t o ɲ sʲ		170	89	t o ɲ sʲ -	C V C C	t o ɲ sʲ -	t o ɲ sʲ	C V C C
+1477	jugankhanty	stand	ɬjoːɬj	ɬ.j.oː.ɬ.j	ɬ j oː ɬ j		171	90	ɬ j oː ɬ j	C C V C C	ɬ j oː ɬ j	ɬ j oː ɬ j	C C V C C
+1482	kazymkhanty	stand	ɬɔːɬj	ɬ.ɔː.ɬ.j	ɬ ɔː ɬ j		171	90	- ɬ ɔː ɬ j	C V C C	- ɬ ɔː ɬ j	ɬ ɔː ɬ j	C V C C
+1479	kondakhanty	stand	tjoːtj	t.j.oː.t.j	t j oː t j		171	90	t j oː t j	C C V C C	t j oː t j	t j oː t j	C C V C C
+1474	likrisovskojekhanty	stand	θaːθ	θ.aː.θ	θ aː θ		171	90	θ - aː θ -	C V C	θ - aː θ -	θ aː θ	C V C
+1475	malyjjugankhanty	stand	ɬaːɬj	ɬ.aː.ɬ.j	ɬ aː ɬ j		171	90	- ɬ aː ɬ j	C V C C	- ɬ aː ɬ j	ɬ aː ɬ j	C V C C
+1480	nizjamkhanty	stand	tɔːtj	t.ɔː.t.j	t ɔː t j		171	90	t - ɔː t j	C V C C	t - ɔː t j	t ɔː t j	C V C C
+1481	sherkalykhanty	stand	tɔːtj	t.ɔː.t.j	t ɔː t j		171	90	t - ɔː t j	C V C C	t - ɔː t j	t ɔː t j	C V C C
+1476	tremjugankhanty	stand	ɬjɔːɬj	ɬ.j.ɔː.ɬ.j	ɬ j ɔː ɬ j		171	90	ɬ j ɔː ɬ j	C C V C C	ɬ j ɔː ɬ j	ɬ j ɔː ɬ j	C C V C C
+1478	upperdemjankakhanty	stand	tjoːtj	t.j.oː.t.j	t j oː t j		171	90	t j oː t j	C C V C C	t j oː t j	t j oː t j	C C V C C
+1471	vakhkhanty	stand	laːʎ	l.aː.ʎ	l aː ʎ		171	90	- l aː ʎ -	C V C	- l aː ʎ -	l aː ʎ	C V C
+1473	vasjugankhanty	stand	jaːʎ	j.aː.ʎ	j aː ʎ		171	90	- j aː ʎ -	C V C	- j aː ʎ -	j aː ʎ	C V C
+1472	verkhnekalymskkhanty	stand	jaːʎ	j.aː.ʎ	j aː ʎ		171	90	- j aː ʎ -	C V C	- j aː ʎ -	j aː ʎ	C V C
+1488	kondamansi	star	sɔu	s.ɔu	s ɔu		173	92	s ɔu -	C V	s ɔu -	s ɔu	C V
+1486	lowerlozvamansi	star	sɔw	s.ɔ.w	s ɔ w		173	92	s ɔ w	C V C	s ɔ w	s ɔ w	C V C
+1485	middlelozvamansi	star	sɔw	s.ɔ.w	s ɔ w		173	92	s ɔ w	C V C	s ɔ w	s ɔ w	C V C
+1484	northmansi	star	sɔw	s.ɔ.w	s ɔ w		173	92	s ɔ w	C V C	s ɔ w	s ɔ w	C V C
+1487	pelymkamansi	star	sɔu	s.ɔu	s ɔu		173	92	s ɔu -	C V	s ɔu -	s ɔu	C V
+1497	jugankhanty	star	koːs	k.oː.s	k oː s		174	93	k oː s	C V C	k oː - s	k oː s	C V C
+1502	kazymkhanty	star	χɵːs	χ.ɵː.s	χ ɵː s		174	93	χ ɵː s	C V C	χ ɵː - s	χ ɵː s	C V C
+1499	kondakhanty	star	χuːs	χ.uː.s	χ uː s		174	93	χ uː s	C V C	χ uː - s	χ uː s	C V C
+1494	likrisovskojekhanty	star	koːs	k.oː.s	k oː s		174	93	k oː s	C V C	k oː - s	k oː s	C V C
+1495	malyjjugankhanty	star	koːs	k.oː.s	k oː s		174	93	k oː s	C V C	k oː - s	k oː s	C V C
+1500	nizjamkhanty	star	χuːs	χ.uː.s	χ uː s		174	93	χ uː s	C V C	χ uː - s	χ uː s	C V C
+1504	obdorskkhanty	star	χoːs	χ.oː.s	χ oː s		174	93	χ oː s	C V C	χ oː - s	χ oː s	C V C
+1501	sherkalykhanty	star	χuːs	χ.uː.s	χ uː s		174	93	χ uː s	C V C	χ uː - s	χ uː s	C V C
+1503	synjakhanty	star	χuːs	χ.uː.s	χ uː s		174	93	χ uː s	C V C	χ uː - s	χ uː s	C V C
+1489	tavdamansi	star	qoːɲsʲ	q.oː.ɲ.sʲ	q oː sʲ		174	93	q oː sʲ	C V C	q oː ɲ sʲ	q oː ɲ sʲ	C V C C
+1496	tremjugankhanty	star	koːs	k.oː.s	k oː s		174	93	k oː s	C V C	k oː - s	k oː s	C V C
+1498	upperdemjankakhanty	star	χuːs	χ.uː.s	χ uː s		174	93	χ uː s	C V C	χ uː - s	χ uː s	C V C
+1490	vakhkhanty	star	kɔːs	k.ɔː.s	k ɔː s		174	93	k ɔː s	C V C	k ɔː - s	k ɔː s	C V C
+1493	vartovskojekhanty	star	koːs	k.oː.s	k oː s		174	93	k oː s	C V C	k oː - s	k oː s	C V C
+1492	vasjugankhanty	star	kɔːs	k.ɔː.s	k ɔː s		174	93	k ɔː s	C V C	k ɔː - s	k ɔː s	C V C
+1491	verkhnekalymskkhanty	star	koːs	k.oː.s	k oː s		174	93	k oː s	C V C	k oː - s	k oː s	C V C
+1509	kondamansi	stone	əχʷtəs	ə.χʷ.t.ə.s	ə χʷ t ə s		175	94	ə χʷ t ə s	V C C V C	ə χʷ t ə s	ə χʷ t ə s	V C C V C
+1507	lowerlozvamansi	stone	əːχtəʃ	əː.χ.t.ə.ʃ	əː χ t ə ʃ		175	94	əː χ t ə ʃ	V C C V C	əː χ t ə ʃ	əː χ t ə ʃ	V C C V C
+1506	middlelozvamansi	stone	əχʷtəʃ	ə.χʷ.t.ə.ʃ	ə χʷ t ə ʃ		175	94	ə χʷ t ə ʃ	V C C V C	ə χʷ t ə ʃ	ə χʷ t ə ʃ	V C C V C
+1505	northmansi	stone	aːχʷtəs	aː.χʷ.t.ə.s	aː χʷ t ə s		175	94	aː χʷ t ə s	V C C V C	aː χʷ t ə s	aː χʷ t ə s	V C C V C
+1508	pelymkamansi	stone	əχʷtəs	ə.χʷ.t.ə.s	ə χʷ t ə s		175	94	ə χʷ t ə s	V C C V C	ə χʷ t ə s	ə χʷ t ə s	V C C V C
+1518	jugankhanty	stone	kæw	k.æ.w	k æ w		176	95	k æ w	C V C	k æ w	k æ w	C V C
+1523	kazymkhanty	stone	keːw	k.eː.w	k eː w		176	95	k eː w	C V C	k eː w	k eː w	C V C
+1520	kondakhanty	stone	keːw	k.eː.w	k eː w		176	95	k eː w	C V C	k eː w	k eː w	C V C
+1515	likrisovskojekhanty	stone	kæɣʷ	k.æ.ɣʷ	k æ ɣʷ		176	95	k æ ɣʷ	C V C	k æ ɣʷ	k æ ɣʷ	C V C
+1516	malyjjugankhanty	stone	kæɣʷ	k.æ.ɣʷ	k æ ɣʷ		176	95	k æ ɣʷ	C V C	k æ ɣʷ	k æ ɣʷ	C V C
+1521	nizjamkhanty	stone	keːw	k.eː.w	k eː w		176	95	k eː w	C V C	k eː w	k eː w	C V C
+1525	obdorskkhanty	stone	keːw	k.eː.w	k eː w		176	95	k eː w	C V C	k eː w	k eː w	C V C
+1522	sherkalykhanty	stone	keːw	k.eː.w	k eː w		176	95	k eː w	C V C	k eː w	k eː w	C V C
+1524	synjakhanty	stone	keːw	k.eː.w	k eː w		176	95	k eː w	C V C	k eː w	k eː w	C V C
+1510	tavdamansi	stone	kuː	k.uː	k uː		176	95	k uː -	C V	k uː -	k uː	C V
+1517	tremjugankhanty	stone	kæɣʷ	k.æ.ɣʷ	k æ ɣʷ		176	95	k æ ɣʷ	C V C	k æ ɣʷ	k æ ɣʷ	C V C
+1519	upperdemjankakhanty	stone	keːw	k.eː.w	k eː w		176	95	k eː w	C V C	k eː w	k eː w	C V C
+1511	vakhkhanty	stone	kœːɣ	k.œː.ɣ	k œː ɣ		176	95	k œː ɣ	C V C	k œː ɣ	k œː ɣ	C V C
+1514	vartovskojekhanty	stone	kœɣ	k.œ.ɣ	k œ ɣ		176	95	k œ ɣ	C V C	k œ ɣ	k œ ɣ	C V C
+1513	vasjugankhanty	stone	kœːɣ	k.œː.ɣ	k œː ɣ		176	95	k œː ɣ	C V C	k œː ɣ	k œː ɣ	C V C
+1512	verkhnekalymskkhanty	stone	kœːɣ	k.œː.ɣ	k œː ɣ		176	95	k œː ɣ	C V C	k œː ɣ	k œː ɣ	C V C
+1538	jugankhanty	sun	katɬ	k.a.t.ɬ	k a t ɬ		177	96	k a t - ɬ	C V C C	k a t - ɬ	k a t ɬ	C V C C
+1543	kazymkhanty	sun	χatɬ	χ.a.t.ɬ	χ a t ɬ		177	96	χ a t - ɬ	C V C C	χ a t - ɬ	χ a t ɬ	C V C C
+1540	kondakhanty	sun	χat	χ.a.t	χ a t		177	96	χ a t - -	C V C	χ a t - -	χ a t	C V C
+1530	kondamansi	sun	qotəl	q.o.t.ə.l	q o t ə l		177	96	q o t ə l	C V C V C	q o t ə l	q o t ə l	C V C V C
+1535	likrisovskojekhanty	sun	katθ	k.a.t.θ	k a t θ		177	96	k a t - θ	C V C C	k a t - θ	k a t θ	C V C C
+1528	lowerlozvamansi	sun	qatəl	q.a.t.ə.l	q a t ə l		177	96	q a t ə l	C V C V C	q a t ə l	q a t ə l	C V C V C
+1536	malyjjugankhanty	sun	katɬ	k.a.t.ɬ	k a t ɬ		177	96	k a t - ɬ	C V C C	k a t - ɬ	k a t ɬ	C V C C
+1527	middlelozvamansi	sun	qɔtəl	q.ɔ.t.ə.l	q ɔ t ə l		177	96	q ɔ t ə l	C V C V C	q ɔ t ə l	q ɔ t ə l	C V C V C
+1541	nizjamkhanty	sun	χatəl	χ.a.t.ə.l	χ a t ə l		177	96	χ a t ə l	C V C V C	χ a t ə l	χ a t ə l	C V C V C
+1526	northmansi	sun	χɔːtæl	χ.ɔː.t.æ.l	χ ɔː t æ l		177	96	χ ɔː t æ l	C V C V C	χ ɔː t æ l	χ ɔː t æ l	C V C V C
+1545	obdorskkhanty	sun	χatəl	χ.a.t.ə.l	χ a t ə l		177	96	χ a t ə l	C V C V C	χ a t ə l	χ a t ə l	C V C V C
+1529	pelymkamansi	sun	qɔtəl	q.ɔ.t.ə.l	q ɔ t ə l		177	96	q ɔ t ə l	C V C V C	q ɔ t ə l	q ɔ t ə l	C V C V C
+1542	sherkalykhanty	sun	χatəl	χ.a.t.ə.l	χ a t ə l		177	96	χ a t ə l	C V C V C	χ a t ə l	χ a t ə l	C V C V C
+1544	synjakhanty	sun	χatəl	χ.a.t.ə.l	χ a t ə l		177	96	χ a t ə l	C V C V C	χ a t ə l	χ a t ə l	C V C V C
+1531	tavdamansi	sun	qɔtəl	q.ɔ.t.ə.l	q ɔ t ə l		177	96	q ɔ t ə l	C V C V C	q ɔ t ə l	q ɔ t ə l	C V C V C
+1537	tremjugankhanty	sun	katɬ	k.a.t.ɬ	k a t ɬ		177	96	k a t - ɬ	C V C C	k a t - ɬ	k a t ɬ	C V C C
+1539	upperdemjankakhanty	sun	χat	χ.a.t	χ a t		177	96	χ a t - -	C V C	χ a t - -	χ a t	C V C
+1532	vakhkhanty	sun	syːŋk	s.yː.ŋ.k	s yː ŋ k		178	97	s yː ŋ k	C V C C	s yː ŋ k	s yː ŋ k	C V C C
+1534	vasjugankhanty	sun	syːŋk	s.yː.ŋ.k	s yː ŋ k		178	97	s yː ŋ k	C V C C	s yː ŋ k	s yː ŋ k	C V C C
+1533	verkhnekalymskkhanty	sun	syːŋk	s.yː.ŋ.k	s yː ŋ k		178	97	s yː ŋ k	C V C C	s yː ŋ k	s yː ŋ k	C V C C
+1558	kazymkhanty	swim	wɵːsj	w.ɵː.s.j	ɵː s j		179	98	ɵː s j	V C C	w ɵː s j - - -	w ɵː s j	C V C C
+1555	kondakhanty	swim	uːtj	uː.t.j	uː t j		179	98	uː t j	V C C	- uː t j - - -	uː t j	V C C
+1549	kondamansi	swim	wuji	w.u.j.i	u j		179	98	u - j	V C	w u - j i - -	w u j i	C V C V
+1547	middlelozvamansi	swim	uji	u.j.i	u j		179	98	u - j	V C	- u - j i - -	u j i	V C V
+1556	nizjamkhanty	swim	uːsj	uː.s.j	uː s j		179	98	uː s j	V C C	- uː s j - - -	uː s j	V C C
+1546	northmansi	swim	uji	u.j.i	u j		179	98	u - j	V C	- u - j i - -	u j i	V C V
+1560	obdorskkhanty	swim	oːsj	oː.s.j	oː s j		179	98	oː s j	V C C	- oː s j - - -	oː s j	V C C
+1548	pelymkamansi	swim	wuji	w.u.j.i	u j		179	98	u - j	V C	w u - j i - -	w u j i	C V C V
+1557	sherkalykhanty	swim	uːsj	uː.s.j	uː s j		179	98	uː s j	V C C	- uː s j - - -	uː s j	V C C
+1559	synjakhanty	swim	uːsj	uː.s.j	uː s j		179	98	uː s j	V C C	- uː s j - - -	uː s j	V C C
+1550	tavdamansi	swim	ujænt	u.j.æ.n.t	u j		179	98	u - j	V C	- u - j æ n t	u j æ n t	V C V C C
+1554	upperdemjankakhanty	swim	uːtj	uː.t.j	uː t j		179	98	uː t j	V C C	- uː t j - - -	uː t j	V C C
+1551	vakhkhanty	swim	ɔːtj	ɔː.t.j	ɔː t j		179	98	ɔː t j	V C C	- ɔː t j - - -	ɔː t j	V C C
+1574	jugankhanty	tail	ɬeɣ	ɬ.e.ɣ	ɬ e ɣ		181	101	ɬ e ɣ	C V C	ɬ e - ɣ	ɬ e ɣ	C V C
+1578	kazymkhanty	tail	ɬiw	ɬ.i.w	ɬ i w		181	101	ɬ i w	C V C	ɬ i - w	ɬ i w	C V C
+1575	kondakhanty	tail	teɣ	t.e.ɣ	t e ɣ		181	101	t e ɣ	C V C	t e - ɣ	t e ɣ	C V C
+1565	kondamansi	tail	lɨː	l.ɨː	l ɨː		181	101	l ɨː -	C V	l ɨː - -	l ɨː	C V
+1571	likrisovskojekhanty	tail	θeɣ	θ.e.ɣ	θ e ɣ		181	101	θ e ɣ	C V C	θ e - ɣ	θ e ɣ	C V C
+1563	lowerlozvamansi	tail	liː	l.iː	l iː		181	101	l iː -	C V	l iː - -	l iː	C V
+1572	malyjjugankhanty	tail	ɬeɣ	ɬ.e.ɣ	ɬ e ɣ		181	101	ɬ e ɣ	C V C	ɬ e - ɣ	ɬ e ɣ	C V C
+1562	middlelozvamansi	tail	lɨː	l.ɨː	l ɨː		181	101	l ɨː -	C V	l ɨː - -	l ɨː	C V
+1576	nizjamkhanty	tail	tiɣ	t.i.ɣ	t i ɣ		181	101	t i ɣ	C V C	t i - ɣ	t i ɣ	C V C
+1561	northmansi	tail	leːɨɣ	l.eːɨ.ɣ	l eː ɣ		181	101	l eː ɣ	C V C	l eː ɨ ɣ	l eː ɨ ɣ	C V V C
+1564	pelymkamansi	tail	lɨː	l.ɨː	l ɨː		181	101	l ɨː -	C V	l ɨː - -	l ɨː	C V
+1577	sherkalykhanty	tail	tiɣ	t.i.ɣ	t i ɣ		181	101	t i ɣ	C V C	t i - ɣ	t i ɣ	C V C
+1579	synjakhanty	tail	lij	l.i.j	l i j		181	101	l i j	C V C	l i - j	l i j	C V C
+1573	tremjugankhanty	tail	ɬeɣ	ɬ.e.ɣ	ɬ e ɣ		181	101	ɬ e ɣ	C V C	ɬ e - ɣ	ɬ e ɣ	C V C
+1567	vakhkhanty	tail	leɣ	l.e.ɣ	l e ɣ		181	101	l e ɣ	C V C	l e - ɣ	l e ɣ	C V C
+1570	vartovskojekhanty	tail	ɬeɣ	ɬ.e.ɣ	ɬ e ɣ		181	101	ɬ e ɣ	C V C	ɬ e - ɣ	ɬ e ɣ	C V C
+1569	vasjugankhanty	tail	leɣ	l.e.ɣ	l e ɣ		181	101	l e ɣ	C V C	l e - ɣ	l e ɣ	C V C
+1568	verkhnekalymskkhanty	tail	leɣ	l.e.ɣ	l e ɣ		181	101	l e ɣ	C V C	l e - ɣ	l e ɣ	C V C
+1583	lowerlozvamansi	that	ta	t.a	t a		184	104	t a	C V	t a	t a	C V
+1582	middlelozvamansi	that	ta	t.a	t a		184	104	t a	C V	t a	t a	C V
+1581	northmansi	that	ta	t.a	t a		184	104	t a	C V	t a	t a	C V
+1584	pelymkamansi	that	tæ	t.æ	t æ		184	104	t æ	C V	t æ	t æ	C V
+1586	tavdamansi	that	ta	t.a	t a		184	104	t a	C V	t a	t a	C V
+1594	kazymkhanty	that	tom	t.o.m	t o m		185	105	t o m	C V C	t o m	t o m	C V C
+1591	kondakhanty	that	tom	t.o.m	t o m		185	105	t o m	C V C	t o m	t o m	C V C
+1585	kondamansi	that	tɔt	t.ɔ.t	t ɔ t		185	105	t ɔ t	C V C	t ɔ t	t ɔ t	C V C
+1592	nizjamkhanty	that	tom	t.o.m	t o m		185	105	t o m	C V C	t o m	t o m	C V C
+1596	obdorskkhanty	that	tam	t.a.m	t a m		185	105	t a m	C V C	t a m	t a m	C V C
+1593	sherkalykhanty	that	tom	t.o.m	t o m		185	105	t o m	C V C	t o m	t o m	C V C
+1595	synjakhanty	that	tum	t.u.m	t u m		185	105	t u m	C V C	t u m	t u m	C V C
+1589	tremjugankhanty	that	tom	t.o.m	t o m		185	105	t o m	C V C	t o m	t o m	C V C
+1590	upperdemjankakhanty	that	tom	t.o.m	t o m		185	105	t o m	C V C	t o m	t o m	C V C
+1587	vakhkhanty	that	toːm	t.oː.m	t oː m		185	105	t oː m	C V C	t oː m	t oː m	C V C
+1588	vasjugankhanty	that	toːm	t.oː.m	t oː m		185	105	t oː m	C V C	t oː m	t oː m	C V C
+1977	jugankhanty	thin	woːɣəɬ	w.oː.ɣ.ə.ɬ	w oː ɣ ə ɬ		229	151	w oː ɣ ə ɬ	C V C V C	w oː - ɣ ə ɬ -	w oː ɣ ə ɬ	C V C V C
+1982	kazymkhanty	thin	ɵːχəɬ	ɵː.χ.ə.ɬ	ɵː χ ə ɬ		229	151	- ɵː χ ə ɬ	V C V C	- ɵː - χ ə ɬ -	ɵː χ ə ɬ	V C V C
+1979	kondakhanty	thin	woːχət	w.oː.χ.ə.t	w oː χ ə t		229	151	w oː χ ə t	C V C V C	w oː - χ ə t -	w oː χ ə t	C V C V C
+1968	kondamansi	thin	wouti	w.ou.t.i	w ou t i		229	151	w ou t i -	C V C V	w ou - t i - -	w ou t i	C V C V
+1974	likrisovskojekhanty	thin	waɣʷəθ	w.a.ɣʷ.ə.θ	w a ɣʷ ə θ		229	151	w a ɣʷ ə θ	C V C V C	w a - ɣʷ ə θ -	w a ɣʷ ə θ	C V C V C
+1975	malyjjugankhanty	thin	woɣʷəɬ	w.o.ɣʷ.ə.ɬ	w o ɣʷ ə ɬ		229	151	w o ɣʷ ə ɬ	C V C V C	w o - ɣʷ ə ɬ -	w o ɣʷ ə ɬ	C V C V C
+1966	middlelozvamansi	thin	wæɨtæ	w.æɨ.t.æ	w æ t æ		229	151	w æ t æ -	C V C V	w æ ɨ t æ - -	w æ ɨ t æ	C V V C V
+1980	nizjamkhanty	thin	uːχət	uː.χ.ə.t	uː χ ə t		229	151	- uː χ ə t	V C V C	- uː - χ ə t -	uː χ ə t	V C V C
+1965	northmansi	thin	woutæ	w.ou.t.æ	w ou t æ		229	151	w ou t æ -	C V C V	w ou - t æ - -	w ou t æ	C V C V
+1984	obdorskkhanty	thin	oːχəl	oː.χ.ə.l	oː χ ə l		229	151	- oː χ ə l	V C V C	- oː - χ ə l -	oː χ ə l	V C V C
+1967	pelymkamansi	thin	wæɨtæ	w.æɨ.t.æ	w æ t æ		229	151	w æ t æ -	C V C V	w æ ɨ t æ - -	w æ ɨ t æ	C V V C V
+1981	sherkalykhanty	thin	uːχət	uː.χ.ə.t	uː χ ə t		229	151	- uː χ ə t	V C V C	- uː - χ ə t -	uː χ ə t	V C V C
+1983	synjakhanty	thin	uːχəl	uː.χ.ə.l	uː χ ə l		229	151	- uː χ ə l	V C V C	- uː - χ ə l -	uː χ ə l	V C V C
+1976	tremjugankhanty	thin	woɣʷəɬ	w.o.ɣʷ.ə.ɬ	w o ɣʷ ə ɬ		229	151	w o ɣʷ ə ɬ	C V C V C	w o - ɣʷ ə ɬ -	w o ɣʷ ə ɬ	C V C V C
+1978	upperdemjankakhanty	thin	woːχət	w.oː.χ.ə.t	w oː χ ə t		229	151	w oː χ ə t	C V C V C	w oː - χ ə t -	w oː χ ə t	C V C V C
+1970	vakhkhanty	thin	woːɣəʎ	w.oː.ɣ.ə.ʎ	w oː ɣ ə ʎ		229	151	w oː ɣ ə ʎ	C V C V C	w oː - ɣ ə ʎ -	w oː ɣ ə ʎ	C V C V C
+1973	vartovskojekhanty	thin	wɔɣəɬj	w.ɔ.ɣ.ə.ɬ.j	w ɔ ɣ ə ɬ		229	151	w ɔ ɣ ə ɬ	C V C V C	w ɔ - ɣ ə ɬ j	w ɔ ɣ ə ɬ j	C V C V C C
+1972	vasjugankhanty	thin	woːɣəʎ	w.oː.ɣ.ə.ʎ	w oː ɣ ə ʎ		229	151	w oː ɣ ə ʎ	C V C V C	w oː - ɣ ə ʎ -	w oː ɣ ə ʎ	C V C V C
+1971	verkhnekalymskkhanty	thin	woːɣəʎ	w.oː.ɣ.ə.ʎ	w oː ɣ ə ʎ		229	151	w oː ɣ ə ʎ	C V C V C	w oː - ɣ ə ʎ -	w oː ɣ ə ʎ	C V C V C
+1994	jugankhanty	thin	wæːtj	w.æː.t.j	w æː t j		227	150	w æː t j	C V C C	w æː - t j	w æː t j	C V C C
+1999	kazymkhanty	thin	waːsj	w.aː.s.j	w aː s j		227	150	w aː s j	C V C C	w aː - s j	w aː s j	C V C C
+1996	kondakhanty	thin	wæːtj	w.æː.t.j	w æː t j		227	150	w æː t j	C V C C	w æː - t j	w æː t j	C V C C
+1991	likrisovskojekhanty	thin	wæːtj	w.æː.t.j	w æː t j		227	150	w æː t j	C V C C	w æː - t j	w æː t j	C V C C
+1992	malyjjugankhanty	thin	wæːtj	w.æː.t.j	w æː t j		227	150	w æː t j	C V C C	w æː - t j	w æː t j	C V C C
+1997	nizjamkhanty	thin	waːsj	w.aː.s.j	w aː s j		227	150	w aː s j	C V C C	w aː - s j	w aː s j	C V C C
+1998	sherkalykhanty	thin	waːsj	w.aː.s.j	w aː s j		227	150	w aː s j	C V C C	w aː - s j	w aː s j	C V C C
+2000	synjakhanty	thin	waːsj	w.aː.s.j	w aː s j		227	150	w aː s j	C V C C	w aː - s j	w aː s j	C V C C
+1993	tremjugankhanty	thin	wæːtj	w.æː.t.j	w æː t j		227	150	w æː t j	C V C C	w æː - t j	w æː t j	C V C C
+1995	upperdemjankakhanty	thin	wæːtj	w.æː.t.j	w æː t j		227	150	w æː t j	C V C C	w æː - t j	w æː t j	C V C C
+1988	vakhkhanty	thin	wæːɲtj	w.æː.ɲ.t.j	w æː t j		227	150	w æː t j	C V C C	w æː ɲ t j	w æː ɲ t j	C V C C C
+1990	vasjugankhanty	thin	wæːɲtj	w.æː.ɲ.t.j	w æː t j		227	150	w æː t j	C V C C	w æː ɲ t j	w æː ɲ t j	C V C C C
+1989	verkhnekalymskkhanty	thin	wæːɲtj	w.æː.ɲ.t.j	w æː t j		227	150	w æː t j	C V C C	w æː ɲ t j	w æː ɲ t j	C V C C C
+1605	jugankhanty	this	teːm	t.eː.m	t eː m		186	106	t eː m	C V C	t eː m	t eː m	C V C
+1610	kazymkhanty	this	tam	t.a.m	t a m		186	106	t a m	C V C	t a m	t a m	C V C
+1607	kondakhanty	this	tæm	t.æ.m	t æ m		186	106	t æ m	C V C	t æ m	t æ m	C V C
+1601	kondamansi	this	tə	t.ə	t ə		186	106	t ə -	C V	t ə -	t ə	C V
+1599	lowerlozvamansi	this	ti	t.i	t i		186	106	t i -	C V	t i -	t i	C V
+1598	middlelozvamansi	this	tʲə	tʲ.ə	tʲ ə		186	106	tʲ ə -	C V	tʲ ə -	tʲ ə	C V
+1608	nizjamkhanty	this	tam	t.a.m	t a m		186	106	t a m	C V C	t a m	t a m	C V C
+1597	northmansi	this	ti	t.i	t i		186	106	t i -	C V	t i -	t i	C V
+1600	pelymkamansi	this	tʲi	tʲ.i	tʲ i		186	106	tʲ i -	C V	tʲ i -	tʲ i	C V
+1609	sherkalykhanty	this	tam	t.a.m	t a m		186	106	t a m	C V C	t a m	t a m	C V C
+1611	synjakhanty	this	tam	t.a.m	t a m		186	106	t a m	C V C	t a m	t a m	C V C
+1602	tavdamansi	this	ti	t.i	t i		186	106	t i -	C V	t i -	t i	C V
+1604	tremjugankhanty	this	teːm	t.eː.m	t eː m		186	106	t eː m	C V C	t eː m	t eː m	C V C
+1606	upperdemjankakhanty	this	tæm	t.æ.m	t æ m		186	106	t æ m	C V C	t æ m	t æ m	C V C
+1603	vakhkhanty	this	tiːm	t.iː.m	t iː m		186	106	t iː m	C V C	t iː m	t iː m	C V C
+1621	jugankhanty	thou	nœŋ	n.œ.ŋ	n œ ŋ		187	107	n œ ŋ	C V C	n œ - ŋ	n œ ŋ	C V C
+1626	kazymkhanty	thou	naŋ	n.a.ŋ	n a ŋ		187	107	n a ŋ	C V C	n a - ŋ	n a ŋ	C V C
+1623	kondakhanty	thou	noŋ	n.o.ŋ	n o ŋ		187	107	n o ŋ	C V C	n o - ŋ	n o ŋ	C V C
+1616	kondamansi	thou	næɨɣ	n.æɨ.ɣ	n æ ɣ		187	107	n æ ɣ	C V C	n æ ɨ ɣ	n æ ɨ ɣ	C V V C
+1614	lowerlozvamansi	thou	næi	n.æi	n æ		187	107	n æ -	C V	n æ i -	n æ i	C V V
+1613	middlelozvamansi	thou	næu	n.æu	n æ		187	107	n æ -	C V	n æ u -	n æ u	C V V
+1624	nizjamkhanty	thou	noŋ	n.o.ŋ	n o ŋ		187	107	n o ŋ	C V C	n o - ŋ	n o ŋ	C V C
+1612	northmansi	thou	naŋ	n.a.ŋ	n a ŋ		187	107	n a ŋ	C V C	n a - ŋ	n a ŋ	C V C
+1628	obdorskkhanty	thou	næŋ	n.æ.ŋ	n æ ŋ		187	107	n æ ŋ	C V C	n æ - ŋ	n æ ŋ	C V C
+1615	pelymkamansi	thou	næɨ	n.æɨ	n æ		187	107	n æ -	C V	n æ ɨ -	n æ ɨ	C V V
+1625	sherkalykhanty	thou	naŋ	n.a.ŋ	n a ŋ		187	107	n a ŋ	C V C	n a - ŋ	n a ŋ	C V C
+1627	synjakhanty	thou	naŋ	n.a.ŋ	n a ŋ		187	107	n a ŋ	C V C	n a - ŋ	n a ŋ	C V C
+1617	tavdamansi	thou	nəu	n.əu	n ə		187	107	n ə -	C V	n ə u -	n ə u	C V V
+1620	tremjugankhanty	thou	nœŋ	n.œ.ŋ	n œ ŋ		187	107	n œ ŋ	C V C	n œ - ŋ	n œ ŋ	C V C
+1622	upperdemjankakhanty	thou	noŋ	n.o.ŋ	n o ŋ		187	107	n o ŋ	C V C	n o - ŋ	n o ŋ	C V C
+1618	vakhkhanty	thou	nœŋ	n.œ.ŋ	n œ ŋ		187	107	n œ ŋ	C V C	n œ - ŋ	n œ ŋ	C V C
+1619	vasjugankhanty	thou	nœŋ	n.œ.ŋ	n œ ŋ		187	107	n œ ŋ	C V C	n œ - ŋ	n œ ŋ	C V C
+1642	jugankhanty	tongue	ɲæːɬəm	ɲ.æː.ɬ.ə.m	ɲ æː ɬ ə m		188	108	ɲ æː ɬ ə m	C V C V C	ɲ æː ɬ ə m	ɲ æː ɬ ə m	C V C V C
+1647	kazymkhanty	tongue	ɲaːɬəm	ɲ.aː.ɬ.ə.m	ɲ aː ɬ ə m		188	108	ɲ aː ɬ ə m	C V C V C	ɲ aː ɬ ə m	ɲ aː ɬ ə m	C V C V C
+1644	kondakhanty	tongue	ɲæːtəm	ɲ.æː.t.ə.m	ɲ æː t ə m		188	108	ɲ æː t ə m	C V C V C	ɲ æː t ə m	ɲ æː t ə m	C V C V C
+1633	kondamansi	tongue	ɲiləm	ɲ.i.l.ə.m	ɲ i l ə m		188	108	ɲ i l ə m	C V C V C	ɲ i l ə m	ɲ i l ə m	C V C V C
+1639	likrisovskojekhanty	tongue	ɲæːθəm	ɲ.æː.θ.ə.m	ɲ æː θ ə m		188	108	ɲ æː θ ə m	C V C V C	ɲ æː θ ə m	ɲ æː θ ə m	C V C V C
+1631	lowerlozvamansi	tongue	ɲilm	ɲ.i.l.m	ɲ i l m		188	108	ɲ i l - m	C V C C	ɲ i l - m	ɲ i l m	C V C C
+1640	malyjjugankhanty	tongue	ɲæːɬəm	ɲ.æː.ɬ.ə.m	ɲ æː ɬ ə m		188	108	ɲ æː ɬ ə m	C V C V C	ɲ æː ɬ ə m	ɲ æː ɬ ə m	C V C V C
+1630	middlelozvamansi	tongue	ɲilm	ɲ.i.l.m	ɲ i l m		188	108	ɲ i l - m	C V C C	ɲ i l - m	ɲ i l m	C V C C
+1645	nizjamkhanty	tongue	ɲaːtəm	ɲ.aː.t.ə.m	ɲ aː t ə m		188	108	ɲ aː t ə m	C V C V C	ɲ aː t ə m	ɲ aː t ə m	C V C V C
+1629	northmansi	tongue	ɲelm	ɲ.e.l.m	ɲ e l m		188	108	ɲ e l - m	C V C C	ɲ e l - m	ɲ e l m	C V C C
+1649	obdorskkhanty	tongue	ɲæːləm	ɲ.æː.l.ə.m	ɲ æː l ə m		188	108	ɲ æː l ə m	C V C V C	ɲ æː l ə m	ɲ æː l ə m	C V C V C
+1632	pelymkamansi	tongue	ɲiləm	ɲ.i.l.ə.m	ɲ i l ə m		188	108	ɲ i l ə m	C V C V C	ɲ i l ə m	ɲ i l ə m	C V C V C
+1646	sherkalykhanty	tongue	ɲaːtəm	ɲ.aː.t.ə.m	ɲ aː t ə m		188	108	ɲ aː t ə m	C V C V C	ɲ aː t ə m	ɲ aː t ə m	C V C V C
+1648	synjakhanty	tongue	ɲaːləm	ɲ.aː.l.ə.m	ɲ aː l ə m		188	108	ɲ aː l ə m	C V C V C	ɲ aː l ə m	ɲ aː l ə m	C V C V C
+1634	tavdamansi	tongue	ɲiʎəm	ɲ.i.ʎ.ə.m	ɲ i ʎ ə m		188	108	ɲ i ʎ ə m	C V C V C	ɲ i ʎ ə m	ɲ i ʎ ə m	C V C V C
+1641	tremjugankhanty	tongue	ɲæːɬəm	ɲ.æː.ɬ.ə.m	ɲ æː ɬ ə m		188	108	ɲ æː ɬ ə m	C V C V C	ɲ æː ɬ ə m	ɲ æː ɬ ə m	C V C V C
+1643	upperdemjankakhanty	tongue	ɲæːtəm	ɲ.æː.t.ə.m	ɲ æː t ə m		188	108	ɲ æː t ə m	C V C V C	ɲ æː t ə m	ɲ æː t ə m	C V C V C
+1635	vakhkhanty	tongue	ɲæːləm	ɲ.æː.l.ə.m	ɲ æː l ə m		188	108	ɲ æː l ə m	C V C V C	ɲ æː l ə m	ɲ æː l ə m	C V C V C
+1638	vartovskojekhanty	tongue	ɲæːɬəm	ɲ.æː.ɬ.ə.m	ɲ æː ɬ ə m		188	108	ɲ æː ɬ ə m	C V C V C	ɲ æː ɬ ə m	ɲ æː ɬ ə m	C V C V C
+1637	vasjugankhanty	tongue	ɲæːləm	ɲ.æː.l.ə.m	ɲ æː l ə m		188	108	ɲ æː l ə m	C V C V C	ɲ æː l ə m	ɲ æː l ə m	C V C V C
+1636	verkhnekalymskkhanty	tongue	ɲæːləm	ɲ.æː.l.ə.m	ɲ æː l ə m		188	108	ɲ æː l ə m	C V C V C	ɲ æː l ə m	ɲ æː l ə m	C V C V C
+1663	jugankhanty	tooth	pæŋʷkʷ	p.æ.ŋʷ.kʷ	p æ ŋʷ kʷ		189	109	p æ ŋʷ kʷ	C V C C	p æ ŋʷ kʷ	p æ ŋʷ kʷ	C V C C
+1668	kazymkhanty	tooth	pɛːŋk	p.ɛː.ŋ.k	p ɛː ŋ k		189	109	p ɛː ŋ k	C V C C	p ɛː ŋ k	p ɛː ŋ k	C V C C
+1665	kondakhanty	tooth	peːŋk	p.eː.ŋ.k	p eː ŋ k		189	109	p eː ŋ k	C V C C	p eː ŋ k	p eː ŋ k	C V C C
+1654	kondamansi	tooth	pæŋk	p.æ.ŋ.k	p æ ŋ k		189	109	p æ ŋ k	C V C C	p æ ŋ k	p æ ŋ k	C V C C
+1660	likrisovskojekhanty	tooth	pæŋʷkʷ	p.æ.ŋʷ.kʷ	p æ ŋʷ kʷ		189	109	p æ ŋʷ kʷ	C V C C	p æ ŋʷ kʷ	p æ ŋʷ kʷ	C V C C
+1652	lowerlozvamansi	tooth	pæŋk	p.æ.ŋ.k	p æ ŋ k		189	109	p æ ŋ k	C V C C	p æ ŋ k	p æ ŋ k	C V C C
+1661	malyjjugankhanty	tooth	pæŋʷkʷ	p.æ.ŋʷ.kʷ	p æ ŋʷ kʷ		189	109	p æ ŋʷ kʷ	C V C C	p æ ŋʷ kʷ	p æ ŋʷ kʷ	C V C C
+1651	middlelozvamansi	tooth	pæŋk	p.æ.ŋ.k	p æ ŋ k		189	109	p æ ŋ k	C V C C	p æ ŋ k	p æ ŋ k	C V C C
+1666	nizjamkhanty	tooth	peːŋk	p.eː.ŋ.k	p eː ŋ k		189	109	p eː ŋ k	C V C C	p eː ŋ k	p eː ŋ k	C V C C
+1650	northmansi	tooth	puŋk	p.u.ŋ.k	p u ŋ k		189	109	p u ŋ k	C V C C	p u ŋ k	p u ŋ k	C V C C
+1670	obdorskkhanty	tooth	peːŋk	p.eː.ŋ.k	p eː ŋ k		189	109	p eː ŋ k	C V C C	p eː ŋ k	p eː ŋ k	C V C C
+1653	pelymkamansi	tooth	pæŋk	p.æ.ŋ.k	p æ ŋ k		189	109	p æ ŋ k	C V C C	p æ ŋ k	p æ ŋ k	C V C C
+1667	sherkalykhanty	tooth	peːŋk	p.eː.ŋ.k	p eː ŋ k		189	109	p eː ŋ k	C V C C	p eː ŋ k	p eː ŋ k	C V C C
+1669	synjakhanty	tooth	peːk	p.eː.k	p eː k		189	109	p eː - k	C V C	p eː - k	p eː k	C V C
+1655	tavdamansi	tooth	pəŋ	p.ə.ŋ	p ə ŋ		189	109	p ə - ŋ	C V C	p ə - ŋ	p ə ŋ	C V C
+1662	tremjugankhanty	tooth	pæŋʷkʷ	p.æ.ŋʷ.kʷ	p æ ŋʷ kʷ		189	109	p æ ŋʷ kʷ	C V C C	p æ ŋʷ kʷ	p æ ŋʷ kʷ	C V C C
+1664	upperdemjankakhanty	tooth	peːŋk	p.eː.ŋ.k	p eː ŋ k		189	109	p eː ŋ k	C V C C	p eː ŋ k	p eː ŋ k	C V C C
+1656	vakhkhanty	tooth	pœːŋk	p.œː.ŋ.k	p œː ŋ k		189	109	p œː ŋ k	C V C C	p œː ŋ k	p œː ŋ k	C V C C
+1659	vartovskojekhanty	tooth	pœːŋk	p.œː.ŋ.k	p œː ŋ k		189	109	p œː ŋ k	C V C C	p œː ŋ k	p œː ŋ k	C V C C
+1658	vasjugankhanty	tooth	pœːŋk	p.œː.ŋ.k	p œː ŋ k		189	109	p œː ŋ k	C V C C	p œː ŋ k	p œː ŋ k	C V C C
+1657	verkhnekalymskkhanty	tooth	pœːŋk	p.œː.ŋ.k	p œː ŋ k		189	109	p œː ŋ k	C V C C	p œː ŋ k	p œː ŋ k	C V C C
+1684	jugankhanty	tree	juːw	j.uː.w	j uː w		190	111	j uː w	C V C	j uː w	j uː w	C V C
+1689	kazymkhanty	tree	juχ	j.u.χ	j u χ		190	111	j u χ	C V C	j u χ	j u χ	C V C
+1686	kondakhanty	tree	juːχ	j.uː.χ	j uː χ		190	111	j uː χ	C V C	j uː χ	j uː χ	C V C
+1675	kondamansi	tree	jiw	j.i.w	j i w		190	111	j i w	C V C	j i w	j i w	C V C
+1681	likrisovskojekhanty	tree	juːɣ	j.uː.ɣ	j uː ɣ		190	111	j uː ɣ	C V C	j uː ɣ	j uː ɣ	C V C
+1673	lowerlozvamansi	tree	iw	i.w	i w		190	111	- i w	V C	- i w	i w	V C
+1682	malyjjugankhanty	tree	juːɣ	j.uː.ɣ	j uː ɣ		190	111	j uː ɣ	C V C	j uː ɣ	j uː ɣ	C V C
+1672	middlelozvamansi	tree	jiw	j.i.w	j i w		190	111	j i w	C V C	j i w	j i w	C V C
+1687	nizjamkhanty	tree	juːχ	j.uː.χ	j uː χ		190	111	j uː χ	C V C	j uː χ	j uː χ	C V C
+1671	northmansi	tree	jiw	j.i.w	j i w		190	111	j i w	C V C	j i w	j i w	C V C
+1691	obdorskkhanty	tree	juːχ	j.uː.χ	j uː χ		190	111	j uː χ	C V C	j uː χ	j uː χ	C V C
+1674	pelymkamansi	tree	juː	j.uː	j uː		190	111	j uː -	C V	j uː -	j uː	C V
+1688	sherkalykhanty	tree	juːχ	j.uː.χ	j uː χ		190	111	j uː χ	C V C	j uː χ	j uː χ	C V C
+1690	synjakhanty	tree	juχ	j.u.χ	j u χ		190	111	j u χ	C V C	j u χ	j u χ	C V C
+1676	tavdamansi	tree	jiw	j.i.w	j i w		190	111	j i w	C V C	j i w	j i w	C V C
+1683	tremjugankhanty	tree	juːɣ	j.uː.ɣ	j uː ɣ		190	111	j uː ɣ	C V C	j uː ɣ	j uː ɣ	C V C
+1685	upperdemjankakhanty	tree	juːχ	j.uː.χ	j uː χ		190	111	j uː χ	C V C	j uː χ	j uː χ	C V C
+1677	vakhkhanty	tree	juːɣ	j.uː.ɣ	j uː ɣ		190	111	j uː ɣ	C V C	j uː ɣ	j uː ɣ	C V C
+1680	vartovskojekhanty	tree	juːɣ	j.uː.ɣ	j uː ɣ		190	111	j uː ɣ	C V C	j uː ɣ	j uː ɣ	C V C
+1679	vasjugankhanty	tree	juːɣ	j.uː.ɣ	j uː ɣ		190	111	j uː ɣ	C V C	j uː ɣ	j uː ɣ	C V C
+1678	verkhnekalymskkhanty	tree	juːɣ	j.uː.ɣ	j uː ɣ		190	111	j uː ɣ	C V C	j uː ɣ	j uː ɣ	C V C
+1701	jugankhanty	two	kæːt	k.æː.t	k æː t		191	112	k æː t	C V C	k æː t	k æː t	C V C
+1706	kazymkhanty	two	kat	k.a.t	k a t		191	112	k a t	C V C	k a t	k a t	C V C
+1703	kondakhanty	two	kæt	k.æ.t	k æ t		191	112	k æ t	C V C	k æ t	k æ t	C V C
+1696	kondamansi	two	kit	k.i.t	k i t		191	112	k i t	C V C	k i t	k i t	C V C
+1694	lowerlozvamansi	two	kit	k.i.t	k i t		191	112	k i t	C V C	k i t	k i t	C V C
+1693	middlelozvamansi	two	kit	k.i.t	k i t		191	112	k i t	C V C	k i t	k i t	C V C
+1704	nizjamkhanty	two	kat	k.a.t	k a t		191	112	k a t	C V C	k a t	k a t	C V C
+1692	northmansi	two	kit	k.i.t	k i t		191	112	k i t	C V C	k i t	k i t	C V C
+1708	obdorskkhanty	two	kæːt	k.æː.t	k æː t		191	112	k æː t	C V C	k æː t	k æː t	C V C
+1695	pelymkamansi	two	kit	k.i.t	k i t		191	112	k i t	C V C	k i t	k i t	C V C
+1705	sherkalykhanty	two	kat	k.a.t	k a t		191	112	k a t	C V C	k a t	k a t	C V C
+1707	synjakhanty	two	kat	k.a.t	k a t		191	112	k a t	C V C	k a t	k a t	C V C
+1697	tavdamansi	two	kit	k.i.t	k i t		191	112	k i t	C V C	k i t	k i t	C V C
+1700	tremjugankhanty	two	kæːt	k.æː.t	k æː t		191	112	k æː t	C V C	k æː t	k æː t	C V C
+1702	upperdemjankakhanty	two	ket	k.e.t	k e t		191	112	k e t	C V C	k e t	k e t	C V C
+1698	vakhkhanty	two	kæːt	k.æː.t	k æː t		191	112	k æː t	C V C	k æː t	k æː t	C V C
+1699	vasjugankhanty	two	kæːt	k.æː.t	k æː t		191	112	k æː t	C V C	k æː t	k æː t	C V C
+1719	jugankhanty	walk(go)	men	m.e.n	m e n		192	113	m e n	C V C	m e n - - -	m e n	C V C
+1724	kazymkhanty	walk(go)	man	m.a.n	m a n		192	113	m a n	C V C	m a n - - -	m a n	C V C
+1721	kondakhanty	walk(go)	men	m.e.n	m e n		192	113	m e n	C V C	m e n - - -	m e n	C V C
+1713	kondamansi	walk(go)	məni	m.ə.n.i	m ə n		192	113	m ə n	C V C	m ə n i - -	m ə n i	C V C V
+1711	lowerlozvamansi	walk(go)	mini	m.i.n.i	m i n		192	113	m i n	C V C	m i n i - -	m i n i	C V C V
+1710	middlelozvamansi	walk(go)	mini	m.i.n.i	m i n		192	113	m i n	C V C	m i n i - -	m i n i	C V C V
+1722	nizjamkhanty	walk(go)	man	m.a.n	m a n		192	113	m a n	C V C	m a n - - -	m a n	C V C
+1709	northmansi	walk(go)	mini	m.i.n.i	m i n		192	113	m i n	C V C	m i n i - -	m i n i	C V C V
+1726	obdorskkhanty	walk(go)	mæn	m.æ.n	m æ n		192	113	m æ n	C V C	m æ n - - -	m æ n	C V C
+1712	pelymkamansi	walk(go)	mini	m.i.n.i	m i n		192	113	m i n	C V C	m i n i - -	m i n i	C V C V
+1723	sherkalykhanty	walk(go)	man	m.a.n	m a n		192	113	m a n	C V C	m a n - - -	m a n	C V C
+1725	synjakhanty	walk(go)	man	m.a.n	m a n		192	113	m a n	C V C	m a n - - -	m a n	C V C
+1714	tavdamansi	walk(go)	miɲænt	m.i.ɲ.æ.n.t	m i ɲ		192	113	m i ɲ	C V C	m i ɲ æ n t	m i ɲ æ n t	C V C V C C
+1718	tremjugankhanty	walk(go)	men	m.e.n	m e n		192	113	m e n	C V C	m e n - - -	m e n	C V C
+1720	upperdemjankakhanty	walk(go)	men	m.e.n	m e n		192	113	m e n	C V C	m e n - - -	m e n	C V C
+1715	vakhkhanty	walk(go)	men	m.e.n	m e n		192	113	m e n	C V C	m e n - - -	m e n	C V C
+1717	vasjugankhanty	walk(go)	men	m.e.n	m e n		192	113	m e n	C V C	m e n - - -	m e n	C V C
+1716	verkhnekalymskkhanty	walk(go)	men	m.e.n	m e n		192	113	m e n	C V C	m e n - - -	m e n	C V C
+1731	kondamansi	warm	əsəm	ə.s.ə.m	ə s ə m		193	114	ə s ə m	V C V C	ə s ə m	ə s ə m	V C V C
+1729	lowerlozvamansi	warm	iʃəm	i.ʃ.ə.m	i ʃ ə m		193	114	i ʃ ə m	V C V C	i ʃ ə m	i ʃ ə m	V C V C
+1728	middlelozvamansi	warm	iʃəm	i.ʃ.ə.m	i ʃ ə m		193	114	i ʃ ə m	V C V C	i ʃ ə m	i ʃ ə m	V C V C
+1727	northmansi	warm	isəm	i.s.ə.m	i s ə m		193	114	i s ə m	V C V C	i s ə m	i s ə m	V C V C
+1730	pelymkamansi	warm	iʃəm	i.ʃ.ə.m	i ʃ ə m		193	114	i ʃ ə m	V C V C	i ʃ ə m	i ʃ ə m	V C V C
+1732	tavdamansi	warm	əʃəm	ə.ʃ.ə.m	ə ʃ ə m		193	114	ə ʃ ə m	V C V C	ə ʃ ə m	ə ʃ ə m	V C V C
+1735	jugankhanty	warm	keːwrəm	k.eː.w.r.ə.m	k eː w r ə m		194	115	k eː w r ə m	C V C C V C	k eː w r ə m	k eː w r ə m	C V C C V C
+1740	kazymkhanty	warm	kaːwrəm	k.aː.w.r.ə.m	k aː w r ə m		194	115	k aː w r ə m	C V C C V C	k aː w r ə m	k aː w r ə m	C V C C V C
+1737	kondakhanty	warm	kæːwrəm	k.æː.w.r.ə.m	k æː w r ə m		194	115	k æː w r ə m	C V C C V C	k æː w r ə m	k æː w r ə m	C V C C V C
+1738	nizjamkhanty	warm	kaːwrəm	k.aː.w.r.ə.m	k aː w r ə m		194	115	k aː w r ə m	C V C C V C	k aː w r ə m	k aː w r ə m	C V C C V C
+1742	obdorskkhanty	warm	kæːwrəm	k.æː.w.r.ə.m	k æː w r ə m		194	115	k æː w r ə m	C V C C V C	k æː w r ə m	k æː w r ə m	C V C C V C
+1739	sherkalykhanty	warm	kaːwrəm	k.aː.w.r.ə.m	k aː w r ə m		194	115	k aː w r ə m	C V C C V C	k aː w r ə m	k aː w r ə m	C V C C V C
+1741	synjakhanty	warm	kaːwrəm	k.aː.w.r.ə.m	k aː w r ə m		194	115	k aː w r ə m	C V C C V C	k aː w r ə m	k aː w r ə m	C V C C V C
+1734	tremjugankhanty	warm	keːɣʷrəm	k.eː.ɣʷ.r.ə.m	k eː ɣʷ r ə m		194	115	k eː ɣʷ r ə m	C V C C V C	k eː ɣʷ r ə m	k eː ɣʷ r ə m	C V C C V C
+1736	upperdemjankakhanty	warm	kæːwrəm	k.æː.w.r.ə.m	k æː w r ə m		194	115	k æː w r ə m	C V C C V C	k æː w r ə m	k æː w r ə m	C V C C V C
+1733	vakhkhanty	warm	kœːɣrəm	k.œː.ɣ.r.ə.m	k œː ɣ r ə m		194	115	k œː ɣ r ə m	C V C C V C	k œː ɣ r ə m	k œː ɣ r ə m	C V C C V C
+1747	kondamansi	water	witʲ	w.i.tʲ	w i tʲ		196	117	w i tʲ	C V C	w i tʲ	w i tʲ	C V C
+1745	lowerlozvamansi	water	ytʲ	y.tʲ	y tʲ		196	117	- y tʲ	V C	- y tʲ	y tʲ	V C
+1744	middlelozvamansi	water	wytʲ	w.y.tʲ	w y tʲ		196	117	w y tʲ	C V C	w y tʲ	w y tʲ	C V C
+1743	northmansi	water	wit	w.i.t	w i t		196	117	w i t	C V C	w i t	w i t	C V C
+1746	pelymkamansi	water	wytʲ	w.y.tʲ	w y tʲ		196	117	w y tʲ	C V C	w y tʲ	w y tʲ	C V C
+1748	tavdamansi	water	utʲ	u.tʲ	u tʲ		196	117	- u tʲ	V C	- u tʲ	u tʲ	V C
+1756	jugankhanty	water	jeŋk	j.e.ŋ.k	j e ŋ k		195	116	j e ŋ k	C V C C	j e ŋ k	j e ŋ k	C V C C
+1761	kazymkhanty	water	jiŋk	j.i.ŋ.k	j i ŋ k		195	116	j i ŋ k	C V C C	j i ŋ k	j i ŋ k	C V C C
+1758	kondakhanty	water	jeŋk	j.e.ŋ.k	j e ŋ k		195	116	j e ŋ k	C V C C	j e ŋ k	j e ŋ k	C V C C
+1753	likrisovskojekhanty	water	jeŋk	j.e.ŋ.k	j e ŋ k		195	116	j e ŋ k	C V C C	j e ŋ k	j e ŋ k	C V C C
+1754	malyjjugankhanty	water	jeŋk	j.e.ŋ.k	j e ŋ k		195	116	j e ŋ k	C V C C	j e ŋ k	j e ŋ k	C V C C
+1759	nizjamkhanty	water	jiŋk	j.i.ŋ.k	j i ŋ k		195	116	j i ŋ k	C V C C	j i ŋ k	j i ŋ k	C V C C
+1763	obdorskkhanty	water	jiːŋk	j.iː.ŋ.k	j iː ŋ k		195	116	j iː ŋ k	C V C C	j iː ŋ k	j iː ŋ k	C V C C
+1760	sherkalykhanty	water	jiŋk	j.i.ŋ.k	j i ŋ k		195	116	j i ŋ k	C V C C	j i ŋ k	j i ŋ k	C V C C
+1762	synjakhanty	water	jik	j.i.k	j i k		195	116	j i - k	C V C	j i - k	j i k	C V C
+1755	tremjugankhanty	water	jeŋk	j.e.ŋ.k	j e ŋ k		195	116	j e ŋ k	C V C C	j e ŋ k	j e ŋ k	C V C C
+1757	upperdemjankakhanty	water	jeŋk	j.e.ŋ.k	j e ŋ k		195	116	j e ŋ k	C V C C	j e ŋ k	j e ŋ k	C V C C
+1749	vakhkhanty	water	jeŋk	j.e.ŋ.k	j e ŋ k		195	116	j e ŋ k	C V C C	j e ŋ k	j e ŋ k	C V C C
+1752	vartovskojekhanty	water	jeŋk	j.e.ŋ.k	j e ŋ k		195	116	j e ŋ k	C V C C	j e ŋ k	j e ŋ k	C V C C
+1751	vasjugankhanty	water	jeŋk	j.e.ŋ.k	j e ŋ k		195	116	j e ŋ k	C V C C	j e ŋ k	j e ŋ k	C V C C
+1750	verkhnekalymskkhanty	water	jeŋk	j.e.ŋ.k	j e ŋ k		195	116	j e ŋ k	C V C C	j e ŋ k	j e ŋ k	C V C C
+1773	jugankhanty	we	meŋ	m.e.ŋ	m e ŋ		197	118	m e ŋ	C V C	m e ŋ	m e ŋ	C V C
+1778	kazymkhanty	we	muŋ	m.u.ŋ	m u ŋ		197	118	m u ŋ	C V C	m u ŋ	m u ŋ	C V C
+1775	kondakhanty	we	moŋ	m.o.ŋ	m o ŋ		197	118	m o ŋ	C V C	m o ŋ	m o ŋ	C V C
+1768	kondamansi	we	mɔn	m.ɔ.n	m ɔ n		197	118	m ɔ n	C V C	m ɔ n	m ɔ n	C V C
+1766	lowerlozvamansi	we	man	m.a.n	m a n		197	118	m a n	C V C	m a n	m a n	C V C
+1765	middlelozvamansi	we	man	m.a.n	m a n		197	118	m a n	C V C	m a n	m a n	C V C
+1776	nizjamkhanty	we	moŋ	m.o.ŋ	m o ŋ		197	118	m o ŋ	C V C	m o ŋ	m o ŋ	C V C
+1764	northmansi	we	man	m.a.n	m a n		197	118	m a n	C V C	m a n	m a n	C V C
+1780	obdorskkhanty	we	muːŋ	m.uː.ŋ	m uː ŋ		197	118	m uː ŋ	C V C	m uː ŋ	m uː ŋ	C V C
+1767	pelymkamansi	we	man	m.a.n	m a n		197	118	m a n	C V C	m a n	m a n	C V C
+1777	sherkalykhanty	we	moŋ	m.o.ŋ	m o ŋ		197	118	m o ŋ	C V C	m o ŋ	m o ŋ	C V C
+1779	synjakhanty	we	muŋ	m.u.ŋ	m u ŋ		197	118	m u ŋ	C V C	m u ŋ	m u ŋ	C V C
+1769	tavdamansi	we	mæŋ	m.æ.ŋ	m æ ŋ		197	118	m æ ŋ	C V C	m æ ŋ	m æ ŋ	C V C
+1772	tremjugankhanty	we	meŋ	m.e.ŋ	m e ŋ		197	118	m e ŋ	C V C	m e ŋ	m e ŋ	C V C
+1774	upperdemjankakhanty	we	moŋ	m.o.ŋ	m o ŋ		197	118	m o ŋ	C V C	m o ŋ	m o ŋ	C V C
+1770	vakhkhanty	we	meŋ	m.e.ŋ	m e ŋ		197	118	m e ŋ	C V C	m e ŋ	m e ŋ	C V C
+1771	vasjugankhanty	we	meŋ	m.e.ŋ	m e ŋ		197	118	m e ŋ	C V C	m e ŋ	m e ŋ	C V C
+1790	jugankhanty	what	mewəɬiː	m.e.w.ə.ɬ.iː	m e w ə ɬ		198	119	m e w ə ɬ	C V C V C	m e w ə ɬ iː	m e w ə ɬ iː	C V C V C V
+1795	kazymkhanty	what	muj	m.u.j	m u j		198	119	m u - - j	C V C	m u - - j -	m u j	C V C
+1792	kondakhanty	what	metoːjə	m.e.t.oː.j.ə	m e t oː j		198	119	m e t oː j	C V C V C	m e t oː j ə	m e t oː j ə	C V C V C V
+1783	lowerlozvamansi	what	mær	m.æ.r	m æ r		198	119	m æ - - r	C V C	m æ - - r -	m æ r	C V C
+1782	middlelozvamansi	what	mænər	m.æ.n.ə.r	m æ n ə r		198	119	m æ n ə r	C V C V C	m æ n ə r -	m æ n ə r	C V C V C
+1793	nizjamkhanty	what	muj	m.u.j	m u j		198	119	m u - - j	C V C	m u - - j -	m u j	C V C
+1781	northmansi	what	manər	m.a.n.ə.r	m a n ə r		198	119	m a n ə r	C V C V C	m a n ə r -	m a n ə r	C V C V C
+1797	obdorskkhanty	what	malaː	m.a.l.aː	m a l		198	119	m a - - l	C V C	m a - - l aː	m a l aː	C V C V
+1784	pelymkamansi	what	mænər	m.æ.n.ə.r	m æ n ə r		198	119	m æ n ə r	C V C V C	m æ n ə r -	m æ n ə r	C V C V C
+1794	sherkalykhanty	what	muj	m.u.j	m u j		198	119	m u - - j	C V C	m u - - j -	m u j	C V C
+1796	synjakhanty	what	muj	m.u.j	m u j		198	119	m u - - j	C V C	m u - - j -	m u j	C V C
+1789	tremjugankhanty	what	meɣʷəɬiː	m.e.ɣʷ.ə.ɬ.iː	m e ɣʷ ə ɬ		198	119	m e ɣʷ ə ɬ	C V C V C	m e ɣʷ ə ɬ iː	m e ɣʷ ə ɬ iː	C V C V C V
+1791	upperdemjankakhanty	what	metoːjə	m.e.t.oː.j.ə	m e t oː j		198	119	m e t oː j	C V C V C	m e t oː j ə	m e t oː j ə	C V C V C V
+1787	vakhkhanty	what	mœɣəʎiː	m.œ.ɣ.ə.ʎ.iː	m œ ɣ ə ʎ		198	119	m œ ɣ ə ʎ	C V C V C	m œ ɣ ə ʎ iː	m œ ɣ ə ʎ iː	C V C V C V
+1788	vasjugankhanty	what	mœɣəʎiː	m.œ.ɣ.ə.ʎ.iː	m œ ɣ ə ʎ		198	119	m œ ɣ ə ʎ	C V C V C	m œ ɣ ə ʎ iː	m œ ɣ ə ʎ iː	C V C V C V
+1802	kondamansi	white	sɔjrəŋ	s.ɔ.j.r.ə.ŋ	s ɔ j r ə ŋ		202	125	s ɔ j r ə ŋ	C V C C V C	s ɔ j r ə ŋ	s ɔ j r ə ŋ	C V C C V C
+1801	pelymkamansi	white	sairiŋ	s.ai.r.i.ŋ	s ai r i ŋ		202	125	s ai - r i ŋ	C V C V C	s ai - r i ŋ	s ai r i ŋ	C V C V C
+1803	tavdamansi	white	sajraŋ	s.a.j.r.a.ŋ	s a j r a ŋ		202	125	s a j r a ŋ	C V C C V C	s a j r a ŋ	s a j r a ŋ	C V C C V C
+1811	jugankhanty	white	neːwiː	n.eː.w.iː	n eː w iː		200	123	n eː w iː	C V C V	n eː w iː	n eː w iː	C V C V
+1816	kazymkhanty	white	nowiː	n.o.w.iː	n o w iː		200	123	n o w iː	C V C V	n o w iː	n o w iː	C V C V
+1813	kondakhanty	white	nawə	n.a.w.ə	n a w ə		200	123	n a w ə	C V C V	n a w ə	n a w ə	C V C V
+1808	likrisovskojekhanty	white	næːɣiː	n.æː.ɣ.iː	n æː ɣ iː		200	123	n æː ɣ iː	C V C V	n æː ɣ iː	n æː ɣ iː	C V C V
+1809	malyjjugankhanty	white	neːɣʷiː	n.eː.ɣʷ.iː	n eː ɣʷ iː		200	123	n eː ɣʷ iː	C V C V	n eː ɣʷ iː	n eː ɣʷ iː	C V C V
+1814	nizjamkhanty	white	nowə	n.o.w.ə	n o w ə		200	123	n o w ə	C V C V	n o w ə	n o w ə	C V C V
+1818	obdorskkhanty	white	næːwiː	n.æː.w.iː	n æː w iː		200	123	n æː w iː	C V C V	n æː w iː	n æː w iː	C V C V
+1815	sherkalykhanty	white	nowə	n.o.w.ə	n o w ə		200	123	n o w ə	C V C V	n o w ə	n o w ə	C V C V
+1817	synjakhanty	white	nowiː	n.o.w.iː	n o w iː		200	123	n o w iː	C V C V	n o w iː	n o w iː	C V C V
+1810	tremjugankhanty	white	neːɣʷiː	n.eː.ɣʷ.iː	n eː ɣʷ iː		200	123	n eː ɣʷ iː	C V C V	n eː ɣʷ iː	n eː ɣʷ iː	C V C V
+1812	upperdemjankakhanty	white	nowə	n.o.w.ə	n o w ə		200	123	n o w ə	C V C V	n o w ə	n o w ə	C V C V
+1804	vakhkhanty	white	næːɣiː	n.æː.ɣ.iː	n æː ɣ iː		200	123	n æː ɣ iː	C V C V	n æː ɣ iː	n æː ɣ iː	C V C V
+1807	vartovskojekhanty	white	næːɣiː	n.æː.ɣ.iː	n æː ɣ iː		200	123	n æː ɣ iː	C V C V	n æː ɣ iː	n æː ɣ iː	C V C V
+1806	vasjugankhanty	white	næːɣiː	n.æː.ɣ.iː	n æː ɣ iː		200	123	n æː ɣ iː	C V C V	n æː ɣ iː	n æː ɣ iː	C V C V
+1805	verkhnekalymskkhanty	white	næːɣiː	n.æː.ɣ.iː	n æː ɣ iː		200	123	n æː ɣ iː	C V C V	n æː ɣ iː	n æː ɣ iː	C V C V
+1828	jugankhanty	who	kojaːɣə	k.o.j.aː.ɣ.ə	k o j ə		203	126	k o j ə	C V C V	k o j aː ɣ ə	k o j aː ɣ ə	C V C V C V
+1833	kazymkhanty	who	χoj	χ.o.j	χ o j		203	126	χ o j -	C V C	χ o j - - -	χ o j	C V C
+1830	kondakhanty	who	χojə	χ.o.j.ə	χ o j ə		203	126	χ o j ə	C V C V	χ o j - - ə	χ o j ə	C V C V
+1823	kondamansi	who	qon	q.o.n	q o n		203	126	q o n -	C V C	q o n - - -	q o n	C V C
+1821	lowerlozvamansi	who	qanqa	q.a.n.q.a	q a n a		203	126	q a n a	C V C V	q a n - q a	q a n q a	C V C C V
+1820	middlelozvamansi	who	qaŋqæ	q.a.ŋ.q.æ	q a ŋ æ		203	126	q a ŋ æ	C V C V	q a ŋ - q æ	q a ŋ q æ	C V C C V
+1831	nizjamkhanty	who	χoj	χ.o.j	χ o j		203	126	χ o j -	C V C	χ o j - - -	χ o j	C V C
+1819	northmansi	who	χɔːŋχæ	χ.ɔː.ŋ.χ.æ	χ ɔː ŋ æ		203	126	χ ɔː ŋ æ	C V C V	χ ɔː ŋ - χ æ	χ ɔː ŋ χ æ	C V C C V
+1835	obdorskkhanty	who	χoj	χ.o.j	χ o j		203	126	χ o j -	C V C	χ o j - - -	χ o j	C V C
+1822	pelymkamansi	who	qɔn	q.ɔ.n	q ɔ n		203	126	q ɔ n -	C V C	q ɔ n - - -	q ɔ n	C V C
+1832	sherkalykhanty	who	χoj	χ.o.j	χ o j		203	126	χ o j -	C V C	χ o j - - -	χ o j	C V C
+1834	synjakhanty	who	χoj	χ.o.j	χ o j		203	126	χ o j -	C V C	χ o j - - -	χ o j	C V C
+1824	tavdamansi	who	qɔn	q.ɔ.n	q ɔ n		203	126	q ɔ n -	C V C	q ɔ n - - -	q ɔ n	C V C
+1827	tremjugankhanty	who	kojaːɣɨː	k.o.j.aː.ɣ.ɨː	k o j ɨː		203	126	k o j ɨː	C V C V	k o j aː ɣ ɨː	k o j aː ɣ ɨː	C V C V C V
+1829	upperdemjankakhanty	who	χojə	χ.o.j.ə	χ o j ə		203	126	χ o j ə	C V C V	χ o j - - ə	χ o j ə	C V C V
+1825	vakhkhanty	who	kɔːjɨː	k.ɔː.j.ɨː	k ɔː j ɨː		203	126	k ɔː j ɨː	C V C V	k ɔː j - - ɨː	k ɔː j ɨː	C V C V
+1826	vasjugankhanty	who	kɔːjɨː	k.ɔː.j.ɨː	k ɔː j ɨː		203	126	k ɔː j ɨː	C V C V	k ɔː j - - ɨː	k ɔː j ɨː	C V C V
+2014	jugankhanty	wind	wɔːt	w.ɔː.t	w ɔː t		233	156	w ɔː t	C V C	w ɔː - t	w ɔː t	C V C
+2019	kazymkhanty	wind	wɔːt	w.ɔː.t	w ɔː t		233	156	w ɔː t	C V C	w ɔː - t	w ɔː t	C V C
+2016	kondakhanty	wind	woːt	w.oː.t	w oː t		233	156	w oː t	C V C	w oː - t	w oː t	C V C
+2005	kondamansi	wind	wuot	w.uo.t	w u t		233	156	w u t	C V C	w u o t	w u o t	C V V C
+2011	likrisovskojekhanty	wind	waːt	w.aː.t	w aː t		233	156	w aː t	C V C	w aː - t	w aː t	C V C
+2012	malyjjugankhanty	wind	waːt	w.aː.t	w aː t		233	156	w aː t	C V C	w aː - t	w aː t	C V C
+2003	middlelozvamansi	wind	wuot	w.uo.t	w u t		233	156	w u t	C V C	w u o t	w u o t	C V V C
+2017	nizjamkhanty	wind	wɔːt	w.ɔː.t	w ɔː t		233	156	w ɔː t	C V C	w ɔː - t	w ɔː t	C V C
+2002	northmansi	wind	woːt	w.oː.t	w oː t		233	156	w oː t	C V C	w oː - t	w oː t	C V C
+2021	obdorskkhanty	wind	waːt	w.aː.t	w aː t		233	156	w aː t	C V C	w aː - t	w aː t	C V C
+2004	pelymkamansi	wind	woːt	w.oː.t	w oː t		233	156	w oː t	C V C	w oː - t	w oː t	C V C
+2018	sherkalykhanty	wind	wɔːt	w.ɔː.t	w ɔː t		233	156	w ɔː t	C V C	w ɔː - t	w ɔː t	C V C
+2020	synjakhanty	wind	wɔːt	w.ɔː.t	w ɔː t		233	156	w ɔː t	C V C	w ɔː - t	w ɔː t	C V C
+2006	tavdamansi	wind	wɔːt	w.ɔː.t	w ɔː t		233	156	w ɔː t	C V C	w ɔː - t	w ɔː t	C V C
+2013	tremjugankhanty	wind	wɔːt	w.ɔː.t	w ɔː t		233	156	w ɔː t	C V C	w ɔː - t	w ɔː t	C V C
+2015	upperdemjankakhanty	wind	woːt	w.oː.t	w oː t		233	156	w oː t	C V C	w oː - t	w oː t	C V C
+2007	vakhkhanty	wind	waːt	w.aː.t	w aː t		233	156	w aː t	C V C	w aː - t	w aː t	C V C
+2010	vartovskojekhanty	wind	waːt	w.aː.t	w aː t		233	156	w aː t	C V C	w aː - t	w aː t	C V C
+2009	vasjugankhanty	wind	waːt	w.aː.t	w aː t		233	156	w aː t	C V C	w aː - t	w aː t	C V C
+2008	verkhnekalymskkhanty	wind	waːt	w.aː.t	w aː t		233	156	w aː t	C V C	w aː - t	w aː t	C V C
+1848	jugankhanty	woman	neː	n.eː	n eː		204	127	n eː	C V	n eː -	n eː	C V
+1853	kazymkhanty	woman	nɛː	n.ɛː	n ɛː		204	127	n ɛː	C V	n ɛː -	n ɛː	C V
+1850	kondakhanty	woman	neːŋ	n.eː.ŋ	n eː		204	127	n eː	C V	n eː ŋ	n eː ŋ	C V C
+1839	kondamansi	woman	neː	n.eː	n eː		204	127	n eː	C V	n eː -	n eː	C V
+1845	likrisovskojekhanty	woman	niː	n.iː	n iː		204	127	n iː	C V	n iː -	n iː	C V
+1846	malyjjugankhanty	woman	neː	n.eː	n eː		204	127	n eː	C V	n eː -	n eː	C V
+1837	middlelozvamansi	woman	neː	n.eː	n eː		204	127	n eː	C V	n eː -	n eː	C V
+1851	nizjamkhanty	woman	neː	n.eː	n eː		204	127	n eː	C V	n eː -	n eː	C V
+1836	northmansi	woman	neː	n.eː	n eː		204	127	n eː	C V	n eː -	n eː	C V
+1855	obdorskkhanty	woman	niːŋ	n.iː.ŋ	n iː		204	127	n iː	C V	n iː ŋ	n iː ŋ	C V C
+1838	pelymkamansi	woman	neː	n.eː	n eː		204	127	n eː	C V	n eː -	n eː	C V
+1852	sherkalykhanty	woman	neː	n.eː	n eː		204	127	n eː	C V	n eː -	n eː	C V
+1854	synjakhanty	woman	neː	n.eː	n eː		204	127	n eː	C V	n eː -	n eː	C V
+1840	tavdamansi	woman	niː	n.iː	n iː		204	127	n iː	C V	n iː -	n iː	C V
+1847	tremjugankhanty	woman	neː	n.eː	n eː		204	127	n eː	C V	n eː -	n eː	C V
+1849	upperdemjankakhanty	woman	neːŋ	n.eː.ŋ	n eː		204	127	n eː	C V	n eː ŋ	n eː ŋ	C V C
+1841	vakhkhanty	woman	niː	n.iː	n iː		204	127	n iː	C V	n iː -	n iː	C V
+1844	vartovskojekhanty	woman	niː	n.iː	n iː		204	127	n iː	C V	n iː -	n iː	C V
+1843	vasjugankhanty	woman	niː	n.iː	n iː		204	127	n iː	C V	n iː -	n iː	C V
+1842	verkhnekalymskkhanty	woman	niː	n.iː	n iː		204	127	n iː	C V	n iː -	n iː	C V
+2024	lowerlozvamansi	worm	peːrk	p.eː.r.k	p eː r k		237	159	p eː r k	C V C C	p eː r k	p eː r k	C V C C
+2023	middlelozvamansi	worm	peːrk	p.eː.r.k	p eː r k		237	159	p eː r k	C V C C	p eː r k	p eː r k	C V C C
+2022	northmansi	worm	peːrk	p.eː.r.k	p eː r k		237	159	p eː r k	C V C C	p eː r k	p eː r k	C V C C
+2031	jugankhanty	worm	meɣɬær	m.e.ɣ.ɬ.æ.r	m e ɣ ɬ æ r		235	158	m e ɣ ɬ æ r	C V C C V C	m e ɣ ɬ æ r	m e ɣ ɬ æ r	C V C C V C
+2033	kazymkhanty	worm	muwɬɛːr	m.u.w.ɬ.ɛː.r	m u w ɬ ɛː r		235	158	m u w ɬ ɛː r	C V C C V C	m u w ɬ ɛː r	m u w ɬ ɛː r	C V C C V C
+2032	kondakhanty	worm	meɣteːr	m.e.ɣ.t.eː.r	m e ɣ t eː r		235	158	m e ɣ t eː r	C V C C V C	m e ɣ t eː r	m e ɣ t eː r	C V C C V C
+2034	synjakhanty	worm	muwleːr	m.u.w.l.eː.r	m u w l eː r		235	158	m u w l eː r	C V C C V C	m u w l eː r	m u w l eː r	C V C C V C
+2030	tremjugankhanty	worm	meɣɬær	m.e.ɣ.ɬ.æ.r	m e ɣ ɬ æ r		235	158	m e ɣ ɬ æ r	C V C C V C	m e ɣ ɬ æ r	m e ɣ ɬ æ r	C V C C V C
+2028	vakhkhanty	worm	meɣleːr	m.e.ɣ.l.eː.r	m e ɣ l eː r		235	158	m e ɣ l eː r	C V C C V C	m e ɣ l eː r	m e ɣ l eː r	C V C C V C
+2029	vasjugankhanty	worm	meɣjeːr	m.e.ɣ.j.eː.r	m e ɣ j eː r		235	158	m e ɣ j eː r	C V C C V C	m e ɣ j eː r	m e ɣ j eː r	C V C C V C
+2039	kondamansi	year	toɔl	t.oɔ.l	t oɔ l		238	160	t oɔ l	C V C	t oɔ l -	t oɔ l	C V C
+2037	lowerlozvamansi	year	tɔːl	t.ɔː.l	t ɔː l		238	160	t ɔː l	C V C	t ɔː l -	t ɔː l	C V C
+2036	middlelozvamansi	year	toɔl	t.oɔ.l	t oɔ l		238	160	t oɔ l	C V C	t oɔ l -	t oɔ l	C V C
+2035	northmansi	year	taːl	t.aː.l	t aː l		238	160	t aː l	C V C	t aː l -	t aː l	C V C
+2055	obdorskkhanty	year	tæl	t.æ.l	t æ l		238	160	t æ l	C V C	t æ l -	t æ l	C V C
+2038	pelymkamansi	year	tɔːl	t.ɔː.l	t ɔː l		238	160	t ɔː l	C V C	t ɔː l -	t ɔː l	C V C
+2052	sherkalykhanty	year	tatə	t.a.t.ə	t a t		238	160	t a t	C V C	t a t ə	t a t ə	C V C V
+2054	synjakhanty	year	tal	t.a.l	t a l		238	160	t a l	C V C	t a l -	t a l	C V C
+2040	tavdamansi	year	teːl	t.eː.l	t eː l		238	160	t eː l	C V C	t eː l -	t eː l	C V C
+2048	jugankhanty	year	ɔːɬ	ɔː.ɬ	ɔː ɬ		239	161	ɔː ɬ	V C	ɔː ɬ	ɔː ɬ	V C
+2053	kazymkhanty	year	ɔːɬ	ɔː.ɬ	ɔː ɬ		239	161	ɔː ɬ	V C	ɔː ɬ	ɔː ɬ	V C
+2050	kondakhanty	year	oːt	oː.t	oː t		239	161	oː t	V C	oː t	oː t	V C
+2045	likrisovskojekhanty	year	aːθ	aː.θ	aː θ		239	161	aː θ	V C	aː θ	aː θ	V C
+2046	malyjjugankhanty	year	aːɬ	aː.ɬ	aː ɬ		239	161	aː ɬ	V C	aː ɬ	aː ɬ	V C
+2051	nizjamkhanty	year	ɔːt	ɔː.t	ɔː t		239	161	ɔː t	V C	ɔː t	ɔː t	V C
+2047	tremjugankhanty	year	ɔːɬ	ɔː.ɬ	ɔː ɬ		239	161	ɔː ɬ	V C	ɔː ɬ	ɔː ɬ	V C
+2049	upperdemjankakhanty	year	oːt	oː.t	oː t		239	161	oː t	V C	oː t	oː t	V C
+2041	vakhkhanty	year	aːl	aː.l	aː l		239	161	aː l	V C	aː l	aː l	V C
+2044	vartovskojekhanty	year	aːɬ	aː.ɬ	aː ɬ		239	161	aː ɬ	V C	aː ɬ	aː ɬ	V C
+2043	vasjugankhanty	year	aːl	aː.l	aː l		239	161	aː l	V C	aː l	aː l	V C
+2042	verkhnekalymskkhanty	year	aːl	aː.l	aː l		239	161	aː l	V C	aː l	aː l	V C
+1859	kondamansi	yellow	kæsəm	k.æ.s.ə.m	k æ s m		205	128	k æ s m	C V C C	k æ s ə m	k æ s ə m	C V C V C
+1857	middlelozvamansi	yellow	kæʃm	k.æ.ʃ.m	k æ ʃ m		205	128	k æ ʃ m	C V C C	k æ ʃ - m	k æ ʃ m	C V C C
+1856	northmansi	yellow	kasm	k.a.s.m	k a s m		205	128	k a s m	C V C C	k a s - m	k a s m	C V C C
+1858	pelymkamansi	yellow	kæʃm	k.æ.ʃ.m	k æ ʃ m		205	128	k æ ʃ m	C V C C	k æ ʃ - m	k æ ʃ m	C V C C
+1860	tavdamansi	yellow	kəʃəm	k.ə.ʃ.ə.m	k ə ʃ m		205	128	k ə ʃ m	C V C C	k ə ʃ ə m	k ə ʃ ə m	C V C V C

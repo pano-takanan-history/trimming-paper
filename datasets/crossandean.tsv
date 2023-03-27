@@ -1,0 +1,2790 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE
+5971	Apuri	ash	utrpa	utrpa	u ʈ p a		2	u ʈ - p a	V C C V
+5972	Apurimac	ash	uspa	uspa	u s p a		2	u s - p a	V C C V
+5974	Atalla	ash	učpa	učpa	u tʃ p a		2	u tʃ - p a	V C C V
+5975	Ayacucho	ash	uchpa	uchpa	u tʃ p a		2	u tʃ - p a	V C C V
+7243	Azuay	ash	uchupa	uchupa	u tʃ u p a		2	u tʃ u p a	V C V C V
+5978	Chachapoyas	ash	uĉpa	uĉpa	u ʈʂ p a		2	u ʈʂ - p a	V C C V
+5979	Chacpar	ash	učpa	učpa	u tʃ p a		2	u tʃ - p a	V C C V
+5980	Chetilla	ash	uŝpa	uŝpa	u ʂ p a		2	u ʂ - p a	V C C V
+5985	Huallaga	ash	učpa	učpa	u tʃ p a		2	u tʃ - p a	V C C V
+5988	Huangascar	ash	utrpa	utrpa	u ʈ p a		2	u ʈ - p a	V C C V
+5989	HuarazHuailas	ash	uchpa	uchpa	u tʃ p a		2	u tʃ - p a	V C C V
+5990	Imbabura	ash	uchufa	uchufa	u tʃ u f a		2	u tʃ u f a	V C V C V
+5991	Inkawasi	ash	uĉpa	uĉpa	u ʈʂ p a		2	u ʈʂ - p a	V C C V
+7328	Jauja	ash	utrpa	utrpa	u ʈʂ p a		2	u ʈʂ - p a	V C C V
+5998	Maragua	ash	ušpha	ušpha	u ʃ pʰ a		2	u ʃ - pʰ a	V C C V
+5999	Napo	ash	ushpa	ushpa	u ʃ p a		2	u ʃ - p a	V C C V
+6000	Pacaraos	ash	utrpa	utrpa	u ʈʂ p a		2	u ʈʂ - p a	V C C V
+6004	Puno	ash	uspha	uspha	u s pʰ a		2	u s - pʰ a	V C C V
+6008	Santiagueno	ash	ushpa	ushpa	u ʃ p a		2	u ʃ - p a	V C C V
+6016	Yanac	ash	učpa	učpa	u tʃ p a		2	u tʃ - p a	V C C V
+3727	Apuri	back	washa	washa	w a ʃ a		615	w a ʃ a	C V C V
+3728	Apurimac	back	wasa	wasa	w a s a		615	w a s a	C V C V
+3729	Atalla	back	wasa	wasa	w a s a		615	w a s a	C V C V
+3730	Ayacucho	back	wasa	wasa	w a s a		615	w a s a	C V C V
+7203	Azuay	back	huasha	huasha	w a ʃ a		615	w a ʃ a	C V C V
+3733	Chachapoyas	back	washa	washa	w a ʃ a		615	w a ʃ a	C V C V
+3743	Huangascar	back	washa	washa	w a ʃ a		615	w a ʃ a	C V C V
+3745	Imbabura	back	washa	washa	w a ʃ a		615	w a ʃ a	C V C V
+7329	Jauja	back	waŝa	waŝa	w a ʂ a		615	w a ʂ a	C V C V
+3753	Maragua	back	wasa	wasa	w a s a		615	w a s a	C V C V
+3754	Napo	back	huasha	huasha	w a ʃ a		615	w a ʃ a	C V C V
+3755	Pacaraos	back	washa	washa	w a ʃ a		615	w a ʃ a	C V C V
+3759	Puno	back	wasa	wasa	w a s a		615	w a s a	C V C V
+3763	Santiagueno	back	wasa	wasa	w a s a		615	w a s a	C V C V
+3734	Chacpar	back	waxta	waxta	w a x t a		787	w a x t a	C V C C V
+3735	Chetilla	back	waxta	waxta	w a x t a		787	w a x t a	C V C C V
+3740	Huallaga	back	waχta	waχta	w a χ t a		787	w a χ t a	C V C C V
+3744	HuarazHuailas	back	waqta	waqta	w a q t a		787	w a q t a	C V C C V
+3746	Inkawasi	back	waχta	waχta	w a χ t a		787	w a χ t a	C V C C V
+3772	Yanac	back	waqta, waχta	waqta	w a q t a		787	w a q t a	C V C C V
+533	Apuri	be sick	unqu-	unqu-	o ŋ q u		874	o ŋ q u - - - -	V C C V
+534	Apurimac	be sick	onqochi	onqochi	o n q o tʃ i		874	o n q o tʃ - - i	V C C V C V
+536	Atalla	be sick	unġu	unġu	u n ɢ u		874	u n ɢ u - - - -	V C C V
+537	Ayacucho	be sick	onqo	onqo	o ŋ χ o		874	o ŋ χ o - - - -	V C C V
+550	Huangascar	be sick	unqu-	unqu-	o ŋ q u		874	o ŋ q u - - - -	V C C V
+551	Imbabura	be sick	unku	unku	u n k u		874	u n k u - - - -	V C C V
+558	Maragua	be sick	unqu	unqu	u n q u		874	u n q u - - - -	V C C V
+559	Napo	be sick	unguchina	unguchina	u n g u tʃ i n a		874	u n g u tʃ i n a	V C C V C V C V
+564	Puno	be sick	unqu	unqu	u n q u		874	u n q u - - - -	V C C V
+567	Santiagueno	be sick	onqos	onqos	o ŋ q o s		874	o ŋ q o s - - -	V C C V C
+540	Chacpar	be sick	ġišiya.	ġišiya.	ɢ i ʃ i j a		3	ɢ i ʃ i j a	C V C V C V
+541	Chetilla	be sick	qiyša.	qiyša.	q i ʃ a		3	q i ʃ - - a	C V C V
+547	Huallaga	be sick	qišya.	qišya.	q i ʃ j a		3	q i ʃ - j a	C V C C V
+7504	HuarazHuailas	be sick	queshya	queshya	q i ʃ j a		3	q i ʃ - j a	C V C C V
+552	Inkawasi	be sick	qiša.	qiša.	q i ʃ a		3	q i ʃ - - a	C V C V
+7330	Jauja	be sick	qishyay	qishyay	h i ʃ j a		3	h i ʃ - j a	C V C C V
+560	Pacaraos	be sick	qishya	qishya	χ e ʃ j a		3	χ e ʃ - j a	C V C C V
+575	Yanac	be sick	qiš(i)ya., ġišya	qišya.	q i ʃ j a		3	q i ʃ - j a	C V C C V
+4162	Apuri	belly (stomach)	wiksa	wiksa	w i k s a		83	w i k s a	C V C C V
+4163	Apurimac	belly (stomach)	wiksa	wiksa	w i k s a		83	w i k s a	C V C C V
+4165	Atalla	belly (stomach)	wiksa	wiksa	w i k s a		83	w i k s a	C V C C V
+4166	Ayacucho	belly (stomach)	wiksa	wiksa	w i k s a		83	w i k s a	C V C C V
+7211	Azuay	belly (stomach)	huigsa	huigsa	w i χ a		83	w i χ - a	C V C V
+4169	Chachapoyas	belly (stomach)	wiksa	wiksa	w i k s a		83	w i k s a	C V C C V
+4180	Huangascar	belly (stomach)	wiksa	wiksa	w i k s a		83	w i k s a	C V C C V
+4182	Imbabura	belly (stomach)	wiksa	wiksa	w i k s a		83	w i k s a	C V C C V
+4191	Maragua	belly (stomach)	wixsa	wixsa	w i x s a		83	w i x s a	C V C C V
+4192	Napo	belly (stomach)	huicsa	huicsa	w i k s a		83	w i k s a	C V C C V
+4197	Puno	belly (stomach)	wiksa	wiksa	w i k s a		83	w i k s a	C V C C V
+4201	Santiagueno	belly (stomach)	wiksa	wiksa	w i x s a		83	w i x s a	C V C C V
+4170	Chacpar	belly (stomach)	pača	pača	p a tʃ a		85	p a tʃ a	C V C V
+4171	Chetilla	belly (stomach)	paĉa	paĉa	p a ʈʂ a		85	p a ʈʂ a	C V C V
+4177	Huallaga	belly (stomach)	pača	pača	p a tʃ a		85	p a tʃ a	C V C V
+4181	HuarazHuailas	belly (stomach)	pacha	pacha	p a tʃ a		85	p a tʃ a	C V C V
+4183	Inkawasi	belly (stomach)	paĉa	paĉa	p a ʈʂ a		85	p a ʈʂ a	C V C V
+7336	Jauja	belly (stomach)	pata	pata	p a t a		85	p a t a	C V C V
+4193	Pacaraos	belly (stomach)	patra	patra	p a ʈʂ a		85	p a ʈʂ a	C V C V
+4211	Yanac	belly (stomach)	paĉa	paĉa	p a ʈʂ a		85	p a ʈʂ a	C V C V
+189	Apuri	big	hatun	hatun	h a t u n		189	h a t u n	C V C V C
+190	Apurimac	big	hatun	hatun	h a t u n		189	h a t u n	C V C V C
+192	Atalla	big	hatun	hatun	h a t u n		189	h a t u n	C V C V C
+193	Ayacucho	big	hatun	hatun	h a t u ŋ		189	h a t u ŋ	C V C V C
+7268	Azuay	big	jatun	jatun	h a t u n		189	h a t u n	C V C V C
+196	Chachapoyas	big	atun	atun	a t u n		189	- a t u n	V C V C
+197	Chacpar	big	hatun	hatun	h a t u n		189	h a t u n	C V C V C
+198	Chetilla	big	atun	atun	a t u n		189	- a t u n	V C V C
+203	Huallaga	big	hatun	hatun	h a t u n		189	h a t u n	C V C V C
+206	Huangascar	big	hatun	hatun	h a t u n		189	h a t u n	C V C V C
+207	HuarazHuailas	big	hatun	hatun	h a t u n		189	h a t u n	C V C V C
+208	Imbabura	big	jatun	jatun	x a t u n		189	x a t u n	C V C V C
+209	Inkawasi	big	atun	atun	a t u n		189	- a t u n	V C V C
+7337	Jauja	big	hatun	hatun	h a t u n		189	h a t u n	C V C V C
+216	Maragua	big	hatun	hatun	h a t u n		189	h a t u n	C V C V C
+217	Napo	big	jatun	jatun	h a t u n		189	h a t u n	C V C V C
+218	Pacaraos	big	hatun	hatun	x a t u ŋ		189	x a t u ŋ	C V C V C
+222	Puno	big	hatun	hatun	h a t u n		189	h a t u n	C V C V C
+225	Santiagueno	big	atun	atun	a t u n		189	- a t u n	V C V C
+234	Yanac	big	atun	atun	a t u n		189	- a t u n	V C V C
+4555	Apuri	bird	pishqu	pishqu	p i ʃ q o		276	p i ʃ q o	C V C C V
+4557	Apurimac	bird	pisqo	pisqo	p i s q o		276	p i s q o	C V C C V
+4562	Ayacucho	bird	urpitu, pisqo	pisqo	p i s χ o		276	p i s χ o	C V C C V
+7218	Azuay	bird	pishcu	pishcu	p i ʃ k u		276	p i ʃ k u	C V C C V
+4565	Chachapoyas	bird	pishku	pishku	p i ʃ k u		276	p i ʃ k u	C V C C V
+4567	Chetilla	bird	pišγu	pišγu	p i ʃ ʁ u		276	p i ʃ ʁ u	C V C C V
+4574	Huallaga	bird	pišqu	pišqu	p i ʃ q u		276	p i ʃ q u	C V C C V
+4577	Huangascar	bird	pishqu	pishqu	p i ʃ q o		276	p i ʃ q o	C V C C V
+4578	HuarazHuailas	bird	pishqu	pishqu	p i ʃ q u		276	p i ʃ q u	C V C C V
+4579	Imbabura	bird	pishku	pishku	p i ʃ k u		276	p i ʃ k u	C V C C V
+7338	Jauja	bird	pishqu	pishqu	p i ʃ ʔ u		276	p i ʃ ʔ u	C V C C V
+4587	Maragua	bird	p'isqu	p'isqu	pʼ i s q u		276	pʼ i s q u	C V C C V
+4588	Napo	bird	pishcu	pishcu	p i ʃ k u		276	p i ʃ k u	C V C C V
+4589	Pacaraos	bird	pishqu	pishqu	p i ʃ χ o		276	p i ʃ χ o	C V C C V
+4593	Puno	bird	p'isqu	p'isqu	pʼ i s q u		276	pʼ i s q u	C V C C V
+4597	Santiagueno	bird	pishqo	pishqo	p i ʃ q o	in disuse, vulgar connotation.	276	p i ʃ q o	C V C C V
+4606	Yanac	bird	pišqu	pišqu	p i ʃ q u		276	p i ʃ q u	C V C C V
+4580	Inkawasi	bird	kuru	kuru	k u r u		828	k u r u	C V C V
+1788	Apuri	bite, to	kani-	kani-	k a n i		373	k a n - - i	C V C V
+1790	Apurimac	bite, to	kachu, kani	kani	k a n i		373	k a n - - i	C V C V
+1794	Ayacucho	bite, to	kani	kani	k a n i		373	k a n - - i	C V C V
+1797	Chachapoyas	bite, to	kani	kani	k a n i		373	k a n - - i	C V C V
+1798	Chacpar	bite, to	kani.	kani.	k a n i		373	k a n - - i	C V C V
+1799	Chetilla	bite, to	kani.	kani.	k a n i		373	k a n - - i	C V C V
+1804	Huallaga	bite, to	kañi.	kañi.	k a ɲ i		373	k a ɲ - - i	C V C V
+1807	Huangascar	bite, to	kani-	kani-	k a n i		373	k a n - - i	C V C V
+1808	HuarazHuailas	bite, to	kani	kani	k a n i		373	k a n - - i	C V C V
+1809	Imbabura	bite, to	kanina	kanina	k a n i n a		373	k a n i n a	C V C V C V
+1810	Inkawasi	bite, to	kani.	kani.	k a n i		373	k a n - - i	C V C V
+7339	Jauja	bite, to	kaniy	kaniy	k a n i		373	k a n - - i	C V C V
+1816	Maragua	bite, to	kani.	kani.	k a n i		373	k a n - - i	C V C V
+1817	Napo	bite, to	canina	canina	k a n i n a		373	k a n i n a	C V C V C V
+1818	Pacaraos	bite, to	kani	kani	k a n i		373	k a n - - i	C V C V
+1822	Puno	bite, to	kani.	kani.	k a n i		373	k a n - - i	C V C V
+1826	Santiagueno	bite, to	kaniy	kaniy	k a n iː		373	k a n - - iː	C V C V
+1832	Yanac	bite, to	kani.	kani.	k a n i		373	k a n - - i	C V C V
+7021	Apuri	black	yana	yana	j a n a		467	j a n a	C V C V
+7022	Apurimac	black	yana	yana	j a n a		467	j a n a	C V C V
+7024	Atalla	black	yana	yana	j a n a		467	j a n a	C V C V
+7025	Ayacucho	black	yana	yana	j a n a		467	j a n a	C V C V
+7263	Azuay	black	yana	yana	j a n a		467	j a n a	C V C V
+7028	Chachapoyas	black	yana	yana	j a n a		467	j a n a	C V C V
+7029	Chacpar	black	yana	yana	j a n a		467	j a n a	C V C V
+7030	Chetilla	black	yana	yana	j a n a		467	j a n a	C V C V
+7035	Huallaga	black	yana	yana	j a n a		467	j a n a	C V C V
+7038	Huangascar	black	yana	yana	j a n a		467	j a n a	C V C V
+7039	HuarazHuailas	black	yana	yana	j a ɲ a		467	j a ɲ a	C V C V
+7040	Imbabura	black	yana	yana	j a n a		467	j a n a	C V C V
+7041	Inkawasi	black	yana	yana	j a n a		467	j a n a	C V C V
+7340	Jauja	black	yana	yana	j a n a		467	j a n a	C V C V
+7049	Maragua	black	yana	yana	j a n a		467	j a n a	C V C V
+7050	Napo	black	yana	yana	j a n a		467	j a n a	C V C V
+7051	Pacaraos	black	yana	yana	j a n a		467	j a n a	C V C V
+7056	Puno	black	yana	yana	j a n a		467	j a n a	C V C V
+7060	Santiagueno	black	yana	yana	j a n a		467	j a n a	C V C V
+7069	Yanac	black	yana	yana	j a n a		467	j a n a	C V C V
+3922	Apuri	blood	yawar	yawar	j a w a ɾ		537	j a w a ɾ	C V C V C
+3923	Apurimac	blood	yawar	yawar	j a w a r		537	j a w a r	C V C V C
+3925	Atalla	blood	yawar	yawar	j a w a r		537	j a w a r	C V C V C
+3926	Ayacucho	blood	yawar	yawar	j a w a ɾ		537	j a w a ɾ	C V C V C
+7207	Azuay	blood	yahuar	yahuar	j a w a ɾ		537	j a w a ɾ	C V C V C
+3929	Chachapoyas	blood	yawar	yawar	j a w a r		537	j a w a r	C V C V C
+3930	Chacpar	blood	yawaŕ	yawaŕ	j a w a r̥		537	j a w a r̥	C V C V C
+3931	Chetilla	blood	yawar	yawar	j a w a r		537	j a w a r	C V C V C
+3936	Huallaga	blood	yawar	yawar	j a w a r		537	j a w a r	C V C V C
+3939	Huangascar	blood	yawar	yawar	j a w a ɾ		537	j a w a ɾ	C V C V C
+3940	HuarazHuailas	blood	yawar	yawar	j a w a ɾ		537	j a w a ɾ	C V C V C
+3941	Imbabura	blood	yawar	yawar	j a w a ɾ		537	j a w a ɾ	C V C V C
+3942	Inkawasi	blood	yawar	yawar	j a w a r		537	j a w a r	C V C V C
+7341	Jauja	blood	yawar	yawar	j a w a r		537	j a w a r	C V C V C
+3950	Maragua	blood	yawar	yawar	j a w a r		537	j a w a r	C V C V C
+3952	Pacaraos	blood	yawar	yawar	j a w a ɾ		537	j a w a ɾ	C V C V C
+3956	Puno	blood	yawar	yawar	j a w a r		537	j a w a r	C V C V C
+3960	Santiagueno	blood	yaar	yaar	j aː ɾ		537	j aː - - ɾ	C V C
+3970	Yanac	blood	yawaŕ	yawaŕ	j a w a r̥		537	j a w a r̥	C V C V C
+4021	Apuri	bone	tullu	tullu	t u ʎ u		581	t u ʎ u	C V C V
+4022	Apurimac	bone	tullu	tullu	t u ʎ u		581	t u ʎ u	C V C V
+4023	Atalla	bone	tuλu	tuλu	t u ʎ u		581	t u ʎ u	C V C V
+4024	Ayacucho	bone	tullu	tullu	t u ʎ u		581	t u ʎ u	C V C V
+7208	Azuay	bone	tullu	tullu	t u ʎ u		581	t u ʎ u	C V C V
+4027	Chachapoyas	bone	tullu	tullu	t u dʑ u		581	t u dʑ u	C V C V
+4028	Chacpar	bone	tuλu	tuλu	t u ʎ u		581	t u ʎ u	C V C V
+4029	Chetilla	bone	tudžu	tudžu	t u dʒ u		581	t u dʒ u	C V C V
+4034	Huallaga	bone	tuλu	tuλu	t u ʎ u		581	t u ʎ u	C V C V
+4037	Huangascar	bone	tullu	tullu	t u ʎ u		581	t u ʎ u	C V C V
+4038	HuarazHuailas	bone	tullu	tullu	t u ʎ u		581	t u ʎ u	C V C V
+4039	Imbabura	bone	tullu	tullu	t u ʎ u		581	t u ʎ u	C V C V
+4040	Inkawasi	bone	tužu	tužu	t u ʒ u		581	t u ʒ u	C V C V
+7342	Jauja	bone	tullu	tullu	t u ʎ u		581	t u ʎ u	C V C V
+4047	Maragua	bone	tuλu	tuλu	t u ʎ u		581	t u ʎ u	C V C V
+4048	Napo	bone	tullu	tullu	t u ʎ u		581	t u ʎ u	C V C V
+4049	Pacaraos	bone	tulu	tulu	t u l u		581	t u l u	C V C V
+4053	Puno	bone	tuλu	tuλu	t u ʎ u		581	t u ʎ u	C V C V
+4057	Santiagueno	bone	tullu	tullu	t u ʒ u		581	t u ʒ u	C V C V
+4066	Yanac	bone	tuλu	tuλu	t u ʎ u		581	t u ʎ u	C V C V
+6737	Chetilla	branch	rikra	rikra	r i k r a		810	r i k r - - - - a	C V C C V
+6746	Inkawasi	branch	rikra	rikra	r i k r a		810	r i k r - - - - a	C V C C V
+6730	Apuri	branch	chapra	chapra	tʃ a p ɾ a		621	tʃ a p ɾ a	C V C C V
+6732	Atalla	branch	čapra	čapra	tʃ a p r a		621	tʃ a p r a	C V C C V
+6741	Huallaga	branch	čapsa	čapsa	tʃ a p s a		621	tʃ a p s a	C V C C V
+6744	Huangascar	branch	chapra	chapra	tʃ a p ɾ a		621	tʃ a p ɾ a	C V C C V
+7343	Jauja	branch	chapla	chapla	tʃ a p l a		621	tʃ a p l a	C V C C V
+6751	Maragua	branch	č'aχra	č'aχra	tʃʼ a χ r a		621	tʃʼ a χ r a	C V C C V
+6349	Apuri	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+6350	Apurimac	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+6352	Atalla	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+6353	Ayacucho	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+7250	Azuay	bread	tanda	tanda	t a n d a		658	t a n d a	C V C C V
+6356	Chachapoyas	bread	tanta	tanta	t a n d a		658	t a n d a	C V C C V
+6357	Chacpar	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+6358	Chetilla	bread	tanda	tanda	t a n d a		658	t a n d a	C V C C V
+6363	Huallaga	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+6366	Huangascar	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+6367	HuarazHuailas	bread	tanta	tanta	t a ɲ t a		658	t a ɲ t a	C V C C V
+6368	Imbabura	bread	tanda	tanda	t a n d a		658	t a n d a	C V C C V
+6369	Inkawasi	bread	tanda	tanda	t a n d a		658	t a n d a	C V C C V
+7344	Jauja	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+6375	Maragua	bread	t'anta	t'anta	tʼ a n t a		658	tʼ a n t a	C V C C V
+6376	Napo	bread	tanda	tanda	t a n d a		658	t a n d a	C V C C V
+6377	Pacaraos	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+6380	Puno	bread	t'anta	t'anta	tʼ a n t a		658	tʼ a n t a	C V C C V
+6384	Santiagueno	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+6392	Yanac	bread	tanta	tanta	t a n t a		658	t a n t a	C V C C V
+4262	Apuri	breast	ñuñu	ñuñu	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+4263	Apurimac	breast	ñuñu	ñuñu	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+4266	Atalla	breast	ñuñu	ñuñu	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+4267	Ayacucho	breast	ñuñu	ñuñu	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+4272	Chachapoyas	breast	chuchu,  ñuñu	ñuñu	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+4286	Huangascar	breast	ñuñu	ñuñu	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+4287	HuarazHuailas	breast	ñuñu	ñuñu	ɳ u ɳ u		697	ɳ u ɳ u	C V C V
+4289	Inkawasi	breast	ñuñu	ñuñu	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+4297	Maragua	breast	ñuñu	ñuñu	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+4303	Puno	breast	ñuñu	ñuñu	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+4261	Apuri	breast	chichi	chichi	tʃ i tʃ i		696	tʃ i tʃ - - i	C V C V
+4271	Chachapoyas	breast	chuchu,  ñuñu	chuchu	tʃ u tʃ u		696	tʃ u tʃ - - u	C V C V
+4273	Chacpar	breast	čuču	čuču	tʃ u tʃ u		696	tʃ u tʃ - - u	C V C V
+4274	Chetilla	breast	čuču	čuču	tʃ u tʃ u		696	tʃ u tʃ - - u	C V C V
+4280	Huallaga	breast	čuču, čiči	čuču	tʃ u tʃ u		696	tʃ u tʃ - - u	C V C V
+4285	Huangascar	breast	chichi	chichi	tʃ i tʃ i		696	tʃ i tʃ - - i	C V C V
+4288	Imbabura	breast	chuchu	chuchu	tʃ u tʃ u		696	tʃ u tʃ - - u	C V C V
+4283	Jauja	breast	chuchu	chuchu	tʃ u tʃ u	(senos)	696	tʃ u tʃ - - u	C V C V
+4298	Napo	breast	chuchu	chuchu	tʃ u tʃ u		696	tʃ u tʃ - - u	C V C V
+4299	Pacaraos	breast	chuchu	chuchu	tʃ u tʃ u		696	tʃ u tʃ - - u	C V C V
+5138	Apuri	brother (man's)	wawqui	wawqui	w au q i		740	w au q i	C V C V
+5139	Apurimac	brother (man's)	wawqe	wawqe	w au q e		740	w au q e	C V C V
+5141	Atalla	brother (man's)	wawχi	wawχi	w au χ i		740	w au χ i	C V C V
+5142	Ayacucho	brother (man's)	wawque	wawque	w au χ e		740	w au χ e	C V C V
+7228	Azuay	brother (man's)	huauqui	huauqui	w au k i		740	w au k i	C V C V
+5145	Chachapoyas	brother (man's)	wawki	wawki	w au k i		740	w au k i	C V C V
+5146	Chacpar	brother (man's)	wawqi	wawqi	w au q i		740	w au q i	C V C V
+5152	Huallaga	brother (man's)	wawqi	wawqi	w au q i		740	w au q i	C V C V
+5155	Huangascar	brother (man's)	wawqui	wawqui	w au q i		740	w au q i	C V C V
+5156	HuarazHuailas	brother (man's)	wawqi	wawqi	w au q i		740	w au q i	C V C V
+5157	Imbabura	brother (man's)	wawki	wawki	w au k i		740	w au k i	C V C V
+7345	Jauja	brother (man's)	wawqi	wawqi	w au ʔ i		740	w au ʔ i	C V C V
+5166	Napo	brother (man's)	huauqui	huauqui	w au k i		740	w au k i	C V C V
+5167	Pacaraos	brother (man's)	wawqi	wawqi	w au χ e		740	w au χ e	C V C V
+5175	Santiagueno	brother (man's)	wawqe	wawqe	w au q ɪ		740	w au q ɪ	C V C V
+5184	Yanac	brother (man's)	ġo:qi	ġo:qi	ɢ oː q i		740	ɢ oː q i	C V C V
+5165	Maragua	brother (man's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5171	Puno	brother (man's)	tura	tura	t u r a		781	t u r a	C V C V
+5186	Apuri	brother (woman's)	turi	turi	t u ɾ i		781	t u ɾ i	C V C V
+5187	Apurimac	brother (woman's)	toray	toray	t o r ai		781	t o r ai	C V C V
+5189	Atalla	brother (woman's)	turi	turi	t u r i		781	t u r i	C V C V
+5190	Ayacucho	brother (woman's)	turi	turi	t u ɾ i		781	t u ɾ i	C V C V
+7229	Azuay	brother (woman's)	turi	turi	t u ɾ i		781	t u ɾ i	C V C V
+5193	Chachapoyas	brother (woman's)	turi	turi	t u r i		781	t u r i	C V C V
+5194	Chacpar	brother (woman's)	turi	turi	t u r i		781	t u r i	C V C V
+5195	Chetilla	brother (woman's)	turi	turi	t u r i		781	t u r i	C V C V
+5200	Huallaga	brother (woman's)	turi	turi	t u r i		781	t u r i	C V C V
+5203	Huangascar	brother (woman's)	turi	turi	t u ɾ i		781	t u ɾ i	C V C V
+5204	HuarazHuailas	brother (woman's)	turi	turi	t u ɾ i		781	t u ɾ i	C V C V
+7346	Jauja	brother (woman's)	tuli	tuli	t u l i		781	t u l i	C V C V
+5214	Napo	brother (woman's)	turi	turi	t u r i		781	t u r i	C V C V
+5215	Pacaraos	brother (woman's)	turi	turi	t u ɾ i		781	t u ɾ i	C V C V
+5223	Santiagueno	brother (woman's)	tura	tura	t u ɾ a		781	t u ɾ a	C V C V
+5233	Yanac	brother (woman's)	turi	turi	t u r i		781	t u r i	C V C V
+6253	Apuri	cloud	puyu	puyu	p u j u		821	p u j u	C V C V
+6254	Apurimac	cloud	puyu, fuyu	puyu	p u j u		821	p u j u	C V C V
+6257	Atalla	cloud	puyu	puyu	p u j u		821	p u j u	C V C V
+6258	Ayacucho	cloud	puyu	puyu	p u j u		821	p u j u	C V C V
+7248	Azuay	cloud	puyu	puyu	p u j u		821	p u j u	C V C V
+6261	Chachapoyas	cloud	puyu	puyu	p u j u		821	p u j u	C V C V
+6271	Huangascar	cloud	puyu	puyu	p u j u		821	p u j u	C V C V
+6273	Imbabura	cloud	fuyu	fuyu	f u j u		821	f u j u	C V C V
+6281	Maragua	cloud	phuyu	phuyu	pʰ u j u		821	pʰ u j u	C V C V
+6282	Napo	cloud	puyu	puyu	p u j u		821	p u j u	C V C V
+6287	Puno	cloud	phuyu	phuyu	pʰ u j u		821	pʰ u j u	C V C V
+6291	Santiagueno	cloud	puyu	puyu	p u j u		821	p u j u	C V C V
+6262	Chacpar	cloud	pu.kute:	pu.kute:	p u k u t eː		848	p u k u t eː	C V C V C V
+6263	Chetilla	cloud	pu.kutay	pu.kutay	p u k u t ai		848	p u k u t ai	C V C V C V
+6268	Huallaga	cloud	pu.kutay	pu.kutay	p u k u t ai		848	p u k u t ai	C V C V C V
+6272	HuarazHuailas	cloud	pukutay	pukutay	p u k u t ai		848	p u k u t ai	C V C V C V
+6274	Inkawasi	cloud	pu.ktay	pu.ktay	p u k t ai		848	p u k - t ai	C V C C V
+7347	Jauja	cloud	pukutay	pukutay	p u k u t ai		848	p u k u t ai	C V C V C V
+6283	Pacaraos	cloud	pukutay	pukutay	p u k u t ai		848	p u k u t ai	C V C V C V
+6300	Yanac	cloud	pu.kute	pu.kute	p u k u t eː		848	p u k u t eː	C V C V C V
+992	Apuri	cold	chiri, alalay	chiri	tʃ i ɾ i		852	tʃ i ɾ i	C V C V
+994	Apurimac	cold	chiri	chiri	tʃ i r i		852	tʃ i r i	C V C V
+996	Atalla	cold	čiri	čiri	tʃ i r i		852	tʃ i r i	C V C V
+997	Ayacucho	cold	chiri	chiri	tʃ i ɾ i		852	tʃ i ɾ i	C V C V
+7283	Azuay	cold	chiri	chiri	tʃ i ɾ i		852	tʃ i ɾ i	C V C V
+1000	Chachapoyas	cold	chiri	chiri	tʃ i r i		852	tʃ i r i	C V C V
+1002	Chetilla	cold	čiri	čiri	tʃ i r i		852	tʃ i r i	C V C V
+1010	Huangascar	cold	chiri, alalay	chiri	tʃ i ɾ i		852	tʃ i ɾ i	C V C V
+1013	Imbabura	cold	chiri	chiri	tʃ i ɾ i		852	tʃ i ɾ i	C V C V
+1021	Maragua	cold	čiri	čiri	tʃ i r i		852	tʃ i r i	C V C V
+1022	Napo	cold	chiri	chiri	tʃ i r i		852	tʃ i r i	C V C V
+1027	Puno	cold	čiri	čiri	tʃ i r i		852	tʃ i r i	C V C V
+1032	Santiagueno	cold	chiri	chiri	tʃ i ɾ i		852	tʃ i ɾ i	C V C V
+993	Apuri	cold	chiri, alalay	alalay	a l a l ai		853	a l a l ai -	V C V C V
+1001	Chacpar	cold	ala	ala	a l a		853	a l - - a -	V C V
+1011	Huangascar	cold	chiri, alalay	alalay	a l a l ai		853	a l a l ai -	V C V C V
+1012	HuarazHuailas	cold	alaalay	alaalay	a l aː l ai		853	a l aː l ai -	V C V C V
+7348	Jauja	cold	alalaq	alalaq	a l a l a ʔ		853	a l a l a ʔ	V C V C V C
+1023	Pacaraos	cold	alalay	alalay	a l a l ai		853	a l a l ai -	V C V C V
+1041	Yanac	cold	ala.la	ala.la	a l a l a		853	a l a l a -	V C V C V
+1332	Apuri	come, to	hamu-	hamu-	h a m u		860	h a m - - u	C V C V
+1333	Apurimac	come, to	hamu, qamu	hamu	h a m u		860	h a m - - u	C V C V
+1335	Atalla	come, to	ha.mu.	ha.mu.	h a m u		860	h a m - - u	C V C V
+1336	Ayacucho	come, to	hamu	hamu	h a m u		860	h a m - - u	C V C V
+7289	Azuay	come, to	shamu-na	shamu-na	ʃ a m u n a		860	ʃ a m u n a	C V C V C V
+1339	Chachapoyas	come, to	shamu	shamu	ʃ a m u		860	ʃ a m - - u	C V C V
+1340	Chacpar	come, to	ša.mu.	ša.mu.	ʃ a m u		860	ʃ a m - - u	C V C V
+1341	Chetilla	come, to	ša.mu.	ša.mu.	ʃ a m u		860	ʃ a m - - u	C V C V
+1346	Huallaga	come, to	ša.mu.	ša.mu.	ʃ a m u		860	ʃ a m - - u	C V C V
+1349	Huangascar	come, to	hamu-	hamu-	h a m u		860	h a m - - u	C V C V
+1350	HuarazHuailas	come, to	shamuy	shamuy	ʃ a m u		860	ʃ a m - - u	C V C V
+1351	Imbabura	come, to	shamuna	shamuna	ʃ a m u n a		860	ʃ a m u n a	C V C V C V
+1352	Inkawasi	come, to	ša.mu.	ša.mu.	ʃ a m u		860	ʃ a m - - u	C V C V
+1359	Maragua	come, to	ha.mu.	ha.mu.	h a m u		860	h a m - - u	C V C V
+1360	Napo	come, to	shamuna	shamuna	ʃ a m u n a		860	ʃ a m u n a	C V C V C V
+1361	Pacaraos	come, to	sha-mu	sha-mu	ʃ a m u		860	ʃ a m - - u	C V C V
+1365	Puno	come, to	ha.mu.	ha.mu.	h a m u		860	h a m - - u	C V C V
+1369	Santiagueno	come, to	amuy	amuy	a m u		860	- a m - - u	V C V
+1377	Yanac	come, to	ša.mu.	ša.mu.	ʃ a m u		860	ʃ a m - - u	C V C V
+2452	Apuri	cry, to	waqa-	waqa-	w a q a		869	w a q - - a	C V C V
+2453	Apurimac	cry, to	waqa	waqa	w a q a		869	w a q - - a	C V C V
+2454	Atalla	cry, to	waχa.	waχa.	w a χ a		869	w a χ - - a	C V C V
+2455	Ayacucho	cry, to	waqa	waqa	w a χ a		869	w a χ - - a	C V C V
+7310	Azuay	cry, to	huacana	huacana	w a k a n a		869	w a k a n a	C V C V C V
+2458	Chachapoyas	cry, to	waka	waka	w a k a		869	w a k - - a	C V C V
+2459	Chacpar	cry, to	waγa	waγa	w a ʁ a		869	w a ʁ - - a	C V C V
+2460	Chetilla	cry, to	waγa.	waγa.	w a ʁ a		869	w a ʁ - - a	C V C V
+2465	Huallaga	cry, to	waqa.	waqa.	w a q a		869	w a q - - a	C V C V
+2468	Huangascar	cry, to	waqa-	waqa-	w a q a		869	w a q - - a	C V C V
+2469	HuarazHuailas	cry, to	waqay	waqay	w a q ai		869	w a q - - ai	C V C V
+2470	Imbabura	cry, to	wakana	wakana	w a k a n a		869	w a k a n a	C V C V C V
+2471	Inkawasi	cry, to	waγa.	waγa.	w a ʁ a		869	w a ʁ - - a	C V C V
+7350	Jauja	cry, to	waqay	waqay	w a ʔ ai		869	w a ʔ - - ai	C V C V
+2477	Maragua	cry, to	waqa.	waqa.	w a q a		869	w a q - - a	C V C V
+2478	Napo	cry, to	huacana	huacana	w a k a n a		869	w a k a n a	C V C V C V
+2479	Pacaraos	cry, to	waqa	waqa	w a ʁ a		869	w a ʁ - - a	C V C V
+2483	Puno	cry, to	waqa.	waqa.	w a q a		869	w a q - - a	C V C V
+2487	Santiagueno	cry, to	waqay	waqay	w a χ ai		869	w a χ - - ai	C V C V
+2495	Yanac	cry, to	waqa.	waqa.	w a q a		869	w a q - - a	C V C V
+5377	Apuri	day	puntraw	puntraw	p u n ʈ au		875	p u n ʈ au	C V C C V
+5378	Apurimac	day	puchaw	puchaw	p u tʃ au		875	p u - tʃ au	C V C V
+5380	Atalla	day	pun.čaw	pun.čaw	p u n tʃ au		875	p u n tʃ au	C V C C V
+5381	Ayacucho	day	punchaw	punchaw	p u n tʃ au		875	p u n tʃ au	C V C C V
+7233	Azuay	day	punzha	punzha	p u n ʒ a		875	p u n ʒ a	C V C C V
+5384	Chachapoyas	day	punchaw	punchaw	p u n tʃ au		875	p u n tʃ au	C V C C V
+5386	Chetilla	day	pun.džaw	pun.džaw	p u n dʒ au		875	p u n dʒ au	C V C C V
+5394	Huangascar	day	puntraw	puntraw	p u n ʈ au		875	p u n ʈ au	C V C C V
+5396	Imbabura	day	puncha	puncha	p u n tʃ a		875	p u n tʃ a	C V C C V
+7351	Jauja	day	pun	pun	p u n		875	p u n - -	C V C
+5404	Maragua	day	p'un.čay	p'un.čay	pʼ u n tʃ ai		875	pʼ u n tʃ ai	C V C C V
+5405	Napo	day	punzha	punzha	p u n dʒ a		875	p u n dʒ a	C V C C V
+5410	Puno	day	p'un.čay	p'un.čay	pʼ u n tʃ ai		875	pʼ u n tʃ ai	C V C C V
+5414	Santiagueno	day	punchaw	punchaw	p u n tʃ au		875	p u n tʃ au	C V C C V
+5385	Chacpar	day	hunaq	hunaq	h u n a q		4	h u n a q	C V C V C
+5391	Huallaga	day	hunaχ	hunaχ	h u n a χ		4	h u n a χ	C V C V C
+5395	HuarazHuailas	day	hunaq	hunaq	x u ɲ a q		4	x u ɲ a q	C V C V C
+5397	Inkawasi	day	unaχ	unaχ	u n a χ		4	- u n a χ	V C V C
+5406	Pacaraos	day	hunaq	hunaq	x u n a χ		4	x u n a χ	C V C V C
+5424	Yanac	day	unaq	unaq	u n a q		4	- u n a q	V C V C
+2069	Apuri	die, to	wañu-	wañu-	w a ɲ u		12	w a ɲ - - u	C V C V
+2070	Apurimac	die, to	wañu	wañu	w a ɲ u		12	w a ɲ - - u	C V C V
+2072	Atalla	die, to	wañu.	wañu.	w a ɲ u		12	w a ɲ - - u	C V C V
+2073	Ayacucho	die, to	wañu	wañu	w a ɲ u		12	w a ɲ - - u	C V C V
+7303	Azuay	die, to	huañuna	huañuna	w a ɲ u n a		12	w a ɲ u n a	C V C V C V
+2076	Chachapoyas	die, to	wañu	wañu	w a ɲ u		12	w a ɲ - - u	C V C V
+2077	Chacpar	die, to	wanu.	wanu.	w a n u		12	w a n - - u	C V C V
+2078	Chetilla	die, to	wañu.	wañu.	w a ɲ u		12	w a ɲ - - u	C V C V
+2084	Huallaga	die, to	wañu.	wañu.	w a ɲ u		12	w a ɲ - - u	C V C V
+2087	Huangascar	die, to	wañu-	wañu-	w a ɲ u		12	w a ɲ - - u	C V C V
+2088	HuarazHuailas	die, to	wanuy	wanuy	w a ɲ u		12	w a ɲ - - u	C V C V
+2089	Imbabura	die, to	wañuna	wañuna	w a ɲ u n a		12	w a ɲ u n a	C V C V C V
+2090	Inkawasi	die, to	wanu.	wanu.	w a n u		12	w a n - - u	C V C V
+7352	Jauja	die, to	wañuy	wañuy	w a ɲ u		12	w a ɲ - - u	C V C V
+2096	Maragua	die, to	wañu.	wañu.	w a ɲ u		12	w a ɲ - - u	C V C V
+2097	Napo	die, to	huañuna	huañuna	w a ɲ u n a		12	w a ɲ u n a	C V C V C V
+2098	Pacaraos	die, to	wañu-ku	wañu-ku	w a ɲ u k u		12	w a ɲ u k u	C V C V C V
+2102	Puno	die, to	wañu.	wañu.	w a ɲ u		12	w a ɲ - - u	C V C V
+2106	Santiagueno	die, to	wañuy	wañuy	w a ɲ u		12	w a ɲ - - u	C V C V
+2114	Yanac	die, to	wañu.	wañu.	w a ɲ u		12	w a ɲ - - u	C V C V
+4365	Apuri	dog	allqu	allqu	a ʎ q o		19	a ʎ q o	V C C V
+4366	Apurimac	dog	allqo, alqo	allqo	a ʎ q o		19	a ʎ q o	V C C V
+4369	Atalla	dog	aλχu	aλχu	a ʎ χ u		19	a ʎ χ u	V C C V
+4370	Ayacucho	dog	allqo	allqo	a ʎ χ o		19	a ʎ χ o	V C C V
+7215	Azuay	dog	allcu	allcu	a ʎ k u		19	a ʎ k u	V C C V
+4373	Chachapoyas	dog	allku	allku	a dʑ k u		19	a dʑ k u	V C C V
+4374	Chacpar	dog	aλγu	aλγu	a ʎ ʁ u		19	a ʎ ʁ u	V C C V
+4375	Chetilla	dog	ač(ə)γu	ačγu	a tʃ ʁ u		19	a tʃ ʁ u	V C C V
+4380	Huallaga	dog	aλqu	aλqu	a ʎ q u		19	a ʎ q u	V C C V
+4383	Huangascar	dog	allqu	allqu	a ʎ q o		19	a ʎ q o	V C C V
+4384	HuarazHuailas	dog	allqu	allqu	a ʎ q u		19	a ʎ q u	V C C V
+4385	Imbabura	dog	allku	allku	a ʎ k u		19	a ʎ k u	V C C V
+4386	Inkawasi	dog	až(ə)γu	ažγu	a ʒ ʁ u		19	a ʒ ʁ u	V C C V
+7353	Jauja	dog	allqu	allqu	a ʎ ʔ u		19	a ʎ ʔ u	V C C V
+4393	Maragua	dog	alqu	alqu	a l q u		19	a l q u	V C C V
+4394	Napo	dog	allcu	allcu	a ʎ k u		19	a ʎ k u	V C C V
+4395	Pacaraos	dog	alqu	alqu	a l χ o		19	a l χ o	V C C V
+4399	Puno	dog	alqu	alqu	a l q u		19	a l q u	V C C V
+4403	Santiagueno	dog	allqo	allqo	a ʒ q o		19	a ʒ q o	V C C V
+4413	Yanac	dog	aλqu	aλqu	a ʎ q u		19	a ʎ q u	V C C V
+1743	Apuri	drink, to	upya	upya	u p j a		30	u p j - - a	V C C V
+1744	Apurimac	drink, to	upya	upya	u p j a		30	u p j - - a	V C C V
+1746	Atalla	drink, to	upya.	upya.	u p j a		30	u p j - - a	V C C V
+1747	Ayacucho	drink, to	upya	upya	u p j a		30	u p j - - a	V C C V
+7296	Azuay	drink, to	upia-na	upia-na	u p j a n a		30	u p j a n a	V C C V C V
+1750	Chachapoyas	drink, to	upya	upya	u p j a		30	u p j - - a	V C C V
+1751	Chetilla	drink, to	upya.	upya.	u p j a		30	u p j - - a	V C C V
+1758	Huangascar	drink, to	upya	upya	u p j a		30	u p j - - a	V C C V
+1759	HuarazHuailas	drink, to	upyay	upyay	u p j a		30	u p j - - a	V C C V
+1760	Imbabura	drink, to	ufiana	ufiana	u f j a n a		30	u f j a n a	V C C V C V
+1761	Inkawasi	drink, to	upya.	upya.	u p j a		30	u p j - - a	V C C V
+7354	Jauja	drink, to	upyay	upyay	u p j a		30	u p j - - a	V C C V
+1767	Maragua	drink, to	uxya.	uxya.	u x j a		30	u x j - - a	V C C V
+1769	Pacaraos	drink, to	upya, upu	upya	u p j a		30	u p j - - a	V C C V
+1773	Puno	drink, to	uxa.	uxa.	u x a		30	u x - - - a	V C V
+1777	Santiagueno	drink, to	upyay	upyay	u p j a		30	u p j - - a	V C C V
+1786	Yanac	drink, to	upya.	upya.	u p j a		30	u p j - - a	V C C V
+1043	Apuri	dry	chaki	chaki	tʃ a k i		40	tʃ a k - - - - i	C V C V
+1044	Apurimac	dry	chaki	chaki	tʃ a k i		40	tʃ a k - - - - i	C V C V
+1046	Atalla	dry	čaki	čaki	tʃ a k i		40	tʃ a k - - - - i	C V C V
+1047	Ayacucho	dry	chaki	chaki	tʃ a k i		40	tʃ a k - - - - i	C V C V
+7284	Azuay	dry	chaquishca	chaquishca	tʃ a k i ʃ k a		40	tʃ a k i ʃ - k a	C V C V C C V
+1050	Chachapoyas	dry	chaki	chaki	tʃ a k i		40	tʃ a k - - - - i	C V C V
+1051	Chacpar	dry	tsaki	tsaki	ts a k i		40	ts a k - - - - i	C V C V
+1052	Chetilla	dry	čaki	čaki	tʃ a k i		40	tʃ a k - - - - i	C V C V
+1058	Huallaga	dry	čaki	čaki	tʃ a k i		40	tʃ a k - - - - i	C V C V
+1061	Huangascar	dry	chaki	chaki	tʃ a k i		40	tʃ a k - - - - i	C V C V
+1062	HuarazHuailas	dry	tsaki	tsaki	ts a k i		40	ts a k - - - - i	C V C V
+1063	Imbabura	dry	chakishka	chakishka	tʃ a k i ʃ k a		40	tʃ a k i ʃ - k a	C V C V C C V
+1064	Inkawasi	dry	čaki	čaki	tʃ a k i		40	tʃ a k - - - - i	C V C V
+7355	Jauja	dry	chaki	chaki	tʃ a k i		40	tʃ a k - - - - i	C V C V
+1071	Maragua	dry	č'aki	č'aki	tʃʼ a k i		40	tʃʼ a k - - - - i	C V C V
+1072	Napo	dry	chaquichina	chaquichina	tʃ a k i tʃ i n a		40	tʃ a k i tʃ i n a	C V C V C V C V
+1073	Pacaraos	dry	saki	saki	s a k i		40	s a k - - - - i	C V C V
+1077	Puno	dry	č'aki	č'aki	tʃʼ a k i		40	tʃʼ a k - - - - i	C V C V
+1081	Santiagueno	dry	chaki	chaki	tʃ a x i		40	tʃ a x - - - - i	C V C V
+1091	Yanac	dry	tsaki	tsaki	ts a k i		40	ts a k - - - - i	C V C V
+3295	Apuri	ear	rinri	rinri	ɾ i n ɾ i		48	ɾ i n ɾ i	C V C C V
+3296	Apurimac	ear	rinri, ninri	rinri	r i n r i		48	r i n r i	C V C C V
+3299	Atalla	ear	linri, rinri	linri	l i n r i		48	l i n r i	C V C C V
+3301	Ayacucho	ear	rinri	rinri	ɾ i ŋ ɾ i		48	ɾ i ŋ ɾ i	C V C C V
+7195	Azuay	ear	ringri	ringri	ɾ i n ɾ i		48	ɾ i n ɾ i	C V C C V
+3304	Chachapoyas	ear	rinri	rinri	r i n r i		48	r i n r i	C V C C V
+3305	Chacpar	ear	rinri	rinri	r i n r i		48	r i n r i	C V C C V
+3306	Chetilla	ear	rinri	rinri	r i n r i		48	r i n r i	C V C C V
+3313	Huallaga	ear	rinri	rinri	r i n r i		48	r i n r i	C V C C V
+3316	Huangascar	ear	rinri	rinri	ɾ i n ɾ i		48	ɾ i n ɾ i	C V C C V
+3317	HuarazHuailas	ear	rinri	rinri	ɾ i ɲ ɾ i		48	ɾ i ɲ ɾ i	C V C C V
+3318	Imbabura	ear	rinri	rinri	ɾ i n ɾ i		48	ɾ i n ɾ i	C V C C V
+3319	Inkawasi	ear	řinri	řinri	r̝ i n r i		48	r̝ i n r i	C V C C V
+7356	Jauja	ear	linli	linli	l i n l i		48	l i n l i	C V C C V
+3325	Maragua	ear	linri, ninri, nigri	linri	l i n r i		48	l i n r i	C V C C V
+3328	Napo	ear	rinri	rinri	r i n r i		48	r i n r i	C V C C V
+3329	Pacaraos	ear	rinri	rinri	ɾ i ŋ ɾ i		48	ɾ i ŋ ɾ i	C V C C V
+3335	Puno	ear	ninri, rinri	rinri	r i n r i		48	r i n r i	C V C C V
+3348	Yanac	ear	rinri	rinri	r i n r i		48	r i n r i	C V C C V
+3297	Apurimac	ear	rinri, ninri	ninri	n i n r i		456	n i n r i	C V C C V
+3326	Maragua	ear	linri, ninri, nigri	ninri	n i n r i		456	n i n r i	C V C C V
+3334	Puno	ear	ninri, rinri	ninri	n i n r i		456	n i n r i	C V C C V
+3339	Santiagueno	ear	nigri	nigri	n i ŋ ɾ i		456	n i ŋ ɾ i	C V C C V
+1692	Apuri	eat, to	miku-	miku-	m i k u		57	m i k - - u	C V C V
+1694	Apurimac	eat, to	miju	miju	m i χ u		57	m i χ - - u	C V C V
+1696	Atalla	eat, to	mi.ku.	mi.ku.	m i k u		57	m i k - - u	C V C V
+1697	Ayacucho	eat, to	miku	miku	m i k u		57	m i k - - u	C V C V
+7295	Azuay	eat, to	micu-na	micu-na	m i k u n a		57	m i k u n a	C V C V C V
+1700	Chachapoyas	eat, to	miku	miku	m i k u		57	m i k - - u	C V C V
+1701	Chacpar	eat, to	mi.ku.	mi.ku.	m i k u		57	m i k - - u	C V C V
+1702	Chetilla	eat, to	mi.ku.	mi.ku.	m i k u		57	m i k - - u	C V C V
+1707	Huallaga	eat, to	mi.ku.	mi.ku.	m i k u		57	m i k - - u	C V C V
+1710	Huangascar	eat, to	miku-	miku-	m i k u		57	m i k - - u	C V C V
+1711	HuarazHuailas	eat, to	mikuy	mikuy	m i k u		57	m i k - - u	C V C V
+1712	Imbabura	eat, to	mikuna	mikuna	m i k u n a		57	m i k u n a	C V C V C V
+1713	Inkawasi	eat, to	mi.ku.	mi.ku.	m i k u		57	m i k - - u	C V C V
+7357	Jauja	eat, to	mikuy	mikuy	m i k u		57	m i k - - u	C V C V
+1720	Maragua	eat, to	mi.khu.	mi.khu.	m i kʰ u		57	m i kʰ - - u	C V C V
+1721	Napo	eat, to	micuna	micuna	m i k u n a		57	m i k u n a	C V C V C V
+1722	Pacaraos	eat, to	miku, mika	miku	m i k u		57	m i k - - u	C V C V
+1727	Puno	eat, to	mi.khu.	mi.khu.	m i kʰ u		57	m i kʰ - - u	C V C V
+1731	Santiagueno	eat, to	mikuy	mikuy	m i x u		57	m i x - - u	C V C V
+1740	Yanac	eat, to	mi.ku.	mi.ku.	m i k u		57	m i k - - u	C V C V
+4706	Apuri	egg	runtu	runtu	ɾ u n t u		68	ɾ u n t u	C V C C V
+4707	Apurimac	egg	runtu	runtu	r u n t u		68	r u n t u	C V C C V
+4709	Atalla	egg	runtu	runtu	r u n t u		68	r u n t u	C V C C V
+4710	Ayacucho	egg	runtu	runtu	ɾ u n t u		68	ɾ u n t u	C V C C V
+4713	Chachapoyas	egg	runtu	runtu	r u n d u		68	r u n d u	C V C C V
+4714	Chacpar	egg	runtu	runtu	r u n t u		68	r u n t u	C V C C V
+4720	Huallaga	egg	runtu	runtu	r u n t u		68	r u n t u	C V C C V
+4724	Huangascar	egg	runtu	runtu	ɾ u n t u		68	ɾ u n t u	C V C C V
+4727	Inkawasi	egg	řundu	řundu	r̝ u n d u		68	r̝ u n d u	C V C C V
+4734	Maragua	egg	řuntu	řuntu	r̝ u n t u		68	r̝ u n t u	C V C C V
+4740	Puno	egg	runtu	runtu	r u n t u		68	r u n t u	C V C C V
+4743	Santiagueno	egg	runtu	runtu	ɾ u n t u		68	ɾ u n t u	C V C C V
+4754	Yanac	egg	runtu	runtu	r u n t u		68	r u n t u	C V C C V
+7221	Azuay	egg	rurru	rurru	ɾ u r u		182	ɾ u r u	C V C V
+4715	Chetilla	egg	ruru	ruru	r u r u		182	r u r u	C V C V
+4725	HuarazHuailas	egg	ruru	ruru	ɾ u ɾ u		182	ɾ u ɾ u	C V C V
+7358	Jauja	egg	lulu	lulu	l u l u		182	l u l u	C V C V
+4736	Pacaraos	egg	ruru	ruru	ɾ u ɾ u		182	ɾ u ɾ u	C V C V
+6113	Apuri	eight	pusaq	pusaq	p u s a q		75	p u s a q	C V C V C
+6114	Apurimac	eight	musaq	musaq	m u s a q		75	m u s a q	C V C V C
+6116	Atalla	eight	pusaχ	pusaχ	p u s a χ		75	p u s a χ	C V C V C
+6117	Ayacucho	eight	pusaq	pusaq	p u s a χ		75	p u s a χ	C V C V C
+7176	Azuay	eight	pusag	pusag	p u s a g		75	p u s a g	C V C V C
+6120	Chachapoyas	eight	pusak	pusak	p u s a k		75	p u s a k	C V C V C
+6121	Chacpar	eight	puwaq	puwaq	p u w a q		75	p u w a q	C V C V C
+6122	Chetilla	eight	pusaχ	pusaχ	p u s a χ		75	p u s a χ	C V C V C
+6126	Huallaga	eight	pusaχ	pusaχ	p u s a χ		75	p u s a χ	C V C V C
+6129	Huangascar	eight	pusaq	pusaq	p u s a q		75	p u s a q	C V C V C
+7490	HuarazHuailas	eight	pusaq	pusaq	p u s a q		75	p u s a q	C V C V C
+6130	Imbabura	eight	pusak	pusak	p u s a k		75	p u s a k	C V C V C
+7359	Jauja	eight	pusaq	pusaq	p u s a ʔ		75	p u s a ʔ	C V C V C
+6139	Maragua	eight	pusaχ	pusaχ	p u s a χ		75	p u s a χ	C V C V C
+6140	Napo	eight	pusaj	pusaj	p u s a χ		75	p u s a χ	C V C V C
+6141	Pacaraos	eight	puwaq	puwaq	p u w a χ		75	p u w a χ	C V C V C
+6145	Puno	eight	pusaχ	pusaχ	p u s a χ		75	p u s a χ	C V C V C
+6148	Santiagueno	eight	pusaq	pusaq	p u s a χ	in disuse	75	p u s a χ	C V C V C
+6157	Yanac	eight	pusaq	pusaq	p u s a q		75	p u s a q	C V C V C
+3633	Apuri	elbow	kutrush	kutrush	k u ʈ u ʃ		84	k u ʈ u ʃ	C V C V C
+3636	Atalla	elbow	kuču.s	kuču.s	k u tʃ u s		84	k u tʃ u s	C V C V C
+3637	Ayacucho	elbow	kuchus	kuchus	k u tʃ u s		84	k u tʃ u s	C V C V C
+3640	Chachapoyas	elbow	kuĉush	kuĉush	k u ʈʂ u ʃ		84	k u ʈʂ u ʃ	C V C V C
+3650	Huangascar	elbow	kutrush	kutrush	k u ʈ u ʃ		84	k u ʈ u ʃ	C V C V C
+7360	Jauja	elbow	kutrush	kutrush	k u ʈʂ u ʂ		84	k u ʈʂ u ʂ	C V C V C
+3662	Pacaraos	elbow	kutrush	kutrush	k u ʈʂ u ʃ		84	k u ʈʂ u ʃ	C V C V C
+3641	Chacpar	elbow	kuku.š	kuku.š	k u k u ʃ		497	k u k u ʃ	C V C V C
+3647	Huallaga	elbow	kuku.š	kuku.š	k u k u ʃ		497	k u k u ʃ	C V C V C
+3651	HuarazHuailas	elbow	kukush	kukush	k u k u ʃ		497	k u k u ʃ	C V C V C
+3642	Chetilla	elbow	kuku.ĉi	kuku.ĉi	k u k u ʈʂ i		496	k u k u ʈʂ i	C V C V C V
+7518	HuarazHuailas	elbow	kukuchi	kukuchi	k u k u tʃ i		496	k u k u tʃ i	C V C V C V
+3653	Inkawasi	elbow	kuk(u).ĉi	kuk.ĉi	k u k u ʈʂ i		496	k u k u ʈʂ i	C V C V C V
+3678	Yanac	elbow	kuku.ĉi	kuku.ĉi	k u k u ʈʂ i		496	k u k u ʈʂ i	C V C V C V
+7201	Azuay	elbow	rigra mucu	rigra mucu	ɾ i g ɾ a m u k u		810	ɾ i g ɾ a m u k u	C V C C V C V C V
+3652	Imbabura	elbow	rigra muku	rigra muku	ɾ i g ɾ a m u k u		810	ɾ i g ɾ a m u k u	C V C C V C V C V
+3661	Napo	elbow	rigra	rigra	r i g r a		810	r i g r - - - - a	C V C C V
+3666	Puno	elbow	muqu	muqu	m u q u		400	m u q u	C V C V
+3669	Santiagueno	elbow	moqo	moqo	m o χ o		400	m o χ o	C V C V
+773	Apurimac	empty	chusaq	chusaq	tʃ u s a q		94	tʃ u s a q	C V C V C
+7279	Azuay	empty	chushag	chushag	tʃ u ʃ a g		94	tʃ u ʃ a g	C V C V C
+785	Imbabura	empty	chushaj	chushaj	tʃ u ʃ a x		94	tʃ u ʃ a x	C V C V C
+790	Maragua	empty	č'usa.χ	č'usa.χ	tʃʼ u s a χ		94	tʃʼ u s a χ	C V C V C
+791	Napo	empty	chushaj	chushaj	tʃ u ʃ a		94	tʃ u ʃ a -	C V C V
+796	Puno	empty	č'usa.χ	č'usa.χ	tʃʼ u s a χ		94	tʃʼ u s a χ	C V C V C
+799	Santiagueno	empty	chusaq	chusaq	tʃ u s a χ		94	tʃ u s a χ	C V C V C
+3197	Apuri	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3198	Apurimac	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3200	Atalla	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3201	Ayacucho	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3204	Chachapoyas	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3205	Chacpar	eye	nawi, ñawi	nawi	n a w i		104	n a w i	C V C V
+3207	Chetilla	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3212	Huallaga	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3215	Huangascar	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3216	HuarazHuailas	eye	ñawi	ñawi	ɳ a w i		104	ɳ a w i	C V C V
+3218	Inkawasi	eye	nawi	nawi	n a w i		104	n a w i	C V C V
+7362	Jauja	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3225	Maragua	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3227	Pacaraos	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3231	Puno	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3235	Santiagueno	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3245	Yanac	eye	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3051	Apuri	face	uya	uya	u j a		114	u j a	V C V
+3052	Apurimac	face	uya	uya	u j a		114	u j a	V C V
+3055	Ayacucho	face	uya	uya	u j a		114	u j a	V C V
+3067	Huangascar	face	uya	uya	u j a		114	u j a	V C V
+3075	Maragua	face	uya	uya	u j a		114	u j a	V C V
+3081	Puno	face	uya	uya	u j a		114	u j a	V C V
+3085	Santiagueno	face	uya	uya	u j a		114	u j a	V C V
+3058	Chacpar	face	qaχ(ə)λa	qaχλa	q a χ ʎ a		113	q a χ ʎ a	C V C C V
+3059	Chetilla	face	qaγdya	qaγdya	q a ʁ ʎ a		113	q a ʁ ʎ a	C V C C V
+3065	Huallaga	face	qaχλa	qaχλa	q a χ ʎ a		113	q a χ ʎ a	C V C C V
+7493	HuarazHuailas	face	qaqlla	qaqlla	q a q ʎ a		113	q a q ʎ a	C V C C V
+3095	Yanac	face	qaq(ə)λa	qaqλa	q a q ʎ a		113	q a q ʎ a	C V C C V
+7190	Azuay	face	ñahui	ñahui	ɲ a w i		104	ɲ a w i	C V C V
+3068	Imbabura	face	ñawi	ñawi	ɲ a w i		104	ɲ a w i	C V C V
+3076	Napo	face	ñahui	ñahui	ɲ a w i		104	ɲ a w i	C V C V
+892	Apuri	far (away)	karu	karu	k a ɾ u		124	k a ɾ u	C V C V
+893	Apurimac	far (away)	karu	karu	k a r u		124	k a r u	C V C V
+895	Atalla	far (away)	karu	karu	k a r u		124	k a r u	C V C V
+896	Ayacucho	far (away)	karu	karu	k a ɾ u		124	k a ɾ u	C V C V
+7281	Azuay	far (away)	caru	caru	k a ɾ u		124	k a ɾ u	C V C V
+899	Chachapoyas	far (away)	karu	karu	k a r u		124	k a r u	C V C V
+900	Chacpar	far (away)	karu	karu	k a r u		124	k a r u	C V C V
+901	Chetilla	far (away)	karu	karu	k a r u		124	k a r u	C V C V
+907	Huallaga	far (away)	karu	karu	k a r u		124	k a r u	C V C V
+910	Huangascar	far (away)	karu	karu	k a ɾ u		124	k a ɾ u	C V C V
+911	HuarazHuailas	far (away)	karu	karu	k a ɾ u		124	k a ɾ u	C V C V
+912	Imbabura	far (away)	karu	karu	k a ɾ u		124	k a ɾ u	C V C V
+913	Inkawasi	far (away)	karu	karu	k a r u		124	k a r u	C V C V
+7363	Jauja	far (away)	kalu	kalu	k a l u		124	k a l u	C V C V
+920	Maragua	far (away)	karu	karu	k a r u		124	k a r u	C V C V
+921	Napo	far (away)	caru	caru	k a r u		124	k a r u	C V C V
+922	Pacaraos	far (away)	karu	karu	k a ɾ u	karutraw: very far	124	k a ɾ u	C V C V
+927	Puno	far (away)	karu	karu	k a r u		124	k a r u	C V C V
+931	Santiagueno	far (away)	karu	karu	k a ɾ u		124	k a ɾ u	C V C V
+6491	Apuri	fat (grease)	wira	wira	w i ɾ a		135	w i ɾ a	C V C V
+6493	Apurimac	fat (grease)	wira	wira	w i r a		135	w i r a	C V C V
+6495	Atalla	fat (grease)	wira	wira	w i r a		135	w i r a	C V C V
+6496	Ayacucho	fat (grease)	wira	wira	w i ɾ a		135	w i ɾ a	C V C V
+7253	Azuay	fat (grease)	huira	huira	w i ɾ a		135	w i ɾ a	C V C V
+6498	Chachapoyas	fat (grease)	wira	wira	w i r a		135	w i r a	C V C V
+6499	Chacpar	fat (grease)	wira	wira	w i r a		135	w i r a	C V C V
+6500	Chetilla	fat (grease)	wira	wira	w i r a		135	w i r a	C V C V
+6505	Huallaga	fat (grease)	wira	wira	w i r a		135	w i r a	C V C V
+6508	Huangascar	fat (grease)	wira	wira	w i ɾ a		135	w i ɾ a	C V C V
+6509	HuarazHuailas	fat (grease)	wira	wira	w i ɾ a		135	w i ɾ a	C V C V
+6510	Imbabura	fat (grease)	vira	vira	ɸ i ɾ a		135	ɸ i ɾ a	C V C V
+6511	Inkawasi	fat (grease)	wira	wira	w i r a		135	w i r a	C V C V
+7364	Jauja	fat (grease)	wila	wila	w i l a		135	w i l a	C V C V
+6517	Maragua	fat (grease)	wira	wira	w i r a		135	w i r a	C V C V
+6518	Pacaraos	fat (grease)	wira	wira	w i ɾ a		135	w i ɾ a	C V C V
+6522	Puno	fat (grease)	wira	wira	w i r a		135	w i r a	C V C V
+6526	Santiagueno	fat (grease)	wira	wira	w i ɾ a		135	w i ɾ a	C V C V
+6534	Yanac	fat (grease)	wira	wira	w i r a		135	w i r a	C V C V
+4114	Apuri	fingernail	sillu	sillu	s i ʎ u		147	s i ʎ u	C V C V
+4115	Apurimac	fingernail	sillu	sillu	s i ʎ u		147	s i ʎ u	C V C V
+4117	Atalla	fingernail	siλu	siλu	s i ʎ u		147	s i ʎ u	C V C V
+4118	Ayacucho	fingernail	sillu	sillu	s i ʎ u		147	s i ʎ u	C V C V
+7210	Azuay	fingernail	shillu	shillu	ʃ i ʎ u		147	ʃ i ʎ u	C V C V
+4121	Chachapoyas	fingernail	shillu	shillu	ʃ i dʑ u		147	ʃ i dʑ u	C V C V
+4122	Chacpar	fingernail	šiλu	šiλu	ʃ i ʎ u		147	ʃ i ʎ u	C V C V
+4123	Chetilla	fingernail	šidžu	šidžu	ʃ i dʒ u		147	ʃ i dʒ u	C V C V
+4128	Huallaga	fingernail	šiλu	šiλu	ʃ i ʎ u		147	ʃ i ʎ u	C V C V
+4131	Huangascar	fingernail	sillu	sillu	s i ʎ u		147	s i ʎ u	C V C V
+4132	HuarazHuailas	fingernail	shillu	shillu	ʃ i ʎ u		147	ʃ i ʎ u	C V C V
+4133	Imbabura	fingernail	sillu	sillu	s i ʎ u		147	s i ʎ u	C V C V
+4134	Inkawasi	fingernail	sižu	sižu	s i ʒ u		147	s i ʒ u	C V C V
+7365	Jauja	fingernail	shillu	shillu	ʃ i ʎ u		147	ʃ i ʎ u	C V C V
+4141	Maragua	fingernail	siλu	siλu	s i ʎ u		147	s i ʎ u	C V C V
+4142	Napo	fingernail	shillu	shillu	ʃ i ʎ u		147	ʃ i ʎ u	C V C V
+4143	Pacaraos	fingernail	shilu	shilu	ʃ i l u		147	ʃ i l u	C V C V
+4147	Puno	fingernail	siλu	siλu	s i ʎ u		147	s i ʎ u	C V C V
+4151	Santiagueno	fingernail	sillu	sillu	s i ʒ u		147	s i ʒ u	C V C V
+4160	Yanac	fingernail	šiλu	šiλu	ʃ i ʎ u		147	ʃ i ʎ u	C V C V
+5874	Apuri	fire	nina	nina	n i n a		153	n i n a	C V C V
+5875	Apurimac	fire	nina	nina	n i n a		153	n i n a	C V C V
+5877	Atalla	fire	nina	nina	n i n a		153	n i n a	C V C V
+5878	Ayacucho	fire	nina	nina	n i n a		153	n i n a	C V C V
+7241	Azuay	fire	nina	nina	n i n a		153	n i n a	C V C V
+5881	Chachapoyas	fire	nina	nina	n i n a		153	n i n a	C V C V
+5882	Chacpar	fire	nina	nina	n i n a		153	n i n a	C V C V
+5883	Chetilla	fire	nina	nina	n i n a		153	n i n a	C V C V
+5888	Huallaga	fire	nina	nina	n i n a		153	n i n a	C V C V
+5891	Huangascar	fire	nina	nina	n i n a		153	n i n a	C V C V
+5892	HuarazHuailas	fire	nina	nina	ɲ i ɲ a		153	ɲ i ɲ a	C V C V
+5893	Imbabura	fire	nina	nina	n i n a		153	n i n a	C V C V
+5894	Inkawasi	fire	nina	nina	n i n a		153	n i n a	C V C V
+7366	Jauja	fire	nina	nina	n i n a		153	n i n a	C V C V
+5901	Maragua	fire	nina	nina	n i n a		153	n i n a	C V C V
+5902	Napo	fire	nina	nina	n i n a		153	n i n a	C V C V
+5903	Pacaraos	fire	nina	nina	n i n a		153	n i n a	C V C V
+5907	Puno	fire	nina	nina	n i n a		153	n i n a	C V C V
+5911	Santiagueno	fire	nina	nina	n i n a		153	n i n a	C V C V
+5920	Yanac	fire	nina	nina	n i n a		153	n i n a	C V C V
+4505	Apuri	five	pichqa	pichqa	p i tʃ q a		162	p i tʃ q a	C V C C V
+4506	Apurimac	five	pisca, pichqa	pisca	p i s k a		162	p i s k a	C V C C V
+4509	Atalla	five	pičχa, pičqa	pičχa	p i tʃ χ a		162	p i tʃ χ a	C V C C V
+4511	Ayacucho	five	pichqa	pichqa	p i tʃ χ a		162	p i tʃ χ a	C V C C V
+7173	Azuay	five	pichca	pichca	p i tʃ k a		162	p i tʃ k a	C V C C V
+4514	Chachapoyas	five	pichka	pichka	p i tʃ k a		162	p i tʃ k a	C V C C V
+4515	Chacpar	five	pitsqa	pitsqa	p i ts q a		162	p i ts q a	C V C C V
+4516	Chetilla	five	pič(ə)γa	pičγa	p i tʃ ʁ a		162	p i tʃ ʁ a	C V C C V
+4521	Huallaga	five	pičqa	pičqa	p i tʃ q a		162	p i tʃ q a	C V C C V
+4524	Huangascar	five	pichqa	pichqa	p i tʃ q a		162	p i tʃ q a	C V C C V
+4525	HuarazHuailas	five	pitsqa	pitsqa	p i ts q a		162	p i ts q a	C V C C V
+4526	Imbabura	five	pishka	pishka	p i ʃ k a		162	p i ʃ k a	C V C C V
+7367	Jauja	five	pichqa	pichqa	p i tʃ ʔ a		162	p i tʃ ʔ a	C V C C V
+4534	Maragua	five	pišqa	pišqa	p i ʃ q a		162	p i ʃ q a	C V C C V
+4535	Napo	five	pichca	pichca	p i tʃ k a		162	p i tʃ k a	C V C C V
+4536	Pacaraos	five	pisqa	pisqa	p i s ʁ a		162	p i s ʁ a	C V C C V
+4540	Puno	five	pisqa	pisqa	p i s q a		162	p i s q a	C V C C V
+4544	Santiagueno	five	pishqa	pishqa	p i ʃ q a	in disuse because of vulgar connotation	162	p i ʃ q a	C V C C V
+4553	Yanac	five	pitsqa	pitsqa	p i ts q a		162	p i ts q a	C V C C V
+6870	Apuri	flower	sisa	sisa	s i s a		170	s i s a	C V C V
+7260	Azuay	flower	sisa	sisa	s i s a		170	s i s a	C V C V
+6893	Huangascar	flower	sisa	sisa	s i s a		170	s i s a	C V C V
+6896	Imbabura	flower	sisa	sisa	s i s a		170	s i s a	C V C V
+7368	Jauja	flower	sisa	sisa	s i s a		170	s i s a	C V C V
+6906	Napo	flower	sisa	sisa	s i s a		170	s i s a	C V C V
+6916	Santiagueno	flower	sisa	sisa	s i s a		170	s i s a	C V C V
+6871	Apuri	flower	wayta	wayta	w ai t a		172	w ai t a	C V C V
+6873	Apurimac	flower	wayta	wayta	w ai t a		172	w ai t a	C V C V
+6876	Atalla	flower	wayta	wayta	w ai t a		172	w ai t a	C V C V
+6877	Ayacucho	flower	wayta	wayta	w ai t a		172	w ai t a	C V C V
+6881	Chachapoyas	flower	wayta	wayta	w ai t a		172	w ai t a	C V C V
+6894	Huangascar	flower	wayta	wayta	w ai t a		172	w ai t a	C V C V
+6895	HuarazHuailas	flower	wayta	wayta	w ai t a		172	w ai t a	C V C V
+7369	Jauja	flower	wayta	wayta	w ai t a		172	w ai t a	C V C V
+6907	Pacaraos	flower	waycha	waycha	w ai tʃ a		172	w ai tʃ a	C V C V
+6926	Yanac	flower	we:ta	we:ta	w eː t a		172	w eː t a	C V C V
+6872	Apurimac	flower	tika	tika	t i k a		180	t i k a	C V C V
+6905	Maragua	flower	t'ika	t'ika	tʼ i k a		180	tʼ i k a	C V C V
+6911	Puno	flower	t'ika	t'ika	tʼ i k a		180	tʼ i k a	C V C V
+6882	Chacpar	flower	tuktu	tuktu	t u k t u		174	t u k t u	C V C C V
+6883	Chetilla	flower	tuktu	tuktu	t u k t u		174	t u k t u	C V C C V
+6889	Huallaga	flower	tuktu	tuktu	t u k t u		174	t u k t u	C V C C V
+6897	Inkawasi	flower	tuktu	tuktu	t u k t u		174	t u k t u	C V C C V
+1581	Napo	fly, to	huamburina	huamburina	w a m b u r i n a		725	w a m b u r i n a	C V C C V C V C V
+1553	Apuri	fly, to	pawa-	pawa-	p a w a		183	p a w a	C V C V
+1555	Apurimac	fly, to	pala, pawa	pawa	p a w a		183	p a w a	C V C V
+1557	Atalla	fly, to	pawa.	pawa.	p a w a		183	p a w a	C V C V
+1558	Ayacucho	fly, to	pawa	pawa	p a w a		183	p a w a	C V C V
+1561	Chachapoyas	fly, to	pawa	pawa	p a w a		183	p a w a	C V C V
+1571	Huangascar	fly, to	pawa-	pawa-	p a w a		183	p a w a	C V C V
+1580	Maragua	fly, to	phawa.	phawa.	pʰ a w a		183	pʰ a w a	C V C V
+1589	Santiagueno	fly, to	paay	paay	p aː		183	p aː - -	C V
+1563	Chetilla	fly, to	pari	pari	p a r i		34	p a r i	C V C V
+1568	Huallaga	fly, to	pa:.ri.	pa:.ri.	p aː r i		34	p aː r i	C V C V
+1572	HuarazHuailas	fly, to	paari	paari	p aː r i		34	p aː r i	C V C V
+1574	Inkawasi	fly, to	pa.ri.	pa.ri.	p a r i		34	p a r i	C V C V
+7370	Jauja	fly, to	paaliy	paaliy	p aː l i		34	p aː l i	C V C V
+1582	Pacaraos	fly, to	paari	paari	p aː ɾ i		34	p aː ɾ i	C V C V
+3775	Apuri	foot	traki	traki	ʈ a k i		764	ʈ a k i	C V C V
+3776	Apurimac	foot	chaki	chaki	tʃ a k i		764	tʃ a k i	C V C V
+3778	Atalla	foot	čaki	čaki	tʃ a k i		764	tʃ a k i	C V C V
+3779	Ayacucho	foot	chaki	chaki	tʃ a k i		764	tʃ a k i	C V C V
+7204	Azuay	foot	chaqui	chaqui	tʃ a k i		764	tʃ a k i	C V C V
+3782	Chachapoyas	foot	ĉaki	ĉaki	ʈʂ a k i		764	ʈʂ a k i	C V C V
+3783	Chacpar	foot	čaki	čaki	tʃ a k i		764	tʃ a k i	C V C V
+3784	Chetilla	foot	ĉaki	ĉaki	ʈʂ a k i		764	ʈʂ a k i	C V C V
+3789	Huallaga	foot	čaki	čaki	tʃ a k i		764	tʃ a k i	C V C V
+3793	Huangascar	foot	traki	traki	ʈ a k i		764	ʈ a k i	C V C V
+3794	HuarazHuailas	foot	chaki	chaki	tʃ a k i		764	tʃ a k i	C V C V
+3795	Imbabura	foot	chaki	chaki	tʃ a k i		764	tʃ a k i	C V C V
+3796	Inkawasi	foot	ĉaki	ĉaki	ʈʂ a k i		764	ʈʂ a k i	C V C V
+7371	Jauja	foot	traki	traki	ʈʂ a k i		764	ʈʂ a k i	C V C V
+3804	Maragua	foot	čaki	čaki	tʃ a k i		764	tʃ a k i	C V C V
+3805	Napo	foot	chaqui	chaqui	tʃ a k i		764	tʃ a k i	C V C V
+3806	Pacaraos	foot	traki	traki	ʈʂ a k i		764	ʈʂ a k i	C V C V
+3810	Puno	foot	čaki	čaki	tʃ a k i		764	tʃ a k i	C V C V
+3814	Santiagueno	foot	chaki	chaki	tʃ a x i		764	tʃ a x i	C V C V
+3824	Yanac	foot	ĉaki	ĉaki	ʈʂ a k i		764	ʈʂ a k i	C V C V
+3097	Apuri	forehead	paqtra	paqtra	p a q ʈ a		206	p a q ʈ a	C V C C V
+7481	Huangascar	forehead	paqtra	paqtra	p a q ʈ a		206	p a q ʈ a	C V C C V
+7373	Jauja	forehead	paqtra	paqtra	p a ʔ ʈʂ a		206	p a ʔ ʈʂ a	C V C C V
+3099	Apurimac	forehead	mati	mati	m a t i		202	m a t i	C V C V
+7191	Azuay	forehead	mati	mati	m a t i		202	m a t i	C V C V
+3131	Puno	forehead	mat'i	mat'i	m a tʼ i		202	m a tʼ i	C V C V
+3101	Atalla	forehead	urku	urku	u r k u		204	u r k u	V C C V
+3102	Ayacucho	forehead	urku	urku	u ɾ k u		204	u ɾ k u	V C C V
+3105	Chachapoyas	forehead	urku	urku	u r k u		204	u r k u	V C C V
+3106	Chacpar	forehead	urku	urku	u r k u		204	u r k u	V C C V
+3107	Chetilla	forehead	urku	urku	u r k u		204	u r k u	V C C V
+3112	Huallaga	forehead	urku	urku	u r k u		204	u r k u	V C C V
+3116	HuarazHuailas	forehead	urku	urku	u ɾ k u		204	u ɾ k u	V C C V
+3118	Inkawasi	forehead	urku	urku	u r k u		204	u r k u	V C C V
+7372	Jauja	forehead	ulku	ulku	u l k u		204	u l k u	V C C V
+3143	Yanac	forehead	urku	urku	u r k u		204	u r k u	V C C V
+3972	Apuri	four	tawa	tawa	t a w a		214	t a w a	C V C V
+3973	Apurimac	four	tawa	tawa	t a w a		214	t a w a	C V C V
+3975	Atalla	four	tawa	tawa	t a w a		214	t a w a	C V C V
+3976	Ayacucho	four	tawa	tawa	t a w a		214	t a w a	C V C V
+3990	Huangascar	four	tawa	tawa	t a w a		214	t a w a	C V C V
+7375	Jauja	four	tawa	tawa	t a w a		214	t a w a	C V C V
+4000	Maragua	four	tawa	tawa	t a w a		214	t a w a	C V C V
+4006	Puno	four	tawa	tawa	t a w a		214	t a w a	C V C V
+4010	Santiagueno	four	taa	taa	t aː		214	t aː - -	C V
+7172	Azuay	four	chuscu	chuscu	tʃ u s k u		215	tʃ u s k u	C V C C V
+3979	Chachapoyas	four	chusku	chusku	tʃ u s k u		215	tʃ u s k u	C V C C V
+3980	Chacpar	four	čusku	čusku	tʃ u s k u		215	tʃ u s k u	C V C C V
+3981	Chetilla	four	ĉusku	ĉusku	ʈʂ u s k u		215	ʈʂ u s k u	C V C C V
+3986	Huallaga	four	čusku	čusku	tʃ u s k u		215	tʃ u s k u	C V C C V
+3991	HuarazHuailas	four	chusku	chusku	tʃ u s k u		215	tʃ u s k u	C V C C V
+3992	Imbabura	four	chusku	chusku	tʃ u s k u		215	tʃ u s k u	C V C C V
+7374	Jauja	four	trusku	trusku	ʈʂ u s k u		215	ʈʂ u s k u	C V C C V
+4001	Napo	four	chuscu	chuscu	tʃ u s k u		215	tʃ u s k u	C V C C V
+4002	Pacaraos	four	trusku	trusku	ʈʂ u s k u		215	ʈʂ u s k u	C V C C V
+4019	Yanac	four	ĉusku	ĉusku	ʈʂ u s k u		215	ʈʂ u s k u	C V C C V
+4415	Apuri	fox	atuq	atuq	a t o q		224	a t o q	V C V C
+4416	Apurimac	fox	atoq	atoq	a t o q		224	a t o q	V C V C
+4418	Atalla	fox	atuχ	atuχ	a t u χ		224	a t u χ	V C V C
+4419	Ayacucho	fox	atoq	atoq	a t o χ		224	a t o χ	V C V C
+4421	Chachapoyas	fox	atuk	atuk	a t u k		224	a t u k	V C V C
+4422	Chacpar	fox	atuq	atuq	a t u q		224	a t u q	V C V C
+4423	Chetilla	fox	atoq	atoq	a t o q		224	a t o q	V C V C
+4428	Huallaga	fox	atuχ	atuχ	a t u χ		224	a t u χ	V C V C
+4431	Huangascar	fox	atuq	atuq	a t o q		224	a t o q	V C V C
+4432	HuarazHuailas	fox	atoq	atoq	a t o q		224	a t o q	V C V C
+7376	Jauja	fox	atuq	atuq	a t u ʔ		224	a t u ʔ	V C V C
+4440	Maragua	fox	atuχ	atuχ	a t u χ		224	a t u χ	V C V C
+4441	Pacaraos	fox	achuq	achuq	a tʃ o χ		224	a tʃ o χ	V C V C
+4445	Puno	fox	atuχ	atuχ	a t u χ		224	a t u χ	V C V C
+4448	Santiagueno	fox	atoq	atoq	a t o χ		224	a t o χ	V C V C
+4456	Yanac	fox	atuq	atuq	a t u q		224	a t u q	V C V C
+725	Apuri	full	hunta	hunta	h u n t a		233	h u n t a	C V C C V
+727	Apurimac	full	huntay	huntay	h u n t a		233	h u n t a	C V C C V
+729	Atalla	full	hunta	hunta	h u n t a		233	h u n t a	C V C C V
+730	Ayacucho	full	hunta	hunta	h u n t a		233	h u n t a	C V C C V
+7278	Azuay	full	junda	junda	h u n d a		233	h u n d a	C V C C V
+733	Chachapoyas	full	junta	junta	x u n d a		233	x u n d a	C V C C V
+734	Chacpar	full	hunta	hunta	h u n t a		233	h u n t a	C V C C V
+735	Chetilla	full	unda	unda	u n d a		233	- u n d a	V C C V
+741	Huallaga	full	hunta	hunta	h u n t a		233	h u n t a	C V C C V
+744	Huangascar	full	hunta	hunta	h u n t a		233	h u n t a	C V C C V
+745	HuarazHuailas	full	huntay	huntay	h u n t ai		233	h u n t ai	C V C C V
+746	Imbabura	full	junda	junda	x u n d a		233	x u n d a	C V C C V
+747	Inkawasi	full	unda	unda	u n d a		233	- u n d a	V C C V
+7377	Jauja	full	hunta	hunta	h u n t a		233	h u n t a	C V C C V
+753	Maragua	full	hunt'a	hunt'a	h u n tʼ a		233	h u n tʼ a	C V C C V
+754	Napo	full	junda	junda	h u n d a		233	h u n d a	C V C C V
+755	Pacaraos	full	hunta	hunta	x u n t a		233	x u n t a	C V C C V
+759	Puno	full	hunt'a	hunt'a	h u n tʼ a		233	h u n tʼ a	C V C C V
+763	Santiagueno	full	unta	unta	u n t a		233	- u n t a	V C C V
+771	Yanac	full	unta	unta	u n t a		233	- u n t a	V C C V
+2497	Apuri	give, to	qu-	qu-	q o		243	q o - -	C V
+2498	Apurimac	give, to	qo	qo	q o		243	q o - -	C V
+2500	Atalla	give, to	χu.	χu.	χ u		243	χ u - -	C V
+2501	Ayacucho	give, to	qo	qo	χ o		243	χ o - -	C V
+7311	Azuay	give, to	ku-na	ku-na	k u n a		243	k u n a	C V C V
+2504	Chachapoyas	give, to	ku	ku	k u		243	k u - -	C V
+2505	Chacpar	give, to	ġu.	ġu.	ɢ u		243	ɢ u - -	C V
+2506	Chetilla	give, to	qu.	qu.	q u		243	q u - -	C V
+2511	Huallaga	give, to	qu.	qu.	q u		243	q u - -	C V
+2514	Huangascar	give, to	qu-	qu-	q o		243	q o - -	C V
+2515	Imbabura	give, to	kuna	kuna	k u n a		243	k u n a	C V C V
+2516	Inkawasi	give, to	qu.	qu.	q u		243	q u - -	C V
+7378	Jauja	give, to	quy	quy	ʔ u		243	ʔ u - -	C V
+2522	Maragua	give, to	qu.	qu.	q u		243	q u - -	C V
+2523	Napo	give, to	cuna	cuna	k u n a		243	k u n a	C V C V
+2524	Pacaraos	give, to	qu	qu	χ o		243	χ o - -	C V
+2528	Puno	give, to	qu.	qu.	q u		243	q u - -	C V
+2531	Santiagueno	give, to	qoy	qoy	q o		243	q o - -	C V
+2538	Yanac	give, to	qu.	qu.	q u		243	q u - -	C V
+1279	Apuri	go, to	aywa-	aywa-	ai w a		101	ai w a	V C V
+1289	Chacpar	go, to	e:wa	e:wa	eː w a		101	eː w a	V C V
+1295	Huallaga	go, to	away	away	a w a		101	a w a	V C V
+1299	Huangascar	go, to	aywa-	aywa-	ai w a		101	ai w a	V C V
+1301	HuarazHuailas	go, to	ayway	ayway	ai w a		101	ai w a	V C V
+1297	Jauja	go, to	ayway	ayway	ai w a		101	ai w a	V C V
+1330	Yanac	go, to	e:wa	e:wa	eː w a		101	eː w a	V C V
+1280	Apuri	go, to	ri-	ri-	ɾ i		251	ɾ i - -	C V
+1281	Apurimac	go, to	ri	ri	r i		251	r i - -	C V
+1283	Atalla	go, to	ri.	ri.	r i		251	r i - -	C V
+1284	Ayacucho	go, to	ri	ri	ɾ i		251	ɾ i - -	C V
+7288	Azuay	go, to	ri-na	ri-na	ɾ i n a		251	ɾ i n a	C V C V
+1288	Chachapoyas	go, to	ri	ri	r i		251	r i - -	C V
+1290	Chetilla	go, to	ri	ri	r i		251	r i - -	C V
+1300	Huangascar	go, to	ri-	ri-	ɾ i		251	ɾ i - -	C V
+1302	Imbabura	go, to	rina	rina	ɾ i n a		251	ɾ i n a	C V C V
+1303	Inkawasi	go, to	ri., ři	ri.	r i		251	r i - -	C V
+1311	Maragua	go, to	ri.	ri.	r i		251	r i - -	C V
+1312	Napo	go, to	rina	rina	r i n a		251	r i n a	C V C V
+1313	Pacaraos	go, to	ri	ri	ɾ i		251	ɾ i - -	C V
+1317	Puno	go, to	ri.	ri.	r i		251	r i - -	C V
+1322	Santiagueno	go, to	riy	riy	ɾ iː		251	ɾ iː - -	C V
+6159	Apurimac	gold	qori	qori	q o r i		260	q o r i	C V C V
+6161	Atalla	gold	χuri	χuri	χ u r i		260	χ u r i	C V C V
+6162	Ayacucho	gold	qori	qori	χ o ɾ i		260	χ o ɾ i	C V C V
+7246	Azuay	gold	curi	curi	k u ɾ i		260	k u ɾ i	C V C V
+6164	Chachapoyas	gold	kuri	kuri	k u r i		260	k u r i	C V C V
+6165	Chacpar	gold	quri	quri	q u r i		260	q u r i	C V C V
+6166	Chetilla	gold	quri	quri	q u r i		260	q u r i	C V C V
+6171	Huallaga	gold	quri	quri	q u r i		260	q u r i	C V C V
+6174	HuarazHuailas	gold	qori	qori	q o ɾ i		260	q o ɾ i	C V C V
+6175	Imbabura	gold	kuri	kuri	k u ɾ i		260	k u ɾ i	C V C V
+7461	Jauja	gold	curi	curi	q u r i		260	q u r i	C V C V
+6182	Maragua	gold	quri	quri	q u r i		260	q u r i	C V C V
+6183	Napo	gold	curi	curi	k u r i		260	k u r i	C V C V
+6187	Puno	gold	quri	quri	q u r i		260	q u r i	C V C V
+6190	Santiagueno	gold	qori	qori	q o ɾ i		260	q o ɾ i	C V C V
+6201	Yanac	gold	quri	quri	q u r i		260	q u r i	C V C V
+6820	Apuri	grass	qiwa	qiwa	q e w a		197	q e w a	C V C V
+7259	Azuay	grass	quihua	quihua, yuyu	k i w a		197	k i w a	C V C V
+6827	Chachapoyas	grass	kiwa, waylla	kiwa	k i w a		197	k i w a	C V C V
+6830	Chetilla	grass	qiwa	qiwa	q i w a		197	q i w a	C V C V
+7514	Huallaga	grass	qiwa	qiwa	q e w a		197	q e w a	C V C V
+6839	Huangascar	grass	qiwa	qiwa	q e w a		197	q e w a	C V C V
+6840	HuarazHuailas	grass	qewa	qewa	q e w a		197	q e w a	C V C V
+6841	Imbabura	grass	jiwa	jiwa	x i w a		197	x i w a	C V C V
+6842	Inkawasi	grass	χiwa	χiwa	χ i w a		197	χ i w a	C V C V
+7456	Jauja	grass	qiwa	qiwa	q i w a		197	q i w a	C V C V
+6850	Napo	grass	quihua	quihua	k i w a		197	k i w a	C V C V
+6851	Pacaraos	grass	qiwa	qiwa	χ e w a		197	χ e w a	C V C V
+6821	Apurimac	grass	qora	qora	q o r a		268	q o r a	C V C V
+6823	Atalla	grass	χura	χura	χ u r a		268	χ u r a	C V C V
+6824	Ayacucho	grass	qora	qora	χ o ɾ a		268	χ o ɾ a	C V C V
+6829	Chacpar	grass	qura	qura	q u r a		268	q u r a	C V C V
+7455	Jauja	grass	qula	qula	q u l a		268	q u l a	C V C V
+6849	Maragua	grass	qura	qura	q u r a		268	q u r a	C V C V
+6855	Puno	grass	qura	qura	q u r a		268	q u r a	C V C V
+6867	Yanac	grass	qura	qura	q u r a		268	q u r a	C V C V
+100	Apurimac	green	qomir	qomir	q o m i r		279	q o m i r	C V C V C
+102	Ayacucho	green	qumiř	qumiř	χ u m i ɽ	Huancavelica only	279	χ u m i ɽ	C V C V C
+120	Maragua	green	q'umir	q'umir	qʼ u m i r		279	qʼ u m i r	C V C V C
+126	Puno	green	q'umir	q'umir	qʼ u m i r		279	qʼ u m i r	C V C V C
+128	Santiagueno	green	qomer	qomer	q o m e ɾ		279	q o m e ɾ	C V C V C
+104	Chachapoyas	green	chikyaj	chikyaj	tʃ i k j a x		282	tʃ i k j a x	C V C C V C
+106	Chetilla	green	čiγyax	čiγyax	tʃ i ʁ j a x		282	tʃ i ʁ j a x	C V C C V C
+115	Inkawasi	green	čiχyaχ	čiχyaχ	tʃ i χ j a χ		282	tʃ i χ j a χ	C V C C V C
+135	Yanac	green	tsiqyaq	tsiqyaq	ts i q j a q		282	ts i q j a q	C V C C V C
+105	Chacpar	green	verde	verde	b e r d e		281	b e r d e	C V C C V
+110	Huallaga	green	verde	verde	b e r d e		281	b e r d e	C V C C V
+113	HuarazHuailas	green	beri	beri	b e ɾ i		281	b e ɾ - i	C V C V
+114	Imbabura	green	birdi	birdi	b i ɾ d i		281	b i ɾ d i	C V C C V
+121	Napo	green	birdi	birdi	b i r d i		281	b i r d i	C V C C V
+122	Pacaraos	green	berdi	berdi	b e r d i		281	b e r d i	C V C C V
+3146	Apuri	hair	aqcha	aqcha	a q tʃ a		287	a q tʃ a	V C C V
+7192	Azuay	hair	agcha	agcha	a g tʃ a		287	a g tʃ a	V C C V
+3155	Chacpar	hair	aqtsa	aqtsa	a q ts a		287	a q ts a	V C C V
+3156	Chetilla	hair	aχča	aχča	a χ tʃ a		287	a χ tʃ a	V C C V
+3161	Huallaga	hair	aχča	aχča	a χ tʃ a		287	a χ tʃ a	V C C V
+3164	Huangascar	hair	aqcha, chukcha	aqcha	a q tʃ a		287	a q tʃ a	V C C V
+3166	HuarazHuailas	hair	aqtsa	aqtsa	a q ts a		287	a q ts a	V C C V
+3167	Imbabura	hair	akcha	akcha	a k tʃ a		287	a k tʃ a	V C C V
+3168	Inkawasi	hair	aχča	aχča	a χ tʃ a		287	a χ tʃ a	V C C V
+7379	Jauja	hair	aqcha	aqcha	a ʔ tʃ a		287	a ʔ tʃ a	V C C V
+3176	Napo	hair	accha	accha	a k tʃ a		287	a k tʃ a	V C C V
+3177	Pacaraos	hair	aqsa	aqsa	a χ s a		287	a χ s a	V C C V
+3195	Yanac	hair	aqtsa	aqtsa	a q ts a		287	a q ts a	V C C V
+3147	Apuri	hair	chukcha	chukcha	tʃ u k tʃ a		286	tʃ u k tʃ a	C V C C V
+3148	Apurimac	hair	chukcha	chukcha	tʃ u k tʃ a		286	tʃ u k tʃ a	C V C C V
+3150	Atalla	hair	čukča	čukča	tʃ u k tʃ a		286	tʃ u k tʃ a	C V C C V
+3151	Ayacucho	hair	chukcha	chukcha	tʃ u k tʃ a		286	tʃ u k tʃ a	C V C C V
+3154	Chachapoyas	hair	chujcha	chujcha	tʃ u x tʃ a		286	tʃ u x tʃ a	C V C C V
+3165	Huangascar	hair	aqcha, chukcha	chukcha	tʃ u k tʃ a		286	tʃ u k tʃ a	C V C C V
+3175	Maragua	hair	čuxča	čuxča	tʃ u x tʃ a		286	tʃ u x tʃ a	C V C C V
+3181	Puno	hair	čuxča	čuxča	tʃ u x tʃ a		286	tʃ u x tʃ a	C V C C V
+3185	Santiagueno	hair	chukcha	chukcha	tʃ u x tʃ a		286	tʃ u x tʃ a	C V C C V
+3585	Apuri	hand	maki	maki	m a k i		295	m a k i	C V C V
+3586	Apurimac	hand	maki	maki	m a k i		295	m a k i	C V C V
+3588	Atalla	hand	maki	maki	m a k i		295	m a k i	C V C V
+3589	Ayacucho	hand	maki	maki	m a k i		295	m a k i	C V C V
+7200	Azuay	hand	maqui	maqui	m a k i		295	m a k i	C V C V
+3592	Chachapoyas	hand	maki	maki	m a k i		295	m a k i	C V C V
+3593	Chacpar	hand	maki	maki	m a k i		295	m a k i	C V C V
+3594	Chetilla	hand	maki	maki	m a k i		295	m a k i	C V C V
+3599	Huallaga	hand	maki	maki	m a k i		295	m a k i	C V C V
+3602	Huangascar	hand	maki	maki	m a k i		295	m a k i	C V C V
+3603	HuarazHuailas	hand	maki	maki	m a k i		295	m a k i	C V C V
+3604	Imbabura	hand	maki	maki	m a k i		295	m a k i	C V C V
+3605	Inkawasi	hand	maki	maki	m a k i		295	m a k i	C V C V
+7380	Jauja	hand	maki	maki	m a k i		295	m a k i	C V C V
+3612	Maragua	hand	maki	maki	m a k i		295	m a k i	C V C V
+3613	Napo	hand	maqui	maqui	m a k i		295	m a k i	C V C V
+3614	Pacaraos	hand	maki	maki	m a k i		295	m a k i	C V C V
+3618	Puno	hand	maki	maki	m a k i		295	m a k i	C V C V
+3622	Santiagueno	hand	maki	maki	m a x i		295	m a x i	C V C V
+3631	Yanac	hand	maki	maki	m a k i		295	m a k i	C V C V
+1186	Apuri	happy (be)	kushi	kushi	k u ʃ i		303	k u ʃ - - i -	C V C V
+1187	Apurimac	happy (be)	kusa, kusi	kusa	k u s a		303	k u s - - a -	C V C V
+1190	Atalla	happy (be)	kusi	kusi	k u s i		303	k u s - - i -	C V C V
+1191	Ayacucho	happy (be)	kusi	kusi	k u s i		303	k u s - - i -	C V C V
+7286	Azuay	happy (be)	cushi-ug	cushi-ug	k u ʃ i u g		303	k u ʃ i - u g	C V C V V C
+1194	Chachapoyas	happy (be)	kushi	kushi	k u ʃ i		303	k u ʃ - - i -	C V C V
+1195	Chacpar	happy (be)	kuši	kuši	k u ʃ i		303	k u ʃ - - i -	C V C V
+1196	Chetilla	happy (be)	kuši	kuši	k u ʃ i		303	k u ʃ - - i -	C V C V
+1201	Huallaga	happy (be)	kuši	kuši	k u ʃ i		303	k u ʃ - - i -	C V C V
+1204	Huangascar	happy (be)	kushi	kushi	k u ʃ i		303	k u ʃ - - i -	C V C V
+1205	HuarazHuailas	happy (be)	kushi	kushi	k u ʃ i		303	k u ʃ - - i -	C V C V
+1206	Imbabura	happy (be)	kushilla	kushilla	k u ʃ i ʎ a		303	k u ʃ i ʎ a -	C V C V C V
+1207	Inkawasi	happy (be)	kuši	kuši	k u ʃ i		303	k u ʃ - - i -	C V C V
+7381	Jauja	happy (be)	kushisha	kushisha	k u ʃ i ʎ a		303	k u ʃ i ʎ a -	C V C V C V
+1213	Maragua	happy (be)	kusi	kusi	k u s i		303	k u s - - i -	C V C V
+1214	Napo	happy (be)	cushi	cushi	k u ʃ i	alegría	303	k u ʃ - - i -	C V C V
+1215	Pacaraos	happy (be)	kushi-ku	kushi-ku	k u ʃ i k u		303	k u ʃ i k u -	C V C V C V
+1219	Puno	happy (be)	kusi	kusi	k u s i		303	k u s - - i -	C V C V
+1222	Santiagueno	happy (be)	kusi	kusi	k u s i		303	k u s - - i -	C V C V
+1230	Yanac	happy (be)	kuši	kuši	k u ʃ i		303	k u ʃ - - i -	C V C V
+3002	Apuri	head	uma	uma	u m a		309	u m a	V C V
+3003	Apurimac	head	uma	uma	u m a		309	u m a	V C V
+3005	Atalla	head	uma	uma	u m a		309	u m a	V C V
+3006	Ayacucho	head	uma	uma	u m a		309	u m a	V C V
+7189	Azuay	head	uma	uma	u m a		309	u m a	V C V
+3009	Chachapoyas	head	uma	uma	u m a		309	u m a	V C V
+3010	Chacpar	head	uma	uma	u m a		309	u m a	V C V
+3011	Chetilla	head	uma	uma	u m a		309	u m a	V C V
+3016	Huallaga	head	uma	uma	u m a		309	u m a	V C V
+3019	Huangascar	head	uma	uma	u m a		309	u m a	V C V
+3020	HuarazHuailas	head	uma	uma	u m a		309	u m a	V C V
+3021	Imbabura	head	uma	uma	u m a		309	u m a	V C V
+3022	Inkawasi	head	uma	uma	u m a		309	u m a	V C V
+7382	Jauja	head	uma	uma	u m a		309	u m a	V C V
+3029	Maragua	head	uma	uma	u m a		309	u m a	V C V
+3030	Napo	head	uma	uma	u m a		309	u m a	V C V
+3031	Pacaraos	head	uma	uma	u m a		309	u m a	V C V
+3035	Puno	head	uma	uma	u m a		309	u m a	V C V
+3039	Santiagueno	head	uma	uma	u m a		309	u m a	V C V
+2222	Apuri	hear, to	uyari	uyari	u j a		319	u j - - a	V C V
+2223	Atalla	hear, to	uya.ri.	uya.ri.	u j a r i		319	u j a r i	V C V C V
+2224	Ayacucho	hear, to	uyari	uyari	u j a ɾ i		319	u j a ɾ i	V C V C V
+7305	Azuay	hear, to	uya-na	uya-na	u j a n a		319	u j a n a	V C V C V
+2229	Chetilla	hear, to	uya.	uya.	u j a		319	u j - - a	V C V
+2237	Huangascar	hear, to	uyari	uyari	u j a		319	u j - - a	V C V
+2239	Imbabura	hear, to	uyana	uyana	u j a n a		319	u j a n a	V C V C V
+2240	Inkawasi	hear, to	uya.	uya.	u j a		319	u j - - a	V C V
+7383	Jauja	hear, to	uya	uya	u j a		319	u j - - a	V C V
+2246	Maragua	hear, to	uya.ri.	uya.ri.	u j a ɾ i		319	u j a ɾ i	V C V C V
+2247	Napo	hear, to	uyana	uyana	u j a n a		319	u j a n a	V C V C V
+2248	Pacaraos	hear, to	uya	uya	u j a		319	u j - - a	V C V
+2252	Puno	hear, to	uya.ri.	uya.ri.	u j a ɾ i		319	u j a ɾ i	V C V C V
+2256	Santiagueno	hear, to	uyariy	uyariy	u j a ɾ iː		319	u j a ɾ iː	V C V C V
+2227	Chachapoyas	hear, to	wiyari	wiyari	w i j a r i		65	w i j a r i	C V C V C V
+2228	Chacpar	hear, to	wiya.	wiya.	w i j a		65	w i j - - a	C V C V
+2234	Huallaga	hear, to	wiya.	wiya.	w i j a		65	w i j - - a	C V C V
+2238	HuarazHuailas	hear, to	wiyay	wiyay	w i j a		65	w i j - - a	C V C V
+2264	Yanac	hear, to	wiya.	wiya.	w i j a		65	w i j - - a	C V C V
+4318	Apurimac	heart	sonqo	sonqo	s o n q o		328	s o n q o	C V C C V
+4320	Atalla	heart	sunġu	sunġu	s u n ɢ u		328	s u n ɢ u	C V C C V
+4321	Ayacucho	heart	sonqo	sonqo	s o ŋ χ o		328	s o ŋ χ o	C V C C V
+7214	Azuay	heart	shungu	shungu	ʃ u n g u		328	ʃ u n g u	C V C C V
+4324	Chachapoyas	heart	shunku	shunku	ʃ u n g u		328	ʃ u n g u	C V C C V
+4325	Chacpar	heart	šunγu	šunγu	ʃ u n ʁ u		328	ʃ u n ʁ u	C V C C V
+4326	Chetilla	heart	shonqo	shonqo	ʃ o n q o		328	ʃ o n q o	C V C C V
+4331	Huallaga	heart	šunqu	šunqu	ʃ u n q u		328	ʃ u n q u	C V C C V
+4334	Huangascar	heart	shunqu	shunqu	ʃ o ŋ q u		328	ʃ o ŋ q u	C V C C V
+4335	HuarazHuailas	heart	shonqu	shonqu	ʃ o ɲ q u		328	ʃ o ɲ q u	C V C C V
+4336	Imbabura	heart	shungu	shungu	ʃ u n g u		328	ʃ u n g u	C V C C V
+7384	Jauja	heart	shunqu	shunqu	ʂ u n ʔ u		328	ʂ u n ʔ u	C V C C V
+4344	Maragua	heart	sunqu	sunqu	s u n q u		328	s u n q u	C V C C V
+4345	Napo	heart	shungu	shungu	ʃ u n g u		328	ʃ u n g u	C V C C V
+4346	Pacaraos	heart	shunqu	shunqu	ʃ u ɴ χ u		328	ʃ u ɴ χ u	C V C C V
+4350	Puno	heart	sunqu	sunqu	s u n q u		328	s u n q u	C V C C V
+4354	Santiagueno	heart	sonqo	sonqo	s o ŋ q o		328	s o ŋ q o	C V C C V
+4363	Yanac	heart	šunqu	šunqu	ʃ u n q u		328	ʃ u n q u	C V C C V
+809	Apuri	heavy	llasa	llasa	ʎ a s a		339	ʎ a s a -	C V C V
+810	Apurimac	heavy	llasa	llasa	ʎ a s a		339	ʎ a s a -	C V C V
+812	Atalla	heavy	λasa	λasa	ʎ a s a		339	ʎ a s a -	C V C V
+813	Ayacucho	heavy	llasaq	llasaq	ʎ a s a χ		339	ʎ a s a χ	C V C V C
+7280	Azuay	heavy	llashag	llashag	ʎ a ʃ a g		339	ʎ a ʃ a g	C V C V C
+816	Chachapoyas	heavy	llasha	llasha	dʑ a ç a		339	dʑ a ç a -	C V C V
+817	Chacpar	heavy	lasa	lasa	l a s a		339	l a s a -	C V C V
+818	Chetilla	heavy	dyaša	dyaša	ʎ a ʃ a		339	ʎ a ʃ a -	C V C V
+824	Huallaga	heavy	lasa.	lasa.	l a s a		339	l a s a -	C V C V
+827	Huangascar	heavy	llasa	llasa	ʎ a s a		339	ʎ a s a -	C V C V
+828	HuarazHuailas	heavy	lasaq	lasaq	l a s a q		339	l a s a q	C V C V C
+829	Imbabura	heavy	llashaj	llashaj	ʎ a ʃ a x		339	ʎ a ʃ a x	C V C V C
+830	Inkawasi	heavy	žaša	žaša	ʒ a ʃ a		339	ʒ a ʃ a -	C V C V
+7385	Jauja	heavy	llasaq	llasaq	ʎ a s a ʔ		339	ʎ a s a ʔ	C V C V C
+836	Maragua	heavy	λasa	λasa	ʎ a s a		339	ʎ a s a -	C V C V
+837	Napo	heavy	llashaj	llashaj	ʎ a ʃ a		339	ʎ a ʃ a -	C V C V
+838	Pacaraos	heavy	lasa	lasa	l a s a		339	l a s a -	C V C V
+842	Puno	heavy	λasa	λasa	ʎ a s a		339	ʎ a s a -	C V C V
+846	Santiagueno	heavy	lasaq	lasaq	l a s a χ		339	l a s a χ	C V C V C
+854	Yanac	heavy	lasa	lasa	l a s a		339	l a s a -	C V C V
+1646	Apuri	hide, to	paka	paka	p a k a		348	p a k - - a	C V C V
+1647	Apurimac	hide, to	paka	paka	p a k a		348	p a k - - a	C V C V
+1649	Atalla	hide, to	paka.	paka.	p a k a		348	p a k - - a	C V C V
+1650	Ayacucho	hide, to	paka	paka	p a k a		348	p a k - - a	C V C V
+7294	Azuay	hide, to	pacana	pacana	p a k a n a		348	p a k a n a	C V C V C V
+1653	Chachapoyas	hide, to	paka	paka	p a k a		348	p a k - - a	C V C V
+1654	Chacpar	hide, to	paka.	paka	p a k a		348	p a k - - a	C V C V
+1655	Chetilla	hide, to	paka.	paka.	p a k a		348	p a k - - a	C V C V
+1660	Huallaga	hide, to	paka.	paka.	p a k a		348	p a k - - a	C V C V
+1663	Huangascar	hide, to	paka	paka	p a k a		348	p a k - - a	C V C V
+1664	HuarazHuailas	hide, to	pakaay	pakaay	p a k aː		348	p a k - - aː	C V C V
+1665	Imbabura	hide, to	pakana	pakana	p a k a n a		348	p a k a n a	C V C V C V
+1666	Inkawasi	hide, to	paka.	paka.	p a k a		348	p a k - - a	C V C V
+7386	Jauja	hide, to	pakay	pakay	p a k a		348	p a k - - a	C V C V
+1672	Maragua	hide, to	paka.	paka.	p a k a		348	p a k - - a	C V C V
+1673	Napo	hide, to	pacana	pacana	p a k a n a		348	p a k a n a	C V C V C V
+1674	Pacaraos	hide, to	paka	paka	p a k a		348	p a k - - a	C V C V
+1678	Puno	hide, to	paka.	paka.	p a k a		348	p a k - - a	C V C V
+1682	Santiagueno	hide, to	pakay	pakay	p a x a		348	p a x - - a	C V C V
+1690	Yanac	hide, to	paka.	paka.	p a k a		348	p a k - - a	C V C V
+237	Apuri	high up	hanay, witray	hanay	h a n ai		359	h a n ai -	C V C V
+241	Atalla	high up	hana.χ	hana.χ	h a n a χ		359	h a n a χ	C V C V C
+242	Ayacucho	high up	hanaq	hanaq	h a n a χ		359	h a n a χ	C V C V C
+246	Chachapoyas	high up	anaj	anaj	a n a x		359	- a n a x	V C V C
+247	Chacpar	high up	hana	hana	h a n a		359	h a n a -	C V C V
+248	Chetilla	high up	ana.χ	ana.χ	a n a χ		359	- a n a χ	V C V C
+254	Huallaga	high up	hana	hana	h a n a		359	h a n a -	C V C V
+257	Huangascar	high up	hanay, witray	hanay	h a n ai		359	h a n ai -	C V C V
+259	HuarazHuailas	high up	hana	hana	x a ɲ a		359	x a ɲ a -	C V C V
+261	Inkawasi	high up	ana.χ	ana.χ	a n a χ		359	- a n a χ	V C V C
+7335	Jauja	high up	sana	sana	s a n a		359	s a n a -	C V C V
+270	Pacaraos	high up	hana	hana	x a n a		359	x a n a -	C V C V
+280	Santiagueno	high up	anaq	anaq	a n a χ		359	- a n a χ	V C V C
+238	Apuri	high up	hanay, witray	witray	w i ʈ ai		362	w i ʈ ai -	C V C V
+258	Huangascar	high up	hanay, witray	witray	w i ʈ ai		362	w i ʈ ai -	C V C V
+7457	Jauja	high up	wichan	wichan	w i tʃ a n		362	w i tʃ a n	C V C V C
+274	Puno	high up	wiča.y	wičay	w i tʃ ai		362	w i tʃ ai -	C V C V
+289	Yanac	high up	uma	uma	u m a		309	u m a	V C V
+2592	Apuri	hit, to	maqa	maqa	m a q a		256	m a q a	C V C V
+2602	Chachapoyas	hit, to	maka, wakta	maka	m a k a		256	m a k a	C V C V
+7487	Chetilla	hit, to	maqa	maqa	m a q a		256	m a q a	C V C V
+7515	Huallaga	hit, to	maqa	maqa	m a q a		256	m a q a	C V C V
+2612	Huangascar	hit, to	maqa	maqa	m a q a		256	m a q a	C V C V
+2613	HuarazHuailas	hit, to	maqay	maqay	m a q a		256	m a q a	C V C V
+7387	Jauja	hit, to	maqay	maqay	m a ʔ a		256	m a ʔ a	C V C V
+2624	Pacaraos	hit, to	maqa	maqa	m a ʁ a		256	m a ʁ a	C V C V
+2634	Santiagueno	hit, to	makay	makay	m a x a		256	m a x a	C V C V
+2594	Apurimac	hit, to	taka	taka	t a k a		371	t a k - - a	C V C V
+2597	Atalla	hit, to	taka.	taka.	t a k a		371	t a k - - a	C V C V
+2599	Ayacucho	hit, to	waqta, taka	taka	t a k a		371	t a k - - a	C V C V
+2604	Chacpar	hit, to	taka.	taka.	t a k a		371	t a k - - a	C V C V
+2605	Chetilla	hit, to	taka.	taka.	t a k a		371	t a k - - a	C V C V
+2614	Imbabura	hit, to	takana	takana	t a k a n a		371	t a k a n a	C V C V C V
+2615	Inkawasi	hit, to	taka.	taka.	t a k a		371	t a k - - a	C V C V
+2622	Maragua	hit, to	taka.	taka.	t a k a		371	t a k - - a	C V C V
+2629	Puno	hit, to	taka.	taka.	t a k a		371	t a k - - a	C V C V
+2642	Yanac	hit, to	taka.	taka.	t a k a		371	t a k - - a	C V C V
+2598	Ayacucho	hit, to	waqta, taka	waqta	w a χ t a		372	w a χ t - - a	C V C C V
+7313	Azuay	hit, to	huagtana	huagtana	w a g t a n a		372	w a g t a n a	C V C C V C V
+2603	Chachapoyas	hit, to	maka, wakta	wakta	w a k t a		372	w a k t - - a	C V C C V
+4756	Apuri	horn	waqra	waqra	w a q ɾ a		380	w a q ɾ a	C V C C V
+4757	Apurimac	horn	waqra	waqra	w a q r a		380	w a q r a	C V C C V
+4759	Atalla	horn	waχ(ə)ra	waχra	w a χ r a		380	w a χ r a	C V C C V
+4760	Ayacucho	horn	waqra	waqra	w a χ ɾ a		380	w a χ ɾ a	C V C C V
+4763	Chachapoyas	horn	wakra	wakra	w a k r a		380	w a k r a	C V C C V
+4764	Chacpar	horn	waγ(ə)ra	waγra	w a ʁ r a		380	w a ʁ r a	C V C C V
+4765	Chetilla	horn	waqra	waqra	w a q r a		380	w a q r a	C V C C V
+4771	Huallaga	horn	waχra	waχra	w a χ r a		380	w a χ r a	C V C C V
+4774	Huangascar	horn	waqra	waqra	w a q ɾ a		380	w a q ɾ a	C V C C V
+4775	HuarazHuailas	horn	waqra	waqra	w a q ɾ a		380	w a q ɾ a	C V C C V
+4777	Inkawasi	horn	waχra	waχra	w a χ r a		380	w a χ r a	C V C C V
+7388	Jauja	horn	waqla	waqla	w a ʔ l a		380	w a ʔ l a	C V C C V
+4783	Maragua	horn	waχra	waχra	w a χ r a		380	w a χ r a	C V C C V
+4785	Pacaraos	horn	waqra	waqra	w a χ ɾ a		380	w a χ ɾ a	C V C C V
+4790	Puno	horn	waχra	waχra	w a χ r a		380	w a χ r a	C V C C V
+4794	Santiagueno	horn	waqra	waqra	w a χ ɾ a		380	w a χ ɾ a	C V C C V
+4803	Yanac	horn	waqra	waqra	w a q r a		380	w a q r a	C V C C V
+7222	Azuay	horn	gachu	gachu	g a tʃ u		381	g a tʃ u	C V C V
+4776	Imbabura	horn	kachu	kachu	k a tʃ u		381	k a tʃ u	C V C V
+4784	Napo	horn	cachu	cachu	k a tʃ u		381	k a tʃ u	C V C V
+5326	Apuri	husband	qusa	qusa	q o s a		389	q o s a	C V C V
+5327	Apurimac	husband	wosa	wosa	w o s a		389	w o s a	C V C V
+5329	Atalla	husband	χusa	χusa	χ u s a		389	χ u s a	C V C V
+5330	Ayacucho	husband	qosa	qosa	χ o s a		389	χ o s a	C V C V
+7232	Azuay	husband	cusa	cusa	k u s a		389	k u s a	C V C V
+5334	Chachapoyas	husband	kusa	kusa	k u s a		389	k u s a	C V C V
+5335	Chacpar	husband	quwa	quwa	q u w a		389	q u w a	C V C V
+5336	Chetilla	husband	qusa	qusa	q u s a		389	q u s a	C V C V
+5341	Huallaga	husband	qusa	qusa	q u s a		389	q u s a	C V C V
+5346	Huangascar	husband	qusa	qusa	q o s a		389	q o s a	C V C V
+5347	HuarazHuailas	husband	qowa	qowa	q o w a		389	q o w a	C V C V
+5348	Imbabura	husband	kusa	kusa	k u s a		389	k u s a	C V C V
+5349	Inkawasi	husband	χusa	χusa	χ u s a		389	χ u s a	C V C V
+5343	Jauja	husband	qusa	qusa	ʔ u s a		389	ʔ u s a	C V C V
+5356	Maragua	husband	qusa	qusa	q u s a		389	q u s a	C V C V
+5357	Napo	husband	causa	causa	k au s a		389	k au s a	C V C V
+5358	Pacaraos	husband	quwa	quwa	χ o w a		389	χ o w a	C V C V
+5362	Puno	husband	qusa	qusa	q u s a		389	q u s a	C V C V
+5367	Santiagueno	husband	qosa	qosa	q o s a		389	q o s a	C V C V
+5375	Yanac	husband	qusa	qusa	q u s a		389	q u s a	C V C V
+3875	Apurimac	knee	moqo	moqo	m o q o		400	m o q o	C V C V
+3877	Atalla	knee	muχu	muχu	m u χ u		400	m u χ u	C V C V
+3878	Ayacucho	knee	moqo	moqo	m o χ o		400	m o χ o	C V C V
+3902	Maragua	knee	muqu	muqu	m u q u		400	m u q u	C V C V
+3874	Apuri	knee	qunqur	qunqur	q o n q o ɾ		399	q o n q o ɾ -	C V C C V C
+7206	Azuay	knee	cunguri	cunguri	k u n g u ɾ i		399	k u n g u ɾ i	C V C C V C V
+3881	Chachapoyas	knee	kunkuri	kunkuri	k u n g u r i		399	k u n g u r i	C V C C V C V
+3882	Chacpar	knee	qunγu	qunγu	q u n ʁ u		399	q u n ʁ u - -	C V C C V
+3883	Chetilla	knee	qunguri	qunguri	q u n g u r i		399	q u n g u r i	C V C C V C V
+3889	Huallaga	knee	qunqur	qunqur	q u n q u r		399	q u n q u r -	C V C C V C
+3893	Huangascar	knee	qunqur	qunqur	q o n q o ɾ		399	q o n q o ɾ -	C V C C V C
+3894	HuarazHuailas	knee	qonqor	qonqor	q o ɲ q o ɾ		399	q o ɲ q o ɾ -	C V C C V C
+3895	Imbabura	knee	kunguri	kunguri	k u n g u ɾ i		399	k u n g u ɾ i	C V C C V C V
+3896	Inkawasi	knee	qunġuri	qunġuri	q u n ɢ u r i		399	q u n ɢ u r i	C V C C V C V
+3891	Jauja	knee	qunqul	qunqul	ʔ u n ʔ u l		399	ʔ u n ʔ u l -	C V C C V C
+3903	Napo	knee	cunguri	cunguri	k u n g u r i		399	k u n g u r i	C V C C V C V
+3904	Pacaraos	knee	qunqur	qunqur	χ o ɴ χ u ɾ		399	χ o ɴ χ u ɾ -	C V C C V C
+3908	Puno	knee	qunquri	qunquri	q u n q u r i		399	q u n q u r i	C V C C V C V
+3912	Santiagueno	knee	qonqori	qonqori	q o ŋ q o ɾ i		399	q o ŋ q o ɾ i	C V C C V C V
+3920	Yanac	knee	qunquri	qunquri	q u n q u r i		399	q u n q u r i	C V C C V C V
+2266	Apuri	know, to	yatra-	yatra-	j a ʈ a		409	j a ʈ - - a	C V C V
+2267	Apurimac	know, to	yacha	yacha	j a tʃ a		409	j a tʃ - - a	C V C V
+2269	Atalla	know, to	yača.	yača.	j a tʃ a		409	j a tʃ - - a	C V C V
+2270	Ayacucho	know, to	yacha	yacha	j a tʃ a		409	j a tʃ - - a	C V C V
+7306	Azuay	know, to	yacha-na	yacha-na	j a tʃ a n a		409	j a tʃ a n a	C V C V C V
+2273	Chachapoyas	know, to	yaĉa	yaĉa	j a ʈʂ a		409	j a ʈʂ - - a	C V C V
+2274	Chacpar	know, to	yača.	yača.	j a tʃ a		409	j a tʃ - - a	C V C V
+2275	Chetilla	know, to	yaĉa.	yaĉa.	j a ʈʂ a		409	j a ʈʂ - - a	C V C V
+2280	Huallaga	know, to	yača.	yača.	j a tʃ a		409	j a tʃ - - a	C V C V
+2283	Huangascar	know, to	yatra-	yatra-	j a ʈ a		409	j a ʈ - - a	C V C V
+2284	HuarazHuailas	know, to	yachay	yachay	j a tʃ a		409	j a tʃ - - a	C V C V
+2285	Imbabura	know, to	yachana	yachana	j a tʃ a n a		409	j a tʃ a n a	C V C V C V
+2286	Inkawasi	know, to	yaĉa.	yaĉa.	j a ʈʂ a		409	j a ʈʂ - - a	C V C V
+7389	Jauja	know, to	yatray	yatray	j a ʈʂ a		409	j a ʈʂ - - a	C V C V
+2292	Maragua	know, to	yača.	yača.	j a tʃ a		409	j a tʃ - - a	C V C V
+2293	Napo	know, to	yachana	yachana	j a tʃ a n a		409	j a tʃ a n a	C V C V C V
+2294	Pacaraos	know, to	yatra	yatra	j a ʈʂ a		409	j a ʈʂ - - a	C V C V
+2298	Puno	know, to	yača.	yača.	j a tʃ a		409	j a tʃ - - a	C V C V
+2302	Santiagueno	know, to	yachay	yachay	j a tʃ a		409	j a tʃ - - a	C V C V
+2310	Yanac	know, to	yaĉa.	yaĉa.	j a ʈʂ a		409	j a ʈʂ - - a	C V C V
+2404	Apuri	laugh, to	asi-	asi-	a s i		416	a s - - i	V C V
+2405	Apurimac	laugh, to	asi	asi	a s i		416	a s - - i	V C V
+2407	Atalla	laugh, to	asi.	asi.	a s i		416	a s - - i	V C V
+2408	Ayacucho	laugh, to	asi	asi	a s i		416	a s - - i	V C V
+7309	Azuay	laugh, to	asi-na	asi-na	a s i n a		416	a s i n a	V C V C V
+2411	Chachapoyas	laugh, to	asi	asi	a s i		416	a s - - i	V C V
+2412	Chacpar	laugh, to	asi.	asi.	a s i		416	a s - - i	V C V
+2413	Chetilla	laugh, to	asi.	asi.	a s i		416	a s - - i	V C V
+2418	Huallaga	laugh, to	asi.	asi.	a s i		416	a s - - i	V C V
+2422	Huangascar	laugh, to	asi-	asi-	a s i		416	a s - - i	V C V
+2423	HuarazHuailas	laugh, to	asiy	asiy	a s i		416	a s - - i	V C V
+2424	Imbabura	laugh, to	asina	asina	a s i n a		416	a s i n a	V C V C V
+2425	Inkawasi	laugh, to	asi.	asi.	a s i		416	a s - - i	V C V
+2420	Jauja	laugh, to	asiy	asiy	a s i		416	a s - - i	V C V
+2431	Maragua	laugh, to	asi.	asi.	a s i		416	a s - - i	V C V
+2432	Napo	laugh, to	asina	asina	a s i n a		416	a s i n a	V C V C V
+2433	Pacaraos	laugh, to	ayi	ayi	a j i		416	a j - - i	V C V
+2437	Puno	laugh, to	asi.	asi.	a s i		416	a s - - i	V C V
+2441	Santiagueno	laugh, to	asiy	asiy	a s iː		416	a s - - iː	V C V
+2450	Yanac	laugh, to	asi.	asi.	a s i		416	a s - - i	V C V
+6766	Apuri	leaf	rapri	rapri	ɾ a p ɾ i		424	ɾ a p ɾ i	C V C C V
+6777	Chachapoyas	leaf	rapra	rapra	r a p r a		424	r a p r a	C V C C V
+6778	Chacpar	leaf	rapra	rapra	r a p r a		424	r a p r a	C V C C V
+6779	Chetilla	leaf	rapra	rapra	r a p r a		424	r a p r a	C V C C V
+6787	Huallaga	leaf	rapra	rapra	r a p r a		424	r a p r a	C V C C V
+6790	Huangascar	leaf	rapra	rapra	ɾ a p ɾ a		424	ɾ a p ɾ a	C V C C V
+6817	HuarazHuailas	leaf	rapra	rapra	ɾ a p ɾ a		424	ɾ a p ɾ a	C V C C V
+6793	Inkawasi	leaf	řapra	řapra	r̝ a p r a		424	r̝ a p r a	C V C C V
+6801	Pacaraos	leaf	rapra	rapra	ɾ a p ɾ a		424	ɾ a p ɾ a	C V C C V
+6818	Yanac	leaf	rapra	rapra	r a p r a		424	r a p r a	C V C C V
+6767	Apuri	leaf	yura	yura	j u ɾ a		767	j u ɾ a	C V C V
+6791	Huangascar	leaf	yura	yura	j u ɾ a		767	j u ɾ a	C V C V
+6768	Apurimac	leaf	rapi	rapi	r a p i		872	r a p i	C V C V
+6771	Atalla	leaf	rapi	rapi	r a p i		872	r a p i	C V C V
+6773	Ayacucho	leaf	llaqe, rapi	rapi	ɾ a p i		872	ɾ a p i	C V C V
+6799	Maragua	leaf	laqhi	laqhi	l a qʰ i		872	l a qʰ i	C V C V
+6805	Puno	leaf	laphi	laphi	l a pʰ i		872	l a pʰ i	C V C V
+7258	Azuay	leaf	panga	panga	p a n g a		425	p a n g a	C V C C V
+6792	Imbabura	leaf	fanga	fanga	f a n g a		425	f a n g a	C V C C V
+6800	Napo	leaf	panga	panga	p a n g a		425	p a n g a	C V C C V
+1599	Apuri	left (hand side)	ichuq	ichuq	i tʃ o q		435	i tʃ o q	V C V C
+1602	Atalla	left (hand side)	ičuχ	ičuχ	i tʃ u χ		435	i tʃ u χ	V C V C
+1603	Ayacucho	left (hand side)	ichoq	ichoq	i tʃ o χ		435	i tʃ o χ	V C V C
+1607	Chacpar	left (hand side)	itsuχ	itsuχ	i ts u χ		435	i ts u χ	V C V C
+1608	Chetilla	left (hand side)	ičuχ	ičuχ	i tʃ u χ		435	i tʃ u χ	V C V C
+1613	Huallaga	left (hand side)	ičuχ	ičuχ	i tʃ u χ		435	i tʃ u χ	V C V C
+1617	Huangascar	left (hand side)	ichuq	ichuq	i tʃ o q		435	i tʃ o q	V C V C
+1618	HuarazHuailas	left (hand side)	itsoq	itsoq	i ts o q		435	i ts o q	V C V C
+1620	Inkawasi	left (hand side)	ičuq	ičuq	i tʃ u q		435	i tʃ u q	V C V C
+1615	Jauja	left (hand side)	ichush	ichush	i tʃ u ʂ		435	i tʃ u ʂ	V C V C
+1644	Yanac	left (hand side)	itsuq	itsuq	i ts u q		435	i ts u q	V C V C
+1600	Apurimac	left (hand side)	lloque	lloque	ʎ o k e		434	ʎ o k e	C V C V
+7181	Azuay	left (hand side)	lluqui	lluqui	ʎ u k i		434	ʎ u k i	C V C V
+1606	Chachapoyas	left (hand side)	lluki	lluki	dʑ u k i		434	dʑ u k i	C V C V
+1619	Imbabura	left (hand side)	lluki	lluki	ʎ u k i		434	ʎ u k i	C V C V
+1626	Maragua	left (hand side)	λuq'i	λuq'i	ʎ u qʼ i		434	ʎ u qʼ i	C V C V
+1627	Napo	left (hand side)	lluqui	lluqui	ʎ u k i		434	ʎ u k i	C V C V
+1631	Puno	left (hand side)	λuq'i	λuq'i	ʎ u qʼ i		434	ʎ u qʼ i	C V C V
+1635	Santiagueno	left (hand side)	lloqe	lloqe	ʒ o χ e		434	ʒ o χ e	C V C V
+3827	Apurimac	leg	chanka	chanka	tʃ a n k a		441	tʃ a n k a	C V C C V
+3830	Ayacucho	leg	chanka	chanka	tʃ a n k a		441	tʃ a n k a	C V C C V
+7205	Azuay	leg	changa	changa	tʃ a n g a		441	tʃ a n g a	C V C C V
+3833	Chachapoyas	leg	ĉanka	ĉanka	ʈʂ a n g a		441	ʈʂ a n g a	C V C C V
+3834	Chacpar	leg	čanka	čanka	tʃ a n k a		441	tʃ a n k a	C V C C V
+3835	Chetilla	leg	ĉanga	ĉanga	ʈʂ a n g a		441	ʈʂ a n g a	C V C C V
+3840	Huallaga	leg	čanka	čanka	tʃ a n k a		441	tʃ a n k a	C V C C V
+3844	HuarazHuailas	leg	chanka	chanka	tʃ a ɲ k a		441	tʃ a ɲ k a	C V C C V
+3845	Imbabura	leg	changa	changa	tʃ a n g a		441	tʃ a n g a	C V C C V
+3846	Inkawasi	leg	ĉanga	ĉanga	ʈʂ a n g a		441	ʈʂ a n g a	C V C C V
+7391	Jauja	leg	tranka	tranka	ʈʂ a n k a		441	ʈʂ a n k a	C V C C V
+3854	Napo	leg	changa	changa	tʃ a n g a		441	tʃ a n g a	C V C C V
+3855	Pacaraos	leg	tranka	tranka	ʈʂ a ŋ k a		441	ʈʂ a ŋ k a	C V C C V
+3863	Santiagueno	leg	chunka	chunka	tʃ u ŋ k a		441	tʃ u ŋ k a	C V C C V
+3872	Yanac	leg	ĉanka	ĉanka	ʈʂ a n k a		441	ʈʂ a n k a	C V C C V
+1883	Apuri	lick, to	llaqwa-	llaqwa-	ʎ a q w a		449	ʎ a q w - - a	C V C C V
+1884	Apurimac	lick, to	llaqwa, lawqa	llaqwa	ʎ a q w a		449	ʎ a q w - - a	C V C C V
+1887	Atalla	lick, to	λaχwa.	λaχwa.	ʎ a χ w a		449	ʎ a χ w - - a	C V C C V
+1888	Ayacucho	lick, to	llaqwa	llaqwa	ʎ a χ w a		449	ʎ a χ w - - a	C V C C V
+7299	Azuay	lick, to	llagua-na	llagua-na	ʎ a g w a n a		449	ʎ a g w a n a	C V C C V C V
+1891	Chachapoyas	lick, to	llakwa	llakwa	dʑ a k w a		449	dʑ a k w - - a	C V C C V
+1892	Chacpar	lick, to	λaqwa.	λaqwa.	ʎ a q w a		449	ʎ a q w - - a	C V C C V
+1893	Chetilla	lick, to	dyaqwa.	dyaqwa.	ʎ a q w a		449	ʎ a q w - - a	C V C C V
+1899	Huallaga	lick, to	λaqwa.	λaqwa.	ʎ a q w a		449	ʎ a q w - - a	C V C C V
+1902	Huangascar	lick, to	llaqwa-	llaqwa-	ʎ a q w a		449	ʎ a q w - - a	C V C C V
+1903	HuarazHuailas	lick, to	laqway	laqway	l a q w a		449	l a q w - - a	C V C C V
+1905	Inkawasi	lick, to	žaχwa.	žaχwa.	ʒ a χ w a		449	ʒ a χ w - - a	C V C C V
+7392	Jauja	lick, to	llaqway	llaqway	ʎ a ʔ w a		449	ʎ a ʔ w - - a	C V C C V
+1911	Maragua	lick, to	λaqwa.	λaqwa.	ʎ a q w a		449	ʎ a q w - - a	C V C C V
+1912	Napo	lick, to	llaucana	llaucana	ʎ au k a n a		449	ʎ au k - a n a	C V C V C V
+1913	Pacaraos	lick, to	laqwa	laqwa	l a ʁ w a		449	l a ʁ w - - a	C V C C V
+1917	Puno	lick, to	λaχwa.	λaχwa.	ʎ a χ w a		449	ʎ a χ w - - a	C V C C V
+1921	Santiagueno	lick, to	llaqway	llaqway	ʒ a χ w a		449	ʒ a χ w - - a	C V C C V
+1929	Yanac	lick, to	laqwa.	laqwa.	l a q w a		449	l a q w - - a	C V C C V
+857	Apurimac	light (not heavy)	panqa	panqa	p a n q a		459	p a n q - - a	C V C C V
+7320	Azuay	light (not heavy)	panga-lla	cusi, panga-lla	p a n g a ʎ a		459	p a n g a ʎ a	C V C C V C V
+871	Imbabura	light (not heavy)	fangalla	fangalla	f a n g a ʎ a		459	f a n g a ʎ a	C V C C V C V
+878	Napo	light (not heavy)	pangalla	pangalla	p a n g a ʎ a		459	p a n g a ʎ a	C V C C V C V
+861	Chacpar	light (not heavy)	ankaš	ankaš	a n k a ʃ		56	a n k a ʃ	V C C V C
+867	Huallaga	light (not heavy)	ankaš	ankaš	a n k a ʃ		56	a n k a ʃ	V C C V C
+890	Yanac	light (not heavy)	ankaš	ankaš	a n k a ʃ		56	a n k a ʃ	V C C V C
+3398	Apurimac	lip	sirpa, wirpa	sirpa	s i r p a		470	s i r p a	C V C C V
+7197	Azuay	lip	huirpa	huirpa	w i ɾ p a	ya en desuso	470	w i ɾ p a	C V C C V
+3410	Huallaga	lip	wirpa	wirpa	w i r p a		470	w i r p a	C V C C V
+3413	HuarazHuailas	lip	wirpa	wirpa	w i ɾ p a		470	w i ɾ p a	C V C C V
+7393	Jauja	lip	willpa	willpa	w i ʎ p a		470	w i ʎ p a	C V C C V
+3422	Pacaraos	lip	wirpa	wirpa	w i ɾ p a		470	w i ɾ p a	C V C C V
+2023	Apuri	live, to	kawsa-	kawsa-	k au s a		482	k au s - - a	C V C V
+2024	Apurimac	live, to	kawsa	kawsa	k au s a		482	k au s - - a	C V C V
+2026	Atalla	live, to	kawsa.	kawsa.	k au s a		482	k au s - - a	C V C V
+2027	Ayacucho	live, to	kawsa	kawsa	k au s a		482	k au s - - a	C V C V
+7302	Azuay	live, to	causa-na	causa-na	k au s a n a		482	k au s a n a	C V C V C V
+2030	Chachapoyas	live, to	kawsa	kawsa	k au s a		482	k au s - - a	C V C V
+2032	Chetilla	live, to	kawsa.	kawsa.	k au s a		482	k au s - - a	C V C V
+2040	Huangascar	live, to	kawsa-	kawsa-	k au s a		482	k au s - - a	C V C V
+2042	Imbabura	live, to	kawsana	kawsana	k au s a n a		482	k au s a n a	C V C V C V
+2043	Inkawasi	live, to	kawsa.	kawsa.	k au s a		482	k au s - - a	C V C V
+7394	Jauja	live, to	kawsay	kawsay	k au s a		482	k au s - - a	C V C V
+2049	Maragua	live, to	kawsa.	kawsa.	k au s a		482	k au s - - a	C V C V
+2050	Napo	live, to	causana	causana	k au s a n a		482	k au s a n a	C V C V C V
+2055	Puno	live, to	kawsa.	kawsa.	k au s a		482	k au s - - a	C V C V
+2059	Santiagueno	live, to	kawsay	kawsay	k au s a		482	k au s - - a	C V C V
+2031	Chacpar	live, to	kawa.	kawa.	k a w a		36	k a w a	C V C V
+2037	Huallaga	live, to	kawa.	kawa.	k a w a		36	k a w a	C V C V
+2041	HuarazHuailas	live, to	kaway	kaway	k a w a		36	k a w a	C V C V
+2051	Pacaraos	live, to	kawa	kawa	k a w a		36	k a w a	C V C V
+2067	Yanac	live, to	kawa.	kawa.	k a w a		36	k a w a	C V C V
+4656	Apuri	louse	usa	usa	u s a		490	u s a	V C V
+4657	Apurimac	louse	usa	usa	u s a		490	u s a	V C V
+4659	Atalla	louse	usa	usa	u s a		490	u s a	V C V
+4660	Ayacucho	louse	usa	usa	u s a		490	u s a	V C V
+7220	Azuay	louse	usa	usa	u s a		490	u s a	V C V
+4663	Chachapoyas	louse	usa	usa	u s a		490	u s a	V C V
+4664	Chacpar	louse	uwa	uwa	u w a		490	u w a	V C V
+4665	Chetilla	louse	usa	usa	u s a		490	u s a	V C V
+4670	Huallaga	louse	usa	usa	u s a		490	u s a	V C V
+4673	Huangascar	louse	usa	usa	u s a		490	u s a	V C V
+4674	HuarazHuailas	louse	uha	uha	u x a		490	u x a	V C V
+4675	Imbabura	louse	usa	usa	u s a		490	u s a	V C V
+7395	Jauja	louse	usa	usa	u s a		490	u s a	V C V
+4684	Maragua	louse	usa	usa	u s a		490	u s a	V C V
+4685	Napo	louse	usa	usa	u s a		490	u s a	V C V
+4686	Pacaraos	louse	uwa	uwa	u w a		490	u w a	V C V
+4690	Puno	louse	usa	usa	u s a		490	u s a	V C V
+4693	Santiagueno	louse	usa	usa	u s a		490	u s a	V C V
+4704	Yanac	louse	usa	usa	u s a		490	u s a	V C V
+4945	Apuri	man SW adult, male	qari	qari	q a ɾ i		498	q a ɾ i	C V C V
+4946	Apurimac	man SW adult, male	qari	qari	q a r i		498	q a r i	C V C V
+4948	Atalla	man SW adult, male	χari	χari	χ a r i		498	χ a r i	C V C V
+4949	Ayacucho	man SW adult, male	qari	qari	χ a ɾ i		498	χ a ɾ i	C V C V
+7225	Azuay	man SW adult, male	cari	cari	k a ɾ i		498	k a ɾ i	C V C V
+4962	Huangascar	man SW adult, male	qari	qari	q a ɾ i		498	q a ɾ i	C V C V
+4964	Imbabura	man SW adult, male	kari	kari	k a ɾ i		498	k a ɾ i	C V C V
+4972	Maragua	man SW adult, male	qhari	qhari	qʰ a r i		498	qʰ a r i	C V C V
+4973	Napo	man SW adult, male	cari	cari	k a r i		498	k a r i	C V C V
+4978	Puno	man SW adult, male	qhari	qhari	qʰ a r i		498	qʰ a r i	C V C V
+4982	Santiagueno	man SW adult, male	qari	qari	q a ɾ i		498	q a ɾ i	C V C V
+4953	Chacpar	man SW adult, male	uλγu	uλγu	u ʎ ʁ u		499	u ʎ ʁ u	V C C V
+4954	Chetilla	man SW adult, male	udž(ə)γu	udžγu	u ʎ ʁ u		499	u ʎ ʁ u	V C C V
+4959	Huallaga	man SW adult, male	uλqu	uλqu	u ʎ q u		499	u ʎ q u	V C C V
+4963	HuarazHuailas	man SW adult, male	ollqu	ollqu	o ʎ q u		499	o ʎ q u	V C C V
+4965	Inkawasi	man SW adult, male	užġu	užġu	u ʒ ɢ u		499	u ʒ ɢ u	V C C V
+7397	Jauja	man SW adult, male	ullqu	ullqu	u ʎ ʔ u		499	u ʎ ʔ u	V C C V
+4974	Pacaraos	man SW adult, male	ulqu	ulqu	u l χ o		499	u l χ o	V C C V
+4992	Yanac	man SW adult, male	uλqu	uλqu	u ʎ q u		499	u ʎ q u	V C C V
+4901	Apuri	man SW person	runa	runa	ɾ u n a		507	- - - ɾ u n a	C V C V
+4902	Apurimac	man SW person	runa	runa	r u n a		507	- - - r u n a	C V C V
+4904	Atalla	man SW person	runa	runa	r u n a		507	- - - r u n a	C V C V
+4905	Ayacucho	man SW person	runa	runa	ɾ u n a		507	- - - ɾ u n a	C V C V
+7224	Azuay	man SW person	shug runa	shug runa	ʃ u g ɾ u n a		507	ʃ u g ɾ u n a	C V C C V C V
+4907	Chachapoyas	man SW person	runa	runa	r u n a		507	- - - r u n a	C V C V
+4908	Chacpar	man SW person	runa	runa	r u n a		507	- - - r u n a	C V C V
+4909	Chetilla	man SW person	runa	runa	r u n a		507	- - - r u n a	C V C V
+4914	Huallaga	man SW person	runa	runa	r u n a		507	- - - r u n a	C V C V
+4917	Huangascar	man SW person	runa	runa	ɾ u n a		507	- - - ɾ u n a	C V C V
+4918	HuarazHuailas	man SW person	nuna	nuna	ɲ u ɲ a		507	- - - ɲ u ɲ a	C V C V
+4920	Inkawasi	man SW person	runa	runa	r u n a		507	- - - r u n a	C V C V
+7396	Jauja	man SW person	nuna	nuna	n u n a		507	- - - n u n a	C V C V
+4926	Maragua	man SW person	runa, řuna	runa	r u n a		507	- - - r u n a	C V C V
+4928	Napo	man SW person	runa	runa	r u n a		507	- - - r u n a	C V C V
+4929	Pacaraos	man SW person	runa	runa	ɾ u n a		507	- - - ɾ u n a	C V C V
+4933	Puno	man SW person	runa	runa	r u n a		507	- - - r u n a	C V C V
+4943	Yanac	man SW person	runa	runa	r u n a		507	- - - r u n a	C V C V
+675	Apuri	many	achka	achka	a tʃ k a		515	a tʃ k a -	V C C V
+676	Apurimac	many	aska	aska	a s k a		515	a s k a -	V C C V
+679	Atalla	many	ačka	ačka	a tʃ k a		515	a tʃ k a -	V C C V
+680	Ayacucho	many	achka	achka	a tʃ k a		515	a tʃ k a -	V C C V
+7277	Azuay	many	achca	achca	a tʃ k a		515	a tʃ k a -	V C C V
+683	Chacpar	many	atska	atska	a ts k a		515	a ts k a -	V C C V
+684	Chetilla	many	ačka	ačka	a tʃ k a		515	a tʃ k a -	V C C V
+691	Huallaga	many	ačka	ačka	a tʃ k a		515	a tʃ k a -	V C C V
+694	Huangascar	many	achka	achka	a tʃ k a		515	a tʃ k a -	V C C V
+695	HuarazHuailas	many	atska	atska	a tʃ k a		515	a tʃ k a -	V C C V
+696	Imbabura	many	achka	achka	a tʃ k a		515	a tʃ k a -	V C C V
+697	Inkawasi	many	ačka	ačka	a tʃ k a		515	a tʃ k a -	V C C V
+7398	Jauja	many	achka	achka	a tʃ k a		515	a tʃ k a -	V C C V
+703	Maragua	many	aškha, aškha.s	aškha.s	a ʃ kʰ a s		515	a ʃ kʰ a s	V C C V C
+704	Napo	many	ashca	ashca	a ʃ k a		515	a ʃ k a -	V C C V
+710	Puno	many	aškha	aškha	a ʃ kʰ a		515	a ʃ kʰ a -	V C C V
+714	Santiagueno	many	achka	achka	a tʃ k a		515	a tʃ k a -	V C C V
+722	Yanac	many	atska	atska	a ts k a		515	a ts k a -	V C C V
+6394	Apuri	meat SW flesh	aycha	aycha	ai tʃ a		522	ai tʃ a	V C V
+6395	Apurimac	meat SW flesh	aycha	aycha	ai tʃ a		522	ai tʃ a	V C V
+6397	Atalla	meat SW flesh	ayča	ayča	ai tʃ a		522	ai tʃ a	V C V
+6398	Ayacucho	meat SW flesh	aycha	aycha	ai tʃ a		522	ai tʃ a	V C V
+7251	Azuay	meat SW flesh	aycha	aycha	ai tʃ a		522	ai tʃ a	V C V
+6401	Chachapoyas	meat SW flesh	aycha	aycha	ai tʃ a		522	ai tʃ a	V C V
+6402	Chacpar	meat SW flesh	e:tsa	e:tsa	eː ts a		522	eː ts a	V C V
+6403	Chetilla	meat SW flesh	ayča	ayča	ai tʃ a		522	ai tʃ a	V C V
+6408	Huallaga	meat SW flesh	ayča	ayča	ai tʃ a		522	ai tʃ a	V C V
+6411	Huangascar	meat SW flesh	aycha	aycha	ai tʃ a		522	ai tʃ a	V C V
+6412	HuarazHuailas	meat SW flesh	aytsa	aytsa	ai ts a		522	ai ts a	V C V
+6413	Imbabura	meat SW flesh	aycha	aycha	ai tʃ a		522	ai tʃ a	V C V
+6414	Inkawasi	meat SW flesh	ayča	ayča	ai tʃ a		522	ai tʃ a	V C V
+7399	Jauja	meat SW flesh	aycha	aycha	ai tʃ a		522	ai tʃ a	V C V
+6421	Maragua	meat SW flesh	ayča	ayča	ai tʃ a		522	ai tʃ a	V C V
+6422	Napo	meat SW flesh	aicha	aicha	ai tʃ a		522	ai tʃ a	V C V
+6423	Pacaraos	meat SW flesh	aysa	aysa	ai s a		522	ai s a	V C V
+6427	Puno	meat SW flesh	ayča	ayča	ai tʃ a		522	ai tʃ a	V C V
+6431	Santiagueno	meat SW flesh	aycha	aycha	ai tʃ a		522	ai tʃ a	V C V
+6441	Yanac	meat SW flesh	e:tsa	e:tsa	eː ts a		522	eː ts a	V C V
+5524	Apuri	moon	killa	killa	k i ʎ a		527	k i ʎ a	C V C V
+5525	Apurimac	moon	killa	killa	k i ʎ a		527	k i ʎ a	C V C V
+5527	Atalla	moon	kiλa	kiλa	k i ʎ a		527	k i ʎ a	C V C V
+5528	Ayacucho	moon	killa	killa	k i ʎ a		527	k i ʎ a	C V C V
+7235	Azuay	moon	quilla	quilla	k i ʎ a		527	k i ʎ a	C V C V
+5531	Chachapoyas	moon	killa	killa	k i dʑ a		527	k i dʑ a	C V C V
+5532	Chacpar	moon	kiλa	kiλa	k i ʎ a		527	k i ʎ a	C V C V
+5533	Chetilla	moon	kidya	kidya	k i dʑ a		527	k i dʑ a	C V C V
+5538	Huallaga	moon	kiλa	kiλa	k i ʎ a		527	k i ʎ a	C V C V
+5541	Huangascar	moon	killa	killa	k i ʎ a		527	k i ʎ a	C V C V
+5542	HuarazHuailas	moon	killa	killa	k i ʎ a		527	k i ʎ a	C V C V
+5543	Imbabura	moon	killa	killa	k i ʎ a		527	k i ʎ a	C V C V
+5544	Inkawasi	moon	kiža	kiža	k i ʒ a		527	k i ʒ a	C V C V
+7400	Jauja	moon	killa	killa	k i ʎ a		527	k i ʎ a	C V C V
+5552	Maragua	moon	kiλa	kiλa	k i ʎ a		527	k i ʎ a	C V C V
+5553	Napo	moon	quilla	quilla	k i ʎ a		527	k i ʎ a	C V C V
+5554	Pacaraos	moon	kila	kila	k i l a		527	k i l a	C V C V
+5558	Puno	moon	kiλa	kiλa	k i ʎ a		527	k i ʎ a	C V C V
+5562	Santiagueno	moon	killa	killa	k i ʒ a		527	k i ʒ a	C V C V
+5572	Yanac	moon	kiλa	kiλa	k i ʎ a		527	k i ʎ a	C V C V
+5824	Apuri	mountain	urqu	urqu	o ɾ q u		532	o ɾ q u	V C C V
+5825	Apurimac	mountain	orqo	orqo	o r q o		532	o r q o	V C C V
+5828	Atalla	mountain	urġu	urġu	u r ɢ u		532	u r ɢ u	V C C V
+5829	Ayacucho	mountain	orqo	orqo	o ɾ χ o		532	o ɾ χ o	V C C V
+7240	Azuay	mountain	urcu	urcu	u ɾ k u		532	u ɾ k u	V C C V
+5832	Chachapoyas	mountain	urku	urku	u r k u		532	u r k u	V C C V
+5834	Chetilla	mountain	urqu	urqu	u r q u		532	u r q u	V C C V
+5842	Huangascar	mountain	urqu	urqu	o ɾ q u		532	o ɾ q u	V C C V
+5844	Imbabura	mountain	urku	urku	u ɾ k u		532	u ɾ k u	V C C V
+7401	Jauja	mountain	ulqu	ulqu	u l ʔ u		532	u l ʔ u	V C C V
+5852	Maragua	mountain	urqu	urqu	u r q u		532	u r q u	V C C V
+5853	Napo	mountain	urcu	urcu	u r k u		532	u r k u	V C C V
+5858	Puno	mountain	urqu	urqu	u r q u		532	u r q u	V C C V
+5862	Santiagueno	mountain	orqo	orqo	o ɾ q o		532	o ɾ q o	V C C V
+5826	Apurimac	mountain	qirka	qirka	q i r k a		166	q i r k a	C V C C V
+5839	Huallaga	mountain	hirka	hirka	h i r k a		166	h i r k a	C V C C V
+5843	HuarazHuailas	mountain	hirka	hirka	x i ɾ k a		166	x i ɾ k a	C V C C V
+5854	Pacaraos	mountain	hirka	hirka	x i ɾ k a	ya en desuso	166	x i ɾ k a	C V C C V
+5833	Chacpar	mountain	qaqa	qaqa	q a q a		494	q a q a	C V C V
+5845	Inkawasi	mountain	χaγa	χaγa	χ a ʁ a		494	χ a ʁ a	C V C V
+5872	Yanac	mountain	qaqa	qaqa	q a q a		494	q a q a	C V C V
+4458	Apuri	mouse	ukucha	ukucha	u k u tʃ a		535	- u k u tʃ a	V C V C V
+4459	Apurimac	mouse	hukucha, qukucha, ukucha	hukucha	h u k u tʃ a		535	h u k u tʃ a	C V C V C V
+4463	Atalla	mouse	uku.ča	uku.ča	u k u tʃ a		535	- u k u tʃ a	V C V C V
+4464	Ayacucho	mouse	ukucha	ukucha	u k u tʃ a		535	- u k u tʃ a	V C V C V
+7217	Azuay	mouse	ucu-cha	ucu-cha	u k u tʃ a		535	- u k u tʃ a	V C V C V
+4469	Chetilla	mouse	uku.ča	uku.ča	u k u tʃ a		535	- u k u tʃ a	V C V C V
+4475	Huallaga	mouse	uku.ča	uku.ča	u k u tʃ a		535	- u k u tʃ a	V C V C V
+4478	Huangascar	mouse	ukucha	ukucha	u k u tʃ a		535	- u k u tʃ a	V C V C V
+4479	Imbabura	mouse	ukucha	ukucha	u k u tʃ a		535	- u k u tʃ a	V C V C V
+4480	Inkawasi	mouse	uk(u).ča	uk.ča	u k u tʃ a		535	- u k u tʃ a	V C V C V
+4486	Maragua	mouse	huk'u.ča	huk'u.ča	h u kʼ u tʃ a		535	h u kʼ u tʃ a	C V C V C V
+4487	Napo	mouse	ucucha	ucucha	u k u tʃ a		535	- u k u tʃ a	V C V C V
+4489	Pacaraos	mouse	ukush, ukucha	ukucha	u k u tʃ a		535	- u k u tʃ a	V C V C V
+4493	Puno	mouse	huk'u.ča	huk'u.ča	h u kʼ u tʃ a		535	h u kʼ u tʃ a	C V C V C V
+4496	Santiagueno	mouse	ukucha	ukucha	u x u tʃ a		535	- u x u tʃ a	V C V C V
+4468	Chacpar	mouse	uku.š	uku.š	u k u ʃ		536	u k u ʃ	V C V C
+7402	Jauja	mouse	ukush	ukush	u k u ʂ		536	u k u ʂ	V C V C
+4488	Pacaraos	mouse	ukush, ukucha	ukush	u k u ʃ		536	u k u ʃ	V C V C
+4503	Yanac	mouse	uku.š	uku.š	u k u ʃ		536	u k u ʃ	V C V C
+3350	Apuri	mouth	shimi	shimi	ʃ i m i		543	ʃ i m i	C V C V
+3351	Apurimac	mouth	simi	simi	s i m i		543	s i m i	C V C V
+3353	Atalla	mouth	simi	simi	s i m i		543	s i m i	C V C V
+3354	Ayacucho	mouth	simi	simi	s i m i		543	s i m i	C V C V
+7196	Azuay	mouth	shimi	shimi	ʃ i m i		543	ʃ i m i	C V C V
+3357	Chachapoyas	mouth	shimi	shimi	ʃ i m i		543	ʃ i m i	C V C V
+3358	Chacpar	mouth	šimi	šimi	ʃ i m i		543	ʃ i m i	C V C V
+3359	Chetilla	mouth	šimi	šimi	ʃ i m i		543	ʃ i m i	C V C V
+3364	Huallaga	mouth	šimi	šimi	ʃ i m i		543	ʃ i m i	C V C V
+3367	Huangascar	mouth	shimi	shimi	ʃ i m i		543	ʃ i m i	C V C V
+3368	HuarazHuailas	mouth	shimi	shimi	ʃ i m i		543	ʃ i m i	C V C V
+3369	Imbabura	mouth	shimi	shimi	ʃ i m i		543	ʃ i m i	C V C V
+3370	Inkawasi	mouth	šimi	šimi	ʃ i m i		543	ʃ i m i	C V C V
+7403	Jauja	mouth	shimi	shimi	ʃ i m i		543	ʃ i m i	C V C V
+3377	Maragua	mouth	simi	simi	s i m i		543	s i m i	C V C V
+3378	Napo	mouth	shimi	shimi	ʃ i m i		543	ʃ i m i	C V C V
+3379	Pacaraos	mouth	shimi	shimi	ʃ i m i		543	ʃ i m i	C V C V
+3383	Puno	mouth	simi	simi	s i m i		543	s i m i	C V C V
+3386	Santiagueno	mouth	simi	simi	s i m i		543	s i m i	C V C V
+3396	Yanac	mouth	šimi	šimi	ʃ i m i		543	ʃ i m i	C V C V
+5090	Apuri	name	suti	suti	s u t i		548	s u t i	C V C V
+5091	Apurimac	name	suti	suti	s u t i		548	s u t i	C V C V
+5093	Atalla	name	suti	suti	s u t i		548	s u t i	C V C V
+5094	Ayacucho	name	suti	suti	s u t i		548	s u t i	C V C V
+7227	Azuay	name	shuti	shuti	ʃ u t i		548	ʃ u t i	C V C V
+5097	Chachapoyas	name	shuti	shuti	ʃ u t i		548	ʃ u t i	C V C V
+5098	Chacpar	name	huti	huti	h u t i		548	h u t i	C V C V
+5099	Chetilla	name	šuti	šuti	ʃ u t i		548	ʃ u t i	C V C V
+5104	Huallaga	name	huti	huti	h u t i		548	h u t i	C V C V
+5107	Huangascar	name	suti	suti	s u t i		548	s u t i	C V C V
+5108	HuarazHuailas	name	huti	huti	x u t i		548	x u t i	C V C V
+5109	Imbabura	name	shuti	shuti	ʃ u t i		548	ʃ u t i	C V C V
+5110	Inkawasi	name	šuti	šuti	ʃ u t i		548	ʃ u t i	C V C V
+7404	Jauja	name	suti	suti	s u t i		548	s u t i	C V C V
+5117	Maragua	name	suti	suti	s u t i		548	s u t i	C V C V
+5118	Napo	name	shuti	shuti	ʃ u t i		548	ʃ u t i	C V C V
+5119	Pacaraos	name	huti	huti	x u t i		548	x u t i	C V C V
+5123	Puno	name	suti	suti	s u t i		548	s u t i	C V C V
+5127	Santiagueno	name	suti	suti	s u t i		548	s u t i	C V C V
+5136	Yanac	name	šuti	šuti	ʃ u t i		548	ʃ u t i	C V C V
+4213	Apuri	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4214	Apurimac	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4216	Atalla	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4217	Ayacucho	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+7212	Azuay	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4220	Chachapoyas	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4221	Chacpar	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4227	Huallaga	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4230	Huangascar	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4231	HuarazHuailas	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4232	Imbabura	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+7405	Jauja	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4240	Maragua	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4241	Napo	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4242	Pacaraos	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4250	Santiagueno	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+4259	Yanac	navel	pupu	pupu	p u p u		550	p u p u	C V C V
+3680	Apuri	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+3681	Apurimac	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+3683	Atalla	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+3684	Ayacucho	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+7202	Azuay	neck	cunga	cunga	k u n g a		554	k u n g a	C V C C V
+3687	Chachapoyas	neck	kunka	kunka	k u n g a		554	k u n g a	C V C C V
+3688	Chacpar	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+3689	Chetilla	neck	kunga	kunga	k u n g a		554	k u n g a	C V C C V
+3695	Huallaga	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+3698	Huangascar	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+3699	HuarazHuailas	neck	kunka	kunka	k u ɲ k a		554	k u ɲ k a	C V C C V
+3700	Imbabura	neck	kunga	kunga	k u n g a		554	k u n g a	C V C C V
+3701	Inkawasi	neck	kunga	kunga	k u n g a		554	k u n g a	C V C C V
+7406	Jauja	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+3707	Maragua	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+3708	Napo	neck	cunga	cunga	k u n g a		554	k u n g a	C V C C V
+3709	Pacaraos	neck	kunka	kunka	k u ŋ k a		554	k u ŋ k a	C V C C V
+3713	Puno	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+3717	Santiagueno	neck	kunka	kunka	k u ŋ k a		554	k u ŋ k a	C V C C V
+3725	Yanac	neck	kunka	kunka	k u n k a		554	k u n k a	C V C C V
+1232	Apuri	new	mushuq	mushuq	m u ʃ o q		557	m u ʃ o q	C V C V C
+1233	Apurimac	new	mosoq, musuq	mosoq	m o s o q		557	m o s o q	C V C V C
+1236	Atalla	new	musuχ	musuχ	m u s u χ		557	m u s u χ	C V C V C
+1237	Ayacucho	new	mosoq	mosoq	m o s o χ		557	m o s o χ	C V C V C
+7287	Azuay	new	mushug	mushug	m u ʃ u g		557	m u ʃ u g	C V C V C
+1240	Chachapoyas	new	mushuk	mushuk	m u ʃ u k		557	m u ʃ u k	C V C V C
+1241	Chacpar	new	mušuχ	mušuχ	m u ʃ u χ		557	m u ʃ u χ	C V C V C
+1242	Chetilla	new	mušuχ	mušuχ	m u ʃ u χ		557	m u ʃ u χ	C V C V C
+1247	Huallaga	new	mušuχ	mušuχ	m u ʃ u χ		557	m u ʃ u χ	C V C V C
+1250	Huangascar	new	mushuq	mushuq	m u ʃ o q		557	m u ʃ o q	C V C V C
+1251	HuarazHuailas	new	mushoq	mushoq	m u ʃ o q		557	m u ʃ o q	C V C V C
+1252	Imbabura	new	mushuj	mushuj	m u ʃ u x		557	m u ʃ u x	C V C V C
+1253	Inkawasi	new	mušux	mušux	m u ʃ u x		557	m u ʃ u x	C V C V C
+7407	Jauja	new	mushuq	mushuq	m u ʂ u ʔ		557	m u ʂ u ʔ	C V C V C
+1259	Maragua	new	musuχ	musuχ	m u s u χ		557	m u s u χ	C V C V C
+1260	Napo	new	mushuj	mushuj	m u ʃ u		557	m u ʃ u -	C V C V
+1261	Pacaraos	new	mushuq	mushuq	m u ʃ o χ		557	m u ʃ o χ	C V C V C
+1265	Puno	new	musuχ	musuχ	m u s u χ		557	m u s u χ	C V C V C
+1269	Santiagueno	new	mosoq	mosoq	m o s o χ		557	m o s o χ	C V C V C
+1277	Yanac	new	mušuq	mušuq	m u ʃ u q		557	m u ʃ u q	C V C V C
+5426	Apuri	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5427	Apurimac	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5429	Atalla	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5430	Ayacucho	night	tuta	tuta	t u t a		559	t u t a	C V C V
+7234	Azuay	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5433	Chachapoyas	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5435	Chetilla	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5443	Huangascar	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5445	Imbabura	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5446	Inkawasi	night	tuta	tuta	t u t a		559	t u t a	C V C V
+7408	Jauja	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5453	Maragua	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5454	Napo	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5458	Puno	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5461	Santiagueno	night	tuta	tuta	t u t a		559	t u t a	C V C V
+5434	Chacpar	night	tsake	tsake	ts a k e		438	ts a k e	C V C V
+5440	Huallaga	night	čaka.y	čaka.y	tʃ a k ai		438	tʃ a k ai	C V C V
+7497	HuarazHuailas	night	tsaqay	tsaqay	tʃ a q ai		438	tʃ a q ai	C V C V
+6629	Apuri	nine	isqun	isqun	e s q u n		567	e s q u n	V C C V C
+6630	Apurimac	nine	isqon	isqon	i s q o n		567	i s q o n	V C C V C
+6632	Atalla	nine	isχun	isχun	i s χ u n		567	i s χ u n	V C C V C
+6633	Ayacucho	nine	isqon	isqon	i s χ o ŋ		567	i s χ o ŋ	V C C V C
+7177	Azuay	nine	iscun	iscun	i s k u n		567	i s k u n	V C C V C
+6636	Chachapoyas	nine	iskun	iskun	i s k u n		567	i s k u n	V C C V C
+6637	Chacpar	nine	isqun	isqun	i s q u n		567	i s q u n	V C C V C
+6638	Chetilla	nine	isγun	isγun	i s ʁ u n		567	i s ʁ u n	V C C V C
+6643	Huallaga	nine	isqun	isqun	i s q u n		567	i s q u n	V C C V C
+6646	Huangascar	nine	isqun	isqun	e s q u n		567	e s q u n	V C C V C
+6647	HuarazHuailas	nine	isqun	isqun	i s q u ɲ		567	i s q u ɲ	V C C V C
+6648	Imbabura	nine	iskun	iskun	i s k u n		567	i s k u n	V C C V C
+7409	Jauja	nine	isqun	isqun	i s ʔ u n		567	i s ʔ u n	V C C V C
+6656	Maragua	nine	išqun	išqun	i ʃ q u n		567	i ʃ q u n	V C C V C
+6657	Napo	nine	iscun	iscun	i s k u n		567	i s k u n	V C C V C
+6658	Pacaraos	nine	isqun	isqun	i s χ o ŋ		567	i s χ o ŋ	V C C V C
+6663	Puno	nine	isqun	isqun	i s q u n		567	i s q u n	V C C V C
+6667	Santiagueno	nine	eshqon	eshqon	e ʃ q o n	in disuse	567	e ʃ q o n	V C C V C
+6676	Yanac	nine	isqun	isqun	i s q u n		567	i s q u n	V C C V C
+3247	Apuri	nose	sinqa	sinqa	s e ŋ q a		571	s e ŋ q a	C V C C V
+3248	Apurimac	nose	senqa	senqa	s e n q a		571	s e n q a	C V C C V
+3250	Atalla	nose	sinġa	sinġa	s i n ɢ a		571	s i n ɢ a	C V C C V
+3251	Ayacucho	nose	senqa	senqa	s e ŋ χ a		571	s e ŋ χ a	C V C C V
+7194	Azuay	nose	singa	singa	s i n g a		571	s i n g a	C V C C V
+3254	Chachapoyas	nose	sinka	sinka	s i n g a		571	s i n g a	C V C C V
+3255	Chacpar	nose	sinγa	sinγa	s i n ʁ a		571	s i n ʁ a	C V C C V
+3256	Chetilla	nose	singa	singa	s i n g a		571	s i n g a	C V C C V
+3261	Huallaga	nose	sinqa	sinqa	s i n q a		571	s i n q a	C V C C V
+3264	Huangascar	nose	sinqa	sinqa	s e ŋ q a		571	s e ŋ q a	C V C C V
+3265	HuarazHuailas	nose	senqa	senqa	s e ɲ q a		571	s e ɲ q a	C V C C V
+3266	Imbabura	nose	singa	singa	s i n g a		571	s i n g a	C V C C V
+3267	Inkawasi	nose	sinġa	sinġa	s i n ɢ a		571	s i n ɢ a	C V C C V
+7410	Jauja	nose	sinqa	sinqa	s i n ʔ a		571	s i n ʔ a	C V C C V
+3274	Maragua	nose	sinqa	sinqa	s i n q a		571	s i n q a	C V C C V
+3275	Napo	nose	singa	singa	s i n g a		571	s i n g a	C V C C V
+3276	Pacaraos	nose	sinqa	sinqa	s i ɴ χ a		571	s i ɴ χ a	C V C C V
+3280	Puno	nose	sinqa	sinqa	s i n q a		571	s i n q a	C V C C V
+3284	Santiagueno	nose	senqa	senqa	s e ŋ q a		571	s e ŋ q a	C V C C V
+3293	Yanac	nose	sinqa	sinqa	s i n q a		571	s i n q a	C V C C V
+2739	Apuri	not	mana	mana	m a n a		574	m a n a	C V C V
+2740	Apurimac	not	mana	mana	m a n a		574	m a n a	C V C V
+2742	Atalla	not	mana	mana	m a n a		574	m a n a	C V C V
+2743	Ayacucho	not	mana	mana	m a n a		574	m a n a	C V C V
+7184	Azuay	not	mana	mana	m a n a		574	m a n a	C V C V
+2746	Chachapoyas	not	mana	mana	m a n a		574	m a n a	C V C V
+2747	Chacpar	not	mana	mana	m a n a		574	m a n a	C V C V
+2748	Chetilla	not	mana	mana	m a n a		574	m a n a	C V C V
+2753	Huallaga	not	mana	mana	m a n a		574	m a n a	C V C V
+2756	Huangascar	not	mana	mana	m a n a		574	m a n a	C V C V
+2757	HuarazHuailas	not	mana	mana	m a ɲ a		574	m a ɲ a	C V C V
+2758	Imbabura	not	mana	mana	m a n a		574	m a n a	C V C V
+2759	Inkawasi	not	mana	mana	m a n a		574	m a n a	C V C V
+7411	Jauja	not	mana	mana	m a n a		574	m a n a	C V C V
+2765	Maragua	not	mana	mana	m a n a		574	m a n a	C V C V
+2766	Napo	not	mana	mana	m a n a		574	m a n a	C V C V
+2767	Pacaraos	not	mana	mana	m a n a		574	m a n a	C V C V
+2771	Puno	not	mana	mana	m a n a		574	m a n a	C V C V
+2775	Santiagueno	not	mana	mana	m a n a		574	m a n a	C V C V
+2784	Yanac	not	mana	mana	m a n a		574	m a n a	C V C V
+441	Apuri	old (man)	machu	machu	m a tʃ u		577	m a tʃ u	C V C V
+442	Apurimac	old (man)	machu	machu	m a tʃ u		577	m a tʃ u	C V C V
+444	Atalla	old (man)	maču, maču.ča	maču	m a tʃ u		577	m a tʃ u	C V C V
+445	Ayacucho	old (man)	machu	machu	m a tʃ u		577	m a tʃ u	C V C V
+447	Chachapoyas	old (man)	machu	machu	m a tʃ u	orig: grande robusto; probablemente confundido con el esp machu	577	m a tʃ u	C V C V
+457	Huangascar	old (man)	machu	machu	m a tʃ u		577	m a tʃ u	C V C V
+472	Puno	old (man)	maču	maču	m a tʃ u		577	m a tʃ u	C V C V
+475	Santiagueno	old (man)	machu	machu	m a tʃ u		577	m a tʃ u	C V C V
+7273	Azuay	old (man)	rucu	rucu	ɾ u k u		578	ɾ u k u	C V C V
+448	Chacpar	old (man)	ruku	ruku	r u k u		578	r u k u	C V C V
+459	Imbabura	old (man)	ruku runa	ruku runa	ɾ u k u	ruku runa: old men	578	ɾ u k u	C V C V
+460	Inkawasi	old (man)	řuku	řuku	r̝ u k u		578	r̝ u k u	C V C V
+467	Napo	old (man)	rucu	rucu	r u k u		578	r u k u	C V C V
+454	Huallaga	old (man)	awkis	awkis	au k i s		871	au k i s	V C V C
+458	HuarazHuailas	old (man)	awkis	awkis	au k i s		871	au k i s	V C V C
+7412	Jauja	old (man)	awkish	awkish	au k i ʃ		871	au k i ʃ	V C V C
+468	Pacaraos	old (man)	awkin	awkin	au k i ŋ		871	au k i ŋ	V C V C
+484	Yanac	old (man)	awkis	awkis	au k i s		871	au k i s	V C V C
+502	HuarazHuailas	old (woman)	ruku	ruku	ɾ u k u		578	ɾ u k u	C V C V
+487	Apurimac	old (woman)	paya	paya	p a j a		587	p a j a	C V C V
+489	Atalla	old (woman)	paya	paya	p a j a		587	p a j a	C V C V
+490	Ayacucho	old (woman)	paya	paya	p a j a		587	p a j a	C V C V
+7274	Azuay	old (woman)	paya	paya	p a j a		587	p a j a	C V C V
+492	Chachapoyas	old (woman)	paya	paya	p a j a		587	p a j a	C V C V
+503	Imbabura	old (woman)	paya warmi	paya warmi	p a j a	paya warmi: old woman	587	p a j a	C V C V
+518	Puno	old (woman)	paya	paya	p a j a		587	p a j a	C V C V
+520	Santiagueno	old (woman)	paya	paya	p a j a	A. Bravo suggests loan from *payu (rubia, sanskr..)	587	p a j a	C V C V
+7464	Apuri	old (woman)	chakwash	chakwash	tʃ a k w a ʃ		588	tʃ a k w a ʃ	C V C C V C
+493	Chacpar	old (woman)	čakwa.s	čakwa.s	tʃ a k w a s		588	tʃ a k w a s	C V C C V C
+499	Huallaga	old (woman)	čakwa.n	čakwa.n	tʃ a k w a n		588	tʃ a k w a n	C V C C V C
+7467	Huangascar	old (woman)	chakwash	chakwash	tʃ a k w a ʃ		588	tʃ a k w a ʃ	C V C C V C
+7413	Jauja	old (woman)	chakwash	chakwash	tʃ a k w a ʂ		588	tʃ a k w a ʂ	C V C C V C
+514	Pacaraos	old (woman)	chachas, sakwa	sakwa	s a k w a		588	s a k w a -	C V C C V
+530	Yanac	old (woman)	ĉakwa.s	ĉakwa.s	ʈʂ a k w a s		588	ʈʂ a k w a s	C V C C V C
+2	Apuri	one	huk	huk	h u k		590	h u k	C V C
+3	Apurimac	one	huk, huj, huq	huk	h u k		590	h u k	C V C
+7	Atalla	one	huk	huk	h u k		590	h u k	C V C
+8	Ayacucho	one	huk	huk	h u k		590	h u k	C V C
+7169	Azuay	one	shug	shug	ʃ u g		590	ʃ u g	C V C
+11	Chachapoyas	one	suj	suj	s u x		590	s u x	C V C
+12	Chacpar	one	huk	huk	h u k		590	h u k	C V C
+13	Chetilla	one	suχ	suχ	s u χ		590	s u χ	C V C
+18	Huallaga	one	huk	huk	h u k		590	h u k	C V C
+22	Huangascar	one	huk	huk	h u k		590	h u k	C V C
+23	HuarazHuailas	one	huk	huk	x u k		590	x u k	C V C
+24	Imbabura	one	shuk	shuk	ʃ u k		590	ʃ u k	C V C
+25	Inkawasi	one	uk	uk	u k		590	- u k	V C
+20	Jauja	one	huk	huk	h u k		590	h u k	C V C
+32	Maragua	one	ux	ux	u x		590	- u x	V C
+33	Napo	one	shuj	shuj	ʃ u		590	ʃ u -	C V
+34	Pacaraos	one	huk	huk	x u k		590	x u k	C V C
+38	Puno	one	ux	ux	u x		590	- u x	V C
+42	Santiagueno	one	suk	suk	s u x		590	s u x	C V C
+51	Yanac	one	uk	uk	u k		590	- u k	V C
+2693	Apuri	push, to	tanqa-	tanqa-	t a n q a		593	t a n q - - a	C V C C V
+2694	Apurimac	push, to	tanqa	tanqa	t a n q a		593	t a n q - - a	C V C C V
+2695	Atalla	push, to	tanġa.	tanġa.	t a n ɢ a		593	t a n ɢ - - a	C V C C V
+2696	Ayacucho	push, to	tanqa	tanqa	t a ŋ χ a		593	t a ŋ χ - - a	C V C C V
+7314	Azuay	push, to	tangana	tangana	t a n g a n a		593	t a n g a n a	C V C C V C V
+2699	Chachapoyas	push, to	tanka	tanka	t a n g a		593	t a n g - - a	C V C C V
+2700	Chacpar	push, to	tanqa.	tanqa.	t a n q a		593	t a n q - - a	C V C C V
+2706	Huallaga	push, to	tanqa.	tanqa.	t a n q a		593	t a n q - - a	C V C C V
+2710	Huangascar	push, to	tanqa-	tanqa-	t a n q a		593	t a n q - - a	C V C C V
+2712	Imbabura	push, to	tangana	tangana	t a n g a n a		593	t a n g a n a	C V C C V C V
+7415	Jauja	push, to	tanqay	tanqay	t a n ʔ a		593	t a n ʔ - - a	C V C C V
+2719	Maragua	push, to	tanqa.	tanqa.	t a n q a		593	t a n q - - a	C V C C V
+2720	Napo	push, to	tangana	tangana	t a n g a n a		593	t a n g a n a	C V C C V C V
+2725	Puno	push, to	tanqa.	tanqa.	t a n q a		593	t a n q - - a	C V C C V
+2729	Santiagueno	push, to	tanqay	tanqay	t a ŋ q a		593	t a ŋ q - - a	C V C C V
+2737	Yanac	push, to	tanqa.	tanqa.	t a n q a		593	t a n q - - a	C V C C V
+2701	Chetilla	push, to	kumsa.	kumsa.	k u m s a		453	k u m s a	C V C C V
+2711	HuarazHuailas	push, to	kumay	kumay	k u m a		453	k u m - a	C V C V
+2713	Inkawasi	push, to	kumsa.	kumsa.	k u m s a		453	k u m s a	C V C C V
+7414	Jauja	push, to	kumsay	kumsay	k u m s a		453	k u m s a	C V C C V
+2721	Pacaraos	push, to	kuma	kuma	k u m a		453	k u m - a	C V C V
+6204	Apuri	rain	para	para	p a ɾ a		369	p a ɾ a	C V C V
+6205	Apurimac	rain	para	para	p a r a		369	p a r a	C V C V
+6207	Atalla	rain	para	para	p a r a		369	p a r a	C V C V
+6208	Ayacucho	rain	para	para	p a ɾ a		369	p a ɾ a	C V C V
+6221	Huangascar	rain	para	para	p a ɾ a		369	p a ɾ a	C V C V
+6231	Maragua	rain	para	para	p a r a		369	p a r a	C V C V
+6237	Puno	rain	para	para	p a r a		369	p a r a	C V C V
+6241	Santiagueno	rain	para	para	p a ɾ a		369	p a ɾ a	C V C V
+7247	Azuay	rain	tamia	tamia	t a m j a		594	t a m j a	C V C C V
+6211	Chachapoyas	rain	tamya	tamya	t a m j a		594	t a m j a	C V C C V
+6212	Chacpar	rain	tamya	tamya	t a m j a		594	t a m j a	C V C C V
+6213	Chetilla	rain	tamya	tamya	t a m j a		594	t a m j a	C V C C V
+6218	Huallaga	rain	tamya	tamya	t a m j a		594	t a m j a	C V C C V
+6222	HuarazHuailas	rain	tamya	tamya	t a m j a		594	t a m j a	C V C C V
+6223	Imbabura	rain	tamya	tamya	t a m j a		594	t a m j a	C V C C V
+6224	Inkawasi	rain	tamya	tamya	t a m j a		594	t a m j a	C V C C V
+7416	Jauja	rain	tamya	tamya	t a m j a		594	t a m j a	C V C C V
+6232	Napo	rain	tamia	tamia	t a m j a		594	t a m j a	C V C C V
+6233	Pacaraos	rain	tamya	tamya	t a m j a		594	t a m j a	C V C C V
+6251	Yanac	rain	tamya	tamya	t a m j a		594	t a m j a	C V C C V
+7118	Apuri	red	puka	puka	p u k a		597	p u k a	C V C V
+7119	Apurimac	red	puka	puka	p u k a		597	p u k a	C V C V
+7121	Atalla	red	puka	puka	p u k a		597	p u k a	C V C V
+7122	Ayacucho	red	puka	puka	p u k a		597	p u k a	C V C V
+7265	Azuay	red	puca	puca, pichi	p u k a		597	p u k a	C V C V
+7125	Chachapoyas	red	puka	puka	p u k a		597	p u k a	C V C V
+7126	Chacpar	red	puka	puka	p u k a		597	p u k a	C V C V
+7132	Huallaga	red	puka	puka	p u k a		597	p u k a	C V C V
+7135	Huangascar	red	puka	puka	p u k a		597	p u k a	C V C V
+7136	HuarazHuailas	red	puka	puka	p u k a		597	p u k a	C V C V
+7137	Imbabura	red	puka	puka	p u k a		597	p u k a	C V C V
+7417	Jauja	red	puka	puka	p u k a		597	p u k a	C V C V
+7144	Maragua	red	puka	puka	p u k a		597	p u k a	C V C V
+7145	Napo	red	puca	puca	p u k a		597	p u k a	C V C V
+7146	Pacaraos	red	puka	puka	p u k a		597	p u k a	C V C V
+7150	Puno	red	puka	puka	p u k a		597	p u k a	C V C V
+7155	Santiagueno	red	puka	puka	p u x a		597	p u x a	C V C V
+7163	Yanac	red	puka	puka	p u k a		597	p u k a	C V C V
+1093	Apuri	right (hand side)	alliq	alliq	a ʎ e q		601	a ʎ - - e q -	V C V C
+1095	Atalla	right (hand side)	aλi.χ	aλi.χ	a ʎ i χ		601	a ʎ - - i χ -	V C V C
+1096	Ayacucho	right (hand side)	alleq	alleq	a ʎ e χ		601	a ʎ - - e χ -	V C V C
+7180	Azuay	right (hand side)	alli maqui	alli maqui	a ʎ i m a k i	maki: hand	601	a ʎ i m a k i	V C V C V C V
+1099	Chachapoyas	right (hand side)	alli	alli	a dʑ i		601	a dʑ - - i - -	V C V
+1101	Chetilla	right (hand side)	adžin	adžin	a dʒ i n		601	a dʒ - - i n -	V C V C
+1109	Huangascar	right (hand side)	alliq	alliq	a ʎ e q		601	a ʎ - - e q -	V C V C
+1110	Imbabura	right (hand side)	ali	ali	a l i		601	a l - - i - -	V C V
+1111	Inkawasi	right (hand side)	adži	adži	a dʒ i		601	a dʒ - - i - -	V C V
+1118	Napo	right (hand side)	ali maqui	ali maqui	a l i m a k i		601	a l i m a k i	V C V C V C V
+1100	Chacpar	right (hand side)	dereča	dereča	d e r e tʃ a		602	d e r e tʃ a	C V C V C V
+1106	Huallaga	right (hand side)	dereča	dereča	d e r e tʃ a		602	d e r e tʃ a	C V C V C V
+1122	Puno	right (hand side)	dereča	dereča	d e r e tʃ a		602	d e r e tʃ a	C V C V C V
+1132	Yanac	right (hand side)	dereča	dereča	d e r e tʃ a		602	d e r e tʃ a	C V C V C V
+5775	Apuri	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5776	Apurimac	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5778	Atalla	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5779	Ayacucho	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5782	Chachapoyas	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5783	Chacpar	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5790	Huallaga	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5793	Huangascar	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5794	HuarazHuailas	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5795	Imbabura	river	mayu	mayu	m a j u		607	m a j u	C V C V
+7418	Jauja	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5803	Maragua	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5809	Puno	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5813	Santiagueno	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5822	Yanac	river	mayu	mayu	m a j u		607	m a j u	C V C V
+5784	Chetilla	river	riu	riu	r i u		608	r i u	C V V
+5796	Inkawasi	river	rio	rio	r i o		608	r i o	C V V
+5805	Pacaraos	river	rrio	rrio	r i o	mayu as toponym	608	r i o	C V V
+6979	Apurimac	road	ñan	ñan	ɲ a n		610	ɲ a - n -	C V C
+6981	Ayacucho	road	ñan	ñan	ɲ a ŋ		610	ɲ a - ŋ -	C V C
+7262	Azuay	road	ñan	ñan	ɲ a n		610	ɲ a - n -	C V C
+6983	Chachapoyas	road	ñan	ñan	ɲ a n		610	ɲ a - n -	C V C
+6985	Chetilla	road	ñan	ñan	ɲ a n		610	ɲ a - n -	C V C
+6994	Imbabura	road	ñan	ñan	ɲ a n		610	ɲ a - n -	C V C
+6995	Inkawasi	road	nan	nan	n a n		610	n a - n -	C V C
+7001	Maragua	road	yan	yan	j a n		610	j a - n -	C V C
+7002	Napo	road	ñambi	ñambi	ɲ a m b i		610	ɲ a m b i	C V C C V
+7007	Puno	road	ñan	ñan	ɲ a n		610	ɲ a - n -	C V C
+7010	Santiagueno	road	ñan	ñan	ɲ a n		610	ɲ a - n -	C V C
+6984	Chacpar	road	na:ni	na:ni	n aː n i		479	n aː n i	C V C V
+6990	Huallaga	road	na:ni	na:ni	n aː n i		479	n aː n i	C V C V
+6993	HuarazHuailas	road	naani	naani	ɲ aː ɲ i		479	ɲ aː ɲ i	C V C V
+7019	Yanac	road	na:ni	na:ni	n aː n i		479	n aː n i	C V C V
+6678	Apuri	root	sapi	sapi	s a p i		616	s a p i	C V C V
+6679	Apurimac	root	sapi	sapi	s a p i		616	s a p i	C V C V
+6681	Atalla	root	sapi	sapi	s a p i		616	s a p i	C V C V
+6682	Ayacucho	root	sapi	sapi	s a p i		616	s a p i	C V C V
+7256	Azuay	root	sapi	sapi	s a p i		616	s a p i	C V C V
+6685	Chachapoyas	root	sapi	sapi	s a p i		616	s a p i	C V C V
+6693	Huallaga	root	sapi	sapi	s a p i		616	s a p i	C V C V
+6697	Huangascar	root	sapi	sapi	s a p i		616	s a p i	C V C V
+7500	HuarazHuailas	root	sipi	sipi	s i p i		616	s i p i	C V C V
+6698	Imbabura	root	sapi	sapi	s a p i		616	s a p i	C V C V
+6694	Jauja	root	sipi	sipi	s i p i		616	s i p i	C V C V
+6706	Maragua	root	saphi	saphi	s a pʰ i		616	s a pʰ i	C V C V
+6708	Pacaraos	root	sapi	sapi	s a p i		616	s a p i	C V C V
+6712	Puno	root	saphi	saphi	s a pʰ i		616	s a pʰ i	C V C V
+6716	Santiagueno	root	sapi	sapi	s a p i		616	s a p i	C V C V
+6687	Chetilla	root	ĉupa	ĉupa	ʈʂ u p a		109	ʈʂ u p a	C V C V
+6699	Inkawasi	root	ĉupa	ĉupa	ʈʂ u p a		109	ʈʂ u p a	C V C V
+6727	Yanac	root	ĉapa	ĉapa	ʈʂ a p a		109	ʈʂ a p a	C V C V
+6929	Apuri	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6930	Apurimac	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6932	Atalla	rope	waskha	waskha	w a s kʰ a		624	w a s kʰ a	C V C C V
+6933	Ayacucho	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+7261	Azuay	rope	huasca	huasca	w a s k a		624	w a s k a	C V C C V
+6936	Chachapoyas	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6937	Chacpar	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6938	Chetilla	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6945	Huallaga	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6948	Huangascar	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6949	HuarazHuailas	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6950	Imbabura	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6951	Inkawasi	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+7419	Jauja	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6957	Maragua	rope	waškha	waškha	w a ʃ kʰ a		624	w a ʃ kʰ a	C V C C V
+6958	Napo	rope	huasca	huasca	w a s k a		624	w a s k a	C V C C V
+6959	Pacaraos	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6963	Puno	rope	wiskha	wiskha	w i s kʰ a		624	w i s kʰ a	C V C C V
+6967	Santiagueno	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6977	Yanac	rope	waska	waska	w a s k a		624	w a s k a	C V C C V
+6443	Apuri	salt	katri	katri	k a ʈʂ i		632	k a ʈʂ i	C V C V
+6444	Apurimac	salt	kachi	kachi	k a tʃ i		632	k a tʃ i	C V C V
+6445	Atalla	salt	kači	kači	k a tʃ i		632	k a tʃ i	C V C V
+6446	Ayacucho	salt	kachi	kachi	k a tʃ i		632	k a tʃ i	C V C V
+7252	Azuay	salt	cachi	cachi	k a tʃ i		632	k a tʃ i	C V C V
+6449	Chachapoyas	salt	kaĉi	kaĉi	k a ʈʂ i		632	k a ʈʂ i	C V C V
+6450	Chacpar	salt	kači	kači	k a tʃ i		632	k a tʃ i	C V C V
+6451	Chetilla	salt	kaĉi	kaĉi	k a ʈʂ i		632	k a ʈʂ i	C V C V
+6456	Huallaga	salt	kači	kači	k a tʃ i		632	k a tʃ i	C V C V
+6459	Huangascar	salt	katri	katri	k a ʈʂ i		632	k a ʈʂ i	C V C V
+6460	HuarazHuailas	salt	kachi	kachi	k a tʃ i		632	k a tʃ i	C V C V
+6461	Imbabura	salt	kachi	kachi	k a tʃ i		632	k a tʃ i	C V C V
+6462	Inkawasi	salt	kaĉi	kaĉi	k a ʈʂ i		632	k a ʈʂ i	C V C V
+7420	Jauja	salt	katri	katri	k a ʈʂ i		632	k a ʈʂ i	C V C V
+6469	Maragua	salt	kači	kači	k a tʃ i		632	k a tʃ i	C V C V
+6470	Napo	salt	cachi	cachi	k a tʃ i		632	k a tʃ i	C V C V
+6471	Pacaraos	salt	katri	katri	k a ʈʂ i		632	k a ʈʂ i	C V C V
+6475	Puno	salt	kači	kači	k a tʃ i		632	k a tʃ i	C V C V
+6479	Santiagueno	salt	kachi	kachi	k a tʃ i		632	k a tʃ i	C V C V
+6488	Yanac	salt	kaĉi	kaĉi	k a ʈʂ i		632	k a ʈʂ i	C V C V
+6068	Apuri	sand	aqu	aqu	a q o		636	a q o -	V C V
+6069	Apurimac	sand	aqo	aqo	a q o		636	a q o -	V C V
+6071	Atalla	sand	aχu	aχu	a χ u		636	a χ u -	V C V
+6072	Ayacucho	sand	aqo	aqo	a χ o		636	a χ o -	V C V
+6076	Chetilla	sand	aγu	aγu	a ʁ u		636	a ʁ u -	V C V
+6082	Huallaga	sand	aqu.š	aqu.š	a q u ʃ		636	a q u ʃ	V C V C
+6085	Huangascar	sand	aqu	aqu	a q o		636	a q o -	V C V
+6088	Inkawasi	sand	aγu	aγu	a ʁ u		636	a ʁ u -	V C V
+7334	Jauja	sand	aqu	aqu	a ʔ u		636	a ʔ u -	V C V
+6099	Puno	sand	aqu	aqu	a q u		636	a q u -	V C V
+6111	Yanac	sand	aqu	aqu	a q u		636	a q u -	V C V
+7245	Azuay	sand	tiu	tiu	t i j u		635	t i j u	C V C V
+6074	Chachapoyas	sand	tiyu	tiyu	t i j u		635	t i j u	C V C V
+6087	Imbabura	sand	tiyu	tiyu	t i j u		635	t i j u	C V C V
+6095	Maragua	sand	t'iyu	t'iyu	tʼ i j u		635	tʼ i j u	C V C V
+6102	Santiagueno	sand	tiyu	tiyu	t i j u		635	t i j u	C V C V
+2164	Apuri	see, to	qawa-	qawa-	q a w a		641	q a w a	C V C V
+2166	Apurimac	see, to	qawa	qawa	q a w a		641	q a w a	C V C V
+2171	Ayacucho	see, to	qawa, riku	qawa	χ a w a		641	χ a w a	C V C V
+2176	Chachapoyas	see, to	kawa, riku	kawa	k a w a		641	k a w a	C V C V
+2188	Huangascar	see, to	qawa-	qawa-	q a w a		641	q a w a	C V C V
+2211	Santiagueno	see, to	qaay	qaay	q aː		641	q aː - -	C V
+2165	Apuri	see, to	rika-	rika-	ɾ i k a		640	ɾ i k - - a	C V C V
+2167	Apurimac	see, to	riku	riku	r i k u		640	r i k - - u	C V C V
+2170	Atalla	see, to	ri.ku.	ri.ku.	r i k u		640	r i k - - u	C V C V
+2172	Ayacucho	see, to	qawa, riku	riku	ɾ i k u		640	ɾ i k - - u	C V C V
+7304	Azuay	see, to	ricu-na	ricu-na	ɾ i k u n a		640	ɾ i k u n a	C V C V C V
+2177	Chachapoyas	see, to	kawa, riku	riku	r i k u		640	r i k - - u	C V C V
+2178	Chacpar	see, to	ri.ka.	ri.ka.	r i k a		640	r i k - - a	C V C V
+2179	Chetilla	see, to	ri.ka.	ri.ka.	r i k a		640	r i k - - a	C V C V
+2185	Huallaga	see, to	ri.ka.	ri.ka.	r i k a		640	r i k - - a	C V C V
+2189	Huangascar	see, to	rika-	rika-	ɾ i k a		640	ɾ i k - - a	C V C V
+2190	HuarazHuailas	see, to	rikay	rikay	ɾ i k a		640	ɾ i k - - a	C V C V
+2191	Imbabura	see, to	rikuna	rikuna	ɾ i k u n a		640	ɾ i k u n a	C V C V C V
+2192	Inkawasi	see, to	ri.ka.	ri.ka.	r i k a		640	r i k - - a	C V C V
+7421	Jauja	see, to	likay	likay	l i k a		640	l i k - - a	C V C V
+2200	Maragua	see, to	ri.ku.	ri.ku.	r i k u		640	r i k - - u	C V C V
+2201	Napo	see, to	ricuna	ricuna	r i k u n a		640	r i k u n a	C V C V C V
+2202	Pacaraos	see, to	rika	rika	ɾ i k a		640	ɾ i k - - a	C V C V
+2206	Puno	see, to	ri.ku.	ri.ku.	r i k u		640	r i k - - u	C V C V
+2220	Yanac	see, to	ri.ka.	ri.ka.	r i k a		640	r i k - - a	C V C V
+6536	Apurimac	seed	muju, muhu, muqu	muju	m u χ u		148	m u χ u	C V C V
+6540	Atalla	seed	muxu	muxu	m u x u		148	m u x u	C V C V
+6552	Jauja	seed	muhu	muhu	m u h u		148	m u h u	C V C V
+6562	Maragua	seed	muhu	muhu	m u h u		148	m u h u	C V C V
+6568	Puno	seed	muxu	muxu	m u x u		148	m u x u	C V C V
+6537	Apurimac	seed	muju, muhu, muqu	muhu	m u h u		308	m u h u	C V C V
+6542	Ayacucho	seed	muru, muya	muya	m u j a		308	m u j a	C V C V
+7254	Azuay	seed	muyu	muyu	m u j u		308	m u j u	C V C V
+6555	Imbabura	seed	muyu	muyu	m u j u		308	m u j u	C V C V
+6563	Napo	seed	muyu	muyu	m u j u		308	m u j u	C V C V
+6541	Ayacucho	seed	muru, muya	muru	m u ɾ u		324	m u ɾ u	C V C V
+6544	Chachapoyas	seed	muru	muru	m u r u		324	m u r u	C V C V
+6545	Chacpar	seed	muru	muru	m u r u		324	m u r u	C V C V
+6546	Chetilla	seed	muru	muru	m u r u		324	m u r u	C V C V
+6550	Huallaga	seed	muru	muru	m u r u		324	m u r u	C V C V
+6554	HuarazHuailas	seed	muru	muru	m u ɾ u		324	m u ɾ u	C V C V
+6564	Pacaraos	seed	muru	muru	m u ɾ u		324	m u ɾ u	C V C V
+6580	Yanac	seed	muru	muru	m u r u		324	m u r u	C V C V
+5574	Apuri	seven	qanchis	qanchis	q a n tʃ i s		647	q a n tʃ i s	C V C C V C
+5575	Apurimac	seven	qanchis	qanchis	q a n tʃ i s		647	q a n tʃ i s	C V C C V C
+5577	Atalla	seven	χančis	χančis	χ a n tʃ i s		647	χ a n tʃ i s	C V C C V C
+5578	Ayacucho	seven	qanchis	qanchis	χ a n tʃ i s		647	χ a n tʃ i s	C V C C V C
+7175	Azuay	seven	canchis	canchis	k a n tʃ i s		647	k a n tʃ i s	C V C C V C
+5581	Chachapoyas	seven	kanĉis	kanĉis	k a n ʈʂ i s		647	k a n ʈʂ i s	C V C C V C
+5582	Chacpar	seven	qančis	qančis	q a n tʃ i s		647	q a n tʃ i s	C V C C V C
+5583	Chetilla	seven	qantris	qantris	q a n tʃ i s		647	q a n tʃ i s	C V C C V C
+5587	Huallaga	seven	qančis	qančis	q a n tʃ i s		647	q a n tʃ i s	C V C C V C
+5591	Huangascar	seven	qanchis	qanchis	q a n tʃ i s		647	q a n tʃ i s	C V C C V C
+5592	HuarazHuailas	seven	qanchis	qanchis	q a ɲ tʃ i s		647	q a ɲ tʃ i s	C V C C V C
+5593	Imbabura	seven	kanchis	kanchis	k a n tʃ i s		647	k a n tʃ i s	C V C C V C
+5602	Maragua	seven	qančis	qančis	q a n tʃ i s		647	q a n tʃ i s	C V C C V C
+5603	Napo	seven	canzhis	canzhis	k a n dʒ i s		647	k a n dʒ i s	C V C C V C
+5604	Pacaraos	seven	qantris	qantris	ʁ a ɳ ʈʂ i s		647	ʁ a ɳ ʈʂ i s	C V C C V C
+5608	Puno	seven	qančis	qančis	q a n tʃ i s		647	q a n tʃ i s	C V C C V C
+5612	Santiagueno	seven	qanchis	qanchis	q a n tʃ i s	in disuse	647	q a n tʃ i s	C V C C V C
+5621	Yanac	seven	qančis	qančis	q a n tʃ i s		647	q a n tʃ i s	C V C C V C
+2540	Apuri	sew, to	sira-	sira-	s i ɾ a		652	s i ɾ - - a	C V C V
+2542	Apurimac	sew, to	sira	sira	s i ɾ a		652	s i ɾ - - a	C V C V
+2544	Atalla	sew, to	sira.	sira.	s i ɾ a		652	s i ɾ - - a	C V C V
+2545	Ayacucho	sew, to	sira	sira	s i ɾ a		652	s i ɾ - - a	C V C V
+7312	Azuay	sew, to	sirana	sirana	s i ɾ a n a		652	s i ɾ a n a	C V C V C V
+2549	Chachapoyas	sew, to	sira	sira	s i ɾ a		652	s i ɾ - - a	C V C V
+2551	Chetilla	sew, to	sira.	sira.	s i ɾ a		652	s i ɾ - - a	C V C V
+2559	Huangascar	sew, to	sira-	sira-	s i ɾ a		652	s i ɾ - - a	C V C V
+2562	Imbabura	sew, to	sirana	sirana	s i ɾ a n a		652	s i ɾ a n a	C V C V C V
+2563	Inkawasi	sew, to	sira.	sira.	s i ɾ a		652	s i ɾ - - a	C V C V
+2570	Maragua	sew, to	sira.	sira.	s i ɾ a		652	s i ɾ - - a	C V C V
+2571	Napo	sew, to	sirana	sirana	s i ɾ a n a		652	s i ɾ a n a	C V C V C V
+2576	Puno	sew, to	sira.	sira.	s i ɾ a		652	s i ɾ - - a	C V C V
+2581	Santiagueno	sew, to	seray	seray	s e ɾ a		652	s e ɾ - - a	C V C V
+2550	Chacpar	sew, to	hira.	hira.	h i ɾ a		521	h i ɾ a	C V C V
+2556	Huallaga	sew, to	hira.	hira.	h i ɾ a		521	h i ɾ a	C V C V
+2561	HuarazHuailas	sew, to	hiray	hiray	x i ɾ a		521	x i ɾ a	C V C V
+2572	Pacaraos	sew, to	hira	hira	x i ɾ a		521	x i ɾ a	C V C V
+2590	Yanac	sew, to	ira.	ira.	i r a		521	- i r a	V C V
+5675	Apuri	shadow	llantu	llantu	ʎ a n t u		655	ʎ a n t u	C V C C V
+5676	Apurimac	shadow	llantu	llantu	ʎ a n t u		655	ʎ a n t u	C V C C V
+5678	Atalla	shadow	λantu	λantu	ʎ a n t u		655	ʎ a n t u	C V C C V
+5679	Ayacucho	shadow	llantu	llantu	ʎ a n t u		655	ʎ a n t u	C V C C V
+7237	Azuay	shadow	llandu	llandu	ʎ a n d u		655	ʎ a n d u	C V C C V
+5682	Chachapoyas	shadow	llantu	llantu	dʑ a n d u		655	dʑ a n d u	C V C C V
+5683	Chacpar	shadow	λantu	λantu	ʎ a n t u		655	ʎ a n t u	C V C C V
+5684	Chetilla	shadow	dyandu	dyandu	ʎ a n d u		655	ʎ a n d u	C V C C V
+5689	Huallaga	shadow	λantu, λantu.y	λantu	ʎ a n t u		655	ʎ a n t u	C V C C V
+5694	Huangascar	shadow	llantu	llantu	ʎ a n t u		655	ʎ a n t u	C V C C V
+5695	HuarazHuailas	shadow	llantu	llantu	ʎ a ɲ t u		655	ʎ a ɲ t u	C V C C V
+5696	Imbabura	shadow	llantu	llantu	ʎ a n t u		655	ʎ a n t u	C V C C V
+5697	Inkawasi	shadow	žandu	žandu	ʒ a n d u		655	ʒ a n d u	C V C C V
+5692	Jauja	shadow	llantu	llantu	ʎ a n t u		655	ʎ a n t u	C V C C V
+5703	Maragua	shadow	λanthu	λanthu	ʎ a n tʰ u		655	ʎ a n tʰ u	C V C C V
+5704	Napo	shadow	llandu	llandu	ʎ a n d u		655	ʎ a n d u	C V C C V
+5705	Pacaraos	shadow	lantu	lantu	l a n t u		655	l a n t u	C V C C V
+5709	Puno	shadow	λanthu	λanthu	ʎ a n tʰ u		655	ʎ a n tʰ u	C V C C V
+5713	Santiagueno	shadow	llantu	llantu	ʒ a n t u		655	ʒ a n t u	C V C C V
+5721	Yanac	shadow	λantu	λantu	ʎ a n t u		655	ʎ a n t u	C V C C V
+5254	Imbabura	sister (man's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5235	Apuri	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5236	Apurimac	sister (man's)	pana	pana	p a n a		660	p a n a	C V C V
+5238	Atalla	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5239	Ayacucho	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+7230	Azuay	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5242	Chachapoyas	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5243	Chacpar	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5244	Chetilla	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5249	Huallaga	sister (man's)	pañi	pañi	p a ɲ i		660	p a ɲ i	C V C V
+5252	Huangascar	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5253	HuarazHuailas	sister (man's)	pani	pani	p a ɲ i		660	p a ɲ i	C V C V
+7422	Jauja	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5262	Napo	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5263	Pacaraos	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5267	Puno	sister (man's)	pana	pana	p a n a		660	p a n a	C V C V
+5270	Santiagueno	sister (man's)	pana	pana	p a n a		660	p a n a	C V C V
+5278	Yanac	sister (man's)	pani	pani	p a n i		660	p a n i	C V C V
+5280	Apuri	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5281	Apurimac	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5283	Atalla	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5284	Ayacucho	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+7231	Azuay	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5287	Chachapoyas	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5288	Chacpar	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5294	Huallaga	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5297	Huangascar	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5298	HuarazHuailas	sister (woman's)	nana	nana	n a n a		665	n a n a	C V C V
+7423	Jauja	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5307	Napo	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5308	Pacaraos	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5312	Puno	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5315	Santiagueno	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+5323	Yanac	sister (woman's)	ñaña	ñaña	ɲ a ɲ a		665	ɲ a ɲ a	C V C V
+1469	Apuri	sit, to	tiya	tiya	t i j a		668	t i j - - - - - - a	C V C V
+1470	Apurimac	sit, to	tiya	tiya	t i j a		668	t i j - - - - - - a	C V C V
+1473	Atalla	sit, to	tiya.	tiya.	t i j a		668	t i j - - - - - - a	C V C V
+1474	Ayacucho	sit, to	tiya	tiya	t i j a		668	t i j - - - - - - a	C V C V
+7292	Azuay	sit, to	tia-ri-cu-na	tia-ri-cu-na	t i j a ɾ i k u n a		668	t i j a ɾ i k u n a	C V C V C V C V C V
+1477	Chachapoyas	sit, to	tiya	tiya	t i j a		668	t i j - - - - - - a	C V C V
+1479	Chetilla	sit, to	tiya.	tiya.	t i j a		668	t i j - - - - - - a	C V C V
+1488	Huangascar	sit, to	tiya	tiya	t i j a	sentarse	668	t i j - - - - - - a	C V C V
+1489	Imbabura	sit, to	tiyarina	tiyarina	t i j a ɾ i n a		668	t i j a ɾ i - - n a	C V C V C V C V
+1486	Jauja	sit, to	tiyu	tiyu	t i j u		668	t i j - - - - - - u	C V C V
+1496	Maragua	sit, to	tiya.	tiya.	t i j a		668	t i j - - - - - - a	C V C V
+1497	Napo	sit, to	tiarina	tiarina	t i j a r i n a		668	t i j a r i - - n a	C V C V C V C V
+1504	Puno	sit, to	tiya.	tiya.	t i j a		668	t i j - - - - - - a	C V C V
+1507	Santiagueno	sit, to	tiyakuy	tiyakuy	t iː j a x u		668	t iː j a - - x - - u	C V C V C V
+1478	Chacpar	sit, to	hama.	hama.	h a m a		669	h a m a	C V C V
+1484	Huallaga	sit, to	hama.	hama.	h a m a		669	h a m a	C V C V
+1515	Yanac	sit, to	ama.	ama.	a m a		669	- a m a	V C V
+5042	Apuri	six	suqta	suqta	s o q t a		673	s o q t a	C V C C V
+5043	Apurimac	six	soqta	soqta	s o q t a		673	s o q t a	C V C C V
+5045	Atalla	six	suχta	suχta	s u χ t a		673	s u χ t a	C V C C V
+5046	Ayacucho	six	soqta	soqta	s o χ t a		673	s o χ t a	C V C C V
+7174	Azuay	six	sogta	sogta	s o g t a		673	s o g t a	C V C C V
+5049	Chachapoyas	six	sukta	sukta	s u k t a		673	s u k t a	C V C C V
+5050	Chacpar	six	huqta	huqta	h u q t a		673	h u q t a	C V C C V
+5051	Chetilla	six	suxta	suxta	s u x t a		673	s u x t a	C V C C V
+5055	Huallaga	six	suχta	suχta	s u χ t a		673	s u χ t a	C V C C V
+5058	Huangascar	six	suqta	suqta	s o q t a		673	s o q t a	C V C C V
+5059	HuarazHuailas	six	hoqta	hoqta	x o q t a		673	x o q t a	C V C C V
+5060	Imbabura	six	sukta	sukta	s u k t a		673	s u k t a	C V C C V
+7424	Jauja	six	suqta	suqta	s u ʔ t a		673	s u ʔ t a	C V C C V
+5068	Maragua	six	suxta	suxta	s u x t a		673	s u x t a	C V C C V
+5069	Napo	six	sucta	sucta	s u k t a		673	s u k t a	C V C C V
+5070	Pacaraos	six	huqta/quqta	huqta	x o χ t a		673	x o χ t a	C V C C V
+5075	Puno	six	suχta	suχta	s u χ t a		673	s u χ t a	C V C C V
+5079	Santiagueno	six	shoqta	shoqta	ʃ o χ t a		673	ʃ o χ t a	C V C C V
+5088	Yanac	six	suqta	suqta	s u q t a		673	s u q t a	C V C C V
+4068	Apuri	skin	qara	qara	q a ɾ a		677	q a ɾ a	C V C V
+4069	Apurimac	skin	qara	qara	q a r a		677	q a r a	C V C V
+4071	Atalla	skin	χara	χara	χ a r a		677	χ a r a	C V C V
+4072	Ayacucho	skin	qara	qara	χ a ɾ a		677	χ a ɾ a	C V C V
+7209	Azuay	skin	cara	cara	k a ɾ a		677	k a ɾ a	C V C V
+4075	Chachapoyas	skin	kara	kara	k a r a		677	k a r a	C V C V
+4076	Chacpar	skin	qara	qara	q a r a		677	q a r a	C V C V
+4077	Chetilla	skin	qara	qara	q a r a		677	q a r a	C V C V
+4082	Huallaga	skin	qara	qara	q a r a		677	q a r a	C V C V
+4085	Huangascar	skin	qara	qara	q a ɾ a		677	q a ɾ a	C V C V
+4086	HuarazHuailas	skin	qara	qara	q a ɾ a		677	q a ɾ a	C V C V
+4087	Imbabura	skin	kara	kara	k a ɾ a		677	k a ɾ a	C V C V
+4088	Inkawasi	skin	χara	χara	χ a r a		677	χ a r a	C V C V
+4094	Maragua	skin	qara	qara	q a r a		677	q a r a	C V C V
+4095	Napo	skin	cara	cara	k a r a		677	k a r a	C V C V
+4096	Pacaraos	skin	qara	qara	ʁ a ɾ a		677	ʁ a ɾ a	C V C V
+4100	Puno	skin	qara	qara	q a r a		677	q a r a	C V C V
+4104	Santiagueno	skin	qara	qara	q a ɾ a		677	q a ɾ a	C V C V
+4112	Yanac	skin	qara	qara	q a r a		677	q a r a	C V C V
+1976	Apuri	sleep, to	puñu-	puñu-	p u ɲ u		680	p u ɲ - - u	C V C V
+1977	Apurimac	sleep, to	puñu	puñu	p u ɲ u		680	p u ɲ - - u	C V C V
+1979	Atalla	sleep, to	puñu.	puñu.	p u ɲ u		680	p u ɲ - - u	C V C V
+1980	Ayacucho	sleep, to	puñu	puñu	p u ɲ u		680	p u ɲ - - u	C V C V
+7301	Azuay	sleep, to	puñu-na	puñu-na	p u ɲ u n a		680	p u ɲ u n a	C V C V C V
+1983	Chachapoyas	sleep, to	puñu	puñu	p u ɲ u		680	p u ɲ - - u	C V C V
+1984	Chacpar	sleep, to	punu.	punu.	p u n u		680	p u n - - u	C V C V
+1985	Chetilla	sleep, to	puñu.	puñu.	p u ɲ u		680	p u ɲ - - u	C V C V
+1990	Huallaga	sleep, to	puñu.	puñu.	p u ɲ u		680	p u ɲ - - u	C V C V
+1993	Huangascar	sleep, to	puñu-	puñu-	p u ɲ u		680	p u ɲ - - u	C V C V
+1994	HuarazHuailas	sleep, to	punuy	punuy	p u ɲ u		680	p u ɲ - - u	C V C V
+1995	Imbabura	sleep, to	puñuna	puñuna	p u ɲ u n a		680	p u ɲ u n a	C V C V C V
+1996	Inkawasi	sleep, to	punu.	punu.	p u n u		680	p u n - - u	C V C V
+7425	Jauja	sleep, to	puñuy	puñuy	p u ɲ u		680	p u ɲ - - u	C V C V
+2002	Maragua	sleep, to	puñu.	puñu.	p u ɲ u		680	p u ɲ - - u	C V C V
+2003	Napo	sleep, to	puñuna	puñuna	p u ɲ u n a		680	p u ɲ u n a	C V C V C V
+2004	Pacaraos	sleep, to	puñu	puñu	p u ɲ u		680	p u ɲ - - u	C V C V
+2008	Puno	sleep, to	puñu.	puñu.	p u ɲ u		680	p u ɲ - - u	C V C V
+2012	Santiagueno	sleep, to	puñuy	puñuy	p u ɲ u		680	p u ɲ - - u	C V C V
+2021	Yanac	sleep, to	puñu.	puñu.	p u ɲ u		680	p u ɲ - - u	C V C V
+291	Apuri	small	taksa	taksa	t a k s a		862	t a k s a	C V C C V
+297	Apurimac	small	taksa	taksa	t a k s a		862	t a k s a	C V C C V
+300	Atalla	small	taksa	taksa	t a k s a		862	t a k s a	C V C C V
+301	Ayacucho	small	taksa, uchuy	taksa	t a k s a		862	t a k s a	C V C C V
+308	Chetilla	small	takša	takša	t a k ʃ a		862	t a k ʃ a	C V C C V
+317	Huangascar	small	taksa	taksa	t a k s a		862	t a k s a	C V C C V
+319	HuarazHuailas	small	taksha	taksha	t a k ʃ a		862	t a k ʃ a	C V C C V
+321	Inkawasi	small	takša	takša	t a k ʃ a		862	t a k ʃ a	C V C C V
+7426	Jauja	small	taksha	taksha	t a k ʂ a		862	t a k ʂ a	C V C C V
+292	Apuri	small	uchuk	uchuk	u tʃ u k		512	u tʃ u k	V C V C
+307	Chacpar	small	ičik	ičik	i tʃ i k		512	i tʃ i k	V C V C
+313	Huallaga	small	ičik	ičik	i tʃ i k		512	i tʃ i k	V C V C
+318	Huangascar	small	uchuk	uchuk	u tʃ u k		512	u tʃ u k	V C V C
+7427	Jauja	small	uchuk	uchuk	u tʃ u k		512	u tʃ u k	V C V C
+332	Pacaraos	small	uchuk	uchuk	u tʃ u k		512	u tʃ u k	V C V C
+351	Yanac	small	učuk, ičik	učuk	u tʃ u k		512	u tʃ u k	V C V C
+296	Apurimac	small	huchuy, uchuy	huchuy	h u tʃ ui		506	h u tʃ - - ui	C V C V
+302	Ayacucho	small	taksa, uchuy	uchuy	u tʃ ui		506	- u tʃ - - ui	V C V
+7270	Azuay	small	uchilla	uchilla, cutu	u tʃ i ʎ a		506	- u tʃ i ʎ a	V C V C V
+306	Chachapoyas	small	uchuylla	uchuylla	u tʃ ui ʎ a	variant: uchilla	506	- u tʃ ui ʎ a	V C V C V
+320	Imbabura	small	uchilla	uchilla	u tʃ i ʎ a		506	- u tʃ i ʎ a	V C V C V
+330	Maragua	small	huč'uy	huč'uy	h u tʃʼ ui		506	h u tʃʼ - - ui	C V C V
+331	Napo	small	ichilla	ichilla	i tʃ i ʎ a		506	- i tʃ i ʎ a	V C V C V
+336	Puno	small	huč'uy	huč'uy	h u tʃʼ ui		506	h u tʃʼ - - ui	C V C V
+341	Santiagueno	small	utula	utula	u t u l a		506	- u t u l a	V C V C V
+5922	Apuri	smoke	hushta	hushta	h u ʃ t a		514	h u ʃ t a	C V C C V
+5931	Chetilla	smoke	qu.nday	qu.nday	q u n d ai		514	q u n d ai	C V C C V
+5936	Huallaga	smoke	qu.štay	qu.štay	q u ʃ t ai		514	q u ʃ t ai	C V C C V
+5940	Huangascar	smoke	hushta	hushta	h u ʃ t a		514	h u ʃ t a	C V C C V
+5943	Inkawasi	smoke	χu.nday	χu.nday	χ u n d ai		514	χ u n d ai	C V C C V
+5937	Jauja	smoke	huntay	huntay	h u n t ai		514	h u n t ai	C V C C V
+5953	Pacaraos	smoke	quyay	quyay	χ o j ai		514	χ o - j ai	C V C V
+5969	Yanac	smoke	qu.nte	qu.nte	q u n t e		514	q u n t e	C V C C V
+5923	Apurimac	smoke	qosñi	qosñi	q o s ɲ i		685	q o s ɲ i	C V C C V
+5925	Atalla	smoke	χu.sñi	χu.sñi	χ u s ɲ i		685	χ u s ɲ i	C V C C V
+5926	Ayacucho	smoke	qosni	qosni	χ o s n i		685	χ o s n i	C V C C V
+7242	Azuay	smoke	cusni	cusni	k u s n i		685	k u s n i	C V C C V
+5929	Chachapoyas	smoke	kusni	kusni	k u s n i		685	k u s n i	C V C C V
+5930	Chacpar	smoke	qu.šñi	qu.šñi	q u ʃ ɲ i		685	q u ʃ ɲ i	C V C C V
+5941	HuarazHuailas	smoke	qoshni	qoshni	q o s n i		685	q o s n i	C V C C V
+5942	Imbabura	smoke	kushni	kushni	k u ʃ n i		685	k u ʃ n i	C V C C V
+5951	Maragua	smoke	q'u.sñi	q'u.sñi	qʼ u s ɲ i		685	qʼ u s ɲ i	C V C C V
+5952	Napo	smoke	cushni	cushni	k u ʃ n i		685	k u ʃ n i	C V C C V
+5957	Puno	smoke	q'u.šñi	q'u.šñi	qʼ u ʃ ɲ i		685	qʼ u ʃ ɲ i	C V C C V
+5960	Santiagueno	smoke	qosni	qosni	q o s n i		685	q o s n i	C V C C V
+2355	Apuri	speak, to	rima-	rima-	ɾ i m a		691	ɾ i m - - a	C V C V
+2357	Apurimac	speak, to	rima	rima	r i m a		691	r i m - - a	C V C V
+2360	Ayacucho	speak, to	rima	rima	ɾ i m a		691	ɾ i m - - a	C V C V
+7308	Azuay	speak, to	rima-na	rima-na	ɾ i m a n a		691	ɾ i m a n a	C V C V C V
+2363	Chachapoyas	speak, to	rima	rima	r i m a		691	r i m - - a	C V C V
+2365	Chetilla	speak, to	rima.	rima.	r i m a		691	r i m - - a	C V C V
+2373	Huangascar	speak, to	rima-	rima-	ɾ i m a		691	ɾ i m - - a	C V C V
+2375	Imbabura	speak, to	rimana	rimana	ɾ i m a n a		691	ɾ i m a n a	C V C V C V
+2376	Inkawasi	speak, to	rima.	rima.	r i m a		691	r i m - - a	C V C V
+7428	Jauja	speak, to	limay	limay	l i m a		691	l i m - - a	C V C V
+2383	Napo	speak, to	rimana	rimana	r i m a n a		691	r i m a n a	C V C V C V
+2389	Puno	speak, to	rima.	rima.	r i m a		691	r i m - - a	C V C V
+2393	Santiagueno	speak, to	rimay	rimay	ɾ i m a		691	ɾ i m - - a	C V C V
+2356	Apurimac	speak, to	parla	parla	p a r l a		692	p a r l a	C V C C V
+2359	Atalla	speak, to	parla.	parla.	p a r l a		692	p a r l a	C V C C V
+2364	Chacpar	speak, to	parla.	parla.	p a r l a		692	p a r l a	C V C C V
+2370	Huallaga	speak, to	parla.	parla.	p a r l a		692	p a r l a	C V C C V
+2374	HuarazHuailas	speak, to	parlay	parlay	p a ɾ l a		692	p a ɾ l a	C V C C V
+2382	Maragua	speak, to	parla.	parla.	p a r l a		692	p a r l a	C V C C V
+2384	Pacaraos	speak, to	parla	parla	p a ɾ l a		692	p a ɾ l a	C V C C V
+2401	Yanac	speak, to	parla.	parla.	p a r l a		692	p a r l a	C V C C V
+1931	Apuri	spit, to	tuqa-	tuqa-	t o q a		700	t o q - - a	C V C V
+1933	Atalla	spit, to	tuχa.	tuχa.	t u χ a		700	t u χ - - a	C V C V
+1934	Ayacucho	spit, to	toqa	toqa	t o χ a		700	t o χ - - a	C V C V
+7300	Azuay	spit, to	tucana	tucana	t u k a n a		700	t u k a n a	C V C V C V
+1937	Chachapoyas	spit, to	tuka	tuka	t u k a		700	t u k - - a	C V C V
+1938	Chacpar	spit, to	tuqa.	tuqa.	t u q a		700	t u q - - a	C V C V
+1939	Chetilla	spit, to	tuγa.	tuγa.	t u ʁ a		700	t u ʁ - - a	C V C V
+1944	Huallaga	spit, to	tuqa.	tuqa.	t u q a		700	t u q - - a	C V C V
+1947	Huangascar	spit, to	tuqa-	tuqa-	t o q a		700	t o q - - a	C V C V
+1948	HuarazHuailas	spit, to	toqay	toqay	t o q a		700	t o q - - a	C V C V
+1949	Imbabura	spit, to	tukana	tukana	t u k a n a		700	t u k a n a	C V C V C V
+1950	Inkawasi	spit, to	tuγa.	tuγa.	t u ʁ a		700	t u ʁ - - a	C V C V
+7429	Jauja	spit, to	tuqay	tuqay	t u ʔ a		700	t u ʔ - - a	C V C V
+1956	Maragua	spit, to	thuqa.	thuqa.	tʰ u q a		700	tʰ u q - - a	C V C V
+1958	Pacaraos	spit, to	tuqa	tuqa	t o χ a		700	t o χ - - a	C V C V
+1962	Puno	spit, to	thuqa.	thuqa.	tʰ u q a		700	tʰ u q - - a	C V C V
+1966	Santiagueno	spit, to	toqay	toqay	t o χ a		700	t o χ - - a	C V C V
+1974	Yanac	spit, to	tuqa.	tuqa.	t u q a		700	t u q - - a	C V C V
+1420	Apuri	stand, to	saya	saya	s a j a		701	s a j - - - - a	C V C V
+1421	Apurimac	stand, to	saya	saya	s a j a		701	s a j - - - - a	C V C V
+1423	Atalla	stand, to	sa.ya.	sa.ya.	s a j a		701	s a j - - - - a	C V C V
+1424	Ayacucho	stand, to	saya	saya	s a j a		701	s a j - - - - a	C V C V
+7291	Azuay	stand, to	shaya-na	shaya-na	ʃ a j a n a		701	ʃ a j a n - - a	C V C V C V
+1427	Chachapoyas	stand, to	shaya	shaya	ʃ a j a		701	ʃ a j - - - - a	C V C V
+1428	Chacpar	stand, to	še:.	še:.	ʃ eː		701	ʃ eː - - - - - -	C V
+1429	Chetilla	stand, to	ša.ya.	ša.ya.	ʃ a j a		701	ʃ a j - - - - a	C V C V
+1434	Huallaga	stand, to	ša.ya.	ša.ya.	ʃ a j a		701	ʃ a j - - - - a	C V C V
+1438	Huangascar	stand, to	sayari	sayari	s a j a ɾ i	pararse	701	s a j a ɾ - - i	C V C V C V
+1439	HuarazHuailas	stand, to	shaakuy	shaakuy	ʃ aː k u		701	ʃ aː k - - - - u	C V C V
+1440	Imbabura	stand, to	shayarina	shayarina	ʃ a j a ɾ i n a		701	ʃ a j a ɾ i n a	C V C V C V C V
+1441	Inkawasi	stand, to	ša.ya.	ša.ya.	ʃ a j a		701	ʃ a j - - - - a	C V C V
+1447	Maragua	stand, to	sa.ya.	sa.ya.	s a j a		701	s a j - - - - a	C V C V
+1448	Napo	stand, to	shayarina	shayarina	ʃ a j a r i n a		701	ʃ a j a r i n a	C V C V C V C V
+1453	Puno	stand, to	sa.ya.	sa.ya.	s a j a		701	s a j - - - - a	C V C V
+1457	Santiagueno	stand, to	sayay	sayay	s a j a		701	s a j - - - - a	C V C V
+1465	Yanac	stand, to	ša:.	ša:.	ʃ aː		701	ʃ aː - - - - - -	C V
+5623	Apuri	star	lusiru	lusiru	l u s i ɾ u		705	l u s i ɾ u	C V C V C V
+5626	Atalla	star	luziru	luziru	l u z i r u		705	l u z i r u	C V C V C V
+5634	Chetilla	star	luzeru	luzeru	l u z e r u		705	l u z e r u	C V C V C V
+5644	Huangascar	star	lusiru	lusiru	l u s i ɾ u		705	l u s i ɾ u	C V C V C V
+5646	Imbabura	star	luziru	luziru	l u z i ɾ u		705	l u z i ɾ u	C V C V C V
+5656	Pacaraos	star	loosero	loosero	l oː s e ɾ o		705	l oː s e ɾ o	C V C V C V
+5673	Yanac	star	lose:ro	lose:ro	l o s eː r o		705	l o s eː r o	C V C V C V
+5624	Apuri	star	quyllur	quyllur	q oi ʎ u ɾ		704	q oi ʎ u ɾ	C V C V C
+5627	Ayacucho	star	qoyllur	qoyllur	χ oi ʎ u ɾ		704	χ oi ʎ u ɾ	C V C V C
+7236	Azuay	star	cuillur	cuillur	k ui ʎ u ɾ		704	k ui ʎ u ɾ	C V C V C
+5630	Chacpar	star	quyλaŕ, quyλ.uŕ, χuyλaŕ, χuyλ.uŕ	quyλaŕ	q ui ʎ a r̥		704	q ui ʎ a r̥	C V C V C
+5639	Huallaga	star	quyλar, quyλur	quyλar	q ui ʎ a r		704	q ui ʎ a r	C V C V C
+5645	HuarazHuailas	star	qayllur	qayllur	q ai ʎ u ɾ		704	q ai ʎ u ɾ	C V C V C
+5647	Inkawasi	star	χuyar	χuyar	χ u j a r		704	χ u j a r	C V C V C
+5642	Jauja	star	quyllur	quyllur	h ui ʎ u r		704	h ui ʎ u r	C V C V C
+5663	Santiagueno	star	qollur	qollur	q o ʒ u ɾ		704	q o ʒ u ɾ	C V C V C
+6018	Apuri	stone	rumi	rumi	ɾ u m i		709	ɾ u m i	C V C V
+6019	Apurimac	stone	rumi	rumi	r u m i		709	r u m i	C V C V
+6021	Atalla	stone	rumi	rumi	r u m i		709	r u m i	C V C V
+6022	Ayacucho	stone	rumi	rumi	ɾ u m i		709	ɾ u m i	C V C V
+7244	Azuay	stone	rumi	rumi	ɾ u m i		709	ɾ u m i	C V C V
+6025	Chachapoyas	stone	rumi	rumi	r u m i		709	r u m i	C V C V
+6026	Chacpar	stone	rumi	rumi	r u m i		709	r u m i	C V C V
+6027	Chetilla	stone	rumi	rumi	r u m i		709	r u m i	C V C V
+6032	Huallaga	stone	rumi	rumi	r u m i		709	r u m i	C V C V
+6035	Huangascar	stone	rumi	rumi	ɾ u m i		709	ɾ u m i	C V C V
+6036	HuarazHuailas	stone	rumi	rumi	ɾ u m i		709	ɾ u m i	C V C V
+6037	Imbabura	stone	rumi	rumi	ɾ u m i		709	ɾ u m i	C V C V
+6038	Inkawasi	stone	řumi	řumi	r̝ u m i		709	r̝ u m i	C V C V
+7430	Jauja	stone	lumi	lumi	l u m i		709	l u m i	C V C V
+6045	Maragua	stone	řumi	řumi	r̝ u m i		709	r̝ u m i	C V C V
+6046	Napo	stone	rumi	rumi	r u m i		709	r u m i	C V C V
+6047	Pacaraos	stone	rrumay, rrumi	rrumay	r u m ai		709	r u m ai	C V C V
+6052	Puno	stone	rumi	rumi	r u m i		709	r u m i	C V C V
+6056	Santiagueno	stone	rumi	rumi	ɾ u m i		709	ɾ u m i	C V C V
+6065	Yanac	stone	rumi	rumi	r u m i		709	r u m i	C V C V
+1834	Apuri	suck, to	shuqu	shuqu	ʃ o q u		713	ʃ o q u	C V C V
+1837	Atalla	suck, to	suχu.	suχu.	s u χ u		713	s u χ u	C V C V
+1838	Ayacucho	suck, to	soqo	soqo	s o χ o		713	s o χ o	C V C V
+1841	Chachapoyas	suck, to	shuku	shuku	ç u k u		713	ç u k u	C V C V
+1842	Chacpar	suck, to	šuqu.	šuqu.	ʃ u q u		713	ʃ u q u	C V C V
+1846	Huallaga	suck, to	šuqu.	šuqu.	ʃ u q u		713	ʃ u q u	C V C V
+1849	Huangascar	suck, to	shuqu	shuqu	ʃ o q u		713	ʃ o q u	C V C V
+1880	HuarazHuailas	suck, to	shoquy	shoquy	ʃ o q u		713	ʃ o q u	C V C V
+1852	Inkawasi	suck, to	šuγu.	šuγu.	ʃ u ʁ u		713	ʃ u ʁ u	C V C V
+7453	Jauja	suck, to	shuquy	shuquy	ʃ o q u		713	ʃ o q u	C V C V
+1860	Pacaraos	suck, to	shuqu	shuqu	ç o χ u		713	ç o χ u	C V C V
+1881	Yanac	suck, to	šuqu.	šuqu.	ʃ u q u		713	ʃ u q u	C V C V
+1835	Apurimac	suck, to	chonqa	chonqa	tʃ o n q a		212	tʃ o n q - - a	C V C C V
+7298	Azuay	suck, to	sunga-na	sunga-na, chuchu-na	s u n g a n a		212	s u n g a n a	C V C C V C V
+1858	Maragua	suck, to	č'u.nqa.	č'u.nqa.	tʃʼ u n q a		212	tʃʼ u n q - - a	C V C C V
+1859	Napo	suck, to	tsungana	tsungana	ts u n g a n a		212	ts u n g a n a	C V C C V C V
+1866	Puno	suck, to	č'u.nqa.	č'u.nqa.	tʃʼ u n q a		212	tʃʼ u n q - - a	C V C C V
+1870	Santiagueno	suck, to	chonqay, ñuñuy	chonqay	tʃ o ŋ q a		212	tʃ o ŋ q - - a	C V C C V
+7168	Chetilla	suck, to	ñuñu	ñuñu	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+7431	Jauja	suck, to	ñuñuy	ñuñuy	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+1871	Santiagueno	suck, to	chonqay, ñuñuy	ñuñuy	ɲ u ɲ u		697	ɲ u ɲ u	C V C V
+7323	Azuay	suck, to	chuchu-na	sunga-na, chuchu-na	tʃ u tʃ u n a		696	tʃ u tʃ u n a	C V C V C V
+5473	Apuri	sun	inti	inti	i n t i		717	i n t i	V C C V
+5474	Apurimac	sun	inti	inti	i n t i		717	i n t i	V C C V
+5476	Atalla	sun	inti	inti	i n t i		717	i n t i	V C C V
+5477	Ayacucho	sun	inti	inti	i n t i		717	i n t i	V C C V
+7322	Azuay	sun	inti	inti	i n t i		717	i n t i	V C C V
+5480	Chachapoyas	sun	inti	inti	i n d i		717	i n d i	V C C V
+5481	Chacpar	sun	inti	inti	i n t i		717	i n t i	V C C V
+5487	Huallaga	sun	inti	inti	i n t i		717	i n t i	V C C V
+5490	Huangascar	sun	inti	inti	i n t i		717	i n t i	V C C V
+5491	HuarazHuailas	sun	inti	inti	i ɲ t i		717	i ɲ t i	V C C V
+5492	Imbabura	sun	inti	inti	i n t i		717	i n t i	V C C V
+7432	Jauja	sun	inti	inti	i n t i		717	i n t i	V C C V
+5501	Maragua	sun	inti	inti	i n t i		717	i n t i	V C C V
+5502	Napo	sun	indi	indi	i n d i		717	i n d i	V C C V
+5507	Puno	sun	inti	inti	i n t i		717	i n t i	V C C V
+5511	Santiagueno	sun	inti	inti	i n t i		717	i n t i	V C C V
+5482	Chetilla	sun	rupa.y	rupa.y	r u p ai		718	r u p ai	C V C V
+5493	Inkawasi	sun	rupa.y	rupa.y	r u p ai		718	r u p ai	C V C V
+7486	Pacaraos	sun	rrupay	rrupay	r u p ai		718	r u p ai	C V C V
+5522	Yanac	sun	rupe:	rupe:	r u p eː		718	r u p eː	C V C V
+1135	Apuri	sweet	mishki	mishki	m i ʃ k i		721	m i ʃ k i	C V C C V
+1136	Apurimac	sweet	miski	miski	m i s k i		721	m i s k i	C V C C V
+1138	Atalla	sweet	miski	miski	m i s k i		721	m i s k i	C V C C V
+1139	Ayacucho	sweet	miski	miski	m i s k i		721	m i s k i	C V C C V
+7285	Azuay	sweet	mishqui	mishqui	m i ʃ k i		721	m i ʃ k i	C V C C V
+1142	Chachapoyas	sweet	miski	miski	m i s k i		721	m i s k i	C V C C V
+1143	Chacpar	sweet	miški	miški	m i ʃ k i		721	m i ʃ k i	C V C C V
+1144	Chetilla	sweet	miški	miški	m i ʃ k i		721	m i ʃ k i	C V C C V
+1150	Huallaga	sweet	miški	miški	m i ʃ k i		721	m i ʃ k i	C V C C V
+1154	Huangascar	sweet	mishki	mishki	m i ʃ k i		721	m i ʃ k i	C V C C V
+1155	HuarazHuailas	sweet	mishky	mishky	m i ʃ k i		721	m i ʃ k i	C V C C V
+1156	Imbabura	sweet	mishki	mishki	m i ʃ k i		721	m i ʃ k i	C V C C V
+7433	Jauja	sweet	mishki	mishki	m i ʃ k i		721	m i ʃ k i	C V C C V
+1163	Maragua	sweet	misk'i	misk'i	m i s kʼ i		721	m i s kʼ i	C V C C V
+1164	Napo	sweet	mishqui	mishqui	m i ʃ k i		721	m i ʃ k i	C V C C V
+1165	Pacaraos	sweet	mishki	mishki	m i ç k i		721	m i ç k i	C V C C V
+1170	Puno	sweet	misk'i	misk'i	m i s kʼ i		721	m i s kʼ i	C V C C V
+1175	Santiagueno	sweet	mishki	mishki	m i ʃ k i		721	m i ʃ k i	C V C C V
+1184	Yanac	sweet	miški	miški	m i ʃ k i		721	m i ʃ k i	C V C C V
+1518	Ayacucho	swim, to	nadya	nadya	n a d j a		132	n a d j a	C V C C V
+1521	Chacpar	swim, to	nada.	nada.	n a d a		132	n a d - a	C V C V
+1522	Chetilla	swim, to	nada.	nada.	n a d a		132	n a d - a	C V C V
+1527	Huallaga	swim, to	narya.	narya.	n a r j a		132	n a r j a	C V C C V
+1531	Inkawasi	swim, to	nada.	nada.	n a d a		132	n a d - a	C V C V
+1551	Yanac	swim, to	nada.	nada.	n a d a		132	n a d - a	C V C V
+1520	Chachapoyas	swim, to	wayta	wayta	w ai t a		724	w ai t - - a	C V C V
+1536	Maragua	swim, to	wayt'a.	wayt'a.	w ai tʼ a		724	w ai tʼ - - a	C V C V
+1537	Napo	swim, to	huaitana	huaitana	w ai t a n a		724	w ai t a n a	C V C V C V
+1543	Santiagueno	swim, to	waytay	waytay	w ai t a		724	w ai t - - a	C V C V
+7293	Azuay	swim, to	huambu-na	huambu-na	w a m b u n a		725	w a m b u - - n a	C V C C V C V
+1530	Imbabura	swim, to	wambuna	wambuna	w a m b u n a		725	w a m b u - - n a	C V C C V C V
+4805	Apuri	tail	trupa	trupa	ʈ u p a		729	ʈ u p a	C V C V
+4806	Apurimac	tail	chupa	chupa	tʃ u p a		729	tʃ u p a	C V C V
+4808	Atalla	tail	čupa	čupa	tʃ u p a		729	tʃ u p a	C V C V
+4809	Ayacucho	tail	chupa	chupa	tʃ u p a		729	tʃ u p a	C V C V
+7223	Azuay	tail	chupa	chupa	tʃ u p a		729	tʃ u p a	C V C V
+4812	Chachapoyas	tail	ĉupa	ĉupa	ʈʂ u p a		729	ʈʂ u p a	C V C V
+4813	Chacpar	tail	čupa	čupa	tʃ u p a		729	tʃ u p a	C V C V
+4814	Chetilla	tail	ĉupa	ĉupa	ʈʂ u p a		729	ʈʂ u p a	C V C V
+4819	Huallaga	tail	čupa	čupa	tʃ u p a		729	tʃ u p a	C V C V
+4822	Huangascar	tail	trupa	trupa	ʈ u p a		729	ʈ u p a	C V C V
+4823	HuarazHuailas	tail	chupa	chupa	tʃ u p a		729	tʃ u p a	C V C V
+4824	Imbabura	tail	chupa	chupa	tʃ u p a		729	tʃ u p a	C V C V
+4825	Inkawasi	tail	ĉupa	ĉupa	ʈʂ u p a		729	ʈʂ u p a	C V C V
+7434	Jauja	tail	trupa	trupa	ʈʂ u p a		729	ʈʂ u p a	C V C V
+4832	Maragua	tail	čupa	čupa	tʃ u p a		729	tʃ u p a	C V C V
+4833	Napo	tail	chupa	chupa	tʃ u p a		729	tʃ u p a	C V C V
+4834	Pacaraos	tail	trupa	trupa	ʈʂ u p a		729	ʈʂ u p a	C V C V
+4838	Puno	tail	čupa	čupa	tʃ u p a		729	tʃ u p a	C V C V
+4842	Santiagueno	tail	chupa	chupa	tʃ u p a		729	tʃ u p a	C V C V
+4851	Yanac	tail	ĉupa	ĉupa	ʈʂ u p a		729	ʈʂ u p a	C V C V
+53	Apuri	ten	trunka	trunka	ʈ u n k a		733	ʈ u n k a	C V C C V
+54	Apurimac	ten	chunka	chunka	tʃ u n k a		733	tʃ u n k a	C V C C V
+56	Atalla	ten	čunka	čunka	tʃ u n k a		733	tʃ u n k a	C V C C V
+57	Ayacucho	ten	chunka	chunka	tʃ u n k a		733	tʃ u n k a	C V C C V
+7178	Azuay	ten	chunga	chunga	tʃ u n g a		733	tʃ u n g a	C V C C V
+60	Chachapoyas	ten	ĉunka	ĉunka	ʈʂ u n g a		733	ʈʂ u n g a	C V C C V
+61	Chacpar	ten	čunka	čunka	tʃ u n k a		733	tʃ u n k a	C V C C V
+62	Chetilla	ten	ĉunga	ĉunga	ʈʂ u n g a		733	ʈʂ u n g a	C V C C V
+67	Huallaga	ten	čunka	čunka	tʃ u n k a		733	tʃ u n k a	C V C C V
+70	Huangascar	ten	trunka	trunka	ʈ u n k a		733	ʈ u n k a	C V C C V
+71	HuarazHuailas	ten	chunka	chunka	tʃ u ɲ k a		733	tʃ u ɲ k a	C V C C V
+72	Imbabura	ten	chunga	chunga	tʃ u n g a		733	tʃ u n g a	C V C C V
+7435	Jauja	ten	trunka	trunka	ʈʂ u n k a		733	ʈʂ u n k a	C V C C V
+80	Maragua	ten	čunka	čunka	tʃ u n k a		733	tʃ u n k a	C V C C V
+81	Napo	ten	chunga	chunga	tʃ u n g a		733	tʃ u n g a	C V C C V
+82	Pacaraos	ten	trunka	trunka	ʈʂ u ŋ k a		733	ʈʂ u ŋ k a	C V C C V
+86	Puno	ten	čunka	čunka	tʃ u n k a		733	tʃ u n k a	C V C C V
+90	Santiagueno	ten	chunka	chunka	tʃ u ŋ k a	in disuse	733	tʃ u ŋ k a	C V C C V
+99	Yanac	ten	ĉunka	ĉunka	ʈʂ u n k a		733	ʈʂ u n k a	C V C C V
+7476	Apuri	think (over, about), to	yuya	yuya	j u j a		737	j u j - - a	C V C V
+2312	Apurimac	think (over, about), to	yuya	yuya	j u j a		737	j u j - - a	C V C V
+2314	Atalla	think (over, about), to	yuya.	yuya.	j u j a		737	j u j - - a	C V C V
+2315	Ayacucho	think (over, about), to	yuya	yuya	j u j a		737	j u j - - a	C V C V
+7307	Azuay	think (over, about), to	yuya-na	yuya-na	j u j a n a		737	j u j a n a	C V C V C V
+2317	Chachapoyas	think (over, about), to	yuya	yuya	j u j a		737	j u j - - a	C V C V
+2319	Chetilla	think (over, about), to	yuya.	yuya.	j u j a		737	j u j - - a	C V C V
+7478	Huangascar	think (over, about), to	yuya	yuya	j u j a		737	j u j - - a	C V C V
+2330	Imbabura	think (over, about), to	yuyana	yuyana	j u j a n a		737	j u j a n a	C V C V C V
+2337	Napo	think (over, about), to	yuyana	yuyana	j u j a n a		737	j u j a n a	C V C V C V
+2342	Puno	think (over, about), to	yuya.	yuya.	j u j a		737	j u j - - a	C V C V
+2318	Chacpar	think (over, about), to	yarpa.	yarpa.	j a r p a		738	j a r p a	C V C C V
+2324	Huallaga	think (over, about), to	yarpa.	yarpa.	j a r p a		738	j a r p a	C V C C V
+2329	HuarazHuailas	think (over, about), to	yarpay	yarpay	j a ɾ p a		738	j a ɾ p a	C V C C V
+2331	Inkawasi	think (over, about), to	yarbu.	yarbu.	j a r p a		738	j a r p a	C V C C V
+7462	Jauja	think (over, about), to	yalpa	yalpa	j a l p a		738	j a l p a	C V C C V
+2338	Pacaraos	think (over, about), to	yarpa	yarpa	j a ɾ p a		738	j a ɾ p a	C V C C V
+2353	Yanac	think (over, about), to	yarpa.	yarpa.	j a r p a		738	j a r p a	C V C C V
+2877	Apuri	this	kay	kay	k ai		746	k ai	C V
+2878	Apurimac	this	kay	kay	k ai		746	k ai	C V
+2880	Atalla	this	kay	kay	k ai		746	k ai	C V
+2881	Ayacucho	this	kay	kay	k ai		746	k ai	C V
+7187	Azuay	this	cay	cay	k ai		746	k ai	C V
+2884	Chachapoyas	this	kay	kay	k ai		746	k ai	C V
+2885	Chacpar	this	ke:, kay	ke:	k eː		746	k eː	C V
+2887	Chetilla	this	kay	kay	k ai		746	k ai	C V
+2892	Huallaga	this	kay	kay	k ai		746	k ai	C V
+2895	Huangascar	this	kay	kay	k ai		746	k ai	C V
+2896	Imbabura	this	kai	kai	k ai		746	k ai	C V
+2897	Inkawasi	this	kay	kay	k ai		746	k ai	C V
+7436	Jauja	this	kay	kay	k ai		746	k ai	C V
+2903	Maragua	this	kay	kay	k ai		746	k ai	C V
+2904	Napo	this	cai	cai	k ai		746	k ai	C V
+2905	Pacaraos	this	kay	kay	k ai		746	k ai	C V
+2909	Puno	this	kay	kay	k ai		746	k ai	C V
+2912	Santiagueno	this	kay	kay	k ai		746	k ai	C V
+2919	Yanac	this	ke:	ke:	k eː		746	k eː	C V
+2644	Apuri	thou (you sg.)	qam	qam	q a m		748	q a m	C V C
+2645	Apurimac	thou (you sg.)	qan	qan	q a n		748	q a n	C V C
+2647	Atalla	thou (you sg.)	χam	χam	χ a m		748	χ a m	C V C
+2648	Ayacucho	thou (you sg.)	qam	qam	χ a m		748	χ a m	C V C
+7183	Azuay	thou (you sg.)	can	can	k a n		748	k a n	C V C
+2651	Chachapoyas	thou (you sg.)	kam	kam	k a m		748	k a m	C V C
+2652	Chacpar	thou (you sg.)	qam, ġam	qam	q a m		748	q a m	C V C
+2654	Chetilla	thou (you sg.)	qam	qam	q a m		748	q a m	C V C
+2659	Huallaga	thou (you sg.)	qam	qam	q a m		748	q a m	C V C
+2662	Huangascar	thou (you sg.)	qam	qam	q a m		748	q a m	C V C
+2663	HuarazHuailas	thou (you sg.)	qam	qam	q a m		748	q a m	C V C
+2664	Imbabura	thou (you sg.)	kan	kan	k a n		748	k a n	C V C
+2665	Inkawasi	thou (you sg.)	xam	xam	x a m		748	x a m	C V C
+7437	Jauja	thou (you sg.)	qam	qam	q a m		748	q a m	C V C
+2672	Maragua	thou (you sg.)	qan	qan	q a n		748	q a n	C V C
+2673	Napo	thou (you sg.)	can	can	k a n		748	k a n	C V C
+2674	Pacaraos	thou (you sg.)	qam	qam	ʁ a m		748	ʁ a m	C V C
+2678	Puno	thou (you sg.)	qan	qan	q a n		748	q a n	C V C
+2682	Santiagueno	thou (you sg.)	qam	qam	q a m		748	q a m	C V C
+2691	Yanac	thou (you sg.)	qam	qam	q a m		748	q a m	C V C
+3439	Apuri	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+3440	Apurimac	three	kinsa	kinsa	k i n s a		750	k i n s a	C V C C V
+3442	Atalla	three	kimza	kimza	k i m z a		750	k i m z a	C V C C V
+3443	Ayacucho	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+7171	Azuay	three	quimsa	quimsa	k i m s a		750	k i m s a	C V C C V
+3446	Chachapoyas	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+3447	Chacpar	three	kima	kima	k i m a		750	k i m - a	C V C V
+3448	Chetilla	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+3453	Huallaga	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+3456	Huangascar	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+3457	HuarazHuailas	three	kima	kima	k i m a		750	k i m - a	C V C V
+3458	Imbabura	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+3459	Inkawasi	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+7438	Jauja	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+3466	Maragua	three	kinsa	kinsa	k i n s a		750	k i n s a	C V C C V
+3467	Napo	three	quimsa	quimsa	k i m s a		750	k i m s a	C V C C V
+3468	Pacaraos	three	kima	kima	k i m a		750	k i m - a	C V C V
+3472	Puno	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+3476	Santiagueno	three	kimsa	kimsa	k i m s a		750	k i m s a	C V C C V
+3485	Yanac	three	kinsa	kinsa	k i n s a		750	k i n s a	C V C C V
+626	Apuri	tire	pishipa	pishipa	p i ʃ i p a		755	p i ʃ i p a	C V C V C V
+627	Apurimac	tire	pisipa	pisipa	p i s i p a		755	p i s i p a	C V C V C V
+629	Atalla	tire	pisi.pa	pisi.pa	p i s i p a		755	p i s i p a	C V C V C V
+630	Ayacucho	tire	pisipa	pisipa	p i s i p a		755	p i s i p a	C V C V C V
+634	Chacpar	tire	piši'pa	piši'pa	p i ʃ i p a		755	p i ʃ i p a	C V C V C V
+640	Huallaga	tire	piši.pa	piši.pa	p i ʃ i p a		755	p i ʃ i p a	C V C V C V
+645	Huangascar	tire	pishipa	pishipa	p i ʃ i p a		755	p i ʃ i p a	C V C V C V
+646	HuarazHuailas	tire	pishipaay	pishipaay	p i ʃ i p aː		755	p i ʃ i p aː	C V C V C V
+642	Jauja	tire	pishipay	pishipay	p i ʃ i p a		755	p i ʃ i p a	C V C V C V
+656	Pacaraos	tire	pishi-kaa	pishi-kaa	p i ç i k aː	ka/ku alternation	755	p i ç i k aː	C V C V C V
+7516	Apurimac	tire	sayku	sayku	s ai kʼ u		754	s ai kʼ u - - - -	C V C V
+7276	Azuay	tire	shaycu-chi-na	shaycu-chi-na	ʃ ai k u tʃ i n a		754	ʃ ai k u tʃ i n a	C V C V C V C V
+633	Chachapoyas	tire	shayku	shayku	ç ai k u		754	ç ai k u - - - -	C V C V
+635	Chetilla	tire	ša.yku	ša.yku	ʃ ai k u		754	ʃ ai k u - - - -	C V C V
+647	Imbabura	tire	shaijushka	shaijushka	ʃ ai x u ʃ k a	tired (adjective)	754	ʃ ai x u ʃ - k a	C V C V C C V
+648	Inkawasi	tire	ša.yku	ša.yku	ʃ ai k u		754	ʃ ai k u - - - -	C V C V
+654	Maragua	tire	sa.yk'u	sa.yk'u	s ai kʼ u		754	s ai kʼ u - - - -	C V C V
+661	Puno	tire	sa.yk'u	sa.yk'u	s ai kʼ u		754	s ai kʼ u - - - -	C V C V
+666	Santiagueno	tire	saykus	saykus	s ai k u s		754	s ai k u s - - -	C V C V C
+674	Yanac	tire	še:ku	še:ku	ʃ eː k u		754	ʃ eː k u - - - -	C V C V
+3487	Apuri	tongue	qallu	qallu	q a ʎ u		759	q a ʎ u	C V C V
+3488	Apurimac	tongue	qallu	qallu	q a ʎ u		759	q a ʎ u	C V C V
+3490	Atalla	tongue	χaλu	χaλu	χ a ʎ u		759	χ a ʎ u	C V C V
+3491	Ayacucho	tongue	qallu	qallu	χ a ʎ u		759	χ a ʎ u	C V C V
+7198	Azuay	tongue	callu	callu	k a ʎ u		759	k a ʎ u	C V C V
+3494	Chachapoyas	tongue	kallu	kallu	k a dʑ u		759	k a dʑ u	C V C V
+3495	Chacpar	tongue	qaλu	qaλu	q a ʎ u		759	q a ʎ u	C V C V
+3496	Chetilla	tongue	qadyu	qadyu	q a dʑ u		759	q a dʑ u	C V C V
+3501	Huallaga	tongue	qaλu	qaλu	q a ʎ u		759	q a ʎ u	C V C V
+3504	Huangascar	tongue	qallu	qallu	q a ʎ u		759	q a ʎ u	C V C V
+3505	HuarazHuailas	tongue	qallu	qallu	q a ʎ u		759	q a ʎ u	C V C V
+3506	Imbabura	tongue	jallu	jallu	x a ʎ u		759	x a ʎ u	C V C V
+3507	Inkawasi	tongue	qadžu, χadžu	qadžu	q a dʒ u		759	q a dʒ u	C V C V
+7440	Jauja	tongue	qallu	qallu	h a ʎ u		759	h a ʎ u	C V C V
+3515	Maragua	tongue	qaλu	qaλu	q a ʎ u		759	q a ʎ u	C V C V
+3516	Napo	tongue	callu	callu	k a ʎ u		759	k a ʎ u	C V C V
+3517	Pacaraos	tongue	qallu, qalu	qallu	ʁ a ʎ u		759	ʁ a ʎ u	C V C V
+3522	Puno	tongue	qaλu	qaλu	q a ʎ u		759	q a ʎ u	C V C V
+3526	Santiagueno	tongue	qallu	qallu	q a ʒ u		759	q a ʒ u	C V C V
+3535	Yanac	tongue	qaλu	qaλu	q a ʎ u		759	q a ʎ u	C V C V
+3537	Apuri	tooth	kiru	kiru	k i ɾ u		761	k i ɾ u	C V C V
+3538	Apurimac	tooth	kiru	kiru	k i r u		761	k i r u	C V C V
+3540	Atalla	tooth	kiru	kiru	k i r u		761	k i r u	C V C V
+3541	Ayacucho	tooth	kiru	kiru	k i ɾ u		761	k i ɾ u	C V C V
+7199	Azuay	tooth	quiru	quiru	k i ɾ u		761	k i ɾ u	C V C V
+3544	Chachapoyas	tooth	kiru	kiru	k i r u		761	k i r u	C V C V
+3545	Chacpar	tooth	kiru	kiru	k i r u		761	k i r u	C V C V
+3546	Chetilla	tooth	kiru	kiru	k i r u		761	k i r u	C V C V
+3551	Huallaga	tooth	kiru	kiru	k i r u		761	k i r u	C V C V
+3554	Huangascar	tooth	kiru	kiru	k i ɾ u		761	k i ɾ u	C V C V
+3555	HuarazHuailas	tooth	kiru	kiru	k i ɾ u		761	k i ɾ u	C V C V
+3556	Imbabura	tooth	kiru	kiru	k i ɾ u		761	k i ɾ u	C V C V
+3557	Inkawasi	tooth	kiru	kiru	k i r u		761	k i r u	C V C V
+7441	Jauja	tooth	kilu	kilu	k i l u		761	k i l u	C V C V
+3564	Maragua	tooth	kiru	kiru	k i r u		761	k i r u	C V C V
+3565	Napo	tooth	quiru	quiru	k i r u		761	k i r u	C V C V
+3566	Pacaraos	tooth	kiru	kiru	k i ɾ u		761	k i ɾ u	C V C V
+3570	Puno	tooth	kiru	kiru	k i r u		761	k i r u	C V C V
+3574	Santiagueno	tooth	kiru	kiru	k i ɾ u		761	k i ɾ u	C V C V
+3583	Yanac	tooth	kiru	kiru	k i r u		761	k i r u	C V C V
+6583	Apuri	tree	qiru	qiru	q e ɾ u		213	q e ɾ u	C V C V
+6592	Chetilla	tree	qiru	qiru	q i r u		213	q i r u	C V C V
+6596	Huallaga	tree	qiru	qiru	q i r u		213	q i r u	C V C V
+6599	Huangascar	tree	qiru	qiru	q e ɾ u		213	q e ɾ u	C V C V
+6600	HuarazHuailas	tree	qeru	qeru	q e ɾ u		213	q e ɾ u	C V C V
+6602	Inkawasi	tree	χiru	χiru	χ i r u		213	χ i r u	C V C V
+6611	Pacaraos	tree	qiru	qiru	χ e ɾ u		213	χ e ɾ u	C V C V
+6585	Apurimac	tree	sacha	sacha	s a tʃ a		766	s a tʃ a	C V C V
+6586	Atalla	tree	sača	sača	s a tʃ a		766	s a tʃ a	C V C V
+6587	Ayacucho	tree	sacha	sacha	s a tʃ a		766	s a tʃ a	C V C V
+6591	Chacpar	tree	hača	hača	h a tʃ a		766	h a tʃ a	C V C V
+7333	Jauja	tree	satra	satra	s a ʈʂ a		766	s a ʈʂ a	C V C V
+6609	Maragua	tree	sač'a	sač'a	s a tʃʼ a		766	s a tʃʼ a	C V C V
+6627	Yanac	tree	aĉa	aĉa	a ʈʂ a		766	- a ʈʂ a	V C V
+7255	Azuay	tree	yura	yura	j u ɾ a		767	j u ɾ a	C V C V
+6590	Chachapoyas	tree	yura	yura	j u r a		767	j u r a	C V C V
+6601	Imbabura	tree	yura	yura	j u ɾ a		767	j u ɾ a	C V C V
+6610	Napo	tree	ruya	ruya	r u j a		767	r u j a	C V C V
+2921	Apuri	two	ishkay	ishkay	i ʃ k ai		774	i ʃ k ai	V C C V
+2922	Apurimac	two	iskay	iskay	i s k ai		774	i s k ai	V C C V
+2924	Atalla	two	iskay	iskay	i s k ai		774	i s k ai	V C C V
+2925	Ayacucho	two	iskay	iskay	i s k ai		774	i s k ai	V C C V
+7170	Azuay	two	ishcay	ishcay	i ʃ k ai		774	i ʃ k ai	V C C V
+2928	Chachapoyas	two	ishkay	ishkay	i ç k ai		774	i ç k ai	V C C V
+2929	Chacpar	two	iške:	iške:	i ʃ k eː		774	i ʃ k eː	V C C V
+2930	Chetilla	two	iškay	iškay	i s k ai		774	i s k ai	V C C V
+2935	Huallaga	two	iškay	iškay	i s k ai		774	i s k ai	V C C V
+2938	Huangascar	two	ishkay	ishkay	i ʃ k ai		774	i ʃ k ai	V C C V
+2939	HuarazHuailas	two	ishkay	ishkay	i ʃ k ai		774	i ʃ k ai	V C C V
+2940	Imbabura	two	ishkay	ishkay	i ʃ k ai		774	i ʃ k ai	V C C V
+2941	Inkawasi	two	iškay	iškay	i s k ai		774	i s k ai	V C C V
+7442	Jauja	two	ishkay	ishkay	i ʃ k ai		774	i ʃ k ai	V C C V
+2948	Maragua	two	iskay	iskay	i s k ai		774	i s k ai	V C C V
+2949	Napo	two	ishcai	ishcai	i ʃ k ai		774	i ʃ k ai	V C C V
+2950	Pacaraos	two	ishkay	ishkay	i ç k ai		774	i ç k ai	V C C V
+2954	Puno	two	iskay	iskay	i s k ai		774	i s k ai	V C C V
+2958	Santiagueno	two	ishkay	ishkay	i ʃ k ai		774	i ʃ k ai	V C C V
+2967	Yanac	two	iške:	iške:	i ʃ k eː		774	i ʃ k eː	V C C V
+1379	Apurimac	walk, to	puri	puri	p u r i		777	p u r - - i	C V C V
+1381	Atalla	walk, to	puri.	puri.	p u r i		777	p u r - - i	C V C V
+1382	Ayacucho	walk, to	puri, ichi	puri	p u ɾ i		777	p u ɾ - - i	C V C V
+7290	Azuay	walk, to	purina	purina	p u ɾ i n a		777	p u ɾ i n a	C V C V C V
+1384	Chachapoyas	walk, to	puri	puri	p u r i		777	p u r - - i	C V C V
+1385	Chacpar	walk, to	puri.	puri.	p u r i		777	p u r - - i	C V C V
+1386	Chetilla	walk, to	puri.	puri.	p u r i		777	p u r - - i	C V C V
+1391	Huallaga	walk, to	puri.	puri.	p u r i		777	p u r - - i	C V C V
+1394	HuarazHuailas	walk, to	puriy	puriy	p u ɾ i		777	p u ɾ - - i	C V C V
+1395	Imbabura	walk, to	purina	purina	p u ɾ i n a		777	p u ɾ i n a	C V C V C V
+1396	Inkawasi	walk, to	puri.	puri.	p u r i		777	p u r - - i	C V C V
+7443	Jauja	walk, to	puliy	puliy	p u l i		777	p u l - - i	C V C V
+1401	Maragua	walk, to	puri.	puri.	p u r i		777	p u r - - i	C V C V
+1402	Napo	walk, to	purina	purina	p u r i n a		777	p u r i n a	C V C V C V
+1403	Pacaraos	walk, to	puri	puri	p u ɾ i		777	p u ɾ - - i	C V C V
+1407	Puno	walk, to	puri.	puri.	p u r i		777	p u r - - i	C V C V
+1410	Santiagueno	walk, to	puriy	puriy	p u ɾ iː		777	p u ɾ - - iː	C V C V
+1418	Yanac	walk, to	puri.	puri.	p u r i		777	p u r - - i	C V C V
+943	Apuri	warm / hot SW	quni	quni	q o n i		783	q o n i -	C V C V
+944	Apurimac	warm / hot SW	qoñi	qoñi	q o ɲ i		783	q o ɲ i -	C V C V
+946	Atalla	warm / hot SW	χuni (.λa)	χuni	χ u n i		783	χ u n i -	C V C V
+947	Ayacucho	warm / hot SW	qoñi	qoñi	χ o ɲ i		783	χ o ɲ i -	C V C V
+7282	Azuay	warm / hot SW	cunug	cunug	k u n u g		783	k u n u g	C V C V C
+950	Chachapoyas	warm / hot SW	kuñu	kuñu	k u ɲ u		783	k u ɲ u -	C V C V
+952	Chetilla	warm / hot SW	quñu.χ	quñu.χ	q u ɲ u χ		783	q u ɲ u χ	C V C V C
+961	Huangascar	warm / hot SW	quni	quni	q o n i		783	q o n i -	C V C V
+963	Inkawasi	warm / hot SW	χuñu.χ	χuñu.χ	χ u ɲ u χ		783	χ u ɲ u χ	C V C V C
+970	Maragua	warm / hot SW	q'uñi	q'uñi	qʼ u ɲ i		783	qʼ u ɲ i -	C V C V
+972	Pacaraos	warm / hot SW	quñu	quñu	χ o ɲ u		783	χ o ɲ u -	C V C V
+977	Puno	warm / hot SW	q'uñi	q'uñi	qʼ u ɲ i		783	qʼ u ɲ i -	C V C V
+5724	Apuri	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5725	Apurimac	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5728	Atalla	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5729	Ayacucho	water	yaku	yaku	j a k u		335	j a k u	C V C V
+7238	Azuay	water	yacu	yacu	j a k u		335	j a k u	C V C V
+5732	Chachapoyas	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5733	Chacpar	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5734	Chetilla	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5740	Huallaga	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5743	Huangascar	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5744	HuarazHuailas	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5745	Imbabura	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5746	Inkawasi	water	yaku	yaku	j a k u		335	j a k u	C V C V
+7331	Jauja	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5753	Maragua	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5754	Napo	water	yacu	yacu	j a k u		335	j a k u	C V C V
+5755	Pacaraos	water	yaku	yaku	j a k u		335	j a k u	C V C V
+5763	Santiagueno	water	yaku	yaku	j a x u		335	j a x u	C V C V
+5773	Yanac	water	yaku	yaku	j a k u		335	j a k u	C V C V
+2116	Apuri	we (inclusive)	nuqanchik	nuqanchik	n o q a n tʃ i k		791	n o q a n tʃ i k	C V C V C C V C
+2117	Apurimac	we (inclusive)	ñoqanchis	ñoqanchis	ɲ o q a n tʃ i s		791	ɲ o q a n tʃ i s	C V C V C C V C
+2119	Atalla	we (inclusive)	ñuχa.n.čik	ñuχa.n.čik	ɲ u χ a n tʃ i k		791	ɲ u χ a n tʃ i k	C V C V C C V C
+2120	Ayacucho	we (inclusive)	ñoqanchik	ñoqanchik	ɲ o χ a n tʃ i k		791	ɲ o χ a n tʃ i k	C V C V C C V C
+7182	Azuay	we (inclusive)	ñuxanchi	ñuxanchi	ɲ u q a n tʃ i		791	ɲ u q a n tʃ i -	C V C V C C V
+2123	Chachapoyas	we (inclusive)	ñukanchi	ñukanchi	ɲ u k a n tʃ i		791	ɲ u k a n tʃ i -	C V C V C C V
+2124	Chacpar	we (inclusive)	nuqa.n.tsiχ	nuqa.n.tsiχ	n u q a n ts i χ		791	n u q a n ts i χ	C V C V C C V C
+2125	Chetilla	we (inclusive)	nuγa.n.džiγ	nuγa.n.džiγ	n u ʁ a n dʒ i ʁ		791	n u ʁ a n dʒ i ʁ	C V C V C C V C
+2131	Huallaga	we (inclusive)	nuqa.n.či	nuqa.n.či	n u q a n tʃ i		791	n u q a n tʃ i -	C V C V C C V
+2133	Huangascar	we (inclusive)	ñuqanchik	ñuqanchik	ɲ o q a n tʃ i k		791	ɲ o q a n tʃ i k	C V C V C C V C
+2134	HuarazHuailas	we (inclusive)	noqantsi	noqantsi	ɲ o q a ɲ ts i		791	ɲ o q a ɲ ts i -	C V C V C C V
+2135	Imbabura	we (inclusive)	ñukanchik	ñukanchik	ɲ u k a n tʃ i k		791	ɲ u k a n tʃ i k	C V C V C C V C
+2136	Inkawasi	we (inclusive)	nuγa.n.či	nuγa.n.či	n u ʁ a n tʃ i		791	n u ʁ a n tʃ i -	C V C V C C V
+2142	Maragua	we (inclusive)	nuqa.n.čis	nuqa.n.čis	n u q a n tʃ i s		791	n u q a n tʃ i s	C V C V C C V C
+2143	Napo	we (inclusive)	ñucanchi	ñucanchi	ɲ u k a n tʃ i		791	ɲ u k a n tʃ i -	C V C V C C V
+2144	Pacaraos	we (inclusive)	ñuqansi	ñuqansi	ɲ o χ a n s i		791	ɲ o χ a n s i -	C V C V C C V
+2148	Puno	we (inclusive)	nuqa.n.čis	nuqa.n.čis	n u q a n tʃ i s		791	n u q a n tʃ i s	C V C V C C V C
+2161	Yanac	we (inclusive)	ñuqa.n.tsik	ñuqa.n.tsik	ɲ u q a n ts i k		791	ɲ u q a n ts i k	C V C V C C V C
+2786	Apuri	what?	ima	ima	i m a		794	i m a	V C V
+2787	Apurimac	what?	ima	ima	i m a		794	i m a	V C V
+2789	Atalla	what?	ima	ima	i m a		794	i m a	V C V
+2790	Ayacucho	what?	ima	ima	i m a		794	i m a	V C V
+7185	Azuay	what?	ima	ima	i m a		794	i m a	V C V
+2793	Chachapoyas	what?	ima	ima	i m a		794	i m a	V C V
+2794	Chacpar	what?	ima	ima	i m a		794	i m a	V C V
+2795	Chetilla	what?	ima	ima	i m a		794	i m a	V C V
+2800	Huallaga	what?	ima	ima	i m a		794	i m a	V C V
+2803	Huangascar	what?	ima	ima	i m a		794	i m a	V C V
+2804	HuarazHuailas	what?	ima	ima	i m a		794	i m a	V C V
+2805	Imbabura	what?	ima	ima	i m a		794	i m a	V C V
+2806	Inkawasi	what?	ima	ima	i m a		794	i m a	V C V
+7445	Jauja	what?	ima	ima	i m a		794	i m a	V C V
+2812	Maragua	what?	ima	ima	i m a		794	i m a	V C V
+2813	Napo	what?	ima	ima	i m a		794	i m a	V C V
+2814	Pacaraos	what?	ima	ima	i m a		794	i m a	V C V
+2818	Puno	what?	ima	ima	i m a		794	i m a	V C V
+2822	Santiagueno	what?	imat	imat	i m a		794	i m a	V C V
+2829	Yanac	what?	ima	ima	i m a		794	i m a	V C V
+7071	Apuri	white	yuraq	yuraq	j u ɾ a q		798	j u ɾ a q	C V C V C
+7072	Apurimac	white	yuraq	yuraq	j u r a q		798	j u r a q	C V C V C
+7074	Atalla	white	ruyaχ, yuraχ	ruyaχ	r u j a χ		798	r u j a χ	C V C V C
+7076	Ayacucho	white	yuraq	yuraq	j u ɾ a χ		798	j u ɾ a χ	C V C V C
+7264	Azuay	white	yurag	yurag	j u ɾ a g		798	j u ɾ a g	C V C V C
+7079	Chachapoyas	white	yurak	yurak	j u r a k		798	j u r a k	C V C V C
+7080	Chacpar	white	yulax	yulax	j u l a x		798	j u l a x	C V C V C
+7081	Chetilla	white	yuraq	yuraq	j u r a q		798	j u r a q	C V C V C
+7086	Huallaga	white	yuraχ	yuraχ	j u r a χ		798	j u r a χ	C V C V C
+7089	Huangascar	white	yuraq	yuraq	j u ɾ a q		798	j u ɾ a q	C V C V C
+7090	HuarazHuailas	white	yulaq	yulaq	j u l a q		798	j u l a q	C V C V C
+7091	Imbabura	white	yuraj	yuraj	j u ɾ a x		798	j u ɾ a x	C V C V C
+7092	Inkawasi	white	yuraq	yuraq	j u r a q		798	j u r a q	C V C V C
+7446	Jauja	white	yulaq	yulaq	j u l a ʔ		798	j u l a ʔ	C V C V C
+7098	Maragua	white	yuraχ	yuraχ	j u r a χ		798	j u r a χ	C V C V C
+7099	Napo	white	ruyaj	ruyaj	r u j a χ		798	r u j a χ	C V C V C
+7100	Pacaraos	white	yuraq	yuraq	j u ɾ a χ		798	j u ɾ a χ	C V C V C
+7104	Puno	white	yuraχ	yuraχ	j u r a χ		798	j u r a χ	C V C V C
+7108	Santiagueno	white	yuraq	yuraq	j u ɾ a χ		798	j u ɾ a χ	C V C V C
+7116	Yanac	white	yuraq	yuraq	j u r a q		798	j u r a q	C V C V C
+2831	Apuri	who?	pi	pi	p i		801	p i - - -	C V
+2832	Apurimac	who?	pi	pi	p i		801	p i - - -	C V
+2834	Atalla	who?	pi	pi	p i		801	p i - - -	C V
+2835	Ayacucho	who?	pi	pi	p i		801	p i - - -	C V
+7186	Azuay	who?	pi	pi	p i		801	p i - - -	C V
+2838	Chachapoyas	who?	pi	pi	p i		801	p i - - -	C V
+2839	Chacpar	who?	pi	pi	p i		801	p i - - -	C V
+2840	Chetilla	who?	pi	pi	p i		801	p i - - -	C V
+2845	Huallaga	who?	pi	pi	p i		801	p i - - -	C V
+2848	Huangascar	who?	pi	pi	p i		801	p i - - -	C V
+2849	HuarazHuailas	who?	pi	pi	p i		801	p i - - -	C V
+2850	Imbabura	who?	pi	pi	p i		801	p i - - -	C V
+2851	Inkawasi	who?	pi	pi	p i		801	p i - - -	C V
+7447	Jauja	who?	pi	pi	p i		801	p i - - -	C V
+2857	Maragua	who?	pi	pi	p i		801	p i - - -	C V
+2859	Pacaraos	who?	pii	pii	p iː		801	p iː - - -	C V
+2863	Puno	who?	pi	pi	p i		801	p i - - -	C V
+2867	Santiagueno	who?	pitaq	pitaq	p i t a χ		801	p i t a χ	C V C V C
+2875	Yanac	who?	pi	pi	p i		801	p i - - -	C V
+6302	Apuri	wind	wayra	wayra	w ai r a		806	w ai r a	C V C V
+6303	Apurimac	wind	wayra	wayra	w ai r a		806	w ai r a	C V C V
+6305	Atalla	wind	wayra	wayra	w ai r a		806	w ai r a	C V C V
+6306	Ayacucho	wind	wayra	wayra	w ai ɾ a		806	w ai ɾ a	C V C V
+7249	Azuay	wind	huayra	huayra	w ai ɾ a		806	w ai ɾ a	C V C V
+6309	Chachapoyas	wind	wayra	wayra	w ai r a		806	w ai r a	C V C V
+6311	Chetilla	wind	wayra	wayra	w ai r a		806	w ai r a	C V C V
+6319	Huangascar	wind	wayra	wayra	w ai ɾ a		806	w ai ɾ a	C V C V
+6321	Imbabura	wind	wayra	wayra	w ai ɾ a		806	w ai ɾ a	C V C V
+6322	Inkawasi	wind	wayra	wayra	w ai r a		806	w ai r a	C V C V
+7448	Jauja	wind	waywa	waywa	w ai w a		806	w ai w a	C V C V
+6329	Maragua	wind	wayra	wayra	w ai r a		806	w ai r a	C V C V
+6330	Napo	wind	huaira	huaira	w ai r a		806	w ai r a	C V C V
+6335	Puno	wind	wayra	wayra	w ai r a		806	w ai r a	C V C V
+6339	Santiagueno	wind	wayra	wayra	w ai ɾ a		806	w ai ɾ a	C V C V
+6347	Yanac	wind	we:ra	we:ra	w eː r a		806	w eː r a	C V C V
+6310	Chacpar	wind	viento	viento	v ie n t o		807	v ie n t o	C V C C V
+6316	Huallaga	wind	viento	viento	v ie n t o		807	v ie n t o	C V C C V
+6331	Pacaraos	wind	bintu	bintu	b i n t u		807	b i n t u	C V C C V
+4853	Apuri	wing	rikra	rikra	ɾ i k ɾ a		810	ɾ i k ɾ - - - - a	C V C C V
+4862	Chachapoyas	wing	rikra	rikra	r i k r a		810	r i k r - - - - a	C V C C V
+4873	Huangascar	wing	rikra	rikra	ɾ i k ɾ a		810	ɾ i k ɾ - - - - a	C V C C V
+4874	HuarazHuailas	wing	rikra	rikra	r i k r a	colex. with "brazo"	810	r i k r - - - - a	C V C C V
+4882	Maragua	wing	lixra	lixra	l i x r a		810	l i x r - - - - a	C V C C V
+4888	Puno	wing	rixra	rixra	r i x r a		810	r i x r - - - - a	C V C C V
+4891	Santiagueno	wing	likra	likra	l i x ɾ a		810	l i x ɾ - - - - a	C V C C V
+4854	Apurimac	wing	rapra	rapra	r a p r a		424	r a p r a	C V C C V
+4858	Atalla	wing	rapra	rapra	r a p r a		424	r a p r a	C V C C V
+4859	Ayacucho	wing	rapra	rapra	ɾ a p ɾ a		424	ɾ a p ɾ a	C V C C V
+4871	Jauja	wing	lapla	lapla	l a p l a		424	l a p l a	C V C C V
+4863	Chacpar	wing	alas	alas	a l a s		334	a l a s	V C V C
+4864	Chetilla	wing	ala	ala	a l a		334	a l a -	V C V
+4875	Imbabura	wing	alas	alas	a l a s		334	a l a s	V C V C
+4876	Inkawasi	wing	ala	ala	a l a		334	a l a -	V C V
+4899	Yanac	wing	ala	ala	a l a		334	a l a -	V C V
+2969	Apuri	with	wan	wan	w a n	suffix	816	w a n	C V C
+2970	Apurimac	with	-wan	-wan	w a n	suffix	816	w a n	C V C
+2971	Atalla	with	.wan	.wan	w a n	suffix	816	w a n	C V C
+2972	Ayacucho	with	-wan	-wan	w a ŋ	suffix	816	w a ŋ	C V C
+7188	Azuay	with	-huan	-huan	w a n	suffix	816	w a n	C V C
+2974	Chacpar	with	.wan	.wan	w a n	suffix	816	w a n	C V C
+2975	Chetilla	with	.wan	.wan	w a n	suffix	816	w a n	C V C
+2981	Huallaga	with	.wan	.wan	w a n	suffix	816	w a n	C V C
+2983	Huangascar	with	-wan	-wan	w a n	suffix	816	w a n	C V C
+2984	Inkawasi	with	.wan	.wan	w a n	suffix	816	w a n	C V C
+2989	Maragua	with	.wan	.wan	w a n	suffix	816	w a n	C V C
+2992	Puno	with	.wan	.wan	w a n	suffix	816	w a n	C V C
+2993	Santiagueno	with	-an	-an	a n	suffix	816	- a n	V C
+3000	Yanac	with	.wan	.wan	w a n	suffix	816	w a n	C V C
+4994	Apuri	woman	warmi	warmi	w a ɾ m i		822	w a ɾ m i	C V C C V
+4995	Apurimac	woman	warmi	warmi	w a r m i		822	w a r m i	C V C C V
+4997	Atalla	woman	warmi	warmi	w a r m i		822	w a r m i	C V C C V
+4998	Ayacucho	woman	warmi	warmi	w a ɾ m i		822	w a ɾ m i	C V C C V
+7226	Azuay	woman	huarmi	huarmi	w a ɾ m i		822	w a ɾ m i	C V C C V
+5001	Chachapoyas	woman	warmi	warmi	w a r m i		822	w a r m i	C V C C V
+5002	Chacpar	woman	warmi	warmi	w a r m i		822	w a r m i	C V C C V
+5003	Chetilla	woman	warmi	warmi	w a r m i		822	w a r m i	C V C C V
+5008	Huallaga	woman	warmi	warmi	w a r m i		822	w a r m i	C V C C V
+5011	Huangascar	woman	warmi	warmi	w a ɾ m i		822	w a ɾ m i	C V C C V
+5012	HuarazHuailas	woman	warmi	warmi	w a ɾ m i		822	w a ɾ m i	C V C C V
+5014	Inkawasi	woman	warmi	warmi	w a r m i		822	w a r m i	C V C C V
+7449	Jauja	woman	walmi	walmi	w a l m i		822	w a l m i	C V C C V
+5021	Maragua	woman	warmi	warmi	w a r m i		822	w a r m i	C V C C V
+5022	Napo	woman	huarmi	huarmi	w a r m i		822	w a r m i	C V C C V
+5023	Pacaraos	woman	warmi	warmi	w a ɾ m i		822	w a ɾ m i	C V C C V
+5027	Puno	woman	warmi	warmi	w a r m i		822	w a r m i	C V C C V
+5031	Santiagueno	woman	warmi	warmi	w a ɾ m i		822	w a ɾ m i	C V C C V
+5040	Yanac	woman	warmi	warmi	w a r m i		822	w a r m i	C V C C V
+4608	Apuri	worm	uru	uru	u ɾ u		828	- u ɾ u	V C V
+4609	Apurimac	worm	uru	uru	u r u		828	- u r u	V C V
+4611	Atalla	worm	kuru	kuru	k u r u		828	k u r u	C V C V
+4612	Ayacucho	worm	uru	uru	u ɾ u		828	- u ɾ u	V C V
+7219	Azuay	worm	curu	curu	k u ɾ u		828	k u ɾ u	C V C V
+4615	Chachapoyas	worm	kuru	kuru	k u r u		828	k u r u	C V C V
+4616	Chacpar	worm	kuru	kuru	k u r u		828	k u r u	C V C V
+4617	Chetilla	worm	kuru	kuru	k u r u		828	k u r u	C V C V
+4622	Huallaga	worm	kuru	kuru	k u r u		828	k u r u	C V C V
+4625	Huangascar	worm	uru	uru	u ɾ u		828	- u ɾ u	V C V
+4626	HuarazHuailas	worm	kuru	kuru	k u ɾ u		828	k u ɾ u	C V C V
+7463	Jauja	worm	kulu	kulu	k u l u		828	k u l u	C V C V
+4635	Maragua	worm	khuru	khuru	kʰ u r u		828	kʰ u r u	C V C V
+4636	Napo	worm	curu	curu	k u r u		828	k u r u	C V C V
+4637	Pacaraos	worm	kuru	kuru	k u ɾ u		828	k u ɾ u	C V C V
+4641	Puno	worm	kuru	kuru	k u r u		828	k u r u	C V C V
+4645	Santiagueno	worm	kuru	kuru	k u ɾ u		828	k u ɾ u	C V C V
+4654	Yanac	worm	kuru	kuru	k u r u		828	k u r u	C V C V
+577	Apuri	year	wata	wata	w a t a		830	w a t a	C V C V
+578	Apurimac	year	wata	wata	w a t a		830	w a t a	C V C V
+580	Atalla	year	wata	wata	w a t a		830	w a t a	C V C V
+581	Ayacucho	year	wata	wata	w a t a		830	w a t a	C V C V
+7179	Azuay	year	huata	huata	w a t a		830	w a t a	C V C V
+584	Chachapoyas	year	wata	wata	w a t a		830	w a t a	C V C V
+585	Chacpar	year	wata	wata	w a t a		830	w a t a	C V C V
+586	Chetilla	year	wata	wata	w a t a		830	w a t a	C V C V
+591	Huallaga	year	wata	wata	w a t a		830	w a t a	C V C V
+594	Huangascar	year	wata	wata	w a t a		830	w a t a	C V C V
+595	HuarazHuailas	year	wata	wata	w a t a		830	w a t a	C V C V
+596	Imbabura	year	wata	wata	w a t a		830	w a t a	C V C V
+7332	Jauja	year	wata	wata	w a t a		830	w a t a	C V C V
+604	Maragua	year	wata	wata	w a t a		830	w a t a	C V C V
+605	Napo	year	huata	huata	w a t a		830	w a t a	C V C V
+606	Pacaraos	year	wata	wata	w a t a		830	w a t a	C V C V
+610	Puno	year	wata	wata	w a t a		830	w a t a	C V C V
+614	Santiagueno	year	wata	wata	w a t a		830	w a t a	C V C V
+623	Yanac	year	wata	wata	w a t a		830	w a t a	C V C V
+138	Apuri	yellow	qarwa	qarwa	q a ɾ w a		834	q a ɾ w a -	C V C C V
+139	Apurimac	yellow	qarwa	qarwa	q a r w a		834	q a r w a -	C V C C V
+146	Chacpar	yellow	ġaλwa.š	ġaλwa.š	ɢ a ʎ w a ʃ		834	ɢ a ʎ w a ʃ	C V C C V C
+147	Chetilla	yellow	qarwa	qarwa	q a r w a		834	q a r w a -	C V C C V
+153	Huallaga	yellow	qarwa.š	qarwa.š	q a r w a ʃ		834	q a r w a ʃ	C V C C V C
+157	Huangascar	yellow	qarwa	qarwa	q a ɾ w a		834	q a ɾ w a -	C V C C V
+158	HuarazHuailas	yellow	qarwash	qarwash	q a ɾ w a ʃ		834	q a ɾ w a ʃ	C V C C V C
+160	Inkawasi	yellow	χarwa	χarwa	χ a r w a		834	χ a r w a -	C V C C V
+169	Pacaraos	yellow	qarwa	qarwa	ʁ a ɾ w a		834	ʁ a ɾ w a -	C V C C V
+187	Yanac	yellow	qarwa	qarwa	q a r w a		834	q a r w a -	C V C C V
+7485	Apurimac	yellow	qillu	qillu	q i ʎ u		851	q i ʎ u	C V C V
+141	Atalla	yellow	χiλu	χiλu	χ i ʎ u		851	χ i ʎ u	C V C V
+142	Ayacucho	yellow	qellu	qellu	χ e ʎ u		851	χ e ʎ u	C V C V
+7267	Azuay	yellow	quillu	quillu	k i ʎ u		851	k i ʎ u	C V C V
+145	Chachapoyas	yellow	killu	killu	k i dʑ u		851	k i dʑ u	C V C V
+159	Imbabura	yellow	killu	killu	k i ʎ u		851	k i ʎ u	C V C V
+167	Maragua	yellow	q'iλu	q'iλu	qʼ i ʎ u		851	qʼ i ʎ u	C V C V
+168	Napo	yellow	quillu	quillu	k i ʎ u		851	k i ʎ u	C V C V
+173	Puno	yellow	q'iλu	q'iλu	qʼ i ʎ u		851	qʼ i ʎ u	C V C V
+177	Santiagueno	yellow	qellu	qellu	q ɪ ʒ u		851	q ɪ ʒ u	C V C V
+7474	Apuri	young (female)	shipash	shipash	ʃ i p a ʃ		837	ʃ i p a ʃ	C V C V C
+354	Apurimac	young (female)	sipas	sipas	s i p a s		837	s i p a s	C V C V C
+357	Atalla	young (female)	sipa.s	sipa.s	s i p a s		837	s i p a s	C V C V C
+358	Ayacucho	young (female)	sipas, pasña	sipas	s i p a s		837	s i p a s	C V C V C
+361	Chachapoyas	young (female)	shipash	shipash	ʃ i p a ʃ		837	ʃ i p a ʃ	C V C V C
+362	Chacpar	young (female)	hipa.š	hipa.š	h i p a ʃ		837	h i p a ʃ	C V C V C
+363	Chetilla	young (female)	šipa.š	šipa.š	ʃ i p a ʃ		837	ʃ i p a ʃ	C V C V C
+7472	Huangascar	young (female)	shipash	shipash	ʃ i p a ʃ		837	ʃ i p a ʃ	C V C V C
+7460	HuarazHuailas	young (female)	sipas	sipas	ʃ i p a ʃ		837	ʃ i p a ʃ	C V C V C
+373	Inkawasi	young (female)	šipa.š	šipa.š	ʃ i p a ʃ		837	ʃ i p a ʃ	C V C V C
+378	Maragua	young (female)	sipa.s	sipa.s	s i p a s		837	s i p a s	C V C V C
+380	Pacaraos	young (female)	hipash/rraqak	hipash	x i p a ʃ		837	x i p a ʃ	C V C V C
+385	Puno	young (female)	sipa.s	sipa.s	s i p a s		837	s i p a s	C V C V C
+387	Santiagueno	young (female)	sipas	sipas	s i p a s		837	s i p a s	C V C V C
+394	Yanac	young (female)	šipaš	šipaš	ʃ i p a ʃ		837	ʃ i p a ʃ	C V C V C
+372	Imbabura	young (female)	warmi	warmi	w a ɾ m i		822	w a ɾ m i	C V C C V
+7450	Jauja	young (female)	wamla	wamla	w a m l a		841	w a m l a	C V C C V
+396	Apuri	young (male)	maqta	maqta	m a q t a		102	m a q t a	C V C C V
+397	Apurimac	young (male)	malta, maqta	maqta	m a q t a		102	m a q t a	C V C C V
+401	Atalla	young (male)	maχta	maχta	m a χ t a		102	m a χ t a	C V C C V
+402	Ayacucho	young (male)	maqta	maqta	m a χ t a		102	m a χ t a	C V C C V
+414	Huangascar	young (male)	maqta	maqta	m a q t a		102	m a q t a	C V C C V
+399	Apurimac	young (male)	wayna	wayna	w ai n a		843	w ai n a	C V C V
+404	Chachapoyas	young (male)	wayna	wayna	w ai n a		843	w ai n a	C V C V
+422	Maragua	young (male)	wayna	wayna	w ai n a		843	w ai n a	C V C V
+429	Puno	young (male)	wayna	wayna	w ai n a		843	w ai n a	C V C V
+431	Santiagueno	young (male)	wayna	wayna	w ai n a		843	w ai n a	C V C V
+406	Chetilla	young (male)	wamra	wamra	w a m r a		841	w a m r a	C V C C V
+424	Pacaraos	young (male)	wamra	wamra	w a m ɾ a	manta: joven animal; wayna: novio; wamra: not gender specific	841	w a m ɾ a	C V C C V

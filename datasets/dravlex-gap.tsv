@@ -1,0 +1,1342 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COG	COGID	ALIGNMENT	STRUCTURE	ORIGINAL_ALIGNMENT	ORIGINAL_TOKENS	ORIGINAL_STRUCTURE
+1	Badga	I	na	na	n a		I-B	2	n a -	C V	n a - - -	n a	C V
+2	Betta_Kurumba	I	na:ʋə	na:ʋə	n aː ʋ		I-B	2	n aː ʋ	C V C	n aː - ʋ ə	n aː ʋ ə	C V C V
+3	Brahui	I	i:	i:	iː		I-B	2	- iː -	V	- iː - - -	iː	V
+4	Gondi	I	nanna	nanna	n a nː		I-B	2	n a nː	C V C	n a - nː a	n a nː a	C V C V
+5	Kannada	I	na:nu	na:nu	n aː n		I-B	2	n aː n	C V C	n aː - n u	n aː n u	C V C V
+6	Kodava	I	na:nə	na:nə	n aː n		I-B	2	n aː n	C V C	n aː - n ə	n aː n ə	C V C V
+7	Kolami	I	ne:nu	ne:nu	n eː n		I-B	2	n eː n	C V C	n eː - n u	n eː n u	C V C V
+8	Kota	I	a:n	a:n	aː n		I-B	2	- aː n	V C	- aː - n -	aː n	V C
+9	Koya	I	nanna	nanna	n a nː		I-B	2	n a nː	C V C	n a - nː a	n a nː a	C V C V
+10	Kurukh	I	ae:n	ae:n	a n		I-B	2	- a n	V C	- a eː n -	a eː n	V V C
+11	Kuwi	I	na:nu	na:nu	n aː n		I-B	2	n aː n	C V C	n aː - n u	n aː n u	C V C V
+13	Malayalam	I	ɲa:n	ɲa:n	ɲ aː n		I-B	2	ɲ aː n	C V C	ɲ aː - n -	ɲ aː n	C V C
+14	Malto	I	he:nu	he:nu	h eː n		I-B	2	h eː n	C V C	h eː - n u	h eː n u	C V C V
+15	Ollari_Gadba	I	a:n	a:n	aː n		I-B	2	- aː n	V C	- aː - n -	aː n	V C
+16	Parji	I	ān	ān	aː n		I-B	2	- aː n	V C	- aː - n -	aː n	V C
+17	Tamil	I	na:n	na:n	n aː n		I-B	2	n aː n	C V C	n aː - n -	n aː n	C V C
+18	Telugu	I	ne:nu	ne:nu	n eː n		I-B	2	n eː n	C V C	n eː - n u	n eː n u	C V C V
+19	Toda	I	o:n	o:n	oː n		I-B	2	- oː n	V C	- oː - n -	oː n	V C
+20	Tulu	I	ja:nu	ja:nu	j aː n		I-B	2	j aː n	C V C	j aː - n u	j aː n u	C V C V
+21	Yeruva	I	na:n	na:n	n aː n		I-B	2	n aː n	C V C	n aː - n -	n aː n	C V C
+22	Badga	all	ella	ella	e lː a		all-A	3	e lː a	V C V	e lː a -	e lː a	V C V
+23	Kannada	all	ella	ella	e lː a		all-A	3	e lː a	V C V	e lː a -	e lː a	V C V
+24	Kodava	all	ella	ella	e lː a		all-A	3	e lː a	V C V	e lː a -	e lː a	V C V
+25	Kota	all	ella:m	ella:m	e lː aː		all-A	3	e lː aː	V C V	e lː aː m	e lː aː m	V C V C
+26	Malayalam	all	ella	ella	e lː a		all-A	3	e lː a	V C V	e lː a -	e lː a	V C V
+27	Tamil	all	ella:m	ella:m	e lː aː		all-A	3	e lː aː	V C V	e lː aː m	e lː aː m	V C V C
+47	Badga	ashes	kolabu:di	kolabu:di	b uː d i		ashes-B	19	b uː d i	C V C V	k o l a b uː d - - i	k o l a b uː d i	C V C V C V C V
+48	Betta_Kurumba	ashes	pi:di	pi:di	p iː d i		ashes-B	19	p iː d i	C V C V	- - - - p iː d - - i	p iː d i	C V C V
+49	Kannada	ashes	bu:di	bu:di	b uː d i		ashes-B	19	b uː d i	C V C V	- - - - b uː d - - i	b uː d i	C V C V
+50	Kodava	ashes	bu:di	bu:di	b uː d i		ashes-B	19	b uː d i	C V C V	- - - - b uː d - - i	b uː d i	C V C V
+51	Kota	ashes	po:du atukə	po:du atukə	a t ə		ashes-B	19	- a t ə	V C V	p oː d u - a t u k ə	p oː d u a t u k ə	C V C V V C V C V
+52	Koya	ashes	bu:ɖida	bu:ɖida	i d a		ashes-B	19	- i d a	V C V	b uː ɖ - - i d - - a	b uː ɖ i d a	C V C V C V
+53	Telugu	ashes	bu:ɖida	bu:ɖida	i d a		ashes-B	19	- i d a	V C V	b uː ɖ - - i d - - a	b uː ɖ i d a	C V C V C V
+54	Toda	ashes	pu:di	pu:di	p uː d i		ashes-B	19	p uː d i	C V C V	- - - - p uː d - - i	p uː d i	C V C V
+55	Yeruva	ashes	bu:di	bu:di	b uː d i		ashes-B	19	b uː d i	C V C V	- - - - b uː d - - i	b uː d i	C V C V
+58	Gondi	ashes	ni:ɾ	ni:ɾ	n iː ɾ		ashes-D	21	n iː ɾ	C V C	n iː ɾ	n iː ɾ	C V C
+59	Ollari_Gadba	ashes	niɖ	niɖ	n i ɖ		ashes-D	21	n i ɖ	C V C	n i ɖ	n i ɖ	C V C
+60	Parji	ashes	nīd	nīd	n iː d		ashes-D	21	n iː d	C V C	n iː d	n iː d	C V C
+64	Badga	bark	paʈʈe	paʈʈe	p a ʈː e		bark-A	25	p a ʈː e	C V C V	p a ʈː e	p a ʈː e	C V C V
+65	Kodava	bark	aʈʈe	aʈʈe	a ʈː e		bark-A	25	- a ʈː e	V C V	- a ʈː e	a ʈː e	V C V
+66	Malayalam	bark	paṭṭa	paṭṭa	p a ʈː a		bark-A	25	p a ʈː a	C V C V	p a ʈː a	p a ʈː a	C V C V
+67	Tamil	bark	paʈʈe	paʈʈe	p a ʈː e		bark-A	25	p a ʈː e	C V C V	p a ʈː e	p a ʈː e	C V C V
+68	Telugu	bark	paṭṭa	paṭṭa	p a ʈː a		bark-A	25	p a ʈː a	C V C V	p a ʈː a	p a ʈː a	C V C V
+85	Malayalam	belly	ʋajaɾə	ʋajaɾə	ʋ a a ɾ ə		belly-A	39	ʋ a a ɾ ə	C V V C V	ʋ a j - a ɾ ə	ʋ a j a ɾ ə	C V C V C V
+86	Tamil	belly	vayiṟu	vayiṟu	v a i r̪ u		belly-A	39	v a i r̪ u	C V V C V	v a - y i r̪ u	v a y i r̪ u	C V V V C V
+87	Toda	belly	piɾ	piɾ	p i ɾ		belly-A	39	p i - ɾ -	C V C	p i - - - ɾ -	p i ɾ	C V C
+88	Tulu	belly	bandʒi	bandʒi	b a dʒ i		belly-A	39	b a - dʒ i	C V C V	b a n - - dʒ i	b a n dʒ i	C V C C V
+89	Yeruva	belly	baiɾu	baiɾu	b a i ɾ u		belly-A	39	b a i ɾ u	C V V C V	b a - - i ɾ u	b a i ɾ u	C V V C V
+91	Badga	belly	oʈʈe	oʈʈe	o ʈː e		belly-B	40	- o ʈː e	V C V	- o ʈː e	o ʈː e	V C V
+92	Betta_Kurumba	belly	poʈʈi	poʈʈi	p o ʈː i		belly-B	40	p o ʈː i	C V C V	p o ʈː i	p o ʈː i	C V C V
+93	Kannada	belly	hoṭṭe	hoṭṭe	h o ʈː e		belly-B	40	h o ʈː e	C V C V	h o ʈː e	h o ʈː e	C V C V
+95	Kodava	belly	poʈʈe	poʈʈe	p o ʈː e		belly-B	40	p o ʈː e	C V C V	p o ʈː e	p o ʈː e	C V C V
+96	Malto	belly	puɖa:	puɖa:	p u ɖ aː		belly-B	40	p u ɖ aː	C V C V	p u ɖ aː	p u ɖ aː	C V C V
+97	Parji	belly	poṭṭa	poṭṭa	p o ʈː a		belly-B	40	p o ʈː a	C V C V	p o ʈː a	p o ʈː a	C V C V
+98	Telugu	belly	poʈʈa	poʈʈa	p o ʈː a		belly-B	40	p o ʈː a	C V C V	p o ʈː a	p o ʈː a	C V C V
+104	Brahui	belly	peɖʰ	peɖʰ	p e ɖʰ		belly-H	46	p e ɖʰ	C V C	p e ɖʰ - -	p e ɖʰ	C V C
+105	Gondi	belly	pi:ɾ	pi:ɾ	p iː ɾ		belly-H	46	p iː ɾ	C V C	p iː ɾ - -	p iː ɾ	C V C
+106	Ollari_Gadba	belly	pudug	pudug	p u d		belly-H	46	p u d	C V C	p u d u g	p u d u g	C V C V C
+110	Gondi	big	pedda	pedda	p e d d a		big-A	50	p e d d a	C V C C V	p e d - d a	p e d d a	C V C C V
+111	Koya	big	beɾɾa	beɾɾa	b e ɾ ɾ a		big-A	50	b e ɾ ɾ a	C V C C V	b e ɾ - ɾ a	b e ɾ ɾ a	C V C C V
+112	Kuwi	big	be:ɾ	be:ɾ	b eː ɾ		big-A	50	b eː ɾ - -	C V C	b eː ɾ - - -	b eː ɾ	C V C
+113	Malto	big	be:ɖo	be:ɖo	b eː ɖ o		big-A	50	b eː - ɖ o	C V C V	b eː - - ɖ o	b eː ɖ o	C V C V
+114	Parji	big	berto	berto	b e r t o		big-A	50	b e r t o	C V C C V	b e r - t o	b e r t o	C V C C V
+115	Tamil	big	peɾija	peɾija	p e ɾ j a		big-A	50	p e ɾ j a	C V C C V	p e ɾ i j a	p e ɾ i j a	C V C V C V
+117	Telugu	big	pedda	pedda	p e d d a		big-A	50	p e d d a	C V C C V	p e d - d a	p e d d a	C V C C V
+118	Kodava	big	baljadə	baljadə	b a l a d ə		big-B	51	b a l a d ə	C V C V C V	b a l j a d ə	b a l j a d ə	C V C C V C V
+119	Malayalam	big	ʋaludə	ʋaludə	ʋ a l u d ə		big-B	51	ʋ a l u d ə	C V C V C V	ʋ a l - u d ə	ʋ a l u d ə	C V C V C V
+120	Yeruva	big	baleji	baleji	b a l e j i		big-B	51	b a l e j i	C V C V C V	b a l - e j i	b a l e j i	C V C V C V
+132	Betta_Kurumba	bird	pikki	pikki	p i kː i	LOAN	bird-B	61	p i kː - i	C V C V	p i kː - - i -	p i kː i	C V C V
+133	Kannada	bird	hakki	hakki	h a kː i	LOAN	bird-B	61	h a kː - i	C V C V	h a kː - - i -	h a kː i	C V C V
+135	Kodava	bird	pakʂi	pakʂi	p a k ʂ i	LOAN	bird-B	61	p a k ʂ i	C V C C V	p a k - ʂ i -	p a k ʂ i	C V C C V
+136	Kota	bird	pakkigaɭ	pakkigaɭ	p a kː g a	LOAN	bird-B	61	p a kː g a	C V C C V	p a kː i g a ɭ	p a kː i g a ɭ	C V C V C V C
+137	Malayalam	bird	pakʂi	pakʂi	p a k ʂ i	LOAN	bird-B	61	p a k ʂ i	C V C C V	p a k - ʂ i -	p a k ʂ i	C V C C V
+138	Telugu	bird	pakʂi	pakʂi	p a k ʂ i	LOAN	bird-B	61	p a k ʂ i	C V C C V	p a k - ʂ i -	p a k ʂ i	C V C C V
+139	Tulu	bird	pakki	pakki	p a kː i	LOAN	bird-B	61	p a kː - i	C V C V	p a kː - - i -	p a kː i	C V C V
+140	Yeruva	bird	paktʃi	paktʃi	p a k tʃ i	LOAN	bird-B	61	p a k tʃ i	C V C C V	p a k - tʃ i -	p a k tʃ i	C V C C V
+141	Gondi	bird	piʈʈə	piʈʈə	p i ʈː ə		bird-C	62	p i ʈː ə	C V C V	p i ʈː - - ə	p i ʈː ə	C V C V
+142	Kolami	bird	piʈʈa	piʈʈa	p i ʈː a		bird-C	62	p i ʈː a	C V C V	p i ʈː - - a	p i ʈː a	C V C V
+143	Koya	bird	piʈʈe:ku	piʈʈe:ku	p i ʈː u		bird-C	62	p i ʈː u	C V C V	p i ʈː eː k u	p i ʈː eː k u	C V C V C V
+144	Telugu	bird	pitta	pitta	p i tː a		bird-C	62	p i tː a	C V C V	p i tː - - a	p i tː a	C V C V
+151	Betta_Kurumba	bite	kaɖi ~ kajɾi	kaɖi	k a ɖ i		bite-A	69	k a ɖ i	C V C V	k a - ɖ - - - - i - -	k a ɖ i	C V C V
+153	Brahui	bite	kaat kanning	kaat kanning	k a t i		bite-A	69	k a t i	C V C V	k a a t - k a nː i n g	k a a t k a nː i n g	C V V C C V C V C C
+154	Kannada	bite	kaḍi-	kaḍi-	k a ɖ i		bite-A	69	k a ɖ i	C V C V	k a - ɖ - - - - i - -	k a ɖ i	C V C V
+155	Kodava	bite	kaɖi	kaɖi	k a ɖ i		bite-A	69	k a ɖ i	C V C V	k a - ɖ - - - - i - -	k a ɖ i	C V C V
+156	Kota	bite	kaɖə	kaɖə	k a ɖ ə		bite-A	69	k a ɖ ə	C V C V	k a - ɖ - - - - ə - -	k a ɖ ə	C V C V
+157	Malayalam	bite	kadikkuga	kadikkuga	k a d a		bite-A	69	k a d a	C V C V	k a - d i kː u g a - -	k a d i kː u g a	C V C V C V C V
+158	Tamil	bite	kaɖi	kaɖi	k a ɖ i		bite-A	69	k a ɖ i	C V C V	k a - ɖ - - - - i - -	k a ɖ i	C V C V
+159	Yeruva	bite	kaɖi	kaɖi	k a ɖ i		bite-A	69	k a ɖ i	C V C V	k a - ɖ - - - - i - -	k a ɖ i	C V C V
+162	Koya	bite	koɾaka	koɾaka	k o ɾ a k a		bite-D	72	k o ɾ a k a	C V C V C V	k o ɾ a k a	k o ɾ a k a	C V C V C V
+163	Parji	bite	kork-	kork-	k o r k		bite-D	72	k o r - k -	C V C C	k o r - k -	k o r k	C V C C
+164	Telugu	bite	koɾuku	koɾuku	k o ɾ u k u		bite-D	72	k o ɾ u k u	C V C V C V	k o ɾ u k u	k o ɾ u k u	C V C V C V
+165	Badga	bite	katʃtʃə	katʃtʃə	k a tʃː ə		bite-F	73	k a tʃː ə	C V C V	k a tʃː - - ə	k a tʃː ə	C V C V
+166	Gondi	bite	kask	kask	k a s		bite-F	73	k a s -	C V C	k a s - k -	k a s k	C V C C
+167	Kannada	bite	katʃtʃu	katʃtʃu	k a tʃː u		bite-F	73	k a tʃː u	C V C V	k a tʃː - - u	k a tʃː u	C V C V
+168	Koya	bite	katʃtʃa:	katʃtʃa:	k a tʃː aː		bite-F	73	k a tʃː aː	C V C V	k a tʃː - - aː	k a tʃː aː	C V C V
+169	Kurukh	bite	kʰatʃtʃna	kʰatʃtʃna	kʰ a tʃː a		bite-F	73	kʰ a tʃː a	C V C V	kʰ a tʃː - n a	kʰ a tʃː n a	C V C C V
+170	Kuwi	bite	katʃine	katʃine	k a tʃ e		bite-F	73	k a tʃ e	C V C V	k a tʃ i n e	k a tʃ i n e	C V C V C V
+173	Badga	black	kappə	kappə	k a pː ə		black-A	76	k a pː ə	C V C V	k a - - - - - - pː - - ə	k a pː ə	C V C V
+174	Betta_Kurumba	black	kaɾtənu ipədə	kaɾtənu ipədə	k a p ə		black-A	76	k a p ə	C V C V	k a ɾ t ə n u i p ə d ə	k a ɾ t ə n u i p ə d ə	C V C C V C V V C V C V
+175	Gondi	black	kaɾə	kaɾə	k a ɾ ə		black-A	76	k a ɾ ə	C V C V	k a - - - - - - ɾ - - ə	k a ɾ ə	C V C V
+176	Kannada	black	kappu	kappu	k a pː u		black-A	76	k a pː u	C V C V	k a - - - - - - pː - - u	k a pː u	C V C V
+177	Kodava	black	kaɾtadə	kaɾtadə	k a ə		black-A	76	k a - ə	C V V	k a ɾ t - - - - - a d ə	k a ɾ t a d ə	C V C C V C V
+178	Kota	black	kaɾuppə	kaɾuppə	k a pː ə		black-A	76	k a pː ə	C V C V	k a ɾ - - - - u pː - - ə	k a ɾ u pː ə	C V C V C V
+179	Koya	black	ka:ʈe	ka:ʈe	k aː ʈ e		black-A	76	k aː ʈ e	C V C V	k aː - - - - - - ʈ - - e	k aː ʈ e	C V C V
+180	Malayalam	black	kaɾuppə	kaɾuppə	k a pː ə		black-A	76	k a pː ə	C V C V	k a ɾ - - - - u pː - - ə	k a ɾ u pː ə	C V C V C V
+181	Tamil	black	kaɾəppə	kaɾəppə	k a pː ə		black-A	76	k a pː ə	C V C V	k a ɾ - - - - ə pː - - ə	k a ɾ ə pː ə	C V C V C V
+182	Toda	black	kappə	kappə	k a pː ə		black-A	76	k a pː ə	C V C V	k a - - - - - - pː - - ə	k a pː ə	C V C V
+183	Tulu	black	kappu	kappu	k a pː u		black-A	76	k a pː u	C V C V	k a - - - - - - pː - - u	k a pː u	C V C V
+184	Yeruva	black	kaɾtaji	kaɾtaji	k a i		black-A	76	k a - i	C V V	k a ɾ t - - - - - a j i	k a ɾ t a j i	C V C C V C V
+194	Badga	blood	rattə	rattə	r a tː ə	LOAN	blood-A	83	r a - tː ə -	C V C V	r a - tː ə - -	r a tː ə	C V C V
+195	Kannada	blood	ɾakta	ɾakta	ɾ a k t a	LOAN	blood-A	83	ɾ a k t a -	C V C C V	ɾ a k t a - -	ɾ a k t a	C V C C V
+196	Malayalam	blood	ɾektam	ɾektam	ɾ e k t a m	LOAN	blood-A	83	ɾ e k t a m	C V C C V C	ɾ e k t a m -	ɾ e k t a m	C V C C V C
+197	Tamil	blood	ɾattam	ɾattam	ɾ a tː a m	LOAN	blood-A	83	ɾ a - tː a m	C V C V C	ɾ a - tː a m -	ɾ a tː a m	C V C V C
+198	Telugu	blood	ɾaktamu	ɾaktamu	ɾ a k t a m	LOAN	blood-A	83	ɾ a k t a m	C V C C V C	ɾ a k t a m u	ɾ a k t a m u	C V C C V C V
+199	Badga	blood	nettuɾu	nettuɾu	n e tː u ɾ		blood-B	84	n e tː u ɾ	C V C V C	n e tː u ɾ u	n e tː u ɾ u	C V C V C V
+200	Betta_Kurumba	blood	nəttəɾə	nəttəɾə	n ə tː ə ɾ		blood-B	84	n ə tː ə ɾ	C V C V C	n ə tː ə ɾ ə	n ə tː ə ɾ ə	C V C V C V
+201	Brahui	blood	ditaɾ	ditaɾ	d i t a ɾ		blood-B	84	d i t a ɾ	C V C V C	d i t a ɾ -	d i t a ɾ	C V C V C
+202	Gondi	blood	nettuɾ	nettuɾ	n e tː u ɾ		blood-B	84	n e tː u ɾ	C V C V C	n e tː u ɾ -	n e tː u ɾ	C V C V C
+203	Kolami	blood	nettuɾ	nettuɾ	n e tː u ɾ		blood-B	84	n e tː u ɾ	C V C V C	n e tː u ɾ -	n e tː u ɾ	C V C V C
+204	Kota	blood	ne:tuɾu	ne:tuɾu	n eː t u ɾ		blood-B	84	n eː t u ɾ	C V C V C	n eː t u ɾ u	n eː t u ɾ u	C V C V C V
+205	Koya	blood	nettuɾ	nettuɾ	n e tː u ɾ		blood-B	84	n e tː u ɾ	C V C V C	n e tː u ɾ -	n e tː u ɾ	C V C V C
+206	Kuwi	blood	nettir	nettir	n e tː i r		blood-B	84	n e tː i r	C V C V C	n e tː i r -	n e tː i r	C V C V C
+207	Ollari_Gadba	blood	nettiɾ	nettiɾ	n e tː i ɾ		blood-B	84	n e tː i ɾ	C V C V C	n e tː i ɾ -	n e tː i ɾ	C V C V C
+208	Parji	blood	netir	netir	n e t i r		blood-B	84	n e t i r	C V C V C	n e t i r -	n e t i r	C V C V C
+209	Telugu	blood	nettuɾu	nettuɾu	n e tː u ɾ		blood-B	84	n e tː u ɾ	C V C V C	n e tː u ɾ u	n e tː u ɾ u	C V C V C V
+210	Tulu	blood	nettarə	nettarə	n e tː a r		blood-B	84	n e tː a r	C V C V C	n e tː a r ə	n e tː a r ə	C V C V C V
+212	Kodava	blood	tʃo:ɾə	tʃo:ɾə	tʃ oː ɾ ə		blood-D	86	tʃ oː ɾ ə	C V C V	tʃ oː ɾ ə	tʃ oː ɾ ə	C V C V
+213	Malayalam	blood	tʃo:ɾa	tʃo:ɾa	tʃ oː ɾ a		blood-D	86	tʃ oː ɾ a	C V C V	tʃ oː ɾ a	tʃ oː ɾ a	C V C V
+214	Yeruva	blood	tʃo:ɾe	tʃo:ɾe	tʃ oː ɾ e		blood-D	86	tʃ oː ɾ e	C V C V	tʃ oː ɾ e	tʃ oː ɾ e	C V C V
+217	Badga	bone	ilə	ilə	i l ə		bone-A	89	i l ə - -	V C V	- i l ə - - -	i l ə	V C V
+218	Betta_Kurumba	bone	jaləʋə	jaləʋə	a l ə ʋ ə		bone-A	89	a l ə ʋ ə	V C V C V	j a l ə - ʋ ə	j a l ə ʋ ə	C V C V C V
+219	Kannada	bone	jelubu	jelubu	e l u b u		bone-A	89	e l u b u	V C V C V	j e l u - b u	j e l u b u	C V C V C V
+220	Kota	bone	jeluʋə	jeluʋə	e l u ʋ ə		bone-A	89	e l u ʋ ə	V C V C V	j e l u - ʋ ə	j e l u ʋ ə	C V C V C V
+221	Malayalam	bone	ellə	ellə	e lː ə		bone-A	89	e lː ə - -	V C V	- e lː ə - - -	e lː ə	V C V
+222	Tamil	bone	elumbə	elumbə	e l u b ə		bone-A	89	e l u b ə	V C V C V	- e l u m b ə	e l u m b ə	V C V C C V
+223	Telugu	bone	jemuka	jemuka	e m u k a		bone-A	89	e m u k a	V C V C V	j e m u - k a	j e m u k a	C V C V C V
+224	Toda	bone	elf	elf	e l f		bone-A	89	e l - f -	V C C	- e l - - f -	e l f	V C C
+225	Tulu	bone	ellə	ellə	e lː ə		bone-A	89	e lː ə - -	V C V	- e lː ə - - -	e lː ə	V C V
+226	Gondi	bone	bokka	bokka	b o kː a		bone-B	90	b o kː a	C V C V	b o kː a	b o kː a	C V C V
+227	Kolami	bone	bokka	bokka	b o kː a		bone-B	90	b o kː a	C V C V	b o kː a	b o kː a	C V C V
+228	Koya	bone	bu:la:	bu:la:	b uː l aː		bone-B	90	b uː l aː	C V C V	b uː l aː	b uː l aː	C V C V
+230	Parji	bone	būla	būla	b uː l a		bone-B	90	b uː l a	C V C V	b uː l a	b uː l a	C V C V
+231	Telugu	bone	bokka	bokka	b o kː a		bone-B	90	b o kː a	C V C V	b o kː a	b o kː a	C V C V
+233	Kannada	bone	mu:ɭe	mu:ɭe	m uː ɭ e		bone-D	92	m uː ɭ e	C V C V	m uː ɭ e	m uː ɭ e	C V C V
+234	Kodava	bone	mu:ɭe	mu:ɭe	m uː ɭ e		bone-D	92	m uː ɭ e	C V C V	m uː ɭ e	m uː ɭ e	C V C V
+235	Yeruva	bone	mu:ɭe	mu:ɭe	m uː ɭ e		bone-D	92	m uː ɭ e	C V C V	m uː ɭ e	m uː ɭ e	C V C V
+239	Badga	breast	ma:ɾə	ma:ɾə	m aː ɾ ə		breast-A	96	m aː ɾ ə	C V C V	m aː ɾ - ə	m aː ɾ ə	C V C V
+240	Malayalam	breast	māṟu	māṟu	m aː r̪ u		breast-A	96	m aː r̪ u	C V C V	m aː r̪ - u	m aː r̪ u	C V C V
+241	Tamil	breast	ma:ɾbə	ma:ɾbə	m aː ɾ ə		breast-A	96	m aː ɾ ə	C V C V	m aː ɾ b ə	m aː ɾ b ə	C V C C V
+243	Kannada	breast	ede	ede	e d e		breast-B	97	e d e -	V C V	e - d - e -	e d e	V C V
+244	Koya	breast	eddam	eddam	e d a m		breast-B	97	e d a m	V C V C	e d d - a m	e d d a m	V C C V C
+245	Parji	breast	edram	edram	e d a m		breast-B	97	e d a m	V C V C	e - d r a m	e d r a m	V C C V C
+248	Kodava	breast	mele	mele	m e l e		breast-F	100	m e l e	C V C V	m e l e	m e l e	C V C V
+249	Kota	breast	me:l	me:l	m eː l		breast-F	100	m eː l -	C V C	m eː l -	m eː l	C V C
+250	Malayalam	breast	mula	mula	m u l a		breast-F	100	m u l a	C V C V	m u l a	m u l a	C V C V
+251	Yeruva	breast	mele	mele	m e l e		breast-F	100	m e l e	C V C V	m e l e	m e l e	C V C V
+252	Kannada	breast	stʰana	stʰana	s tʰ a n a		breast-G	101	s tʰ a n a -	C C V C V	s tʰ a n a - -	s tʰ a n a	C C V C V
+253	Malayalam	breast	stanam	stanam	s t a n a m		breast-G	101	s t a n a m	C C V C V C	s t a n a m -	s t a n a m	C C V C V C
+254	Telugu	breast	stʰanamu	stʰanamu	s tʰ a n a m		breast-G	101	s tʰ a n a m	C C V C V C	s tʰ a n a m u	s tʰ a n a m u	C C V C V C V
+267	Kannada	burn	suɖu	suɖu	s u ɖ u		burn-C	113	s u ɖ u	C V C V	s u ɖ u	s u ɖ u	C V C V
+268	Kodava	burn	tʃu:ɖə	tʃu:ɖə	tʃ uː ɖ ə		burn-C	113	tʃ uː ɖ ə	C V C V	tʃ uː ɖ ə	tʃ uː ɖ ə	C V C V
+269	Yeruva	burn	tʃu:ɖə	tʃu:ɖə	tʃ uː ɖ ə		burn-C	113	tʃ uː ɖ ə	C V C V	tʃ uː ɖ ə	tʃ uː ɖ ə	C V C V
+271	Badga	burn	kitʃi:kdə	kitʃi:kdə	k i tʃ iː d ə		burn-E	115	k i tʃ iː d ə	C V C V C V	- - - - k i tʃ iː k - d ə	k i tʃ iː k d ə	C V C V C C V
+272	Betta_Kurumba	burn	kattu ~ kettu	kattu	k a tː u		burn-E	115	k a tː - - u	C V C V	- - - - k a tː - - - - u	k a tː u	C V C V
+274	Kota	burn	ka:to	ka:to	k aː t o		burn-E	115	k aː t - - o	C V C V	- - - - k aː t - - - - o	k aː t o	C V C V
+275	Malayalam	burn	katikkuga	katikkuga	k a t i g a		burn-E	115	k a t i g a	C V C V C V	- - - - k a t i kː u g a	k a t i kː u g a	C V C V C V C V
+276	Toda	burn	ti:kku ka:ttiti	ti:kku ka:ttiti	k aː tː i t i		burn-E	115	k aː tː i t i	C V C V C V	t iː kː u k aː tː i - - t i	t iː kː u k aː tː i t i	C V C V C V C V C V
+287	Badga	claw	ugilə	ugilə	u g i		claw-B	124	- u g i	V C V	- u g i - l ə	u g i l ə	V C V C V
+288	Brahui	claw	hoɾ ad	hoɾ ad	h o ɾ a		claw-B	124	h o ɾ a	C V C V	h o ɾ a - d -	h o ɾ a d	C V C V C
+289	Gondi	claw	goɾk	goɾk	g o ɾ		claw-B	124	g o ɾ -	C V C	g o ɾ - k - -	g o ɾ k	C V C C
+290	Kannada	claw	ugaɾu	ugaɾu	u g a		claw-B	124	- u g a	V C V	- u g a - ɾ u	u g a ɾ u	V C V C V
+291	Kodava	claw	ʋoji	ʋoji	ʋ o j i		claw-B	124	ʋ o j i	C V C V	ʋ o j i - - -	ʋ o j i	C V C V
+292	Kolami	claw	go:ɾ	go:ɾ	g oː ɾ		claw-B	124	g oː ɾ -	C V C	g oː ɾ - - - -	g oː ɾ	C V C
+293	Koya	claw	go:ɾk	go:ɾk	g oː ɾ		claw-B	124	g oː ɾ -	C V C	g oː ɾ - k - -	g oː ɾ k	C V C C
+294	Kurukh	claw	oɾokʰ	oɾokʰ	o ɾ o		claw-B	124	- o ɾ o	V C V	- o ɾ o kʰ - -	o ɾ o kʰ	V C V C
+295	Kuwi	claw	gaɾka	gaɾka	g a ɾ		claw-B	124	g a ɾ -	C V C	g a ɾ - k - a	g a ɾ k a	C V C C V
+296	Malto	claw	oɾugdu	oɾugdu	o ɾ u		claw-B	124	- o ɾ u	V C V	- o ɾ u g d u	o ɾ u g d u	V C V C C V
+297	Parji	claw	gēri	gēri	g eː r i		claw-B	124	g eː r i	C V C V	g eː r i - - -	g eː r i	C V C V
+298	Telugu	claw	go:ɾu	go:ɾu	g oː ɾ u		claw-B	124	g oː ɾ u	C V C V	g oː ɾ u - - -	g oː ɾ u	C V C V
+299	Toda	claw	ju:r	ju:r	j uː		claw-B	124	- - j uː	C V	- - j uː - r -	j uː r	C V C
+300	Tulu	claw	uguɾu	uguɾu	u g u		claw-B	124	- u g u	V C V	- u g u - ɾ u	u g u ɾ u	V C V C V
+306	Kannada	cloud	mēgha	mēgha	m eː g a	LOAN	cloud-A	129	m eː g a -	C V C V	m eː g h a - -	m eː g h a	C V C C V
+307	Kota	cloud	me:gam	me:gam	m eː g a m	LOAN	cloud-A	129	m eː g a m	C V C V C	m eː g - a m -	m eː g a m	C V C V C
+308	Malayalam	cloud	mekʰam	mekʰam	m e kʰ a m	LOAN	cloud-A	129	m e kʰ a m	C V C V C	m e kʰ - a m -	m e kʰ a m	C V C V C
+309	Tamil	cloud	me:gam	me:gam	m eː g a m	LOAN	cloud-A	129	m eː g a m	C V C V C	m eː g - a m -	m eː g a m	C V C V C
+310	Telugu	cloud	me:gʰamu	me:gʰamu	m eː gʱ a m	LOAN	cloud-A	129	m eː gʱ a m	C V C V C	m eː gʱ - a m u	m eː gʱ a m u	C V C V C V
+311	Toda	cloud	me:gam	me:gam	m eː g a m	LOAN	cloud-A	129	m eː g a m	C V C V C	m eː g - a m -	m eː g a m	C V C V C
+313	Gondi	cloud	mabbu	mabbu	m a bː u		cloud-C	131	m a bː u	C V C V	m a bː u	m a bː u	C V C V
+314	Koya	cloud	mabbu	mabbu	m a bː u		cloud-C	131	m a bː u	C V C V	m a bː u	m a bː u	C V C V
+315	Telugu	cloud	mabbu	mabbu	m a bː u		cloud-C	131	m a bː u	C V C V	m a bː u	m a bː u	C V C V
+316	Betta_Kurumba	cloud	mo:ɖə	mo:ɖə	m oː ɖ ə		cloud-D	132	m oː ɖ ə	C V C V	m oː ɖ - - ə	m oː ɖ ə	C V C V
+317	Kannada	cloud	mo:ɖa	mo:ɖa	m oː ɖ a		cloud-D	132	m oː ɖ a	C V C V	m oː ɖ - - a	m oː ɖ a	C V C V
+318	Kodava	cloud	mo:ɖa	mo:ɖa	m oː ɖ a		cloud-D	132	m oː ɖ a	C V C V	m oː ɖ - - a	m oː ɖ a	C V C V
+319	Telugu	cloud	mo:ɖamu	mo:ɖamu	m oː ɖ u		cloud-D	132	m oː ɖ u	C V C V	m oː ɖ a m u	m oː ɖ a m u	C V C V C V
+320	Tulu	cloud	mo:ɖa	mo:ɖa	m oː ɖ a		cloud-D	132	m oː ɖ a	C V C V	m oː ɖ - - a	m oː ɖ a	C V C V
+321	Yeruva	cloud	mo:ɖa	mo:ɖa	m oː ɖ a		cloud-D	132	m oː ɖ a	C V C V	m oː ɖ - - a	m oː ɖ a	C V C V
+329	Kannada	cold	taɳɳige	taɳɳige	t a ɳ i g e		cold-A	139	t a ɳ i g e	C V C V C V	t a ɳ - ɳ - i g e	t a ɳ ɳ i g e	C V C C V C V
+330	Kodava	cold	talindʒadə	talindʒadə	t a n a d ə		cold-A	139	t a n a d ə	C V C V C V	t a l i n dʒ a d ə	t a l i n dʒ a d ə	C V C V C C V C V
+331	Malayalam	cold	taɳuppə	taɳuppə	t a ɳ u pː ə		cold-A	139	t a ɳ u pː ə	C V C V C V	t a - - ɳ - u pː ə	t a ɳ u pː ə	C V C V C V
+332	Yeruva	cold	taɳidʒe	taɳidʒe	t a ɳ i dʒ e		cold-A	139	t a ɳ i dʒ e	C V C V C V	t a - - ɳ - i dʒ e	t a ɳ i dʒ e	C V C V C V
+334	Gondi	cold	sallag	sallag	s a lː a		cold-C	141	s a lː a	C V C V	s a lː a g	s a lː a g	C V C V C
+335	Koya	cold	salla:	salla:	s a lː aː		cold-C	141	s a lː aː	C V C V	s a lː aː -	s a lː aː	C V C V
+336	Telugu	cold	tʃalla	tʃalla	tʃ a lː a		cold-C	141	tʃ a lː a	C V C V	tʃ a lː a -	tʃ a lː a	C V C V
+337	Tulu	cold	tʃappa	tʃappa	tʃ a pː a		cold-C	141	tʃ a pː a	C V C V	tʃ a pː a -	tʃ a pː a	C V C V
+338	Kolami	cold	pani	pani	p a n i		cold-D	142	p a n - - i	C V C V	p a n - - i	p a n i	C V C V
+339	Malto	cold	panija:	panija:	p a n i j aː		cold-D	142	p a n i j aː	C V C V C V	p a n i j aː	p a n i j aː	C V C V C V
+340	Parji	cold	pañil	pañil	p a ɲ i l		cold-D	142	p a ɲ i l -	C V C V C	p a ɲ i l -	p a ɲ i l	C V C V C
+350	Badga	come	pappa	pappa	p a pː		come-A	148	p a pː	C V C	p a pː - - a - -	p a pː a	C V C V
+351	Betta_Kurumba	come	ba:ɾ ~ ban ~ bu	ba:ɾ	b aː ɾ		come-A	148	b aː ɾ	C V C	b aː ɾ - - - - -	b aː ɾ	C V C
+354	Brahui	come	banning	banning	b a		come-A	148	b a -	C V	b a - - nː i n g	b a nː i n g	C V C V C C
+355	Gondi	come	ʋa	ʋa	ʋ a		come-A	148	ʋ a -	C V	ʋ a - - - - - -	ʋ a	C V
+356	Kannada	come	baru-	baru-	b a r		come-A	148	b a r	C V C	b a r - - u - -	b a r u	C V C V
+358	Kodava	come	ba:	ba:	b aː		come-A	148	b aː -	C V	b aː - - - - - -	b aː	C V
+359	Kolami	come	ʋa	ʋa	ʋ a		come-A	148	ʋ a -	C V	ʋ a - - - - - -	ʋ a	C V
+360	Koya	come	ʋa	ʋa	ʋ a		come-A	148	ʋ a -	C V	ʋ a - - - - - -	ʋ a	C V
+362	Kurukh	come	baɾna	baɾna	b a ɾ		come-A	148	b a ɾ	C V C	b a ɾ - n a - -	b a ɾ n a	C V C C V
+363	Malayalam	come	ʋaɾuga	ʋaɾuga	ʋ a ɾ		come-A	148	ʋ a ɾ	C V C	ʋ a ɾ u g a - -	ʋ a ɾ u g a	C V C V C V
+364	Malto	come	baɾəa:	baɾəa:	b a ɾ		come-A	148	b a ɾ	C V C	b a ɾ ə - aː - -	b a ɾ ə aː	C V C V V
+365	Ollari_Gadba	come	ʋa	ʋa	ʋ a		come-A	148	ʋ a -	C V	ʋ a - - - - - -	ʋ a	C V
+366	Parji	come	ver-	ver-	v e r		come-A	148	v e r	C V C	v e r - - - - -	v e r	C V C
+367	Tamil	come	ʋa:	ʋa:	ʋ aː		come-A	148	ʋ aː -	C V	ʋ aː - - - - - -	ʋ aː	C V
+368	Telugu	come	ʋatʃtʃu	ʋatʃtʃu	ʋ a tʃː		come-A	148	ʋ a tʃː	C V C	ʋ a tʃː - - u - -	ʋ a tʃː u	C V C V
+370	Toda	come	pa:ɾti	pa:ɾti	p aː ɾ		come-A	148	p aː ɾ	C V C	p aː ɾ - t i - -	p aː ɾ t i	C V C C V
+371	Tulu	come	baɾaɾa	baɾaɾa	b a ɾ		come-A	148	b a ɾ	C V C	b a ɾ a ɾ a - -	b a ɾ a ɾ a	C V C V C V
+372	Yeruva	come	ba:	ba:	b aː		come-A	148	b aː -	C V	b aː - - - - - -	b aː	C V
+373	Badga	die	sa:ʋadə	sa:ʋadə	s aː ə		die-A	149	s aː ə	C V V	s aː - - - - - ʋ - - a d ə -	s aː ʋ a d ə	C V C V C V
+374	Brahui	die	kahing	kahing	k a		die-A	149	k a -	C V	k a h - i n - g - - - - - -	k a h i n g	C V C V C C
+375	Gondi	die	ha:	ha:	aː		die-A	149	- - aː	V	- - h - - - - - - - - - aː -	h aː	C V
+376	Kannada	die	sa:ji	sa:ji	s aː i		die-A	149	s aː i	C V V	s aː - - - - - j - - - - i -	s aː j i	C V C V
+377	Kodava	die	tʃ:ɭa	tʃ:ɭa	tʃː a		die-A	149	tʃː - a	C V	tʃː - ɭ - - - - - - - - - a -	tʃː ɭ a	C C V
+378	Kurukh	die	kʰena	kʰena	kʰ e a		die-A	149	kʰ e a	C V V	kʰ e - - - n - - - - - - a -	kʰ e n a	C V C V
+379	Malto	die	keəa:na:keəida:h	keəa:na:keəida:h	k e aː		die-A	149	k e aː	C V V	k e - ə aː n aː k e ə i d aː h	k e ə aː n aː k e ə i d aː h	C V V V C V C V V V C V C
+380	Parji	die	cay-	cay-	c a y		die-A	149	c a y	C V V	c a - - - - - - - - - - y -	c a y	C V V
+381	Tamil	die	tʃa:	tʃa:	tʃ aː		die-A	149	tʃ - aː	C V	tʃ - - - - - - - - - - - aː -	tʃ aː	C V
+383	Telugu	die	tʃatʃtʃipo:ʋu	tʃatʃtʃipo:ʋu	tʃ a u		die-A	149	tʃ a u	C V V	tʃ a tʃː - - - i p - - oː ʋ u -	tʃ a tʃː i p oː ʋ u	C V C V C V C V
+384	Tulu	die	sajjaɾa	sajjaɾa	s a a		die-A	149	s a a	C V V	s a j - - - - j - - a ɾ a -	s a j j a ɾ a	C V C C V C V
+385	Yeruva	die	tʃa:ɭa	tʃa:ɭa	tʃ aː a		die-A	149	tʃ aː a	C V V	tʃ aː ɭ - - - - - - - - - a -	tʃ aː ɭ a	C V C V
+392	Badga	dog	ne	ne	n e		dog-A	155	n e - -	C V	n e - -	n e	C V
+393	Betta_Kurumba	dog	na:jə	na:jə	n aː j ə		dog-A	155	n aː j ə	C V C V	n aː j ə	n aː j ə	C V C V
+394	Gondi	dog	nej	nej	n e j		dog-A	155	n e j -	C V C	n e j -	n e j	C V C
+395	Kannada	dog	na:ji	na:ji	n aː j i		dog-A	155	n aː j i	C V C V	n aː j i	n aː j i	C V C V
+396	Kodava	dog	na:ji	na:ji	n aː j i		dog-A	155	n aː j i	C V C V	n aː j i	n aː j i	C V C V
+397	Kolami	dog	a:te	a:te	aː t e		dog-A	155	- aː t e	V C V	- aː t e	aː t e	V C V
+398	Kota	dog	na:ji	na:ji	n aː j i		dog-A	155	n aː j i	C V C V	n aː j i	n aː j i	C V C V
+399	Koya	dog	nej	nej	n e j		dog-A	155	n e j -	C V C	n e j -	n e j	C V C
+400	Malayalam	dog	na:ja	na:ja	n aː j a		dog-A	155	n aː j a	C V C V	n aː j a	n aː j a	C V C V
+401	Ollari_Gadba	dog	ne	ne	n e		dog-A	155	n e - -	C V	n e - -	n e	C V
+402	Parji	dog	netta	netta	n e tː a		dog-A	155	n e tː a	C V C V	n e tː a	n e tː a	C V C V
+403	Tamil	dog	na:ji	na:ji	n aː j i		dog-A	155	n aː j i	C V C V	n aː j i	n aː j i	C V C V
+404	Toda	dog	noi	noi	n o i		dog-A	155	n o - i	C V V	n o - i	n o i	C V V
+405	Tulu	dog	na:ji	na:ji	n aː j i		dog-A	155	n aː j i	C V C V	n aː j i	n aː j i	C V C V
+406	Yeruva	dog	na:ji	na:ji	n aː j i		dog-A	155	n aː j i	C V C V	n aː j i	n aː j i	C V C V
+412	Badga	drink	kuɖapə	kuɖapə	k u ɖ ə		drink-A	160	k u ɖ ə	C V C V	k u ɖ a p ə	k u ɖ a p ə	C V C V C V
+413	Betta_Kurumba	drink	kuɖi ~ kujɾi	kuɖi	k u ɖ i		drink-A	160	k u ɖ i	C V C V	k u ɖ - - i	k u ɖ i	C V C V
+415	Kannada	drink	kuḍi-	kuḍi-	k u ɖ i		drink-A	160	k u ɖ i	C V C V	k u ɖ - - i	k u ɖ i	C V C V
+417	Kodava	drink	kuɖipa	kuɖipa	k u ɖ a		drink-A	160	k u ɖ a	C V C V	k u ɖ i p a	k u ɖ i p a	C V C V C V
+418	Malayalam	drink	kuṭi-	kuṭi-	k u ʈ i		drink-A	160	k u ʈ i	C V C V	k u ʈ - - i	k u ʈ i	C V C V
+420	Tamil	drink	kuɖi	kuɖi	k u ɖ i		drink-A	160	k u ɖ i	C V C V	k u ɖ - - i	k u ɖ i	C V C V
+421	Yeruva	drink	kuɖipə	kuɖipə	k u ɖ ə		drink-A	160	k u ɖ ə	C V C V	k u ɖ i p ə	k u ɖ i p ə	C V C V C V
+423	Brahui	drink	kuning	kuning	u n		drink-C	162	u n -	V C	k u n i n - g -	k u n i n g	C V C V C C
+424	Gondi	drink	un	un	u n		drink-C	162	u n -	V C	- u n - - - - -	u n	V C
+425	Kota	drink	unatukə	unatukə	u n ə		drink-C	162	u n ə	V C V	- u n a t u k ə	u n a t u k ə	V C V C V C V
+426	Koya	drink	unnu	unnu	u nː u		drink-C	162	u nː u	V C V	- u nː - - - - u	u nː u	V C V
+427	Kurukh	drink	onna	onna	o nː a		drink-C	162	o nː a	V C V	- o nː - - - - a	o nː a	V C V
+428	Malto	drink	ho:na:	ho:na:	oː n aː		drink-C	162	oː n aː	V C V	h oː n - - - - aː	h oː n aː	C V C V
+429	Ollari_Gadba	drink	un	un	u n		drink-C	162	u n -	V C	- u n - - - - -	u n	V C
+430	Parji	drink	un-	un-	u n		drink-C	162	u n -	V C	- u n - - - - -	u n	V C
+431	Toda	drink	uʈʈudi	uʈʈudi	u i		drink-C	162	u - i	V V	- u - - ʈː u d i	u ʈː u d i	V C V C V
+437	Kota	dry	kanʈiko	kanʈiko	k a ʈ i k o		dry-D	168	k a ʈ i k o	C V C V C V	k a - n ʈ i k o	k a n ʈ i k o	C V C C V C V
+438	Kurukh	dry	kʰajka	kʰajka	kʰ a j k a		dry-D	168	kʰ a j - k a	C V C C V	kʰ a - - j - k a	kʰ a j k a	C V C C V
+439	Malto	dry	a:ika:	a:ika:	aː i k aː		dry-D	168	- aː - i k aː	V V C V	- aː - - - i k aː	aː i k aː	V V C V
+440	Tamil	dry	kaindadə	kaindadə	k a d a d ə		dry-D	168	k a d a d ə	C V C V C V	k a i n d a d ə	k a i n d a d ə	C V V C C V C V
+442	Brahui	dry	ba:ɾun	ba:ɾun	b aː ɾ u		dry-E	169	b aː ɾ u - -	C V C V	b aː ɾ u n - - -	b aː ɾ u n	C V C V C
+443	Gondi	dry	ʋaʈʈa	ʋaʈʈa	ʋ a ʈː a		dry-E	169	ʋ a - - ʈː a	C V C V	ʋ a - - - ʈː a -	ʋ a ʈː a	C V C V
+444	Kannada	dry	battida	battida	b a tː i d a		dry-E	169	b a tː i d a	C V C V C V	b a tː i - d a -	b a tː i d a	C V C V C V
+445	Koya	dry	aɾta:d	aɾta:d	a ɾ t aː		dry-E	169	- a ɾ - t aː	V C C V	- a ɾ - - t aː d	a ɾ t aː d	V C C V C
+446	Malayalam	dry	varaṇṭa	varaṇṭa	v a r a ʈ a		dry-E	169	v a r a ʈ a	C V C V C V	v a r a ɳ ʈ a -	v a r a ɳ ʈ a	C V C V C C V
+447	Badga	dry	oɳikiladə	oɳikiladə	o ɳ i k a d ə		dry-F	170	o ɳ i k a d ə	V C V C V C V	o ɳ i - k i l a d ə	o ɳ i k i l a d ə	V C V C V C V C V
+448	Kannada	dry	oɳagidu	oɳagidu	o ɳ a g d u		dry-F	170	o ɳ a g - d u	V C V C C V	o ɳ a - g i - - d u	o ɳ a g i d u	V C V C V C V
+449	Kodava	dry	oɳangina	oɳangina	o ɳ a g i n a		dry-F	170	o ɳ a g i n a	V C V C V C V	o ɳ a n g - - i n a	o ɳ a n g i n a	V C V C C V C V
+450	Malayalam	dry	uɳangija	uɳangija	u ɳ a g i j a		dry-F	170	u ɳ a g i j a	V C V C V C V	u ɳ a n g - - i j a	u ɳ a n g i j a	V C V C C V C V
+451	Toda	dry	oɳikisi	oɳikisi	o ɳ i k i s i		dry-F	170	o ɳ i k i s i	V C V C V C V	o ɳ i - k - - i s i	o ɳ i k i s i	V C V C V C V
+452	Tulu	dry	nunguduna	nunguduna	n u g u n a		dry-F	170	- n u g u n a	C V C V C V	- n u n g u d u n a	n u n g u d u n a	C V C C V C V C V
+457	Badga	ear	kiʋi	kiʋi	k i ʋ i		ear-A	174	k i ʋ i	C V C V	k i ʋ - - i	k i ʋ i	C V C V
+458	Betta_Kurumba	ear	kiʋija	kiʋija	k i ʋ a		ear-A	174	k i ʋ a	C V C V	k i ʋ i j a	k i ʋ i j a	C V C V C V
+459	Brahui	ear	xaf	xaf	x a f		ear-A	174	x a f -	C V C	x a f - - -	x a f	C V C
+460	Gondi	ear	keʋu	keʋu	k e ʋ u		ear-A	174	k e ʋ u	C V C V	k e ʋ - - u	k e ʋ u	C V C V
+461	Kannada	ear	kiʋi	kiʋi	k i ʋ i		ear-A	174	k i ʋ i	C V C V	k i ʋ - - i	k i ʋ i	C V C V
+462	Kodava	ear	kemi	kemi	k e i		ear-A	174	k e - i	C V V	k e - - m i	k e m i	C V C V
+463	Kolami	ear	keʋ	keʋ	k e ʋ		ear-A	174	k e ʋ -	C V C	k e ʋ - - -	k e ʋ	C V C
+464	Kota	ear	keʋə	keʋə	k e ʋ ə		ear-A	174	k e ʋ ə	C V C V	k e ʋ - - ə	k e ʋ ə	C V C V
+465	Koya	ear	keʋ	keʋ	k e ʋ		ear-A	174	k e ʋ -	C V C	k e ʋ - - -	k e ʋ	C V C
+467	Kurukh	ear	kʰebda	kʰebda	kʰ e b a		ear-A	174	kʰ e b a	C V C V	kʰ e b - d a	kʰ e b d a	C V C C V
+468	Kuwi	ear	kiɾiju	kiɾiju	k i ɾ u		ear-A	174	k i ɾ u	C V C V	k i ɾ i j u	k i ɾ i j u	C V C V C V
+469	Malayalam	ear	tʃeʋi	tʃeʋi	tʃ e ʋ i		ear-A	174	tʃ e ʋ i	C V C V	tʃ e ʋ - - i	tʃ e ʋ i	C V C V
+470	Ollari_Gadba	ear	kekal	kekal	k e k		ear-A	174	k e k -	C V C	k e k a l -	k e k a l	C V C V C
+471	Parji	ear	kekol	kekol	k e k		ear-A	174	k e k -	C V C	k e k o l -	k e k o l	C V C V C
+472	Telugu	ear	tʃeʋi	tʃeʋi	tʃ e ʋ i		ear-A	174	tʃ e ʋ i	C V C V	tʃ e ʋ - - i	tʃ e ʋ i	C V C V
+473	Toda	ear	kili	kili	k i i		ear-A	174	k i - i	C V V	k i - - l i	k i l i	C V C V
+474	Tulu	ear	kebi	kebi	k e b i		ear-A	174	k e b i	C V C V	k e b - - i	k e b i	C V C V
+475	Yeruva	ear	kemi	kemi	k e i		ear-A	174	k e - i	C V V	k e - - m i	k e m i	C V C V
+479	Gondi	earth	mannə	mannə	m a nː ə		earth-A	177	m a nː ə	C V C V	m a - nː ə	m a nː ə	C V C V
+480	Kannada	earth	maɳɳu	maɳɳu	m a ɳ u		earth-A	177	m a ɳ u	C V C V	m a ɳ ɳ u	m a ɳ ɳ u	C V C C V
+481	Kodava	earth	mannə	mannə	m a nː ə		earth-A	177	m a nː ə	C V C V	m a - nː ə	m a nː ə	C V C V
+482	Malayalam	earth	mannə	mannə	m a nː ə		earth-A	177	m a nː ə	C V C V	m a - nː ə	m a nː ə	C V C V
+483	Tamil	earth	mannə	mannə	m a nː ə		earth-A	177	m a nː ə	C V C V	m a - nː ə	m a nː ə	C V C V
+484	Telugu	earth	mannu	mannu	m a nː u		earth-A	177	m a nː u	C V C V	m a - nː u	m a nː u	C V C V
+485	Tulu	earth	mannə	mannə	m a nː ə		earth-A	177	m a nː ə	C V C V	m a - nː ə	m a nː ə	C V C V
+492	Betta_Kurumba	earth	bu:mi	bu:mi	b uː m i	LOAN	earth-F	182	b uː m i	C V C V	b uː - - - - m i	b uː m i	C V C V
+493	Kolami	earth	bʰu:mi	bʰu:mi	bʱ uː m i	LOAN	earth-F	182	bʱ uː m i	C V C V	bʱ uː - - - - m i	bʱ uː m i	C V C V
+494	Kota	earth	bʰulo:gam	bʰulo:gam	bʱ u m		earth-F	182	bʱ u m -	C V C	bʱ u l oː g a m -	bʱ u l oː g a m	C V C V C V C
+495	Kuwi	earth	bʰumi	bʰumi	bʱ u m i	LOAN	earth-F	182	bʱ u m i	C V C V	bʱ u - - - - m i	bʱ u m i	C V C V
+496	Malto	earth	bʰumi	bʰumi	bʱ u m i	LOAN	earth-F	182	bʱ u m i	C V C V	bʱ u - - - - m i	bʱ u m i	C V C V
+499	Badga	eat	timbə	timbə	t i m ə		eat-A	185	t i m ə	C V C V	t i m - b ə -	t i m b ə	C V C C V
+500	Betta_Kurumba	eat	tinn	tinn	t i nː		eat-A	185	t i nː -	C V C	t i nː - - - -	t i nː	C V C
+501	Kannada	eat	tinnu	tinnu	t i nː u		eat-A	185	t i nː u	C V C V	t i nː - - u -	t i nː u	C V C V
+502	Kodava	eat	tinə	tinə	t i n ə		eat-A	185	t i n ə	C V C V	t i n - - ə -	t i n ə	C V C V
+503	Kota	eat	tin atej	tin atej	t i n e		eat-A	185	t i n e	C V C V	t i n a t e j	t i n a t e j	C V C V C V C
+504	Koya	eat	tinnu	tinnu	t i nː u		eat-A	185	t i nː u	C V C V	t i nː - - u -	t i nː u	C V C V
+505	Kuwi	eat	tinu	tinu	t i n u		eat-A	185	t i n u	C V C V	t i n - - u -	t i n u	C V C V
+506	Malayalam	eat	tinnuga	tinnuga	t i nː a		eat-A	185	t i nː a	C V C V	t i nː u g a -	t i nː u g a	C V C V C V
+507	Ollari_Gadba	eat	tin	tin	t i n		eat-A	185	t i n -	C V C	t i n - - - -	t i n	C V C
+508	Parji	eat	tin-	tin-	t i n		eat-A	185	t i n -	C V C	t i n - - - -	t i n	C V C
+509	Telugu	eat	tinu	tinu	t i n u		eat-A	185	t i n u	C V C V	t i n - - u -	t i n u	C V C V
+510	Yeruva	eat	tinno:	tinno:	t i nː oː		eat-A	185	t i nː oː	C V C V	t i nː - - oː -	t i nː oː	C V C V
+520	Badga	egg	moʈʈe	moʈʈe	m o ʈː e		egg-A	194	m o ʈː e	C V C V	m o - ʈː e	m o ʈː e	C V C V
+521	Kannada	egg	moʈʈe	moʈʈe	m o ʈː e		egg-A	194	m o ʈː e	C V C V	m o - ʈː e	m o ʈː e	C V C V
+522	Kodava	egg	muʈʈe	muʈʈe	m u ʈː e		egg-A	194	m u ʈː e	C V C V	m u - ʈː e	m u ʈː e	C V C V
+523	Kota	egg	mooʈə	mooʈə	m o ʈ ə		egg-A	194	m o ʈ ə	C V C V	m o o ʈ ə	m o o ʈ ə	C V V C V
+524	Malayalam	egg	muʈʈa	muʈʈa	m u ʈː a		egg-A	194	m u ʈː a	C V C V	m u - ʈː a	m u ʈː a	C V C V
+525	Tamil	egg	muʈʈe	muʈʈe	m u ʈː e		egg-A	194	m u ʈː e	C V C V	m u - ʈː e	m u ʈː e	C V C V
+526	Toda	egg	muʈʈe	muʈʈe	m u ʈː e		egg-A	194	m u ʈː e	C V C V	m u - ʈː e	m u ʈː e	C V C V
+527	Yeruva	egg	muʈʈe	muʈʈe	m u ʈː e		egg-A	194	m u ʈː e	C V C V	m u - ʈː e	m u ʈː e	C V C V
+541	Badga	eye	kaɳɳə	kaɳɳə	k a ɳ ɳ ə		eye-A	206	k a ɳ ɳ ə	C V C C V	k a ɳ ɳ ə -	k a ɳ ɳ ə	C V C C V
+542	Betta_Kurumba	eye	kaɳɳu	kaɳɳu	k a ɳ ɳ u		eye-A	206	k a ɳ ɳ u	C V C C V	k a ɳ ɳ u -	k a ɳ ɳ u	C V C C V
+543	Brahui	eye	xan	xan	x a n		eye-A	206	x a n - -	C V C	x a n - - -	x a n	C V C
+544	Kannada	eye	kaɳɳə	kaɳɳə	k a ɳ ɳ ə		eye-A	206	k a ɳ ɳ ə	C V C C V	k a ɳ ɳ ə -	k a ɳ ɳ ə	C V C C V
+545	Kodava	eye	kaɳɳə	kaɳɳə	k a ɳ ɳ ə		eye-A	206	k a ɳ ɳ ə	C V C C V	k a ɳ ɳ ə -	k a ɳ ɳ ə	C V C C V
+546	Kolami	eye	kan	kan	k a n		eye-A	206	k a n - -	C V C	k a n - - -	k a n	C V C
+547	Kota	eye	kaɳɳə	kaɳɳə	k a ɳ ɳ ə		eye-A	206	k a ɳ ɳ ə	C V C C V	k a ɳ ɳ ə -	k a ɳ ɳ ə	C V C C V
+548	Koya	eye	koɳɖ	koɳɖ	k o ɳ ɖ		eye-A	206	k o ɳ ɖ -	C V C C	k o ɳ ɖ - -	k o ɳ ɖ	C V C C
+549	Kurukh	eye	kʰann	kʰann	kʰ a nː		eye-A	206	kʰ a nː - -	C V C	kʰ a nː - - -	kʰ a nː	C V C
+550	Kuwi	eye	kanu	kanu	k a n u		eye-A	206	k a n - u	C V C V	k a n - u -	k a n u	C V C V
+551	Malayalam	eye	kaɳɳə	kaɳɳə	k a ɳ ɳ ə		eye-A	206	k a ɳ ɳ ə	C V C C V	k a ɳ ɳ ə -	k a ɳ ɳ ə	C V C C V
+552	Malto	eye	a:ndu	a:ndu	aː n d u		eye-A	206	- aː n d u	V C C V	- aː n d u -	aː n d u	V C C V
+553	Ollari_Gadba	eye	kaɳul	kaɳul	k a ɳ u		eye-A	206	k a ɳ - u	C V C V	k a ɳ - u l	k a ɳ u l	C V C V C
+554	Parji	eye	kan	kan	k a n		eye-A	206	k a n - -	C V C	k a n - - -	k a n	C V C
+555	Tamil	eye	kaɳɳə	kaɳɳə	k a ɳ ɳ ə		eye-A	206	k a ɳ ɳ ə	C V C C V	k a ɳ ɳ ə -	k a ɳ ɳ ə	C V C C V
+556	Telugu	eye	kannu	kannu	k a nː u		eye-A	206	k a nː - u	C V C V	k a nː - u -	k a nː u	C V C V
+557	Toda	eye	kaɳ	kaɳ	k a ɳ		eye-A	206	k a ɳ - -	C V C	k a ɳ - - -	k a ɳ	C V C
+558	Tulu	eye	kaɳɳu	kaɳɳu	k a ɳ ɳ u		eye-A	206	k a ɳ ɳ u	C V C C V	k a ɳ ɳ u -	k a ɳ ɳ u	C V C C V
+559	Yeruva	eye	kaɳɳə	kaɳɳə	k a ɳ ɳ ə		eye-A	206	k a ɳ ɳ ə	C V C C V	k a ɳ ɳ ə -	k a ɳ ɳ ə	C V C C V
+562	Badga	fat	koɭəppə	koɭəppə	k o ɭ ə pː ə		fat-A	209	k o ɭ ə pː ə	C V C V C V	k o ɭ ə pː ə -	k o ɭ ə pː ə	C V C V C V
+563	Gondi	fat	koɾondʒ	koɾondʒ	k o ɾ o n		fat-A	209	k o ɾ o n -	C V C V C	k o ɾ o n - dʒ	k o ɾ o n dʒ	C V C V C C
+564	Kannada	fat	kobbu	kobbu	k o bː u		fat-A	209	k o - - bː u	C V C V	k o - - bː u -	k o bː u	C V C V
+565	Kota	fat	koɭupu	koɭupu	k o ɭ u p u		fat-A	209	k o ɭ u p u	C V C V C V	k o ɭ u p u -	k o ɭ u p u	C V C V C V
+566	Koya	fat	kodoʋo:s	kodoʋo:s	k o d o ʋ oː		fat-A	209	k o d o ʋ oː	C V C V C V	k o d o ʋ oː s	k o d o ʋ oː s	C V C V C V C
+567	Malayalam	fat	koɻuppə	koɻuppə	k o ɻ u pː ə		fat-A	209	k o ɻ u pː ə	C V C V C V	k o ɻ u pː ə -	k o ɻ u pː ə	C V C V C V
+568	Parji	fat	koṛukuḍ	koṛukuḍ	k o ɽ u k u		fat-A	209	k o ɽ u k u	C V C V C V	k o ɽ u k u ɖ	k o ɽ u k u ɖ	C V C V C V C
+569	Tamil	fat	koɻuppə	koɻuppə	k o ɻ u pː ə		fat-A	209	k o ɻ u pː ə	C V C V C V	k o ɻ u pː ə -	k o ɻ u pː ə	C V C V C V
+570	Telugu	fat	koʋʋu (noun)	koʋʋu	k o ʋː u		fat-A	209	k o - - ʋː u	C V C V	k o - - ʋː u -	k o ʋː u	C V C V
+571	Toda	fat	koɻəppə	koɻəppə	k o ɻ ə pː ə		fat-A	209	k o ɻ ə pː ə	C V C V C V	k o ɻ ə pː ə -	k o ɻ ə pː ə	C V C V C V
+575	Brahui	fat	tʃaɾpi:	tʃaɾpi:	tʃ a ɾ p iː		fat-D	212	tʃ a ɾ - p iː	C V C C V	tʃ a ɾ - p iː	tʃ a ɾ p iː	C V C C V
+576	Kodava	fat	tʃeɾabi	tʃeɾabi	tʃ e ɾ a b i		fat-D	212	tʃ e ɾ a b i	C V C V C V	tʃ e ɾ a b i	tʃ e ɾ a b i	C V C V C V
+577	Tulu	fat	tʃeɾabi	tʃeɾabi	tʃ e ɾ a b i		fat-D	212	tʃ e ɾ a b i	C V C V C V	tʃ e ɾ a b i	tʃ e ɾ a b i	C V C V C V
+578	Yeruva	fat	tʃiɾabi	tʃiɾabi	tʃ i ɾ a b i		fat-D	212	tʃ i ɾ a b i	C V C V C V	tʃ i ɾ a b i	tʃ i ɾ a b i	C V C V C V
+583	Badga	feather	ɾakke	ɾakke	ɾ a kː e		feather-A	217	ɾ a kː e	C V C V	- ɾ a kː e	ɾ a kː e	C V C V
+584	Kota	feather	ɾe:kə	ɾe:kə	ɾ eː k ə		feather-A	217	ɾ eː k ə	C V C V	- ɾ eː k ə	ɾ eː k ə	C V C V
+585	Tamil	feather	ɾekke	ɾekke	ɾ e kː e		feather-A	217	ɾ e kː e	C V C V	- ɾ e kː e	ɾ e kː e	C V C V
+586	Toda	feather	iɾakke	iɾakke	ɾ a kː e		feather-A	217	ɾ a kː e	C V C V	i ɾ a kː e	i ɾ a kː e	V C V C V
+590	Kannada	feather	tupaʈa	tupaʈa	t u p a ʈ a		feather-E	221	t u p a ʈ a	C V C V C V	t u p a ʈ a	t u p a ʈ a	C V C V C V
+591	Kodava	feather	topaʈa	topaʈa	t o p a ʈ a		feather-E	221	t o p a ʈ a	C V C V C V	t o p a ʈ a	t o p a ʈ a	C V C V C V
+592	Yeruva	feather	to:pəʈa:	to:pəʈa:	t oː p ə ʈ aː		feather-E	221	t oː p ə ʈ aː	C V C V C V	t oː p ə ʈ aː	t oː p ə ʈ aː	C V C V C V
+603	Betta_Kurumba	fire	tissə ~ titʃtʃa	tissə	t i		fire-B	230	t i	C V	t i sː ə	t i sː ə	C V C V
+605	Kota	fire	nippu	nippu	n i		fire-B	230	n i	C V	n i pː u	n i pː u	C V C V
+606	Malayalam	fire	te:	te:	t eː		fire-B	230	t eː	C V	t eː - -	t eː	C V
+607	Tamil	fire	te:	te:	t eː		fire-B	230	t eː	C V	t eː - -	t eː	C V
+608	Yeruva	fire	ti:	ti:	t iː		fire-B	230	t iː	C V	t iː - -	t iː	C V
+611	Badga	fire	kitʃtʃə	kitʃtʃə	k i tʃː		fire-E	233	k i tʃː	C V C	k i tʃː - - ə	k i tʃː ə	C V C V
+612	Kodava	fire	titta	titta	t i tː		fire-E	233	t i tː	C V C	t i tː - - a	t i tː a	C V C V
+613	Kolami	fire	kiss	kiss	k i sː		fire-E	233	k i sː	C V C	k i sː - - -	k i sː	C V C
+614	Koya	fire	kis	kis	k i s		fire-E	233	k i s	C V C	k i s - - -	k i s	C V C
+615	Kurukh	fire	tʃitʃtʃ	tʃitʃtʃ	tʃ i tʃː		fire-E	233	tʃ i tʃː	C V C	tʃ i tʃː - - -	tʃ i tʃː	C V C
+616	Malto	fire	tʃitʃadu	tʃitʃadu	tʃ i tʃ		fire-E	233	tʃ i tʃ	C V C	tʃ i tʃ a d u	tʃ i tʃ a d u	C V C V C V
+617	Parji	fire	kic	kic	k i c		fire-E	233	k i c	C V C	k i c - - -	k i c	C V C
+618	Toda	fire	ti:ttə	ti:ttə	t iː tː		fire-E	233	t iː tː	C V C	t iː tː - - ə	t iː tː ə	C V C V
+626	Badga	fish	mi:nə	mi:nə	m iː n ə		fish-A	240	m iː n ə	C V C V	m iː n - ə	m iː n ə	C V C V
+627	Betta_Kurumba	fish	mi:nu	mi:nu	m iː n u		fish-A	240	m iː n u	C V C V	m iː n - u	m iː n u	C V C V
+628	Gondi	fish	mi:n	mi:n	m iː n		fish-A	240	m iː n -	C V C	m iː n - -	m iː n	C V C
+629	Kannada	fish	mi:nə	mi:nə	m iː n ə		fish-A	240	m iː n ə	C V C V	m iː n - ə	m iː n ə	C V C V
+630	Kodava	fish	mi:nə	mi:nə	m iː n ə		fish-A	240	m iː n ə	C V C V	m iː n - ə	m iː n ə	C V C V
+631	Kota	fish	mi:nə	mi:nə	m iː n ə		fish-A	240	m iː n ə	C V C V	m iː n - ə	m iː n ə	C V C V
+632	Malayalam	fish	mi:n	mi:n	m iː n		fish-A	240	m iː n -	C V C	m iː n - -	m iː n	C V C
+633	Malto	fish	mi:ndu	mi:ndu	m iː n u		fish-A	240	m iː n u	C V C V	m iː n d u	m iː n d u	C V C C V
+634	Ollari_Gadba	fish	mi:n	mi:n	m iː n		fish-A	240	m iː n -	C V C	m iː n - -	m iː n	C V C
+635	Tamil	fish	mi:nə	mi:nə	m iː n ə		fish-A	240	m iː n ə	C V C V	m iː n - ə	m iː n ə	C V C V
+636	Toda	fish	mi:n	mi:n	m iː n		fish-A	240	m iː n -	C V C	m iː n - -	m iː n	C V C
+637	Tulu	fish	mi:nə	mi:nə	m iː n ə		fish-A	240	m iː n ə	C V C V	m iː n - ə	m iː n ə	C V C V
+638	Yeruva	fish	mi:nə	mi:nə	m iː n ə		fish-A	240	m iː n ə	C V C V	m iː n - ə	m iː n ə	C V C V
+639	Koya	fish	ki:ke	ki:ke	k iː k e		fish-B	241	k iː k e	C V C V	k iː k e	k iː k e	C V C V
+640	Parji	fish	key	key	k e y		fish-B	241	k e - y	C V V	k e - y	k e y	C V V
+641	Telugu	fish	tʃe:pa	tʃe:pa	tʃ eː p a		fish-B	241	tʃ eː p a	C V C V	tʃ eː p a	tʃ eː p a	C V C V
+647	Badga	fly	paɾappə	paɾappə	p a ɾ ə		fly-A	246	p a ɾ ə	C V C V	p a ɾ a pː - - ə	p a ɾ a pː ə	C V C V C V
+648	Betta_Kurumba	fly	pa:ɾ ~ pe:ɾ	pa:ɾ	p aː ɾ		fly-A	246	p aː ɾ -	C V C	p aː ɾ - - - - -	p aː ɾ	C V C
+650	Gondi	fly	paɾi	paɾi	p a ɾ i		fly-A	246	p a ɾ i	C V C V	p a ɾ - - - - i	p a ɾ i	C V C V
+651	Kannada	fly	ha:ɾu	ha:ɾu	h aː ɾ u		fly-A	246	h aː ɾ u	C V C V	h aː ɾ - - - - u	h aː ɾ u	C V C V
+652	Kodava	fly	pa:ɾa	pa:ɾa	p aː ɾ a		fly-A	246	p aː ɾ a	C V C V	p aː ɾ - - - - a	p aː ɾ a	C V C V
+653	Kota	fly	pa:ɾʋu	pa:ɾʋu	p aː ɾ u		fly-A	246	p aː ɾ u	C V C V	p aː ɾ - - - ʋ u	p aː ɾ ʋ u	C V C C V
+654	Malayalam	fly	paɾakkuga	paɾakkuga	p a ɾ a		fly-A	246	p a ɾ a	C V C V	p a ɾ a kː u g a	p a ɾ a kː u g a	C V C V C V C V
+655	Tamil	fly	paɾə	paɾə	p a ɾ ə		fly-A	246	p a ɾ ə	C V C V	p a ɾ - - - - ə	p a ɾ ə	C V C V
+656	Toda	fly	po:ɾtʃ	po:ɾtʃ	p oː ɾ		fly-A	246	p oː ɾ -	C V C	p oː ɾ - - - tʃ -	p oː ɾ tʃ	C V C C
+657	Tulu	fly	ɾa:paɾa	ɾa:paɾa	ɾ a		fly-A	246	- - ɾ a	C V	- - ɾ aː p a ɾ a	ɾ aː p a ɾ a	C V C V C V
+665	Kannada	foot	aḍi	aḍi	a ɖ i		foot-A	253	a ɖ i	V C V	a ɖ - - i	a ɖ i	V C V
+666	Koya	foot	aɖugu	aɖugu	a ɖ u		foot-A	253	a ɖ u	V C V	a ɖ u g u	a ɖ u g u	V C V C V
+667	Malayalam	foot	aṭi	aṭi	a ʈ i		foot-A	253	a ʈ i	V C V	a ʈ - - i	a ʈ i	V C V
+668	Tamil	foot	aɖi	aɖi	a ɖ i		foot-A	253	a ɖ i	V C V	a ɖ - - i	a ɖ i	V C V
+669	Telugu	foot	aɖugu	aɖugu	a ɖ u		foot-A	253	a ɖ u	V C V	a ɖ u g u	a ɖ u g u	V C V C V
+670	Kannada	foot	pa:da	pa:da	p aː d a		foot-B	254	p aː d a -	C V C V	p aː d a - -	p aː d a	C V C V
+671	Kuwi	foot	pa:dami	pa:dami	p aː d a m		foot-B	254	p aː d a m	C V C V C	p aː d a m i	p aː d a m i	C V C V C V
+672	Malayalam	foot	pa:dam	pa:dam	p aː d a m		foot-B	254	p aː d a m	C V C V C	p aː d a m -	p aː d a m	C V C V C
+673	Ollari_Gadba	foot	pa:dam	pa:dam	p aː d a m		foot-B	254	p aː d a m	C V C V C	p aː d a m -	p aː d a m	C V C V C
+674	Tamil	foot	pa:dam	pa:dam	p aː d a m		foot-B	254	p aː d a m	C V C V C	p aː d a m -	p aː d a m	C V C V C
+675	Telugu	foot	pa:damu	pa:damu	p aː d a m	LOAN	foot-B	254	p aː d a m	C V C V C	p aː d a m u	p aː d a m u	C V C V C V
+676	Betta_Kurumba	foot	ka:lə	ka:lə	k aː l ə		foot-C	255	k aː l ə	C V C V	k aː - l ə	k aː l ə	C V C V
+677	Gondi	foot	ka:l	ka:l	k aː l		foot-C	255	k aː l -	C V C	k aː - l -	k aː l	C V C
+678	Tamil	foot	kaalə	kaalə	k a l ə		foot-C	255	k a l ə	C V C V	k a a l ə	k a a l ə	C V V C V
+679	Toda	foot	ko:l	ko:l	k oː l		foot-C	255	k oː l -	C V C	k oː - l -	k oː l	C V C
+680	Tulu	foot	ka:lə	ka:lə	k aː l ə		foot-C	255	k aː l ə	C V C V	k aː - l ə	k aː l ə	C V C V
+681	Yeruva	foot	ka:lə	ka:lə	k aː l ə		foot-C	255	k aː l ə	C V C V	k aː - l ə	k aː l ə	C V C V
+690	Badga	full	tʰumbe	tʰumbe	tʰ u m b e		full-B	263	tʰ u m b e	C V C C V	tʰ u m b - - e	tʰ u m b e	C V C C V
+691	Kannada	full	tumbidu	tumbidu	t u m b u		full-B	263	t u m b u	C V C C V	t u m b i d u	t u m b i d u	C V C C V C V
+692	Kodava	full	dumba	dumba	d u m b a		full-B	263	d u m b a	C V C C V	d u m b - - a	d u m b a	C V C C V
+693	Yeruva	full	dumba	dumba	d u m b a		full-B	263	d u m b a	C V C C V	d u m b - - a	d u m b a	C V C C V
+694	Gondi	full	niɳɖ	niɳɖ	n i ɳ ɖ		full-C	264	n i ɳ ɖ -	C V C C	n i - - - ɳ ɖ - -	n i ɳ ɖ	C V C C
+695	Kolami	full	ninɖu	ninɖu	n i n ɖ u		full-C	264	n i n ɖ u	C V C C V	n i - - - n ɖ - u	n i n ɖ u	C V C C V
+696	Koya	full	ninɖa:	ninɖa:	n i n ɖ aː		full-C	264	n i n ɖ aː	C V C C V	n i - - - n ɖ - aː	n i n ɖ aː	C V C C V
+697	Kurukh	full	nindka	nindka	n i n d a		full-C	264	n i n d a	C V C C V	n i - - - n d k a	n i n d k a	C V C C C V
+698	Malayalam	full	niɾaɲa	niɾaɲa	n i ɲ a		full-C	264	n i ɲ - a	C V C V	n i ɾ a - ɲ - - a	n i ɾ a ɲ a	C V C V C V
+699	Malto	full	nindpa:	nindpa:	n i n d aː		full-C	264	n i n d aː	C V C C V	n i - - - n d p aː	n i n d p aː	C V C C C V
+700	Tamil	full	niṟainta	niṟainta	n i n t a		full-C	264	n i n t a	C V C C V	n i r̪ a i n t - a	n i r̪ a i n t a	C V C V V C C V
+701	Telugu	full	ninɖu	ninɖu	n i n ɖ u		full-C	264	n i n ɖ u	C V C C V	n i - - - n ɖ - u	n i n ɖ u	C V C C V
+708	Badga	give	koɖu	koɖu	k o ɖ u		give-A	270	k o ɖ u	C V C V	k o ɖ - - - - u	k o ɖ u	C V C V
+709	Betta_Kurumba	give	koɖ	koɖ	k o ɖ		give-A	270	k o ɖ -	C V C	k o ɖ - - - - -	k o ɖ	C V C
+710	Kannada	give	koɖu	koɖu	k o ɖ u		give-A	270	k o ɖ u	C V C V	k o ɖ - - - - u	k o ɖ u	C V C V
+711	Kodava	give	koɖi	koɖi	k o ɖ i		give-A	270	k o ɖ i	C V C V	k o ɖ - - - - i	k o ɖ i	C V C V
+712	Malayalam	give	koɖukkuga	koɖukkuga	k o ɖ a		give-A	270	k o ɖ a	C V C V	k o ɖ u kː u g a	k o ɖ u kː u g a	C V C V C V C V
+713	Tamil	give	kuɖə	kuɖə	k u ɖ ə		give-A	270	k u ɖ ə	C V C V	k u ɖ - - - - ə	k u ɖ ə	C V C V
+714	Tulu	give	koɾo	koɾo	k o ɾ o		give-A	270	k o ɾ o	C V C V	k o ɾ - - - - o	k o ɾ o	C V C V
+715	Yeruva	give	koɖu	koɖu	k o ɖ u		give-A	270	k o ɖ u	C V C V	k o ɖ - - - - u	k o ɖ u	C V C V
+716	Brahui	give	tinning	tinning	t i		give-B	271	t i	C V	t i nː i n g	t i nː i n g	C V C V C C
+717	Kota	give	tej	tej	t e		give-B	271	t e	C V	t e j - - -	t e j	C V C
+718	Kuwi	give	taa	taa	t a		give-B	271	t a	C V	t a - a - -	t a a	C V V
+719	Tamil	give	ta:	ta:	t aː		give-B	271	t aː	C V	t aː - - - -	t aː	C V
+720	Gondi	give	hi	hi	h i		give-C	272	h i -	C V	h i - - - - - -	h i	C V
+721	Kolami	give	si:ta:n	si:ta:n	s iː t		give-C	272	s iː t	C V C	s iː t - aː - n -	s iː t aː n	C V C V C
+722	Koya	give	i:m	i:m	iː m		give-C	272	- iː m	V C	- iː m - - - - -	iː m	V C
+724	Kurukh	give	tʃihna	tʃihna	tʃ i		give-C	272	tʃ i -	C V	tʃ i - - - h n a	tʃ i h n a	C V C C V
+725	Malto	give	tʃiba:h	tʃiba:h	tʃ i b		give-C	272	tʃ i b	C V C	tʃ i b - aː h - -	tʃ i b aː h	C V C V C
+726	Ollari_Gadba	give	tʃi	tʃi	tʃ i		give-C	272	tʃ i -	C V	tʃ i - - - - - -	tʃ i	C V
+727	Parji	give	cī-	cī-	c iː		give-C	272	c iː -	C V	c iː - - - - - -	c iː	C V
+728	Telugu	give	itʃtʃu	itʃtʃu	i tʃː		give-C	272	- i tʃː	V C	- i tʃː - - - - u	i tʃː u	V C V
+730	Toda	give	ittʃadta	ittʃadta	i tː		give-C	272	- i tː	V C	- i tː ʃ a d t a	i tː ʃ a d t a	V C C V C C V
+731	Betta_Kurumba	good	nall	nall	n a lː		good-A	273	n a lː -	C V C	n a lː -	n a lː	C V C
+732	Kodava	good	nalla	nalla	n a lː a		good-A	273	n a lː a	C V C V	n a lː a	n a lː a	C V C V
+733	Malayalam	good	nalla	nalla	n a lː a		good-A	273	n a lː a	C V C V	n a lː a	n a lː a	C V C V
+734	Tamil	good	nalla	nalla	n a lː a		good-A	273	n a lː a	C V C V	n a lː a	n a lː a	C V C V
+735	Yeruva	good	nallə	nallə	n a lː ə		good-A	273	n a lː ə	C V C V	n a lː ə	n a lː ə	C V C V
+736	Badga	good	oɭɭajadə	oɭɭajadə	o ɭː a j a d ə		good-B	274	o ɭː a j a d ə	V C V C V C V	o ɭː a j a d ə	o ɭː a j a d ə	V C V C V C V
+737	Kannada	good	oɭɭijadu	oɭɭijadu	o ɭː i j a d u		good-B	274	o ɭː i j a d u	V C V C V C V	o ɭː i j a d u	o ɭː i j a d u	V C V C V C V
+738	Kota	good	oludə	oludə	o l u d ə		good-B	274	o l - - u d ə	V C V C V	o l - - u d ə	o l u d ə	V C V C V
+750	Badga	green	patʃtʃe	patʃtʃe	p a tʃː e		green-A	285	p a tʃː e	C V C V	p a tʃː - - e - - -	p a tʃː e	C V C V
+751	Betta_Kurumba	green	passla:ngi ~ patʃtʃəla:ngi	passla:ngi	p a sː aː		green-A	285	p a sː aː	C V C V	p a sː - l aː n g i	p a sː l aː n g i	C V C C V C C V
+753	Gondi	green	patʃtʃad	patʃtʃad	p a tʃː a		green-A	285	p a tʃː a	C V C V	p a tʃː - - a - d -	p a tʃː a d	C V C V C
+754	Kannada	green	hasiru	hasiru	h a s i		green-A	285	h a s i	C V C V	h a s - - i - r u	h a s i r u	C V C V C V
+755	Kodava	green	patʃtʃe	patʃtʃe	p a tʃː e		green-A	285	p a tʃː e	C V C V	p a tʃː - - e - - -	p a tʃː e	C V C V
+756	Kota	green	patʃtʃə	patʃtʃə	p a tʃː ə		green-A	285	p a tʃː ə	C V C V	p a tʃː - - ə - - -	p a tʃː ə	C V C V
+757	Koya	green	patʃtʃa	patʃtʃa	p a tʃː a		green-A	285	p a tʃː a	C V C V	p a tʃː - - a - - -	p a tʃː a	C V C V
+758	Kuwi	green	a:kupatʃtʃa	a:kupatʃtʃa	aː k a		green-A	285	- aː k a	V C V	- aː k u p a - tʃː a	aː k u p a tʃː a	V C V C V C V
+759	Malayalam	green	patʃtʃa	patʃtʃa	p a tʃː a		green-A	285	p a tʃː a	C V C V	p a tʃː - - a - - -	p a tʃː a	C V C V
+760	Parji	green	pay	pay	p a y		green-A	285	p a - y	C V V	p a - - - y - - -	p a y	C V V
+761	Tamil	green	patʃtʃə	patʃtʃə	p a tʃː ə		green-A	285	p a tʃː ə	C V C V	p a tʃː - - ə - - -	p a tʃː ə	C V C V
+762	Telugu	green	patʃtʃa	patʃtʃa	p a tʃː a		green-A	285	p a tʃː a	C V C V	p a tʃː - - a - - -	p a tʃː a	C V C V
+763	Toda	green	patʃtʃai	patʃtʃai	p a tʃː a		green-A	285	p a tʃː a	C V C V	p a tʃː - - a - - i	p a tʃː a i	C V C V V
+764	Tulu	green	patʃtʃe	patʃtʃe	p a tʃː e		green-A	285	p a tʃː e	C V C V	p a tʃː - - e - - -	p a tʃː e	C V C V
+765	Yeruva	green	patʃtʃe	patʃtʃe	p a tʃː e		green-A	285	p a tʃː e	C V C V	p a tʃː - - e - - -	p a tʃː e	C V C V
+781	Kota	hair	manɖə mi:ɾə	manɖə mi:ɾə	m a iː ɾ ə		hair-E	297	m a iː ɾ ə	C V V C V	m a n ɖ ə m iː ɾ ə -	m a n ɖ ə m iː ɾ ə	C V C C V C V C V
+782	Tamil	hair	maiɾə	maiɾə	m a i ɾ ə		hair-E	297	m a i ɾ ə	C V V C V	m a - - - - i ɾ ə -	m a i ɾ ə	C V V C V
+783	Toda	hair	mi:ɾs	mi:ɾs	m iː ɾ		hair-E	297	m iː - ɾ -	C V C	m iː - - - - - ɾ - s	m iː ɾ s	C V C C
+784	Kodava	hair	telami	telami	t e l a m i		hair-F	298	t e l a m i	C V C V C V	t e l a m i	t e l a m i	C V C V C V
+785	Malto	hair	ta:li	ta:li	t aː l i		hair-F	298	t aː l - - i	C V C V	t aː l - - i	t aː l i	C V C V
+786	Yeruva	hair	tilami	tilami	t i l a m i		hair-F	298	t i l a m i	C V C V C V	t i l a m i	t i l a m i	C V C V C V
+787	Koya	hair	dʒuʈʈul	dʒuʈʈul	dʒ u ʈː u		hair-G	299	dʒ u ʈː u	C V C V	dʒ u ʈː u l	dʒ u ʈː u l	C V C V C
+788	Kurukh	hair	tʃuʈʈi	tʃuʈʈi	tʃ u ʈː i		hair-G	299	tʃ u ʈː i	C V C V	tʃ u ʈː i -	tʃ u ʈː i	C V C V
+789	Telugu	hair	dʒuʈʈu	dʒuʈʈu	dʒ u ʈː u		hair-G	299	dʒ u ʈː u	C V C V	dʒ u ʈː u -	dʒ u ʈː u	C V C V
+798	Badga	hand	kaj	kaj	k a j		hand-A	306	k a j	C V C	k a - - j -	k a j	C V C
+799	Betta_Kurumba	hand	ki:ja	ki:ja	k iː j		hand-A	306	k iː j	C V C	k iː - - j a	k iː j a	C V C V
+800	Gondi	hand	kaj	kaj	k a j		hand-A	306	k a j	C V C	k a - - j -	k a j	C V C
+801	Kannada	hand	kaj	kaj	k a j		hand-A	306	k a j	C V C	k a - - j -	k a j	C V C
+802	Kodava	hand	kaj	kaj	k a j		hand-A	306	k a j	C V C	k a - - j -	k a j	C V C
+803	Kolami	hand	keju	keju	k e j		hand-A	306	k e j	C V C	k e - - j u	k e j u	C V C V
+804	Kota	hand	kaij	kaij	k a j		hand-A	306	k a j	C V C	k a - i j -	k a i j	C V V C
+805	Koya	hand	kaj	kaj	k a j		hand-A	306	k a j	C V C	k a - - j -	k a j	C V C
+806	Kurukh	hand	kʰekkʰa	kʰekkʰa	kʰ e		hand-A	306	kʰ e -	C V	kʰ e kʰː a - -	kʰ e kʰː a	C V C V
+807	Kuwi	hand	keju	keju	k e j		hand-A	306	k e j	C V C	k e - - j u	k e j u	C V C V
+808	Malayalam	hand	kaj	kaj	k a j		hand-A	306	k a j	C V C	k a - - j -	k a j	C V C
+809	Ollari_Gadba	hand	ki:	ki:	k iː		hand-A	306	k iː -	C V	k iː - - - -	k iː	C V
+810	Parji	hand	key	key	k e		hand-A	306	k e -	C V	k e - y - -	k e y	C V V
+811	Tamil	hand	kaj	kaj	k a j		hand-A	306	k a j	C V C	k a - - j -	k a j	C V C
+812	Telugu	hand	tʃejji	tʃejji	tʃ e j		hand-A	306	tʃ e j	C V C	tʃ e j - j i	tʃ e j j i	C V C C V
+813	Toda	hand	koi	koi	k o		hand-A	306	k o -	C V	k o - i - -	k o i	C V V
+814	Tulu	hand	kai	kai	k a		hand-A	306	k a -	C V	k a - i - -	k a i	C V V
+815	Yeruva	hand	kaj	kaj	k a j		hand-A	306	k a j	C V C	k a - - j -	k a j	C V C
+818	Gondi	head	talla	talla	t a lː a		head-A	309	t a lː a	C V C V	t a lː a - - -	t a lː a	C V C V
+819	Kannada	head	tale	tale	t a l e		head-A	309	t a l e	C V C V	t a l e - - -	t a l e	C V C V
+821	Kolami	head	tal	tal	t a l		head-A	309	t a l -	C V C	t a l - - - -	t a l	C V C
+822	Koya	head	talaka:j	talaka:j	t a l a		head-A	309	t a l a	C V C V	t a l a k aː j	t a l a k aː j	C V C V C V C
+823	Kuwi	head	tɾajun	tɾajun	t ɾ a		head-A	309	t - ɾ a	C C V	t - ɾ a j u n	t ɾ a j u n	C C V C V C
+824	Malayalam	head	tala	tala	t a l a		head-A	309	t a l a	C V C V	t a l a - - -	t a l a	C V C V
+825	Ollari_Gadba	head	ta:l	ta:l	t aː l		head-A	309	t aː l -	C V C	t aː l - - - -	t aː l	C V C
+826	Parji	head	tel	tel	t e l		head-A	309	t e l -	C V C	t e l - - - -	t e l	C V C
+827	Tamil	head	talə	talə	t a l ə		head-A	309	t a l ə	C V C V	t a l ə - - -	t a l ə	C V C V
+828	Telugu	head	tala	tala	t a l a		head-A	309	t a l a	C V C V	t a l a - - -	t a l a	C V C V
+829	Yeruva	head	tile	tile	t i l e		head-A	309	t i l e	C V C V	t i l e - - -	t i l e	C V C V
+830	Badga	head	manɖe	manɖe	m a n ɖ e		head-B	310	m a n ɖ e	C V C C V	m a n ɖ e	m a n ɖ e	C V C C V
+831	Betta_Kurumba	head	maɳɖi	maɳɖi	m a ɳ ɖ i		head-B	310	m a ɳ ɖ i	C V C C V	m a ɳ ɖ i	m a ɳ ɖ i	C V C C V
+832	Kodava	head	maɳɖe	maɳɖe	m a ɳ ɖ e		head-B	310	m a ɳ ɖ e	C V C C V	m a ɳ ɖ e	m a ɳ ɖ e	C V C C V
+833	Kota	head	manɖə	manɖə	m a n ɖ ə		head-B	310	m a n ɖ ə	C V C C V	m a n ɖ ə	m a n ɖ ə	C V C C V
+834	Toda	head	maʈʈə	maʈʈə	m a ʈː ə		head-B	310	m a - ʈː ə	C V C V	m a - ʈː ə	m a ʈː ə	C V C V
+835	Tulu	head	manɖa	manɖa	m a n ɖ a		head-B	310	m a n ɖ a	C V C C V	m a n ɖ a	m a n ɖ a	C V C C V
+840	Badga	hear	ke:pə	ke:pə	k eː ə		hear-A	314	k eː - ə	C V V	k eː - - - p ə	k eː p ə	C V C V
+841	Betta_Kurumba	hear	kə:ɭ	kə:ɭ	k əː ɭ		hear-A	314	k əː ɭ -	C V C	k əː ɭ - - - -	k əː ɭ	C V C
+842	Gondi	hear	kendʒ	kendʒ	k e		hear-A	314	k e - -	C V	k e - n - dʒ -	k e n dʒ	C V C C
+843	Kannada	hear	ke:ɭu	ke:ɭu	k eː ɭ u		hear-A	314	k eː ɭ u	C V C V	k eː ɭ - - - u	k eː ɭ u	C V C V
+844	Kodava	hear	ke:ɭə	ke:ɭə	k eː ɭ ə		hear-A	314	k eː ɭ ə	C V C V	k eː ɭ - - - ə	k eː ɭ ə	C V C V
+845	Kota	hear	ke:lə	ke:lə	k eː l ə		hear-A	314	k eː l ə	C V C V	k eː l - - - ə	k eː l ə	C V C V
+846	Malayalam	hear	kelkuga	kelkuga	k e l a		hear-A	314	k e l a	C V C V	k e l k u g a	k e l k u g a	C V C C V C V
+847	Tamil	hear	ke:ɭə	ke:ɭə	k eː ɭ ə		hear-A	314	k eː ɭ ə	C V C V	k eː ɭ - - - ə	k eː ɭ ə	C V C V
+848	Toda	hear	ke:l	ke:l	k eː l		hear-A	314	k eː l -	C V C	k eː l - - - -	k eː l	C V C
+849	Tulu	hear	keɳaɾa	keɳaɾa	k e a		hear-A	314	k e - a	C V V	k e - ɳ a ɾ a	k e ɳ a ɾ a	C V C V C V
+850	Yeruva	hear	ke:ɭu	ke:ɭu	k eː ɭ u		hear-A	314	k eː ɭ u	C V C V	k eː ɭ - - - u	k eː ɭ u	C V C V
+852	Brahui	hear	bining	bining	b i n i		hear-D	316	b i n i	C V C V	b i n - i n g	b i n i n g	C V C V C C
+853	Kolami	hear	ʋinti	ʋinti	ʋ i n i		hear-D	316	ʋ i n i	C V C V	ʋ i n t i - -	ʋ i n t i	C V C C V
+854	Kurukh	hear	menna	menna	m e nː a		hear-D	316	m e nː a	C V C V	m e nː - a - -	m e nː a	C V C V
+855	Malto	hear	me:na	me:na	m eː n a		hear-D	316	m eː n a	C V C V	m eː n - a - -	m eː n a	C V C V
+857	Parji	hear	ven-	ven-	v e n		hear-D	316	v e n -	C V C	v e n - - - -	v e n	C V C
+858	Telugu	hear	ʋinu	ʋinu	ʋ i n u		hear-D	316	ʋ i n u	C V C V	ʋ i n - u - -	ʋ i n u	C V C V
+859	Kannada	heart	hrudaya	hrudaya	h r u d a a	LOAN	heart-A	317	h r u d a - - - a	C C V C V V	h r u d a y - - - a	h r u d a y a	C C V C V V V
+860	Kodava	heart	hrudaja	hrudaja	h r u d a j a	LOAN	heart-A	317	h r u d a j - - a	C C V C V C V	h r u d a - j - - a	h r u d a j a	C C V C V C V
+861	Malayalam	heart	hɾudajam	hɾudajam	h ɾ u d a j a m	LOAN	heart-A	317	h ɾ u d a j a m -	C C V C V C V C	h ɾ u d a - j a m -	h ɾ u d a j a m	C C V C V C V C
+862	Tamil	heart	idajam	idajam	i d a j a m	LOAN	heart-A	317	- - i d a j a m -	V C V C V C	- - i d a - j a m -	i d a j a m	V C V C V C
+863	Telugu	heart	hɾudajamu	hɾudajamu	h ɾ u d a j a m u	LOAN	heart-A	317	h ɾ u d a j a m u	C C V C V C V C V	h ɾ u d a - j a m u	h ɾ u d a j a m u	C C V C V C V C V
+864	Gondi	heart	guɳɖe	guɳɖe	g u ɳ ɖ e		heart-B	318	g u ɳ ɖ e	C V C C V	g u ɳ ɖ - - - - e	g u ɳ ɖ e	C V C C V
+865	Kolami	heart	gunɖe	gunɖe	g u n ɖ e		heart-B	318	g u n ɖ e	C V C C V	g u n ɖ - - - - e	g u n ɖ e	C V C C V
+866	Koya	heart	guɳɖeka:ja	guɳɖeka:ja	g u ɳ ɖ a		heart-B	318	g u ɳ ɖ a	C V C C V	g u ɳ ɖ e k aː j a	g u ɳ ɖ e k aː j a	C V C C V C V C V
+867	Telugu	heart	guɳɖa	guɳɖa	g u ɳ ɖ a		heart-B	318	g u ɳ ɖ a	C V C C V	g u ɳ ɖ - - - - a	g u ɳ ɖ a	C V C C V
+877	Badga	horn	kombə	kombə	k o m b ə		horn-A	327	k o m b ə	C V C C V	k o m b ə	k o m b ə	C V C C V
+878	Betta_Kurumba	horn	kombbə	kombbə	k o m bː ə		horn-A	327	k o m bː ə	C V C C V	k o m bː ə	k o m bː ə	C V C C V
+879	Kannada	horn	kombu	kombu	k o m b u		horn-A	327	k o m b u	C V C C V	k o m b u	k o m b u	C V C C V
+880	Kodava	horn	kombə	kombə	k o m b ə		horn-A	327	k o m b ə	C V C C V	k o m b ə	k o m b ə	C V C C V
+881	Kolami	horn	kommu	kommu	k o mː u		horn-A	327	k o mː - u	C V C V	k o mː - u	k o mː u	C V C V
+882	Koya	horn	komm	komm	k o mː		horn-A	327	k o mː - -	C V C	k o mː - -	k o mː	C V C
+883	Malayalam	horn	kompə	kompə	k o m p ə		horn-A	327	k o m p ə	C V C C V	k o m p ə	k o m p ə	C V C C V
+884	Tamil	horn	kombə	kombə	k o m b ə		horn-A	327	k o m b ə	C V C C V	k o m b ə	k o m b ə	C V C C V
+885	Telugu	horn	kommu	kommu	k o mː u		horn-A	327	k o mː - u	C V C V	k o mː - u	k o mː u	C V C V
+886	Tulu	horn	kombu	kombu	k o m b u		horn-A	327	k o m b u	C V C C V	k o m b u	k o m b u	C V C C V
+887	Yeruva	horn	kombə	kombə	k o m b ə		horn-A	327	k o m b ə	C V C C V	k o m b ə	k o m b ə	C V C C V
+889	Brahui	horn	maɾgʰ	maɾgʰ	m a ɾ gʱ		horn-C	329	m a ɾ gʱ	C V C C	m a ɾ - gʱ - - -	m a ɾ gʱ	C V C C
+890	Kurukh	horn	maɾag	maɾag	m a ɾ g		horn-C	329	m a ɾ g	C V C C	m a ɾ a g - - -	m a ɾ a g	C V C V C
+891	Malto	horn	maɾgadu	maɾgadu	m a ɾ g		horn-C	329	m a ɾ g	C V C C	m a ɾ - g a d u	m a ɾ g a d u	C V C C V C V
+895	Kannada	kill	kollu	kollu	k o lː u		kill-A	332	k o lː u	C V C V	k o lː - - u	k o lː u	C V C V
+896	Kodava	kill	kollə	kollə	k o lː ə		kill-A	332	k o lː ə	C V C V	k o lː - - ə	k o lː ə	C V C V
+897	Malayalam	kill	kolluga	kolluga	k o lː a		kill-A	332	k o lː a	C V C V	k o lː u g a	k o lː u g a	C V C V C V
+898	Tamil	kill	kollə	kollə	k o lː ə		kill-A	332	k o lː ə	C V C V	k o lː - - ə	k o lː ə	C V C V
+899	Yeruva	kill	kollə	kollə	k o lː ə		kill-A	332	k o lː ə	C V C V	k o lː - - ə	k o lː ə	C V C V
+913	Kannada	knee	muṇakālo	muṇakālo	m u k aː l		knee-A	343	m u k aː l	C V C V C	m u ɳ a - k aː l o	m u ɳ a k aː l o	C V C V C V C V
+914	Kota	knee	mo:ga:l	mo:ga:l	m oː g aː l		knee-A	343	m oː g aː l	C V C V C	m oː - - - g aː l -	m oː g aː l	C V C V C
+915	Koya	knee	mo:ka:l	mo:ka:l	m oː k aː l		knee-A	343	m oː k aː l	C V C V C	m oː - - - k aː l -	m oː k aː l	C V C V C
+916	Kurukh	knee	muka	muka	m u k a		knee-A	343	m u k a -	C V C V	m u - - - k a - -	m u k a	C V C V
+917	Malayalam	knee	muḻaṅkāl	muḻaṅkāl	m u k aː l		knee-A	343	m u k aː l	C V C V C	m u l̪ a ŋ k aː l -	m u l̪ a ŋ k aː l	C V C V C C V C
+918	Malto	knee	mu:ka	mu:ka	m uː k a		knee-A	343	m uː k a -	C V C V	m uː - - - k a - -	m uː k a	C V C V
+919	Tamil	knee	muḻaṅkāl	muḻaṅkāl	m u k aː l		knee-A	343	m u k aː l	C V C V C	m u l̪ a ŋ k aː l -	m u l̪ a ŋ k aː l	C V C V C C V C
+920	Telugu	knee	mo:ka:lu	mo:ka:lu	m oː k aː l		knee-A	343	m oː k aː l	C V C V C	m oː - - - k aː l u	m oː k aː l u	C V C V C V
+921	Yeruva	knee	mu:leka:lə	mu:leka:lə	m uː k aː l		knee-A	343	m uː k aː l	C V C V C	m uː l e - k aː l ə	m uː l e k aː l ə	C V C V C V C V
+922	Kannada	knee	maɳɖi	maɳɖi	m a ɳ ɖ i		knee-B	344	m a ɳ ɖ i	C V C C V	m a ɳ ɖ - - i	m a ɳ ɖ i	C V C C V
+923	Kodava	knee	maɳɖi	maɳɖi	m a ɳ ɖ i		knee-B	344	m a ɳ ɖ i	C V C C V	m a ɳ ɖ - - i	m a ɳ ɖ i	C V C C V
+924	Kuwi	knee	mendaja	mendaja	m e n d a		knee-B	344	m e n d a	C V C C V	m e n d a j a	m e n d a j a	C V C C V C V
+925	Badga	knee	muʈʈi	muʈʈi	m u ʈː i		knee-C	345	m u ʈː i	C V C V	m u ʈː - i	m u ʈː i	C V C V
+926	Kolami	knee	muɖsu	muɖsu	m u ɖ u		knee-C	345	m u ɖ u	C V C V	m u ɖ s u	m u ɖ s u	C V C C V
+927	Malayalam	knee	muʈʈə	muʈʈə	m u ʈː ə		knee-C	345	m u ʈː ə	C V C V	m u ʈː - ə	m u ʈː ə	C V C V
+928	Tamil	knee	muʈʈi	muʈʈi	m u ʈː i		knee-C	345	m u ʈː i	C V C V	m u ʈː - i	m u ʈː i	C V C V
+930	Toda	knee	muʈʈi	muʈʈi	m u ʈː i		knee-C	345	m u ʈː i	C V C V	m u ʈː - i	m u ʈː i	C V C V
+937	Badga	know	aɾaʋə	aɾaʋə	a ɾ ə		know-A	352	a ɾ ə	V C V	a ɾ - a ʋ - - ə	a ɾ a ʋ ə	V C V C V
+938	Kannada	know	ari-	ari-	a r i		know-A	352	a r i	V C V	a r - - - - - i	a r i	V C V
+939	Kodava	know	aɾi	aɾi	a ɾ i		know-A	352	a ɾ i	V C V	a ɾ - - - - - i	a ɾ i	V C V
+940	Malayalam	know	aɾajuga	aɾajuga	a ɾ a		know-A	352	a ɾ a	V C V	a ɾ - a j u g a	a ɾ a j u g a	V C V C V C V
+941	Tamil	know	aṟi-	aṟi-	a r̪ i		know-A	352	a r̪ i	V C V	a r̪ - - - - - i	a r̪ i	V C V
+942	Telugu	know	eṟāgu-	eṟāgu-	e r̪ u		know-A	352	e r̪ u	V C V	e r̪ - aː - - g u	e r̪ aː g u	V C V C V
+943	Toda	know	aɾspini	aɾspini	a ɾ i		know-A	352	a ɾ i	V C V	a ɾ s - p i n i	a ɾ s p i n i	V C C C V C V
+944	Yeruva	know	aɾiʋo	aɾiʋo	a ɾ o		know-A	352	a ɾ o	V C V	a ɾ - i ʋ - - o	a ɾ i ʋ o	V C V C V
+948	Kannada	know	telidiko	telidiko	t e l i d i k o		know-D	355	t e l i d i k o	C V C V C V C V	t e l i d i k o	t e l i d i k o	C V C V C V C V
+949	Koya	know	teluse:	teluse:	t e l u s eː		know-D	355	t e l u s - - eː	C V C V C V	t e l u s - - eː	t e l u s eː	C V C V C V
+950	Telugu	know	telusuko	telusuko	t e l u s u k o		know-D	355	t e l u s u k o	C V C V C V C V	t e l u s u k o	t e l u s u k o	C V C V C V C V
+952	Brahui	know	tʃa:ing	tʃa:ing	tʃ aː i n g		know-E	356	tʃ aː - i n - g	C V V C C	tʃ aː - i n - g -	tʃ aː i n g	C V V C C
+953	Tamil	know	teɾijum	teɾijum	t e ɾ i j u m		know-E	356	t e ɾ i j u m	C V C V C V C	t e ɾ i j u m -	t e ɾ i j u m	C V C V C V C
+955	Tulu	know	teɾijaɾa	teɾijaɾa	t e ɾ i j a ɾ		know-E	356	t e ɾ i j a ɾ	C V C V C V C	t e ɾ i j a ɾ a	t e ɾ i j a ɾ a	C V C V C V C V
+964	Badga	leaf	elə	elə	e l ə		leaf-A	364	e l ə	V C V	- e l - - - - - ə	e l ə	V C V
+965	Betta_Kurumba	leaf	jali	jali	a l i		leaf-A	364	a l i	V C V	j a l - - - - - i	j a l i	C V C V
+966	Kannada	leaf	jele	jele	e l e		leaf-A	364	e l e	V C V	j e l - - - - - e	j e l e	C V C V
+967	Kodava	leaf	elakaɳɖa	elakaɳɖa	e l a		leaf-A	364	e l a	V C V	- e l a k a ɳ ɖ a	e l a k a ɳ ɖ a	V C V C V C C V
+968	Kota	leaf	e:lu	e:lu	eː l u		leaf-A	364	eː l u	V C V	- eː l - - - - - u	eː l u	V C V
+969	Malayalam	leaf	ila	ila	i l a		leaf-A	364	i l a	V C V	- i l - - - - - a	i l a	V C V
+970	Tamil	leaf	ele	ele	e l e		leaf-A	364	e l e	V C V	- e l - - - - - e	e l e	V C V
+971	Toda	leaf	eɾs	eɾs	e ɾ		leaf-A	364	e ɾ -	V C	- e ɾ - - - - s -	e ɾ s	V C C
+972	Tulu	leaf	iɾa	iɾa	i ɾ a		leaf-A	364	i ɾ a	V C V	- i ɾ - - - - - a	i ɾ a	V C V
+973	Yeruva	leaf	ele	ele	e l e		leaf-A	364	e l e	V C V	- e l - - - - - e	e l e	V C V
+974	Gondi	leaf	a:ki	a:ki	aː k i		leaf-B	365	aː k i	V C V	aː k i	aː k i	V C V
+975	Kolami	leaf	a:k	a:k	aː k		leaf-B	365	aː k -	V C	aː k -	aː k	V C
+976	Koya	leaf	a:ki:	a:ki:	aː k iː		leaf-B	365	aː k iː	V C V	aː k iː	aː k iː	V C V
+977	Telugu	leaf	a:ku	a:ku	aː k u		leaf-B	365	aː k u	V C V	aː k u	aː k u	V C V
+984	Malayalam	lie	kiɖakkuga	kiɖakkuga	k i ɖ g a		lie-A	372	k i ɖ g a	C V C C V	k i ɖ a kː u g a	k i ɖ a kː u g a	C V C V C V C V
+985	Malto	lie	ko:ɖpo	ko:ɖpo	k oː ɖ p o		lie-A	372	k oː ɖ p o	C V C C V	k oː ɖ - - - p o	k oː ɖ p o	C V C C V
+986	Tamil	lie	keɖə	keɖə	k e ɖ ə		lie-A	372	k e ɖ - ə	C V C V	k e ɖ - - - - ə	k e ɖ ə	C V C V
+988	Gondi	lie	miɳɖsi	miɳɖsi	m i ɖ s i		lie-C	374	m i ɖ s i	C V C C V	- - - - - m i ɳ ɖ s - - i	m i ɳ ɖ s i	C V C C C V
+989	Kolami	lie	laba:ɖ muɖsati	laba:ɖ muɖsati	m u ɖ s i		lie-C	374	m u ɖ s i	C V C C V	l a b aː ɖ m u - ɖ s a t i	l a b aː ɖ m u ɖ s a t i	C V C V C C V C C V C V
+990	Parji	lie	maḍ-	maḍ-	m a ɖ		lie-C	374	m a ɖ - -	C V C	- - - - - m a - ɖ - - - -	m a ɖ	C V C
+996	Betta_Kurumba	lie	ba:ɖ	ba:ɖ	b aː ɖ		lie-I	380	b aː - ɖ -	C V C	b aː - - - - ɖ -	b aː ɖ	C V C
+998	Kodava	lie	budda	budda	b u d d a		lie-I	380	b u d d a	C V C C V	b u - - d - d a	b u d d a	C V C C V
+999	Tamil	lie	paɖə	paɖə	p a ɖ ə		lie-I	380	p a - ɖ ə	C V C V	p a - - - - ɖ ə	p a ɖ ə	C V C V
+1000	Tulu	lie	buɾo:naɾa	buɾo:naɾa	b u n ɾ a		lie-I	380	b u n ɾ a	C V C C V	b u ɾ oː n a ɾ a	b u ɾ oː n a ɾ a	C V C V C V C V
+1001	Yeruva	lie	bi:ndo	bi:ndo	b iː n d o		lie-I	380	b iː n d o	C V C C V	b iː - - n - d o	b iː n d o	C V C C V
+1006	Kannada	liver	hīri	hīri	iː r i		liver-A	385	iː r i	V C V	h iː r i -	h iː r i	C V C V
+1007	Kota	liver	i:ru	i:ru	iː r u		liver-A	385	iː r u	V C V	- iː r u -	iː r u	V C V
+1008	Malayalam	liver	īral	īral	iː r a		liver-A	385	iː r a	V C V	- iː r a l	iː r a l	V C V C
+1009	Tamil	liver	i:ɾaɭ	i:ɾaɭ	iː ɾ a		liver-A	385	iː ɾ a	V C V	- iː ɾ a ɭ	iː ɾ a ɭ	V C V C
+1010	Kolami	liver	kaleja	kaleja	k a l e j a		liver-B	386	k a l e j a	C V C V C V	k a l - - e j a	k a l e j a	C V C V C V
+1011	Koya	liver	ka:dʒam	ka:dʒam	k aː dʒ a m		liver-B	386	k aː dʒ a m -	C V C V C	k aː dʒ - - a m -	k aː dʒ a m	C V C V C
+1012	Telugu	liver	ka:lejamu	ka:lejamu	k aː l a m u		liver-B	386	k aː l a m u	C V C V C V	k aː l e j a m u	k aː l e j a m u	C V C V C V C V
+1013	Gondi	liver	taɾki	taɾki	t a ɾ k		liver-C	387	t a ɾ - - k	C V C C	t a ɾ - - k i	t a ɾ k i	C V C C V
+1014	Ollari_Gadba	liver	taɖing	taɖing	t a ɖ i n g		liver-C	387	t a ɖ i n g	C V C V C C	t a ɖ i n g -	t a ɖ i n g	C V C V C C
+1015	Parji	liver	taruṅg	taruṅg	t a r u ŋ g		liver-C	387	t a r u ŋ g	C V C V C C	t a r u ŋ g -	t a r u ŋ g	C V C V C C
+1025	Kota	long	ni:tam	ni:tam	n iː t a		long-A	395	n iː t a	C V C V	n iː - t a m	n iː t a m	C V C V C
+1026	Malayalam	long	ni:nɖa	ni:nɖa	n iː ɖ a		long-A	395	n iː ɖ a	C V C V	n iː n ɖ a -	n iː n ɖ a	C V C C V
+1028	Tamil	long	nīṇṭa	nīṇṭa	n iː ʈ a		long-A	395	n iː ʈ a	C V C V	n iː ɳ ʈ a -	n iː ɳ ʈ a	C V C C V
+1031	Yeruva	long	ni:ʈa	ni:ʈa	n iː ʈ a		long-A	395	n iː ʈ a	C V C V	n iː - ʈ a -	n iː ʈ a	C V C V
+1032	Badga	long	utta	utta	u tː a		long-B	396	u - tː a	V C V	u - tː a	u tː a	V C V
+1033	Betta_Kurumba	long	uddu	uddu	u d d u		long-B	396	u d d u	V C C V	u d d u	u d d u	V C C V
+1034	Kannada	long	udda	udda	u d d a		long-B	396	u d d a	V C C V	u d d a	u d d a	V C C V
+1035	Kodava	long	uddə	uddə	u d d ə		long-B	396	u d d ə	V C C V	u d d ə	u d d ə	V C C V
+1036	Tulu	long	uda	uda	u d a		long-B	396	u - d a	V C V	u - d a	u d a	V C V
+1037	Kolami	long	poɖa:m	poɖa:m	p o ɖ aː m		long-C	397	p o ɖ aː m -	C V C V C	p o ɖ aː m - - - - -	p o ɖ aː m	C V C V C
+1038	Koya	long	poɖaʋuʈa:du	poɖaʋuʈa:du	p o ɖ a ʋ u		long-C	397	p o ɖ a ʋ u	C V C V C V	p o ɖ a ʋ u ʈ aː d u	p o ɖ a ʋ u ʈ aː d u	C V C V C V C V C V
+1039	Telugu	long	poɖaʋu	poɖaʋu	p o ɖ a ʋ u		long-C	397	p o ɖ a ʋ u	C V C V C V	p o ɖ a ʋ - - - - u	p o ɖ a ʋ u	C V C V C V
+1045	Betta_Kurumba	louse	pja:nu	pja:nu	p aː n u		louse-A	402	p aː n u	C V C V	p j aː n u	p j aː n u	C C V C V
+1046	Kannada	louse	he:nu	he:nu	eː n u		louse-A	402	- eː n u	V C V	- h eː n u	h eː n u	C V C V
+1047	Kodava	louse	pe:nə	pe:nə	p eː n ə		louse-A	402	p eː n ə	C V C V	p - eː n ə	p eː n ə	C V C V
+1048	Kolami	louse	pa:nu	pa:nu	p aː n u		louse-A	402	p aː n u	C V C V	p - aː n u	p aː n u	C V C V
+1049	Kurukh	louse	pe:n	pe:n	p eː n		louse-A	402	p eː n -	C V C	p - eː n -	p eː n	C V C
+1050	Malayalam	louse	pe:n	pe:n	p eː n		louse-A	402	p eː n -	C V C	p - eː n -	p eː n	C V C
+1051	Parji	louse	pēni	pēni	p eː n i		louse-A	402	p eː n i	C V C V	p - eː n i	p eː n i	C V C V
+1052	Tamil	louse	pe:nə	pe:nə	p eː n ə		louse-A	402	p eː n ə	C V C V	p - eː n ə	p eː n ə	C V C V
+1053	Telugu	louse	pe:nu	pe:nu	p eː n u		louse-A	402	p eː n u	C V C V	p - eː n u	p eː n u	C V C V
+1054	Tulu	louse	pe:n	pe:n	p eː n		louse-A	402	p eː n -	C V C	p - eː n -	p eː n	C V C
+1055	Yeruva	louse	pe:nə	pe:nə	p eː n ə		louse-A	402	p eː n ə	C V C V	p - eː n ə	p eː n ə	C V C V
+1063	Kodava	man	a:naaɭə	a:naaɭə	aː n ə		man-A	408	aː n ə	V C V	aː n a a ɭ ə	aː n a a ɭ ə	V C V V C V
+1064	Malayalam	man	a:ɳə	a:ɳə	aː ɳ ə		man-A	408	aː ɳ ə	V C V	aː ɳ - - - ə	aː ɳ ə	V C V
+1065	Tamil	man	a:ɳə	a:ɳə	aː ɳ ə		man-A	408	aː ɳ ə	V C V	aː ɳ - - - ə	aː ɳ ə	V C V
+1067	Kannada	man	puruṣa	puruṣa	p u r u ʂ a	LOAN	man-B	409	p u r u ʂ a -	C V C V C V	p u r u ʂ a - -	p u r u ʂ a	C V C V C V
+1068	Malayalam	man	puɾuʂan	puɾuʂan	p u ɾ u ʂ a n	LOAN	man-B	409	p u ɾ u ʂ a n	C V C V C V C	p u ɾ u ʂ a n -	p u ɾ u ʂ a n	C V C V C V C
+1069	Telugu	man	puɾuʂuɖu	puɾuʂuɖu	p u ɾ u ʂ u ɖ	LOAN	man-B	409	p u ɾ u ʂ u ɖ	C V C V C V C	p u ɾ u ʂ u ɖ u	p u ɾ u ʂ u ɖ u	C V C V C V C V
+1070	Betta_Kurumba	man	gəɳɖaɭə	gəɳɖaɭə	g ə ɳ ɖ a ɭ ə		man-C	410	g ə ɳ ɖ a ɭ ə	C V C C V C V	g ə ɳ ɖ a ɭ ə	g ə ɳ ɖ a ɭ ə	C V C C V C V
+1071	Kannada	man	ganɖasu	ganɖasu	g a n ɖ a s u		man-C	410	g a n ɖ a s u	C V C C V C V	g a n ɖ a s u	g a n ɖ a s u	C V C C V C V
+1072	Kota	man	ganmagu	ganmagu	g a n m a g u		man-C	410	g a n m a g u	C V C C V C V	g a n m a g u	g a n m a g u	C V C C V C V
+1089	Kannada	many	halaʋu	halaʋu	h a l u		many-A	426	h a l u	C V C V	h a l a ʋ u	h a l a ʋ u	C V C V C V
+1090	Malayalam	many	pala	pala	p a l a		many-A	426	p a l a	C V C V	p a l - - a	p a l a	C V C V
+1091	Tamil	many	palə	palə	p a l ə		many-A	426	p a l ə	C V C V	p a l - - ə	p a l ə	C V C V
+1112	Kodava	meat	eɾatʃi	eɾatʃi	e ɾ a tʃ i		meat-A	445	e ɾ a tʃ i	V C V C V	e ɾ a - - tʃ i	e ɾ a tʃ i	V C V C V
+1113	Malayalam	meat	iɾatʃi	iɾatʃi	i ɾ a tʃ i		meat-A	445	i ɾ a tʃ i	V C V C V	i ɾ a - - tʃ i	i ɾ a tʃ i	V C V C V
+1114	Tamil	meat	iṟaicci	iṟaicci	i r̪ a c i		meat-A	445	i r̪ a c i	V C V C V	i r̪ a i c c i	i r̪ a i c c i	V C V V C C V
+1115	Yeruva	meat	iɾatʃi	iɾatʃi	i ɾ a tʃ i		meat-A	445	i ɾ a tʃ i	V C V C V	i ɾ a - - tʃ i	i ɾ a tʃ i	V C V C V
+1117	Kannada	meat	ma:msa	ma:msa	m aː m s a	LOAN	meat-C	447	m aː m s a	C V C C V	m aː m s a - -	m aː m s a	C V C C V
+1118	Malayalam	meat	ma:msam	ma:msam	m aː m s a	LOAN	meat-C	447	m aː m s a	C V C C V	m aː m s a m -	m aː m s a m	C V C C V C
+1119	Telugu	meat	ma:msamu	ma:msamu	m aː m s a	LOAN	meat-C	447	m aː m s a	C V C C V	m aː m s a m u	m aː m s a m u	C V C C V C V
+1120	Tulu	meat	ma:sa	ma:sa	m aː s a	LOAN	meat-C	447	m aː - s a	C V C V	m aː - s a - -	m aː s a	C V C V
+1134	Badga	moon	tinguʋa	tinguʋa	t i n g ʋ a	LOAN	moon-A	458	t i n g ʋ a	C V C C C V	t i n g u ʋ a - -	t i n g u ʋ a	C V C C V C V
+1135	Kannada	moon	candra	candra	c a n d r a	LOAN	moon-A	458	c a n d r a	C V C C C V	c a n d - r a - -	c a n d r a	C V C C C V
+1137	Kodava	moon	tʃendɾa	tʃendɾa	tʃ e n d ɾ a	LOAN	moon-A	458	tʃ e n d ɾ a	C V C C C V	tʃ e n d - ɾ a - -	tʃ e n d ɾ a	C V C C C V
+1138	Koya	moon	sanɖama:ma	sanɖama:ma	s a n ɖ m aː	LOAN	moon-A	458	s a n ɖ m aː	C V C C C V	s a n ɖ a m aː m a	s a n ɖ a m aː m a	C V C C V C V C V
+1139	Kurukh	moon	tʃando	tʃando	tʃ a n d o	LOAN	moon-A	458	tʃ a n d - o	C V C C V	tʃ a n d - - o - -	tʃ a n d o	C V C C V
+1140	Malayalam	moon	tʃendɾan	tʃendɾan	tʃ e n d ɾ a	LOAN	moon-A	458	tʃ e n d ɾ a	C V C C C V	tʃ e n d - ɾ a n -	tʃ e n d ɾ a n	C V C C C V C
+1141	Tamil	moon	cantiraṉ	cantiraṉ	c a n t r a	LOAN	moon-A	458	c a n t r a	C V C C C V	c a n t i r a n̪ -	c a n t i r a n̪	C V C C V C V C
+1142	Telugu	moon	tʃendɾuɖu	tʃendɾuɖu	tʃ e n d ɾ u	LOAN	moon-A	458	tʃ e n d ɾ u	C V C C C V	tʃ e n d - ɾ u ɖ u	tʃ e n d ɾ u ɖ u	C V C C C V C V
+1143	Tulu	moon	tʃendɾe	tʃendɾe	tʃ e n d ɾ e	LOAN	moon-A	458	tʃ e n d ɾ e	C V C C C V	tʃ e n d - ɾ e - -	tʃ e n d ɾ e	C V C C C V
+1144	Kolami	moon	nela	nela	n e l a		moon-B	459	n e l a	C V C V	n e l a - - -	n e l a	C V C V
+1145	Kota	moon	nelavə	nelavə	n e l a		moon-B	459	n e l a	C V C V	n e l a v - ə	n e l a v ə	C V C V C V
+1146	Koya	moon	nella	nella	n e lː a		moon-B	459	n e lː a	C V C V	n e lː a - - -	n e lː a	C V C V
+1147	Kuwi	moon	lendʒu	lendʒu	l e		moon-B	459	- - l e	C V	- - l e n dʒ u	l e n dʒ u	C V C C V
+1148	Ollari_Gadba	moon	neling	neling	n e l i		moon-B	459	n e l i	C V C V	n e l i n g -	n e l i n g	C V C V C C
+1149	Parji	moon	neliñ	neliñ	n e l i		moon-B	459	n e l i	C V C V	n e l i ɲ - -	n e l i ɲ	C V C V C
+1150	Tamil	moon	nila	nila	n i l a		moon-B	459	n i l a	C V C V	n i l a - - -	n i l a	C V C V
+1151	Toda	moon	nila	nila	n i l a		moon-B	459	n i l a	C V C V	n i l a - - -	n i l a	C V C V
+1152	Yeruva	moon	nilatʃi	nilatʃi	n i l a		moon-B	459	n i l a	C V C V	n i l a - tʃ i	n i l a tʃ i	C V C V C V
+1161	Kodava	mountain	kundə	kundə	k u n d ə		mountain-C	467	k u n d ə	C V C C V	k u n d ə	k u n d ə	C V C C V
+1162	Telugu	mountain	konɖa	konɖa	k o n ɖ a		mountain-C	467	k o n ɖ a	C V C C V	k o n ɖ a	k o n ɖ a	C V C C V
+1163	Yeruva	mountain	kundə	kundə	k u n d ə		mountain-C	467	k u n d ə	C V C C V	k u n d ə	k u n d ə	C V C C V
+1164	Badga	mountain	male	male	m a l e		mountain-D	468	m a l e	C V C V	m a l e -	m a l e	C V C V
+1165	Brahui	mountain	maʃ	maʃ	m a ʃ		mountain-D	468	m a ʃ -	C V C	m a ʃ - -	m a ʃ	C V C
+1166	Malayalam	mountain	mala	mala	m a l a		mountain-D	468	m a l a	C V C V	m a l a -	m a l a	C V C V
+1167	Tamil	mountain	malai	malai	m a l a		mountain-D	468	m a l a	C V C V	m a l a i	m a l a i	C V C V V
+1179	Betta_Kurumba	mouth	ba:jə	ba:jə	b aː j ə		mouth-A	478	b aː j ə	C V C V	b aː j ə	b aː j ə	C V C V
+1180	Brahui	mouth	ba:	ba:	b aː		mouth-A	478	b aː - -	C V	b aː - -	b aː	C V
+1181	Kannada	mouth	ba:ji	ba:ji	b aː j i		mouth-A	478	b aː j i	C V C V	b aː j i	b aː j i	C V C V
+1182	Kodava	mouth	ba:ji	ba:ji	b aː j i		mouth-A	478	b aː j i	C V C V	b aː j i	b aː j i	C V C V
+1183	Kota	mouth	ʋa:ji	ʋa:ji	ʋ aː j i		mouth-A	478	ʋ aː j i	C V C V	ʋ aː j i	ʋ aː j i	C V C V
+1184	Kurukh	mouth	baji	baji	b a j i		mouth-A	478	b a j i	C V C V	b a j i	b a j i	C V C V
+1185	Malayalam	mouth	ʋa:ja	ʋa:ja	ʋ aː j a		mouth-A	478	ʋ aː j a	C V C V	ʋ aː j a	ʋ aː j a	C V C V
+1186	Parji	mouth	vāy	vāy	v aː y		mouth-A	478	v aː - y	C V V	v aː - y	v aː y	C V V
+1187	Tamil	mouth	ʋa:ji	ʋa:ji	ʋ aː j i		mouth-A	478	ʋ aː j i	C V C V	ʋ aː j i	ʋ aː j i	C V C V
+1189	Toda	mouth	po:i	po:i	p oː i		mouth-A	478	p oː - i	C V V	p oː - i	p oː i	C V V
+1190	Tulu	mouth	ba:ji	ba:ji	b aː j i		mouth-A	478	b aː j i	C V C V	b aː j i	b aː j i	C V C V
+1191	Yeruva	mouth	ba:ji	ba:ji	b aː j i		mouth-A	478	b aː j i	C V C V	b aː j i	b aː j i	C V C V
+1200	Badga	name	esaɾə	esaɾə	e ɾ ə		name-A	486	- e ɾ ə	V C V	- e s a ɾ ə -	e s a ɾ ə	V C V C V
+1201	Betta_Kurumba	name	pja:ɾə	pja:ɾə	p ɾ ə		name-A	486	p - ɾ ə	C C V	p - j aː ɾ ə -	p j aː ɾ ə	C C V C V
+1202	Brahui	name	pin	pin	p i n		name-A	486	p i n -	C V C	p i - - n - -	p i n	C V C
+1203	Gondi	name	poɾol	poɾol	p o ɾ o		name-A	486	p o ɾ o	C V C V	p o - - ɾ o l	p o ɾ o l	C V C V C
+1204	Kannada	name	hesaru	hesaru	h e r u		name-A	486	h e r u	C V C V	h e s a r u -	h e s a r u	C V C V C V
+1205	Kodava	name	peda	peda	p e		name-A	486	p e - -	C V	p e d a - - -	p e d a	C V C V
+1206	Kolami	name	pe:ɾ	pe:ɾ	p eː ɾ		name-A	486	p eː ɾ -	C V C	p eː - - ɾ - -	p eː ɾ	C V C
+1207	Kota	name	pe:ɾ	pe:ɾ	p eː ɾ		name-A	486	p eː ɾ -	C V C	p eː - - ɾ - -	p eː ɾ	C V C
+1208	Koya	name	pedeɾ	pedeɾ	p e ɾ		name-A	486	p e ɾ -	C V C	p e d e ɾ - -	p e d e ɾ	C V C V C
+1209	Kuwi	name	doru	doru	r u		name-A	486	- - r u	C V	- - d o r u -	d o r u	C V C V
+1210	Malayalam	name	peɾə	peɾə	p e ɾ ə		name-A	486	p e ɾ ə	C V C V	p e - - ɾ ə -	p e ɾ ə	C V C V
+1211	Parji	name	pidir	pidir	p i r		name-A	486	p i r -	C V C	p i d i r - -	p i d i r	C V C V C
+1212	Tamil	name	pe:ɾə	pe:ɾə	p eː ɾ ə		name-A	486	p eː ɾ ə	C V C V	p eː - - ɾ ə -	p eː ɾ ə	C V C V
+1213	Telugu	name	pe:ɾu	pe:ɾu	p eː ɾ u		name-A	486	p eː ɾ u	C V C V	p eː - - ɾ u -	p eː ɾ u	C V C V
+1214	Toda	name	pe:ɾ	pe:ɾ	p eː ɾ		name-A	486	p eː ɾ -	C V C	p eː - - ɾ - -	p eː ɾ	C V C
+1215	Tulu	name	pudaɾə	pudaɾə	p u ɾ ə		name-A	486	p u ɾ ə	C V C V	p u d a ɾ ə -	p u d a ɾ ə	C V C V C V
+1216	Yeruva	name	pe:ɾu	pe:ɾu	p eː ɾ u		name-A	486	p eː ɾ u	C V C V	p eː - - ɾ u -	p eː ɾ u	C V C V
+1219	Badga	neck	katə	katə	k a t ə		neck-A	488	k a t - - ə	C V C V	k a t - - ə -	k a t ə	C V C V
+1220	Kota	neck	kaɖate:l	kaɖate:l	k a ɖ a t eː		neck-A	488	k a ɖ a t eː	C V C V C V	k a ɖ a t eː l	k a ɖ a t eː l	C V C V C V C
+1221	Malayalam	neck	kaɻutə	kaɻutə	k a ɻ u t ə		neck-A	488	k a ɻ u t ə	C V C V C V	k a ɻ u t ə -	k a ɻ u t ə	C V C V C V
+1222	Tamil	neck	kaɭuttə	kaɭuttə	k a ɭ u tː ə		neck-A	488	k a ɭ u tː ə	C V C V C V	k a ɭ u tː ə -	k a ɭ u tː ə	C V C V C V
+1223	Koya	neck	meɖaka:ja	meɖaka:ja	m e ɖ a		neck-B	489	m e ɖ a	C V C V	m e ɖ a k aː j a	m e ɖ a k aː j a	C V C V C V C V
+1224	Telugu	neck	meɖa	meɖa	m e ɖ a		neck-B	489	m e ɖ a	C V C V	m e ɖ - - - - a	m e ɖ a	C V C V
+1225	Toda	neck	maɾ	maɾ	m a ɾ		neck-B	489	m a ɾ -	C V C	m a ɾ - - - - -	m a ɾ	C V C
+1239	Kolami	new	kota	kota	k o t a		new-B	501	k o t a	C V C V	k o t a -	k o t a	C V C V
+1240	Koya	new	kottad	kottad	k o tː a		new-B	501	k o tː a	C V C V	k o tː a d	k o tː a d	C V C V C
+1241	Telugu	new	kotta	kotta	k o tː a		new-B	501	k o tː a	C V C V	k o tː a -	k o tː a	C V C V
+1242	Brahui	new	pu:skun	pu:skun	p uː s n		new-C	502	p uː s n -	C V C C	p uː s - k u n -	p uː s k u n	C V C C V C
+1243	Gondi	new	puna	puna	p u n a		new-C	502	p u - n a	C V C V	p u - - - - n a	p u n a	C V C V
+1244	Kannada	new	hosadu	hosadu	h o s d u		new-C	502	h o s d u	C V C C V	h o s - - a d u	h o s a d u	C V C V C V
+1245	Kodava	new	pudija	pudija	p u d a		new-C	502	p u d - a	C V C V	p u d i j - - a	p u d i j a	C V C V C V
+1246	Kota	new	pudijadə	pudijadə	p u d d ə		new-C	502	p u d d ə	C V C C V	p u d i j a d ə	p u d i j a d ə	C V C V C V C V
+1247	Kurukh	new	pu:na	pu:na	p uː n a		new-C	502	p uː - n a	C V C V	p uː - - - - n a	p uː n a	C V C V
+1248	Kuwi	new	puni	puni	p u n i		new-C	502	p u - n i	C V C V	p u - - - - n i	p u n i	C V C V
+1249	Malayalam	new	pudija	pudija	p u d a		new-C	502	p u d - a	C V C V	p u d i j - - a	p u d i j a	C V C V C V
+1250	Malto	new	pu:na	pu:na	p uː n a		new-C	502	p uː - n a	C V C V	p uː - - - - n a	p uː n a	C V C V
+1251	Parji	new	pun	pun	p u n		new-C	502	p u - n -	C V C	p u - - - - n -	p u n	C V C
+1252	Tamil	new	pudusə	pudusə	p u d s ə		new-C	502	p u d s ə	C V C C V	p u d - - u s ə	p u d u s ə	C V C V C V
+1254	Toda	new	pudu:n	pudu:n	p u n		new-C	502	p u - n -	C V C	p u - - d uː n -	p u d uː n	C V C V C
+1255	Tulu	new	posatta	posatta	p o s tː a		new-C	502	p o s tː a	C V C C V	p o s - - a tː a	p o s a tː a	C V C V C V
+1256	Yeruva	new	pudijai	pudijai	p u d i		new-C	502	p u d - i	C V C V	p u d i j a - i	p u d i j a i	C V C V C V V
+1259	Badga	night	iɾə	iɾə	i ɾ ə		night-A	505	i ɾ ə -	V C V	- - - - i ɾ ə - -	i ɾ ə	V C V
+1260	Kota	night	e:lumaɾam	e:lumaɾam	a ɾ a m		night-A	505	a ɾ a m	V C V C	eː l u m a ɾ a m -	eː l u m a ɾ a m	V C V C V C V C
+1261	Tamil	night	iɾa:ʋə	iɾa:ʋə	i ɾ aː ʋ		night-A	505	i ɾ aː ʋ	V C V C	- - - - i ɾ aː ʋ ə	i ɾ aː ʋ ə	V C V C V
+1263	Kannada	night	ɾa:tɾi	ɾa:tɾi	ɾ aː t ɾ i	LOAN	night-B	506	ɾ aː t ɾ i	C V C C V	ɾ aː t ɾ i	ɾ aː t ɾ i	C V C C V
+1264	Malayalam	night	ɾa:tɾi	ɾa:tɾi	ɾ aː t ɾ i	LOAN	night-B	506	ɾ aː t ɾ i	C V C C V	ɾ aː t ɾ i	ɾ aː t ɾ i	C V C C V
+1265	Malto	night	ɾa:ti	ɾa:ti	ɾ aː t i	LOAN	night-B	506	ɾ aː t - i	C V C V	ɾ aː t - i	ɾ aː t i	C V C V
+1266	Tamil	night	ɾa:tɾi	ɾa:tɾi	ɾ aː t ɾ i	LOAN	night-B	506	ɾ aː t ɾ i	C V C C V	ɾ aː t ɾ i	ɾ aː t ɾ i	C V C C V
+1267	Telugu	night	ɾa:tɾi	ɾa:tɾi	ɾ aː t ɾ i	LOAN	night-B	506	ɾ aː t ɾ i	C V C C V	ɾ aː t ɾ i	ɾ aː t ɾ i	C V C C V
+1268	Tulu	night	ɾa:tɾe	ɾa:tɾe	ɾ aː t ɾ e	LOAN	night-B	506	ɾ aː t ɾ e	C V C C V	ɾ aː t ɾ e	ɾ aː t ɾ e	C V C C V
+1280	Badga	nose	mu:kə	mu:kə	m uː k ə		nose-A	516	m uː k ə	C V C V	m uː - k ə - -	m uː k ə	C V C V
+1281	Betta_Kurumba	nose	mu:kkə	mu:kkə	m uː kː ə		nose-A	516	m uː kː ə	C V C V	m uː - kː ə - -	m uː kː ə	C V C V
+1282	Kannada	nose	mu:gə	mu:gə	m uː g ə		nose-A	516	m uː g ə	C V C V	m uː - g ə - -	m uː g ə	C V C V
+1283	Kodava	nose	mu:kkə	mu:kkə	m uː kː ə		nose-A	516	m uː kː ə	C V C V	m uː - kː ə - -	m uː kː ə	C V C V
+1284	Kolami	nose	mu:kk	mu:kk	m uː kː		nose-A	516	m uː kː -	C V C	m uː - kː - - -	m uː kː	C V C
+1285	Kota	nose	mu:kə	mu:kə	m uː k ə		nose-A	516	m uː k ə	C V C V	m uː - k ə - -	m uː k ə	C V C V
+1286	Kurukh	nose	mu:ji	mu:ji	m uː j i		nose-A	516	m uː j i	C V C V	m uː - j i - -	m uː j i	C V C V
+1287	Kuwi	nose	mungeli	mungeli	m u g e		nose-A	516	m u g e	C V C V	m u n g e l i	m u n g e l i	C V C C V C V
+1288	Malayalam	nose	mu:kə	mu:kə	m uː k ə		nose-A	516	m uː k ə	C V C V	m uː - k ə - -	m uː k ə	C V C V
+1289	Ollari_Gadba	nose	mungan	mungan	m u g a		nose-A	516	m u g a	C V C V	m u n g a n -	m u n g a n	C V C C V C
+1290	Parji	nose	muvãḍ	muvãḍ	m u v ã		nose-A	516	m u v ã	C V C V	m u - v ã ɖ -	m u v ã ɖ	C V C V C
+1291	Tamil	nose	mu:kə	mu:kə	m uː k ə		nose-A	516	m uː k ə	C V C V	m uː - k ə - -	m uː k ə	C V C V
+1292	Telugu	nose	mukku	mukku	m u kː u		nose-A	516	m u kː u	C V C V	m u - kː u - -	m u kː u	C V C V
+1293	Tulu	nose	mu:gu	mu:gu	m uː g u		nose-A	516	m uː g u	C V C V	m uː - g u - -	m uː g u	C V C V
+1294	Yeruva	nose	mu:kkə	mu:kkə	m uː kː ə		nose-A	516	m uː kː ə	C V C V	m uː - kː ə - -	m uː kː ə	C V C V
+1300	Betta_Kurumba	not	ila	ila	i l a		not-A	521	i l a	V C V	- i l a - -	i l a	V C V
+1301	Gondi	not	helle	helle	e lː e		not-A	521	e lː e	V C V	h e lː e - -	h e lː e	C V C V
+1302	Kodava	not	ille	ille	i lː e		not-A	521	i lː e	V C V	- i lː e - -	i lː e	V C V
+1303	Kota	not	illa	illa	i lː a		not-A	521	i lː a	V C V	- i lː a - -	i lː a	V C V
+1304	Koya	not	ille	ille	i lː e		not-A	521	i lː e	V C V	- i lː e - -	i lː e	V C V
+1305	Malayalam	not	illa	illa	i lː a		not-A	521	i lː a	V C V	- i lː a - -	i lː a	V C V
+1306	Tamil	not	ille	ille	i lː e		not-A	521	i lː e	V C V	- i lː e - -	i lː e	V C V
+1307	Telugu	not	le:du	le:du	l eː		not-A	521	- l eː	C V	- - l eː d u	l eː d u	C V C V
+1308	Yeruva	not	ille	ille	i lː e		not-A	521	i lː e	V C V	- i lː e - -	i lː e	V C V
+1321	Badga	one	ondə	ondə	o n d ə		one-A	530	o n d ə	V C C V	- o - n - d ə	o n d ə	V C C V
+1322	Betta_Kurumba	one	ʋandə	ʋandə	a n d ə		one-A	530	a n d ə	V C C V	ʋ a - n - d ə	ʋ a n d ə	C V C C V
+1323	Brahui	one	asit	asit	a s t		one-A	530	a s t -	V C C	- a - s i t -	a s i t	V C V C
+1324	Gondi	one	ondi	ondi	o n d i		one-A	530	o n d i	V C C V	- o - n - d i	o n d i	V C C V
+1325	Kannada	one	ondu	ondu	o n d u		one-A	530	o n d u	V C C V	- o - n - d u	o n d u	V C C V
+1326	Kodava	one	ondə	ondə	o n d ə		one-A	530	o n d ə	V C C V	- o - n - d ə	o n d ə	V C C V
+1327	Kolami	one	okko:t	okko:t	o kː t		one-A	530	o kː t -	V C C	- o - kː oː t -	o kː oː t	V C V C
+1328	Kota	one	o:dit	o:dit	oː d t		one-A	530	oː d t -	V C C	- oː - d i t -	oː d i t	V C V C
+1329	Koya	one	oɾɾo:ʈ	oɾɾo:ʈ	o ɾ ʈ		one-A	530	o ɾ ʈ -	V C C	- o ɾ ɾ oː ʈ -	o ɾ ɾ oː ʈ	V C C V C
+1330	Kurukh	one	o:nd	o:nd	oː n d		one-A	530	oː n d -	V C C	- oː - n - d -	oː n d	V C C
+1331	Kuwi	one	ranɖi	ranɖi	a n ɖ i		one-A	530	a n ɖ i	V C C V	r a - n - ɖ i	r a n ɖ i	C V C C V
+1332	Malayalam	one	onnə	onnə	o nː		one-A	530	o nː - -	V C	- o - nː ə - -	o nː ə	V C V
+1333	Malto	one	o:nd	o:nd	oː n d		one-A	530	oː n d -	V C C	- oː - n - d -	oː n d	V C C
+1334	Ollari_Gadba	one	okuʈi	okuʈi	o k ʈ i		one-A	530	o k ʈ i	V C C V	- o - k u ʈ i	o k u ʈ i	V C V C V
+1335	Parji	one	ok	ok	o k		one-A	530	o k - -	V C	- o - k - - -	o k	V C
+1336	Tamil	one	onnə	onnə	o nː		one-A	530	o nː - -	V C	- o - nː ə - -	o nː ə	V C V
+1337	Telugu	one	okaʈi	okaʈi	o k ʈ i		one-A	530	o k ʈ i	V C C V	- o - k a ʈ i	o k a ʈ i	V C V C V
+1338	Tulu	one	ondʒi	ondʒi	o n dʒ i		one-A	530	o n dʒ i	V C C V	- o - n - dʒ i	o n dʒ i	V C C V
+1339	Yeruva	one	ondʒu	ondʒu	o n dʒ u		one-A	530	o n dʒ u	V C C V	- o - n - dʒ u	o n dʒ u	V C C V
+1341	Kannada	person	manusa	manusa	m a n u s a	LOAN	person-A	532	m a n u s a	C V C V C V	m a n u s a - -	m a n u s a	C V C V C V
+1342	Kodava	person	manasa	manasa	m a n a s a	LOAN	person-A	532	m a n a s a	C V C V C V	m a n a s a - -	m a n a s a	C V C V C V
+1343	Kolami	person	maniʂa:n	maniʂa:n	m a n i ʂ aː	LOAN	person-A	532	m a n i ʂ aː	C V C V C V	m a n i ʂ aː n -	m a n i ʂ aː n	C V C V C V C
+1344	Koya	person	mansu:ɳɖ	mansu:ɳɖ	m a n s uː	LOAN	person-A	532	m a n - s uː	C V C C V	m a n - s uː ɳ ɖ	m a n s uː ɳ ɖ	C V C C V C C
+1345	Malayalam	person	manuʂan	manuʂan	m a n u ʂ a	LOAN	person-A	532	m a n u ʂ a	C V C V C V	m a n u ʂ a n -	m a n u ʂ a n	C V C V C V C
+1346	Tamil	person	maṉitaṉ	maṉitaṉ	m a n̪ i t a	LOAN	person-A	532	m a n̪ i t a	C V C V C V	m a n̪ i t a n̪ -	m a n̪ i t a n̪	C V C V C V C
+1348	Telugu	person	maniʂi	maniʂi	m a n i ʂ i	LOAN	person-A	532	m a n i ʂ i	C V C V C V	m a n i ʂ i - -	m a n i ʂ i	C V C V C V
+1349	Tulu	person	manuʂe:	manuʂe:	m a n u ʂ eː	LOAN	person-A	532	m a n u ʂ eː	C V C V C V	m a n u ʂ eː - -	m a n u ʂ eː	C V C V C V
+1350	Yeruva	person	manutʃe	manutʃe	m a n u tʃ e	LOAN	person-A	532	m a n u tʃ e	C V C V C V	m a n u tʃ e - -	m a n u tʃ e	C V C V C V
+1359	Badga	rain	me	me	m e		rain-A	539	m e - -	C V	m e - - - -	m e	C V
+1360	Betta_Kurumba	rain	maɭi	maɭi	m a ɭ i		rain-A	539	m a ɭ i	C V C V	m a ɭ i - -	m a ɭ i	C V C V
+1361	Kannada	rain	maɭe	maɭe	m a ɭ e		rain-A	539	m a ɭ e	C V C V	m a ɭ e - -	m a ɭ e	C V C V
+1362	Kodava	rain	maɭe	maɭe	m a ɭ e		rain-A	539	m a ɭ e	C V C V	m a ɭ e - -	m a ɭ e	C V C V
+1363	Kota	rain	mai	mai	m a i		rain-A	539	m a - i	C V V	m a - i - -	m a i	C V V
+1364	Malayalam	rain	maɻa	maɻa	m a ɻ a		rain-A	539	m a ɻ a	C V C V	m a ɻ a - -	m a ɻ a	C V C V
+1365	Tamil	rain	maɻai	maɻai	m a ɻ a		rain-A	539	m a ɻ a	C V C V	m a ɻ a - i	m a ɻ a i	C V C V V
+1366	Toda	rain	meɖutti	meɖutti	m e ɖ u		rain-A	539	m e ɖ u	C V C V	m e ɖ u tː i	m e ɖ u tː i	C V C V C V
+1367	Yeruva	rain	maɭe	maɭe	m a ɭ e		rain-A	539	m a ɭ e	C V C V	m a ɭ e - -	m a ɭ e	C V C V
+1370	Kolami	rain	ʋa:na	ʋa:na	ʋ aː n a		rain-C	541	ʋ aː n a	C V C V	ʋ aː n a	ʋ aː n a	C V C V
+1371	Koya	rain	ʋa:na	ʋa:na	ʋ aː n a		rain-C	541	ʋ aː n a	C V C V	ʋ aː n a	ʋ aː n a	C V C V
+1372	Parji	rain	vāni	vāni	v aː n i		rain-C	541	v aː n i	C V C V	v aː n i	v aː n i	C V C V
+1373	Telugu	rain	ʋa:na	ʋa:na	ʋ aː n a		rain-C	541	ʋ aː n a	C V C V	ʋ aː n a	ʋ aː n a	C V C V
+1379	Badga	red	keppə	keppə	k e pː ə		red-A	546	k e pː ə	C V C V	k - e - - pː ə -	k e pː ə	C V C V
+1380	Brahui	red	xi:sun	xi:sun	x iː s u		red-A	546	x iː s u	C V C V	x - iː - - s u n	x iː s u n	C V C V C
+1381	Kannada	red	kempu	kempu	k e p u		red-A	546	k e p u	C V C V	k - e m - p u -	k e m p u	C V C C V
+1382	Kodava	red	tʃo:pə	tʃo:pə	tʃ oː p ə		red-A	546	tʃ oː p ə	C V C V	tʃ - oː - - p ə -	tʃ oː p ə	C V C V
+1383	Kurukh	red	kheso	kheso	k e s o		red-A	546	k e s o	C V C V	k h e - - s o -	k h e s o	C C V C V
+1384	Malayalam	red	tʃumappə	tʃumappə	tʃ u pː ə		red-A	546	tʃ u pː ə	C V C V	tʃ - u m a pː ə -	tʃ u m a pː ə	C V C V C V
+1385	Malto	red	e:so	e:so	eː s o		red-A	546	- eː s o	V C V	- - eː - - s o -	eː s o	V C V
+1386	Parji	red	key	key	k e y		red-A	546	k e - y	C V V	k - e - - - y -	k e y	C V V
+1387	Tamil	red	ce-m-	ce-m-	c e		red-A	546	c e - -	C V	c - e m - - - -	c e m	C V C
+1390	Toda	red	keppə	keppə	k e pː ə		red-A	546	k e pː ə	C V C V	k - e - - pː ə -	k e pː ə	C V C V
+1391	Tulu	red	kempu	kempu	k e p u		red-A	546	k e p u	C V C V	k - e m - p u -	k e m p u	C V C C V
+1392	Yeruva	red	tʃo:pə	tʃo:pə	tʃ oː p ə		red-A	546	tʃ oː p ə	C V C V	tʃ - oː - - p ə -	tʃ oː p ə	C V C V
+1393	Gondi	red	eɾɾag	eɾɾag	e ɾ a g		red-B	547	e ɾ a g	V C V C	- e ɾ ɾ a g -	e ɾ ɾ a g	V C C V C
+1395	Kolami	red	jeruɖi	jeruɖi	e r u ɖ		red-B	547	e r u ɖ	V C V C	j e - r u ɖ i	j e r u ɖ i	C V C V C V
+1396	Koya	red	eɾɾa	eɾɾa	e ɾ a		red-B	547	e ɾ a -	V C V	- e ɾ ɾ a - -	e ɾ ɾ a	V C C V
+1397	Telugu	red	eɾupu	eɾupu	e ɾ u p		red-B	547	e ɾ u p	V C V C	- e - ɾ u p u	e ɾ u p u	V C V C V
+1408	Badga	road	ta:ɾi	ta:ɾi	t aː ɾ i		road-D	554	t aː ɾ i	C V C V	t aː - - ɾ i	t aː ɾ i	C V C V
+1409	Kolami	road	daaɾ	daaɾ	d a ɾ		road-D	554	d a ɾ -	C V C	d a - a ɾ -	d a a ɾ	C V V C
+1410	Kota	road	ta:ɾi	ta:ɾi	t aː ɾ i		road-D	554	t aː ɾ i	C V C V	t aː - - ɾ i	t aː ɾ i	C V C V
+1411	Kurukh	road	ɖahaɾe	ɖahaɾe	ɖ a ɾ e		road-D	554	ɖ a ɾ e	C V C V	ɖ a h a ɾ e	ɖ a h a ɾ e	C V C V C V
+1412	Telugu	road	da:ɾi	da:ɾi	d aː ɾ i		road-D	554	d aː ɾ i	C V C V	d aː - - ɾ i	d aː ɾ i	C V C V
+1413	Betta_Kurumba	road	baʈʈi	baʈʈi	b a ʈː i		road-E	555	b a ʈː i	C V C V	b a ʈː i	b a ʈː i	C V C V
+1414	Kodava	road	ba:te	ba:te	b aː t e		road-E	555	b aː t e	C V C V	b aː t e	b aː t e	C V C V
+1415	Telugu	road	ba:ʈa	ba:ʈa	b aː ʈ a		road-E	555	b aː ʈ a	C V C V	b aː ʈ a	b aː ʈ a	C V C V
+1416	Kannada	road	raste	raste	r a s t e	LOAN	road-F	556	r a s t e	C V C C V	r a s t e	r a s t e	C V C C V
+1417	Kodava	road	ɾaste	ɾaste	ɾ a s t e	LOAN	road-F	556	ɾ a s t e	C V C C V	ɾ a s t e	ɾ a s t e	C V C C V
+1418	Ollari_Gadba	road	rasta	rasta	r a s t a		road-F	556	r a s t a	C V C C V	r a s t a	r a s t a	C V C C V
+1419	Yeruva	road	raste	raste	r a s t e	LOAN	road-F	556	r a s t e	C V C C V	r a s t e	r a s t e	C V C C V
+1426	Badga	root	pe:ɾə	pe:ɾə	p eː ɾ ə		root-A	562	p eː ɾ ə	C V C V	p - eː ɾ - ə -	p eː ɾ ə	C V C V
+1427	Betta_Kurumba	root	bja:ɾə	bja:ɾə	b aː ɾ ə		root-A	562	b aː ɾ ə	C V C V	b j aː ɾ - ə -	b j aː ɾ ə	C C V C V
+1428	Kannada	root	be:ɾu	be:ɾu	b eː ɾ u		root-A	562	b eː ɾ u	C V C V	b - eː ɾ - u -	b eː ɾ u	C V C V
+1429	Kodava	root	be:ɾə	be:ɾə	b eː ɾ ə		root-A	562	b eː ɾ ə	C V C V	b - eː ɾ - ə -	b eː ɾ ə	C V C V
+1430	Kolami	root	ʋe:ɾkam	ʋe:ɾkam	ʋ eː ɾ a		root-A	562	ʋ eː ɾ a	C V C V	ʋ - eː ɾ k a m	ʋ eː ɾ k a m	C V C C V C
+1431	Koya	root	ʋe:ɾ	ʋe:ɾ	ʋ eː ɾ		root-A	562	ʋ eː ɾ -	C V C	ʋ - eː ɾ - - -	ʋ eː ɾ	C V C
+1432	Kuwi	root	ʋeɾ	ʋeɾ	ʋ e ɾ		root-A	562	ʋ e ɾ -	C V C	ʋ - e ɾ - - -	ʋ e ɾ	C V C
+1433	Malayalam	root	ʋe:ɾə	ʋe:ɾə	ʋ eː ɾ ə		root-A	562	ʋ eː ɾ ə	C V C V	ʋ - eː ɾ - ə -	ʋ eː ɾ ə	C V C V
+1434	Parji	root	vār	vār	v aː r		root-A	562	v aː r -	C V C	v - aː r - - -	v aː r	C V C
+1435	Tamil	root	ʋe:ɾə	ʋe:ɾə	ʋ eː ɾ ə		root-A	562	ʋ eː ɾ ə	C V C V	ʋ - eː ɾ - ə -	ʋ eː ɾ ə	C V C V
+1436	Telugu	root	ʋe:ɾu	ʋe:ɾu	ʋ eː ɾ u		root-A	562	ʋ eː ɾ u	C V C V	ʋ - eː ɾ - u -	ʋ eː ɾ u	C V C V
+1437	Toda	root	ʋeɾ	ʋeɾ	ʋ e ɾ		root-A	562	ʋ e ɾ -	C V C	ʋ - e ɾ - - -	ʋ e ɾ	C V C
+1438	Tulu	root	be:ɾu	be:ɾu	b eː ɾ u		root-A	562	b eː ɾ u	C V C V	b - eː ɾ - u -	b eː ɾ u	C V C V
+1439	Yeruva	root	be:ɾə	be:ɾə	b eː ɾ ə		root-A	562	b eː ɾ ə	C V C V	b - eː ɾ - ə -	b eː ɾ ə	C V C V
+1445	Kannada	round	baṭṭa	baṭṭa	b a ʈː a	LOAN	round-A	568	b a ʈː a	C V C V	b a ʈː a -	b a ʈː a	C V C V
+1446	Kota	round	ʋaʈam	ʋaʈam	ʋ a ʈ a	LOAN	round-A	568	ʋ a ʈ a	C V C V	ʋ a ʈ a m	ʋ a ʈ a m	C V C V C
+1447	Malayalam	round	vaṭṭa-	vaṭṭa-	v a ʈː a	LOAN	round-A	568	v a ʈː a	C V C V	v a ʈː a -	v a ʈː a	C V C V
+1448	Tamil	round	ʋaʈʈam	ʋaʈʈam	ʋ a ʈː a	LOAN	round-A	568	ʋ a ʈː a	C V C V	ʋ a ʈː a m	ʋ a ʈː a m	C V C V C
+1449	Gondi	round	guɳɖɾal	guɳɖɾal	g u ɳ ɖ ɾ a l		round-B	569	g u ɳ ɖ ɾ a l -	C V C C C V C	g u ɳ ɖ ɾ a l - -	g u ɳ ɖ ɾ a l	C V C C C V C
+1450	Koya	round	guɳɖɾa:n	guɳɖɾa:n	g u ɳ ɖ ɾ aː n		round-B	569	g u ɳ ɖ ɾ aː n -	C V C C C V C	g u ɳ ɖ ɾ aː n - -	g u ɳ ɖ ɾ aː n	C V C C C V C
+1451	Kurukh	round	guʈiɳɖa	guʈiɳɖa	g u ʈ i ɳ a		round-B	569	g u - ʈ - i ɳ a	C V C V C V	g u - ʈ - i ɳ ɖ a	g u ʈ i ɳ ɖ a	C V C V C C V
+1452	Malto	round	guɖme	guɖme	g u ɖ e		round-B	569	g u - ɖ - - - e	C V C V	g u - ɖ - - - m e	g u ɖ m e	C V C C V
+1454	Telugu	round	guɳɖɾani	guɳɖɾani	g u ɳ ɖ ɾ a n i		round-B	569	g u ɳ ɖ ɾ a n i	C V C C C V C V	g u ɳ ɖ ɾ a n - i	g u ɳ ɖ ɾ a n i	C V C C C V C V
+1456	Kodava	round	uɾuʈa	uɾuʈa	u ɾ u ʈ a		round-D	571	u ɾ u ʈ a	V C V C V	u ɾ u - ʈ a -	u ɾ u ʈ a	V C V C V
+1457	Malayalam	round	uɾunɖa	uɾunɖa	u ɾ u ɖ a		round-D	571	u ɾ u ɖ a	V C V C V	u ɾ u n ɖ a -	u ɾ u n ɖ a	V C V C C V
+1458	Tamil	round	uɾunɖai	uɾunɖai	u ɾ u ɖ a		round-D	571	u ɾ u ɖ a	V C V C V	u ɾ u n ɖ a i	u ɾ u n ɖ a i	V C V C C V V
+1459	Toda	round	uʈʈi	uʈʈi	u ʈː i		round-D	571	- - u ʈː i	V C V	- - u - ʈː i -	u ʈː i	V C V
+1460	Tulu	round	uɾuʈə	uɾuʈə	u ɾ u ʈ ə		round-D	571	u ɾ u ʈ ə	V C V C V	u ɾ u - ʈ ə -	u ɾ u ʈ ə	V C V C V
+1461	Yeruva	round	uɾuʈu	uɾuʈu	u ɾ u ʈ u		round-D	571	u ɾ u ʈ u	V C V C V	u ɾ u - ʈ u -	u ɾ u ʈ u	V C V C V
+1465	Betta_Kurumba	sand	maɳalə	maɳalə	m a ɳ a l		sand-A	575	m a ɳ a l	C V C V C	m a ɳ a l ə	m a ɳ a l ə	C V C V C V
+1466	Kannada	sand	maraɭu	maraɭu	m a r a ɭ		sand-A	575	m a r a ɭ	C V C V C	m a r a ɭ u	m a r a ɭ u	C V C V C V
+1467	Kodava	sand	maɳa	maɳa	m a ɳ a		sand-A	575	m a ɳ a -	C V C V	m a ɳ a - -	m a ɳ a	C V C V
+1468	Malayalam	sand	maɳal	maɳal	m a ɳ a l		sand-A	575	m a ɳ a l	C V C V C	m a ɳ a l -	m a ɳ a l	C V C V C
+1469	Ollari_Gadba	sand	ma:n	ma:n	m aː n		sand-A	575	m aː n - -	C V C	m aː n - - -	m aː n	C V C
+1470	Parji	sand	man	man	m a n		sand-A	575	m a n - -	C V C	m a n - - -	m a n	C V C
+1471	Tamil	sand	maɳal	maɳal	m a ɳ a l		sand-A	575	m a ɳ a l	C V C V C	m a ɳ a l -	m a ɳ a l	C V C V C
+1472	Toda	sand	manal	manal	m a n a l		sand-A	575	m a n a l	C V C V C	m a n a l -	m a n a l	C V C V C
+1473	Yeruva	sand	maɳə	maɳə	m a ɳ ə		sand-A	575	m a ɳ ə -	C V C V	m a ɳ ə - -	m a ɳ ə	C V C V
+1474	Gondi	sand	uske	uske	u s k e		sand-B	576	u s - k e	V C C V	u s - k e	u s k e	V C C V
+1475	Kannada	sand	usubu	usubu	u s u b u		sand-B	576	u s u b u	V C V C V	u s u b u	u s u b u	V C V C V
+1476	Kolami	sand	usuka	usuka	u s u k a		sand-B	576	u s u k a	V C V C V	u s u k a	u s u k a	V C V C V
+1477	Koya	sand	isike	isike	i s i k e		sand-B	576	i s i k e	V C V C V	i s i k e	i s i k e	V C V C V
+1478	Telugu	sand	isuka	isuka	i s u k a		sand-B	576	i s u k a	V C V C V	i s u k a	i s u k a	V C V C V
+1491	Gondi	say	in	in	i n		say-E	586	i n	V C	i n -	i n	V C
+1492	Kodava	say	annə	annə	a nː		say-E	586	a nː	V C	a nː ə	a nː ə	V C V
+1493	Parji	say	en-	en-	e n		say-E	586	e n	V C	e n -	e n	V C
+1505	Badga	see	no:ɖə	no:ɖə	n oː ɖ ə		see-B	597	n oː ɖ ə	C V C V	n oː ɖ ə	n oː ɖ ə	C V C V
+1506	Betta_Kurumba	see	no:ɖ ~ najɾ	no:ɖ	n oː ɖ		see-B	597	n oː ɖ -	C V C	n oː ɖ -	n oː ɖ	C V C
+1508	Kannada	see	no:ɖu	no:ɖu	n oː ɖ u		see-B	597	n oː ɖ u	C V C V	n oː ɖ u	n oː ɖ u	C V C V
+1509	Kodava	see	no:ʈə	no:ʈə	n oː ʈ ə		see-B	597	n oː ʈ ə	C V C V	n oː ʈ ə	n oː ʈ ə	C V C V
+1510	Kota	see	no:ʈə	no:ʈə	n oː ʈ ə		see-B	597	n oː ʈ ə	C V C V	n oː ʈ ə	n oː ʈ ə	C V C V
+1511	Toda	see	nu:ʈ	nu:ʈ	n uː ʈ		see-B	597	n uː ʈ -	C V C	n uː ʈ -	n uː ʈ	C V C
+1512	Yeruva	see	no:ku	no:ku	n oː k u		see-B	597	n oː k u	C V C V	n oː k u	n oː k u	C V C V
+1513	Gondi	see	huɖa	huɖa	h u ɖ a		see-C	598	h u ɖ a	C V C V	h u ɖ a	h u ɖ a	C V C V
+1514	Ollari_Gadba	see	tʃu	tʃu	tʃ u		see-C	598	- - tʃ u	C V	- - tʃ u	tʃ u	C V
+1515	Telugu	see	tʃu:ɖu	tʃu:ɖu	tʃ uː ɖ u		see-C	598	tʃ uː ɖ u	C V C V	tʃ uː ɖ u	tʃ uː ɖ u	C V C V
+1523	Badga	seed	pittə	pittə	p i tː ə		seed-A	606	p i tː ə	C V C V	p i tː - - ə -	p i tː ə	C V C V
+1524	Betta_Kurumba	seed	bissə ~ bitʃtʃə	bissə	b i sː ə		seed-A	606	b i sː ə	C V C V	b i sː - - ə -	b i sː ə	C V C V
+1526	Brahui	seed	bedʒdʒ	bedʒdʒ	b e dʒː		seed-A	606	b e dʒː -	C V C	b e dʒː - - - -	b e dʒː	C V C
+1527	Gondi	seed	vidʒdʒa"	vidʒdʒa"	v i dʒː a		seed-A	606	v i dʒː a	C V C V	v i dʒː - - a -	v i dʒː a	C V C V
+1528	Kannada	seed	bede	bede	b e d e		seed-A	606	b e d e	C V C V	b e d - - e -	b e d e	C V C V
+1530	Kolami	seed	ʋittanam	ʋittanam	ʋ i tː a		seed-A	606	ʋ i tː a	C V C V	ʋ i tː a n a m	ʋ i tː a n a m	C V C V C V C
+1531	Kota	seed	ʋitu	ʋitu	ʋ i t u		seed-A	606	ʋ i t u	C V C V	ʋ i t - - u -	ʋ i t u	C V C V
+1532	Kurukh	seed	bi:	bi:	b iː		seed-A	606	b iː - -	C V	b iː - - - - -	b iː	C V
+1533	Malayalam	seed	vita	vita	v i t a		seed-A	606	v i t a	C V C V	v i t - - a -	v i t a	C V C V
+1534	Parji	seed	vittid	vittid	v i tː i		seed-A	606	v i tː i	C V C V	v i tː - - i d	v i tː i d	C V C V C
+1535	Tamil	seed	ʋedə	ʋedə	ʋ e d ə		seed-A	606	ʋ e d ə	C V C V	ʋ e d - - ə -	ʋ e d ə	C V C V
+1536	Telugu	seed	ʋittanam	ʋittanam	ʋ i tː a		seed-A	606	ʋ i tː a	C V C V	ʋ i tː a n a m	ʋ i tː a n a m	C V C V C V C
+1538	Toda	seed	pittə	pittə	p i tː ə		seed-A	606	p i tː ə	C V C V	p i tː - - ə -	p i tː ə	C V C V
+1539	Tulu	seed	bi:dʒa	bi:dʒa	b iː dʒ a		seed-A	606	b iː dʒ a	C V C V	b iː dʒ - - a -	b iː dʒ a	C V C V
+1548	Malayalam	sit	iɾikkuga	iɾikkuga	i ɾ i kː u g a		sit-B	613	i ɾ i kː u g a	V C V C V C V	i ɾ i kː u g a	i ɾ i kː u g a	V C V C V C V
+1549	Toda	sit	eɾakkaɾ	eɾakkaɾ	e ɾ a kː a ɾ		sit-B	613	e ɾ a kː a ɾ -	V C V C V C	e ɾ a kː a ɾ -	e ɾ a kː a ɾ	V C V C V C
+1550	Yeruva	sit	iɾaiku	iɾaiku	i ɾ a i k u		sit-B	613	i ɾ a - i k u	V C V V C V	i ɾ a - i k u	i ɾ a i k u	V C V V C V
+1551	Badga	sit	kuɭəʋə	kuɭəʋə	k u ɭ ə ʋ ə		sit-C	614	k u ɭ ə ʋ ə	C V C V C V	k u ɭ ə ʋ - - ə	k u ɭ ə ʋ ə	C V C V C V
+1552	Kannada	sit	kuɭitiko	kuɭitiko	k u ɭ i t o		sit-C	614	k u ɭ i t o	C V C V C V	k u ɭ i t i k o	k u ɭ i t i k o	C V C V C V C V
+1553	Tulu	sit	kullaɾa	kullaɾa	k u lː a ɾ a		sit-C	614	k u lː a ɾ a	C V C V C V	k u lː a ɾ - - a	k u lː a ɾ a	C V C V C V
+1558	Betta_Kurumba	sit	ku:tnu i:ɾ	ku:tnu i:ɾ	k uː t u iː		sit-F	617	k uː t u - iː	C V C V V	k uː t n u - iː ɾ	k uː t n u iː ɾ	C V C C V V C
+1559	Kannada	sit	ku:tuko	ku:tuko	k uː t u k o		sit-F	617	k uː t u k o	C V C V C V	k uː t - u k o -	k uː t u k o	C V C V C V
+1560	Koya	sit	kudda:	kudda:	k u d d aː		sit-F	617	k u d - d aː	C V C C V	k u d - - d aː -	k u d d aː	C V C C V
+1562	Gondi	sit	udda	udda	u d d a		sit-H	619	u d d a	V C C V	u d d a	u d d a	V C C V
+1563	Kolami	sit	udə	udə	u d ə		sit-H	619	u - d ə	V C V	u - d ə	u d ə	V C V
+1564	Ollari_Gadba	sit	undu	undu	u n d u		sit-H	619	u n d u	V C C V	u n d u	u n d u	V C C V
+1567	Badga	skin	to:lə	to:lə	t oː l ə		skin-A	622	t oː l ə	C V C V	t oː - - l - ə	t oː l ə	C V C V
+1568	Betta_Kurumba	skin	to:lə	to:lə	t oː l ə		skin-A	622	t oː l ə	C V C V	t oː - - l - ə	t oː l ə	C V C V
+1569	Gondi	skin	to:l	to:l	t oː l		skin-A	622	t oː l -	C V C	t oː - - l - -	t oː l	C V C
+1570	Kannada	skin	togalu	togalu	t o l u		skin-A	622	t o l u	C V C V	t o g a l - u	t o g a l u	C V C V C V
+1571	Kodava	skin	to:lə	to:lə	t oː l ə		skin-A	622	t oː l ə	C V C V	t oː - - l - ə	t oː l ə	C V C V
+1572	Kolami	skin	to:l	to:l	t oː l		skin-A	622	t oː l -	C V C	t oː - - l - -	t oː l	C V C
+1573	Kota	skin	to:lu	to:lu	t oː l u		skin-A	622	t oː l u	C V C V	t oː - - l - u	t oː l u	C V C V
+1574	Koya	skin	to:l	to:l	t oː l		skin-A	622	t oː l -	C V C	t oː - - l - -	t oː l	C V C
+1575	Malayalam	skin	toli	toli	t o l i		skin-A	622	t o l i	C V C V	t o - - l - i	t o l i	C V C V
+1576	Ollari_Gadba	skin	tal	tal	t a l		skin-A	622	t a l -	C V C	t a - - l - -	t a l	C V C
+1577	Parji	skin	tōl	tōl	t oː l		skin-A	622	t oː l -	C V C	t oː - - l - -	t oː l	C V C
+1578	Tamil	skin	to:lə	to:lə	t oː l ə		skin-A	622	t oː l ə	C V C V	t oː - - l - ə	t oː l ə	C V C V
+1579	Telugu	skin	to:lu	to:lu	t oː l u		skin-A	622	t oː l u	C V C V	t oː - - l - u	t oː l u	C V C V
+1580	Toda	skin	tu:ɾs	tu:ɾs	t uː ɾ		skin-A	622	t uː ɾ -	C V C	t uː - - ɾ s -	t uː ɾ s	C V C C
+1581	Yeruva	skin	to:lu	to:lu	t oː l u		skin-A	622	t oː l u	C V C V	t oː - - l - u	t oː l u	C V C V
+1582	Kannada	skin	tʃaɾma	tʃaɾma	tʃ a ɾ m a	LOAN	skin-B	623	tʃ a ɾ m a	C V C C V	tʃ a ɾ m a - -	tʃ a ɾ m a	C V C C V
+1583	Malayalam	skin	tʃeɾmam	tʃeɾmam	tʃ e ɾ m a	LOAN	skin-B	623	tʃ e ɾ m a	C V C C V	tʃ e ɾ m a m -	tʃ e ɾ m a m	C V C C V C
+1584	Telugu	skin	tʃaɾmamu	tʃaɾmamu	tʃ a ɾ m a	LOAN	skin-B	623	tʃ a ɾ m a	C V C C V	tʃ a ɾ m a m u	tʃ a ɾ m a m u	C V C C V C V
+1585	Tulu	skin	tʃeɾma	tʃeɾma	tʃ e ɾ m a	LOAN	skin-B	623	tʃ e ɾ m a	C V C C V	tʃ e ɾ m a - -	tʃ e ɾ m a	C V C C V
+1589	Badga	sleep	oɾəgədə	oɾəgədə	o ɾ g ə		sleep-A	627	o ɾ g ə	V C C V	o ɾ ə - g ə d ə	o ɾ ə g ə d ə	V C V C V C V
+1590	Betta_Kurumba	sleep	aɾgu ~ eɾgu	aɾgu	a ɾ g u		sleep-A	627	a ɾ g u	V C C V	a ɾ - - g - - u	a ɾ g u	V C C V
+1592	Kodava	sleep	oɾa	oɾa	o ɾ a		sleep-A	627	o ɾ - a	V C V	o ɾ - - - - - a	o ɾ a	V C V
+1593	Kota	sleep	oɾəgə	oɾəgə	o ɾ g ə		sleep-A	627	o ɾ g ə	V C C V	o ɾ ə - g - - ə	o ɾ ə g ə	V C V C V
+1594	Malayalam	sleep	uɾanguga	uɾanguga	u ɾ g a		sleep-A	627	u ɾ g a	V C C V	u ɾ a n g u g a	u ɾ a n g u g a	V C V C C V C V
+1595	Tamil	sleep	uṟaṅku-	uṟaṅku-	u r̪ k u		sleep-A	627	u r̪ k u	V C C V	u r̪ a ŋ k - - u	u r̪ a ŋ k u	V C V C C V
+1596	Toda	sleep	oɾkʰə	oɾkʰə	o ɾ kʰ ə		sleep-A	627	o ɾ kʰ ə	V C C V	o ɾ - - kʰ - - ə	o ɾ kʰ ə	V C C V
+1597	Yeruva	sleep	oɾa	oɾa	o ɾ a		sleep-A	627	o ɾ - a	V C V	o ɾ - - - - - a	o ɾ a	V C V
+1611	Kodava	small	tʃeɾijadə	tʃeɾijadə	tʃ e ɾ i j ə		small-A	638	tʃ e ɾ i j ə	C V C V C V	tʃ e ɾ i j a d ə	tʃ e ɾ i j a d ə	C V C V C V C V
+1612	Malayalam	small	tʃeɾija	tʃeɾija	tʃ e ɾ i j a		small-A	638	tʃ e ɾ i j a	C V C V C V	tʃ e ɾ i j - - a	tʃ e ɾ i j a	C V C V C V
+1613	Tamil	small	ciṟiya	ciṟiya	c i r̪ i a		small-A	638	c i r̪ i - a	C V C V V	c i r̪ i - y - a	c i r̪ i y a	C V C V V V
+1614	Yeruva	small	tʃeɾija	tʃeɾija	tʃ e ɾ i j a		small-A	638	tʃ e ɾ i j a	C V C V C V	tʃ e ɾ i j - - a	tʃ e ɾ i j a	C V C V C V
+1616	Brahui	small	tʃunak	tʃunak	tʃ u n a		small-C	640	tʃ u n a	C V C V	tʃ u n a k	tʃ u n a k	C V C V C
+1617	Gondi	small	tʃinna	tʃinna	tʃ i nː a		small-C	640	tʃ i nː a	C V C V	tʃ i nː a -	tʃ i nː a	C V C V
+1618	Kolami	small	sinna	sinna	s i nː a		small-C	640	s i nː a	C V C V	s i nː a -	s i nː a	C V C V
+1619	Koya	small	tʃinnad	tʃinnad	tʃ i nː a		small-C	640	tʃ i nː a	C V C V	tʃ i nː a d	tʃ i nː a d	C V C V C
+1620	Kurukh	small	sanni	sanni	s a nː i		small-C	640	s a nː i	C V C V	s a nː i -	s a nː i	C V C V
+1621	Parji	small	cin	cin	c i n		small-C	640	c i n -	C V C	c i n - -	c i n	C V C
+1622	Tamil	small	tʃinna	tʃinna	tʃ i nː a		small-C	640	tʃ i nː a	C V C V	tʃ i nː a -	tʃ i nː a	C V C V
+1623	Telugu	small	tʃinna	tʃinna	tʃ i nː a		small-C	640	tʃ i nː a	C V C V	tʃ i nː a -	tʃ i nː a	C V C V
+1624	Tulu	small	kiɲa	kiɲa	k i ɲ a		small-C	640	k i ɲ a	C V C V	k i ɲ a -	k i ɲ a	C V C V
+1633	Badga	smoke	hoge	hoge	h o g e		smoke-A	648	h o g e	C V C V	h o - - g - - - e	h o g e	C V C V
+1634	Betta_Kurumba	smoke	pəggi	pəggi	p ə gː i		smoke-A	648	p ə gː i	C V C V	p ə - - gː - - - i	p ə gː i	C V C V
+1635	Gondi	smoke	poja	poja	p o		smoke-A	648	p o - -	C V	p o j a - - - - -	p o j a	C V C V
+1636	Kannada	smoke	hoge	hoge	h o g e		smoke-A	648	h o g e	C V C V	h o - - g - - - e	h o g e	C V C V
+1637	Kodava	smoke	poge	poge	p o g e		smoke-A	648	p o g e	C V C V	p o - - g - - - e	p o g e	C V C V
+1638	Kolami	smoke	pog	pog	p o g		smoke-A	648	p o g -	C V C	p o - - g - - - -	p o g	C V C
+1639	Kota	smoke	pegu	pegu	p e g u		smoke-A	648	p e g u	C V C V	p e - - g - - - u	p e g u	C V C V
+1640	Malayalam	smoke	puka	puka	p u k a		smoke-A	648	p u k a	C V C V	p u - - k - - - a	p u k a	C V C V
+1641	Ollari_Gadba	smoke	poa:g	poa:g	p o g		smoke-A	648	p o g -	C V C	p o - aː g - - - -	p o aː g	C V V C
+1642	Tamil	smoke	pukai	pukai	p u k i		smoke-A	648	p u k i	C V C V	p u - - k a - - i	p u k a i	C V C V V
+1644	Telugu	smoke	poga	poga	p o g a		smoke-A	648	p o g a	C V C V	p o - - g - - - a	p o g a	C V C V
+1645	Toda	smoke	pukuɖti	pukuɖti	p u k i		smoke-A	648	p u k i	C V C V	p u - - k u ɖ t i	p u k u ɖ t i	C V C V C C V
+1646	Tulu	smoke	poga	poga	p o g a		smoke-A	648	p o g a	C V C V	p o - - g - - - a	p o g a	C V C V
+1647	Yeruva	smoke	poge	poge	p o g e		smoke-A	648	p o g e	C V C V	p o - - g - - - e	p o g e	C V C V
+1649	Brahui	smoke	mo:ʃ	mo:ʃ	m oː ʃ		smoke-C	650	m oː ʃ -	C V C	m oː ʃ - - -	m oː ʃ	C V C
+1650	Kurukh	smoke	mosaga	mosaga	m o s a		smoke-C	650	m o s a	C V C V	m o s a g a	m o s a g a	C V C V C V
+1651	Malto	smoke	mo:ha	mo:ha	m oː h a		smoke-C	650	m oː h a	C V C V	m oː h - - a	m oː h a	C V C V
+1652	Badga	stand	nippə	nippə	n i pː ə		stand-A	651	n i - pː ə	C V C V	n i - - pː - - ə	n i pː ə	C V C V
+1653	Gondi	stand	nil	nil	n i l		stand-A	651	n i l - -	C V C	n i l - - - - -	n i l	C V C
+1654	Kannada	stand	nintiko	nintiko	n i n t o		stand-A	651	n i n t o	C V C C V	n i n - t i k o	n i n t i k o	C V C C V C V
+1655	Kodava	stand	nində	nində	n i n d ə		stand-A	651	n i n d ə	C V C C V	n i n - d - - ə	n i n d ə	C V C C V
+1656	Kolami	stand	ni:ma:n	ni:ma:n	n iː m		stand-A	651	n iː - m -	C V C	n iː - - m aː n -	n iː m aː n	C V C V C
+1657	Kota	stand	ninnatukə	ninnatukə	n i nː t ə		stand-A	651	n i nː t ə	C V C C V	n i nː a t u k ə	n i nː a t u k ə	C V C V C V C V
+1658	Koya	stand	nilla	nilla	n i lː a		stand-A	651	n i lː - a	C V C V	n i lː - - - - a	n i lː a	C V C V
+1660	Kurukh	stand	idʒdʒna	idʒdʒna	i dʒː a		stand-A	651	- i - dʒː a	V C V	- i - - dʒː - n a	i dʒː n a	V C C V
+1661	Malayalam	stand	nilkuga	nilkuga	n i l k a		stand-A	651	n i l k a	C V C C V	n i l - k u g a	n i l k u g a	C V C C V C V
+1662	Malto	stand	hilpo	hilpo	h i l p o		stand-A	651	h i l p o	C V C C V	h i l - p - - o	h i l p o	C V C C V
+1663	Parji	stand	nilp-	nilp-	n i l p		stand-A	651	n i l p -	C V C C	n i l - p - - -	n i l p	C V C C
+1664	Tamil	stand	nil	nil	n i l		stand-A	651	n i l - -	C V C	n i l - - - - -	n i l	C V C
+1665	Telugu	stand	niltʃonu	niltʃonu	n i l tʃ u		stand-A	651	n i l tʃ u	C V C C V	n i l - tʃ o n u	n i l tʃ o n u	C V C C V C V
+1667	Yeruva	stand	nindʒo	nindʒo	n i n dʒ o		stand-A	651	n i n dʒ o	C V C C V	n i n - dʒ - - o	n i n dʒ o	C V C C V
+1674	Betta_Kurumba	star	mi:nu	mi:nu	m iː n u		star-A	657	m iː n u	C V C V	m iː n - u	m iː n u	C V C V
+1675	Kurukh	star	bi:nko	bi:nko	b iː n o		star-A	657	b iː n o	C V C V	b iː n k o	b iː n k o	C V C C V
+1676	Malto	star	bi:nka	bi:nka	b iː n a		star-A	657	b iː n a	C V C V	b iː n k a	b iː n k a	C V C C V
+1677	Tamil	star	mīṉ	mīṉ	m iː n̪		star-A	657	m iː n̪ -	C V C	m iː n̪ - -	m iː n̪	C V C
+1679	Badga	star	natʃtʃatɾa	natʃtʃatɾa	n a tʃː a t ɾ a	LOAN	star-C	659	n a - tʃː a t ɾ a	C V C V C C V	n a - tʃː a t - ɾ a - -	n a tʃː a t ɾ a	C V C V C C V
+1680	Kannada	star	nakʂatɾ	nakʂatɾ	n a k ʂ a t ɾ	LOAN	star-C	659	n a k ʂ a t ɾ -	C V C C V C C	n a k ʂ a t - ɾ - - -	n a k ʂ a t ɾ	C V C C V C C
+1681	Kodava	star	nakʂatɾa	nakʂatɾa	n a k ʂ a t ɾ a	LOAN	star-C	659	n a k ʂ a t ɾ a	C V C C V C C V	n a k ʂ a t - ɾ a - -	n a k ʂ a t ɾ a	C V C C V C C V
+1682	Kota	star	nakʂaʈiɾam	nakʂaʈiɾam	n a k ʂ a ʈ ɾ a	LOAN	star-C	659	n a k ʂ a ʈ ɾ a	C V C C V C C V	n a k ʂ a ʈ i ɾ a m -	n a k ʂ a ʈ i ɾ a m	C V C C V C V C V C
+1683	Malayalam	star	nakʂatɾam	nakʂatɾam	n a k ʂ a t ɾ a	LOAN	star-C	659	n a k ʂ a t ɾ a	C V C C V C C V	n a k ʂ a t - ɾ a m -	n a k ʂ a t ɾ a m	C V C C V C C V C
+1684	Tamil	star	natʃtʃatiɾam	natʃtʃatiɾam	n a tʃː a t ɾ a	LOAN	star-C	659	n a - tʃː a t ɾ a	C V C V C C V	n a - tʃː a t i ɾ a m -	n a tʃː a t i ɾ a m	C V C V C V C V C
+1685	Telugu	star	nakʂatɾamu	nakʂatɾamu	n a k ʂ a t ɾ a	LOAN	star-C	659	n a k ʂ a t ɾ a	C V C C V C C V	n a k ʂ a t - ɾ a m u	n a k ʂ a t ɾ a m u	C V C C V C C V C V
+1686	Toda	star	naʈtʃatiɾam	naʈtʃatiɾam	n a ʈ tʃ a t ɾ a	LOAN	star-C	659	n a ʈ tʃ a t ɾ a	C V C C V C C V	n a ʈ tʃ a t i ɾ a m -	n a ʈ tʃ a t i ɾ a m	C V C C V C V C V C
+1687	Tulu	star	nakʂatɾe	nakʂatɾe	n a k ʂ a t ɾ e	LOAN	star-C	659	n a k ʂ a t ɾ e	C V C C V C C V	n a k ʂ a t - ɾ e - -	n a k ʂ a t ɾ e	C V C C V C C V
+1688	Yeruva	star	natʃtʃatiɾa	natʃtʃatiɾa	n a tʃː a t ɾ a	LOAN	star-C	659	n a - tʃː a t ɾ a	C V C V C C V	n a - tʃː a t i ɾ a - -	n a tʃː a t i ɾ a	C V C V C V C V
+1689	Gondi	star	sukku	sukku	s u kː u		star-D	660	s u kː u	C V C V	s u kː u	s u kː u	C V C V
+1690	Kolami	star	sukka	sukka	s u kː a		star-D	660	s u kː a	C V C V	s u kː a	s u kː a	C V C V
+1691	Koya	star	ukka	ukka	u kː a		star-D	660	- u kː a	V C V	- u kː a	u kː a	V C V
+1692	Kuwi	star	huka	huka	h u k a		star-D	660	h u k a	C V C V	h u k a	h u k a	C V C V
+1693	Parji	star	cukka	cukka	c u kː a		star-D	660	c u kː a	C V C V	c u kː a	c u kː a	C V C V
+1694	Telugu	star	tʃukka	tʃukka	tʃ u kː a		star-D	660	tʃ u kː a	C V C V	tʃ u kː a	tʃ u kː a	C V C V
+1697	Badga	stone	kallə	kallə	k a lː ə		stone-A	663	k a lː ə	C V C V	k a lː ə -	k a lː ə	C V C V
+1698	Betta_Kurumba	stone	kallə	kallə	k a lː ə		stone-A	663	k a lː ə	C V C V	k a lː ə -	k a lː ə	C V C V
+1699	Brahui	stone	xal	xal	x a l		stone-A	663	x a l -	C V C	x a l - -	x a l	C V C
+1700	Kannada	stone	kallu	kallu	k a lː u		stone-A	663	k a lː u	C V C V	k a lː u -	k a lː u	C V C V
+1702	Kodava	stone	kallə	kallə	k a lː ə		stone-A	663	k a lː ə	C V C V	k a lː ə -	k a lː ə	C V C V
+1703	Kota	stone	kal	kal	k a l		stone-A	663	k a l -	C V C	k a l - -	k a l	C V C
+1704	Malayalam	stone	kallə	kallə	k a lː ə		stone-A	663	k a lː ə	C V C V	k a lː ə -	k a lː ə	C V C V
+1705	Ollari_Gadba	stone	kanɖ	kanɖ	k a n		stone-A	663	k a n -	C V C	k a n - ɖ	k a n ɖ	C V C C
+1706	Parji	stone	kel	kel	k e l		stone-A	663	k e l -	C V C	k e l - -	k e l	C V C
+1707	Tamil	stone	kallə	kallə	k a lː ə		stone-A	663	k a lː ə	C V C V	k a lː ə -	k a lː ə	C V C V
+1708	Toda	stone	kaɾs	kaɾs	k a ɾ		stone-A	663	k a ɾ -	C V C	k a ɾ - s	k a ɾ s	C V C C
+1709	Tulu	stone	kallu	kallu	k a lː u		stone-A	663	k a lː u	C V C V	k a lː u -	k a lː u	C V C V
+1710	Yeruva	stone	kallu	kallu	k a lː u		stone-A	663	k a lː u	C V C V	k a lː u -	k a lː u	C V C V
+1718	Kannada	sun	su:rja	su:rja	s uː r j a	LOAN	sun-A	670	s uː r j a	C V C C V	s uː r - j a - -	s uː r j a	C V C C V
+1719	Kodava	sun	su:ɾja	su:ɾja	s uː ɾ j a	LOAN	sun-A	670	s uː ɾ j a	C V C C V	s uː ɾ - j a - -	s uː ɾ j a	C V C C V
+1720	Kolami	sun	suɾija	suɾija	s u ɾ j a	LOAN	sun-A	670	s u ɾ j a	C V C C V	s u ɾ i j a - -	s u ɾ i j a	C V C V C V
+1721	Kota	sun	su:rijan	su:rijan	s uː r j a	LOAN	sun-A	670	s uː r j a	C V C C V	s uː r i j a n -	s uː r i j a n	C V C V C V C
+1722	Malayalam	sun	su:ɾjan	su:ɾjan	s uː ɾ j a	LOAN	sun-A	670	s uː ɾ j a	C V C C V	s uː ɾ - j a n -	s uː ɾ j a n	C V C C V C
+1723	Tamil	sun	su:ɾjan	su:ɾjan	s uː ɾ j a	LOAN	sun-A	670	s uː ɾ j a	C V C C V	s uː ɾ - j a n -	s uː ɾ j a n	C V C C V C
+1724	Telugu	sun	su:ɾjuɖu	su:ɾjuɖu	s uː ɾ j u	LOAN	sun-A	670	s uː ɾ j u	C V C C V	s uː ɾ - j u ɖ u	s uː ɾ j u ɖ u	C V C C V C V
+1725	Toda	sun	su:ɾijan	su:ɾijan	s uː ɾ j a	LOAN	sun-A	670	s uː ɾ j a	C V C C V	s uː ɾ i j a n -	s uː ɾ i j a n	C V C V C V C
+1726	Tulu	sun	su:ɾje	su:ɾje	s uː ɾ j e	LOAN	sun-A	670	s uː ɾ j e	C V C C V	s uː ɾ - j e - -	s uː ɾ j e	C V C C V
+1727	Yeruva	sun	tʃu:rja	tʃu:rja	tʃ uː r j a	LOAN	sun-A	670	tʃ uː r j a	C V C C V	tʃ uː r - j a - -	tʃ uː r j a	C V C C V
+1728	Betta_Kurumba	sun	pottə	pottə	p o tː ə		sun-B	671	p o - tː ə	C V C V	p o - - tː ə	p o tː ə	C V C V
+1729	Gondi	sun	poɾə	poɾə	p o ɾ ə		sun-B	671	p o - ɾ ə	C V C V	p o - - ɾ ə	p o ɾ ə	C V C V
+1730	Kolami	sun	poddu	poddu	p o d d u		sun-B	671	p o d d u	C V C C V	p o d - d u	p o d d u	C V C C V
+1731	Kota	sun	poɖutə	poɖutə	p o ɖ t ə		sun-B	671	p o ɖ t ə	C V C C V	p o ɖ u t ə	p o ɖ u t ə	C V C V C V
+1732	Koya	sun	poɖudu	poɖudu	p o ɖ d u		sun-B	671	p o ɖ d u	C V C C V	p o ɖ u d u	p o ɖ u d u	C V C V C V
+1733	Telugu	sun	poddu	poddu	p o d d u		sun-B	671	p o d d u	C V C C V	p o d - d u	p o d d u	C V C C V
+1740	Badga	swim	ni:ndə	ni:ndə	n iː d ə		swim-A	676	n iː d ə	C V C V	n iː - n d - - ə -	n iː n d ə	C V C C V
+1741	Betta_Kurumba	swim	ni:nɖʒu	ni:nɖʒu	n iː ɖ u		swim-A	676	n iː ɖ u	C V C V	n iː - n ɖ - ʒ u -	n iː n ɖ ʒ u	C V C C C V
+1742	Kannada	swim	i:dʒo	i:dʒo	iː dʒ o		swim-A	676	- iː dʒ o	V C V	- iː - - dʒ - - o -	iː dʒ o	V C V
+1743	Kota	swim	ni:tʃal	ni:tʃal	n iː tʃ a		swim-A	676	n iː tʃ a	C V C V	n iː - - tʃ - - a l	n iː tʃ a l	C V C V C
+1744	Koya	swim	i:ta	i:ta	iː t a		swim-A	676	- iː t a	V C V	- iː - - t - - a -	iː t a	V C V
+1745	Malayalam	swim	neentuga	neentuga	n e t a		swim-A	676	n e t a	C V C V	n e e n t u g a -	n e e n t u g a	C V V C C V C V
+1746	Tamil	swim	neentə	neentə	n e t ə		swim-A	676	n e t ə	C V C V	n e e n t - - ə -	n e e n t ə	C V V C C V
+1747	Telugu	swim	i:du	i:du	iː d u		swim-A	676	- iː d u	V C V	- iː - - d - - u -	iː d u	V C V
+1748	Toda	swim	ni:tʃal	ni:tʃal	n iː tʃ a		swim-A	676	n iː tʃ a	C V C V	n iː - - tʃ - - a l	n iː tʃ a l	C V C V C
+1758	Badga	tail	pa:lə	pa:lə	p aː l ə		tail-A	685	p aː l ə	C V C V	p aː l - - - ə	p aː l ə	C V C V
+1759	Betta_Kurumba	tail	ba:lə	ba:lə	b aː l ə		tail-A	685	b aː l ə	C V C V	b aː l - - - ə	b aː l ə	C V C V
+1760	Kannada	tail	ba:la	ba:la	b aː l a		tail-A	685	b aː l a	C V C V	b aː l - - - a	b aː l a	C V C V
+1761	Kodava	tail	ba:lə	ba:lə	b aː l ə		tail-A	685	b aː l ə	C V C V	b aː l - - - ə	b aː l ə	C V C V
+1762	Kota	tail	ʋa:lə	ʋa:lə	ʋ aː l ə		tail-A	685	ʋ aː l ə	C V C V	ʋ aː l - - - ə	ʋ aː l ə	C V C V
+1763	Malayalam	tail	ʋa:lə	ʋa:lə	ʋ aː l ə		tail-A	685	ʋ aː l ə	C V C V	ʋ aː l - - - ə	ʋ aː l ə	C V C V
+1764	Tamil	tail	ʋa:lə	ʋa:lə	ʋ aː l ə		tail-A	685	ʋ aː l ə	C V C V	ʋ aː l - - - ə	ʋ aː l ə	C V C V
+1765	Telugu	tail	vālamu	vālamu	v aː l u		tail-A	685	v aː l u	C V C V	v aː l - a m u	v aː l a m u	C V C V C V
+1766	Toda	tail	po:ɾsam	po:ɾsam	p oː ɾ		tail-A	685	p oː ɾ -	C V C	p oː ɾ s a m -	p oː ɾ s a m	C V C C V C
+1767	Yeruva	tail	ba:lu	ba:lu	b aː l u		tail-A	685	b aː l u	C V C V	b aː l - - - u	b aː l u	C V C V
+1768	Gondi	tail	tokoɾ	tokoɾ	t o k o		tail-B	686	t o k o	C V C V	t o k o ɾ	t o k o ɾ	C V C V C
+1769	Kolami	tail	to:ka	to:ka	t oː k a		tail-B	686	t oː k a	C V C V	t oː k a -	t oː k a	C V C V
+1770	Koya	tail	toka:ɾ	toka:ɾ	t o k aː		tail-B	686	t o k aː	C V C V	t o k aː ɾ	t o k aː ɾ	C V C V C
+1771	Parji	tail	tōka	tōka	t oː k a		tail-B	686	t oː k a	C V C V	t oː k a -	t oː k a	C V C V
+1772	Telugu	tail	to:ka	to:ka	t oː k a		tail-B	686	t oː k a	C V C V	t oː k a -	t oː k a	C V C V
+1778	Badga	that	adə	adə	a d ə		that-A	691	a d ə	V C V	a - d ə	a d ə	V C V
+1779	Betta_Kurumba	that	adə	adə	a d ə		that-A	691	a d ə	V C V	a - d ə	a d ə	V C V
+1780	Gondi	that	adu	adu	a d u		that-A	691	a d u	V C V	a - d u	a d u	V C V
+1781	Kannada	that	ā	ā	aː		that-A	691	- - aː	V	- - - aː	aː	V
+1783	Kodava	that	adə	adə	a d ə		that-A	691	a d ə	V C V	a - d ə	a d ə	V C V
+1784	Kolami	that	ad	ad	a d		that-A	691	a d -	V C	a - d -	a d	V C
+1785	Kota	that	adhə	adhə	a dʱ ə		that-A	691	a dʱ ə	V C V	a - dʱ ə	a dʱ ə	V C V
+1786	Koya	that	addu	addu	a d u		that-A	691	a d u	V C V	a d d u	a d d u	V C C V
+1787	Kurukh	that	hu:	hu:	h uː		that-A	691	- h uː	C V	- - h uː	h uː	C V
+1788	Malayalam	that	a:	a:	aː		that-A	691	- - aː	V	- - - aː	aː	V
+1790	Malto	that	a:du	a:du	aː d u		that-A	691	aː d u	V C V	aː - d u	aː d u	V C V
+1792	Ollari_Gadba	that	adə	adə	a d ə		that-A	691	a d ə	V C V	a - d ə	a d ə	V C V
+1793	Parji	that	ā	ā	aː		that-A	691	- - aː	V	- - - aː	aː	V
+1794	Tamil	that	anta	anta	a t a		that-A	691	a t a	V C V	a n t a	a n t a	V C C V
+1796	Telugu	that	ā	ā	aː		that-A	691	- - aː	V	- - - aː	aː	V
+1798	Toda	that	adə	adə	a d ə		that-A	691	a d ə	V C V	a - d ə	a d ə	V C V
+1799	Tulu	that	aʋu	aʋu	a ʋ u		that-A	691	a ʋ u	V C V	a - ʋ u	a ʋ u	V C V
+1800	Yeruva	that	aʋe:	aʋe:	a ʋ eː		that-A	691	a ʋ eː	V C V	a - ʋ eː	a ʋ eː	V C V
+1803	Badga	this	idə	idə	i d ə		this-A	693	i d ə	V C V	i - d ə	i d ə	V C V
+1804	Betta_Kurumba	this	idə	idə	i d ə		this-A	693	i d ə	V C V	i - d ə	i d ə	V C V
+1805	Gondi	this	id	id	i d		this-A	693	i d -	V C	i - d -	i d	V C
+1806	Kannada	this	idhu	idhu	i dʱ u		this-A	693	i dʱ u	V C V	i - dʱ u	i dʱ u	V C V
+1807	Kodava	this	idə	idə	i d ə		this-A	693	i d ə	V C V	i - d ə	i d ə	V C V
+1808	Kolami	this	id	id	i d		this-A	693	i d -	V C	i - d -	i d	V C
+1809	Kota	this	idhə	idhə	i dʱ ə		this-A	693	i dʱ ə	V C V	i - dʱ ə	i dʱ ə	V C V
+1810	Koya	this	iddu	iddu	i d u		this-A	693	i d u	V C V	i d d u	i d d u	V C C V
+1811	Kurukh	this	i:d	i:d	iː d		this-A	693	iː d -	V C	iː - d -	iː d	V C
+1812	Kuwi	this	idu	idu	i d u		this-A	693	i d u	V C V	i - d u	i d u	V C V
+1813	Malayalam	this	i:	i:	iː		this-A	693	iː - -	V	iː - - -	iː	V
+1815	Malto	this	i:du	i:du	iː d u		this-A	693	iː d u	V C V	iː - d u	iː d u	V C V
+1816	Ollari_Gadba	this	idə	idə	i d ə		this-A	693	i d ə	V C V	i - d ə	i d ə	V C V
+1817	Parji	this	ī	ī	iː		this-A	693	iː - -	V	iː - - -	iː	V
+1818	Tamil	this	inta	inta	i t a		this-A	693	i t a	V C V	i n t a	i n t a	V C C V
+1820	Telugu	this	ī	ī	iː		this-A	693	iː - -	V	iː - - -	iː	V
+1822	Toda	this	idə	idə	i d ə		this-A	693	i d ə	V C V	i - d ə	i d ə	V C V
+1823	Yeruva	this	iʋe:	iʋe:	i ʋ eː		this-A	693	i ʋ eː	V C V	i - ʋ eː	i ʋ eː	V C V
+1826	Badga	thou	ni	ni	n i		thou-A	696	n i -	C V	n i - -	n i	C V
+1827	Betta_Kurumba	thou	ni:jə	ni:jə	n iː j		thou-A	696	n iː j	C V C	n iː j ə	n iː j ə	C V C V
+1828	Brahui	thou	ni:	ni:	n iː		thou-A	696	n iː -	C V	n iː - -	n iː	C V
+1829	Gondi	thou	nimme	nimme	n i mː		thou-A	696	n i mː	C V C	n i mː e	n i mː e	C V C V
+1830	Kannada	thou	ni:nu	ni:nu	n iː n		thou-A	696	n iː n	C V C	n iː n u	n iː n u	C V C V
+1831	Kodava	thou	ni:nə	ni:nə	n iː n		thou-A	696	n iː n	C V C	n iː n ə	n iː n ə	C V C V
+1832	Kolami	thou	ni:nu	ni:nu	n iː n		thou-A	696	n iː n	C V C	n iː n u	n iː n u	C V C V
+1833	Kota	thou	ni:ja	ni:ja	n iː j		thou-A	696	n iː j	C V C	n iː j a	n iː j a	C V C V
+1834	Koya	thou	nimma	nimma	n i mː		thou-A	696	n i mː	C V C	n i mː a	n i mː a	C V C V
+1835	Kurukh	thou	ni:n	ni:n	n iː n		thou-A	696	n iː n	C V C	n iː n -	n iː n	C V C
+1836	Kuwi	thou	ninu	ninu	n i n		thou-A	696	n i n	C V C	n i n u	n i n u	C V C V
+1837	Malayalam	thou	ni	ni	n i		thou-A	696	n i -	C V	n i - -	n i	C V
+1838	Malto	thou	ni:n	ni:n	n iː n		thou-A	696	n iː n	C V C	n iː n -	n iː n	C V C
+1840	Ollari_Gadba	thou	in	in	i n		thou-A	696	- i n	V C	- i n -	i n	V C
+1841	Parji	thou	īn	īn	iː n		thou-A	696	- iː n	V C	- iː n -	iː n	V C
+1842	Tamil	thou	ni	ni	n i		thou-A	696	n i -	C V	n i - -	n i	C V
+1843	Telugu	thou	ni:ʋu	ni:ʋu	n iː ʋ		thou-A	696	n iː ʋ	C V C	n iː ʋ u	n iː ʋ u	C V C V
+1845	Toda	thou	ni	ni	n i		thou-A	696	n i -	C V	n i - -	n i	C V
+1846	Tulu	thou	i	i	i		thou-A	696	- i -	V	- i - -	i	V
+1847	Yeruva	thou	ni	ni	n i		thou-A	696	n i -	C V	n i - -	n i	C V
+1848	Badga	tongue	na:lange	na:lange	n aː l a g e		tongue-A	697	n aː l a g e	C V C V C V	n aː l a n g e	n aː l a n g e	C V C V C C V
+1849	Betta_Kurumba	tongue	nelgi	nelgi	n e l g i		tongue-A	697	n e l - g i	C V C C V	n e l - - g i	n e l g i	C V C C V
+1850	Kannada	tongue	na:lige	na:lige	n aː l i g e		tongue-A	697	n aː l i g e	C V C V C V	n aː l i - g e	n aː l i g e	C V C V C V
+1851	Kodava	tongue	na:ʋu	na:ʋu	n aː ʋ u		tongue-A	697	n aː ʋ u - -	C V C V	n aː ʋ u - - -	n aː ʋ u	C V C V
+1852	Kolami	tongue	na:lka	na:lka	n aː l k a		tongue-A	697	n aː l - k a	C V C C V	n aː l - - k a	n aː l k a	C V C C V
+1853	Kota	tongue	na:lgə	na:lgə	n aː l g ə		tongue-A	697	n aː l - g ə	C V C C V	n aː l - - g ə	n aː l g ə	C V C C V
+1854	Koya	tongue	na:like	na:like	n aː l i k e		tongue-A	697	n aː l i k e	C V C V C V	n aː l i - k e	n aː l i k e	C V C V C V
+1855	Malayalam	tongue	na:kə	na:kə	n aː k ə		tongue-A	697	n aː k ə - -	C V C V	n aː k ə - - -	n aː k ə	C V C V
+1856	Ollari_Gadba	tongue	na:ng	na:ng	n aː n g		tongue-A	697	n aː n - g -	C V C C	n aː n - - g -	n aː n g	C V C C
+1857	Parji	tongue	nevãḍ	nevãḍ	n e v ã ɖ		tongue-A	697	n e v ã ɖ -	C V C V C	n e v ã - ɖ -	n e v ã ɖ	C V C V C
+1858	Tamil	tongue	na:kkə	na:kkə	n aː kː ə		tongue-A	697	n aː kː ə - -	C V C V	n aː kː ə - - -	n aː kː ə	C V C V
+1859	Telugu	tongue	na:luka	na:luka	n aː l u k a		tongue-A	697	n aː l u k a	C V C V C V	n aː l u - k a	n aː l u k a	C V C V C V
+1860	Toda	tongue	no:f	no:f	n oː f		tongue-A	697	n oː f - - -	C V C	n oː f - - - -	n oː f	C V C
+1861	Tulu	tongue	na:la:ji	na:la:ji	n aː l aː j i		tongue-A	697	n aː l aː j i	C V C V C V	n aː l aː - j i	n aː l aː j i	C V C V C V
+1862	Yeruva	tongue	na:ʋu	na:ʋu	n aː ʋ u		tongue-A	697	n aː ʋ u - -	C V C V	n aː ʋ u - - -	n aː ʋ u	C V C V
+1868	Badga	tooth	hallə	hallə	h a lː ə		tooth-A	701	h a lː ə	C V C V	h a lː - ə -	h a lː ə	C V C V
+1869	Betta_Kurumba	tooth	pallə	pallə	p a lː ə		tooth-A	701	p a lː ə	C V C V	p a lː - ə -	p a lː ə	C V C V
+1870	Gondi	tooth	pal	pal	p a l		tooth-A	701	p a l -	C V C	p a l - - -	p a l	C V C
+1871	Kannada	tooth	hallu	hallu	h a lː u		tooth-A	701	h a lː u	C V C V	h a lː - u -	h a lː u	C V C V
+1872	Kodava	tooth	pallə	pallə	p a lː ə		tooth-A	701	p a lː ə	C V C V	p a lː - ə -	p a lː ə	C V C V
+1873	Kolami	tooth	palku	palku	p a l u		tooth-A	701	p a l u	C V C V	p a l k u -	p a l k u	C V C C V
+1874	Kota	tooth	pal	pal	p a l		tooth-A	701	p a l -	C V C	p a l - - -	p a l	C V C
+1875	Koya	tooth	palk	palk	p a l		tooth-A	701	p a l -	C V C	p a l k - -	p a l k	C V C C
+1876	Kurukh	tooth	pall	pall	p a lː		tooth-A	701	p a lː -	C V C	p a lː - - -	p a lː	C V C
+1877	Kuwi	tooth	palu	palu	p a l u		tooth-A	701	p a l u	C V C V	p a l - u -	p a l u	C V C V
+1878	Malayalam	tooth	pallə	pallə	p a lː ə		tooth-A	701	p a lː ə	C V C V	p a lː - ə -	p a lː ə	C V C V
+1879	Malto	tooth	pa:ldu	pa:ldu	p aː l u		tooth-A	701	p aː l u	C V C V	p aː l d u -	p aː l d u	C V C C V
+1880	Ollari_Gadba	tooth	pa:lkill	pa:lkill	p aː l i		tooth-A	701	p aː l i	C V C V	p aː l k i lː	p aː l k i lː	C V C C V C
+1881	Parji	tooth	pel	pel	p e l		tooth-A	701	p e l -	C V C	p e l - - -	p e l	C V C
+1882	Tamil	tooth	pallə	pallə	p a lː ə		tooth-A	701	p a lː ə	C V C V	p a lː - ə -	p a lː ə	C V C V
+1883	Telugu	tooth	pannu	pannu	p a u		tooth-A	701	p a - u	C V V	p a - nː u -	p a nː u	C V C V
+1884	Toda	tooth	paɾse	paɾse	p a ɾ e		tooth-A	701	p a ɾ e	C V C V	p a ɾ s e -	p a ɾ s e	C V C C V
+1885	Yeruva	tooth	pallu	pallu	p a lː u		tooth-A	701	p a lː u	C V C V	p a lː - u -	p a lː u	C V C V
+1889	Badga	tree	moɾa	moɾa	m o ɾ a		tree-A	704	m o ɾ a	C V C V	m o ɾ a -	m o ɾ a	C V C V
+1890	Betta_Kurumba	tree	meɾi	meɾi	m e ɾ i		tree-A	704	m e ɾ i	C V C V	m e ɾ i -	m e ɾ i	C V C V
+1891	Gondi	tree	maɾa	maɾa	m a ɾ a		tree-A	704	m a ɾ a	C V C V	m a ɾ a -	m a ɾ a	C V C V
+1892	Kannada	tree	mara	mara	m a r a		tree-A	704	m a r a	C V C V	m a r a -	m a r a	C V C V
+1893	Kodava	tree	maɾa	maɾa	m a ɾ a		tree-A	704	m a ɾ a	C V C V	m a ɾ a -	m a ɾ a	C V C V
+1894	Kolami	tree	ma:k	ma:k	m aː k		tree-A	704	m aː k -	C V C	m aː k - -	m aː k	C V C
+1895	Kota	tree	maɾam	maɾam	m a ɾ a		tree-A	704	m a ɾ a	C V C V	m a ɾ a m	m a ɾ a m	C V C V C
+1896	Koya	tree	ma:ɾa	ma:ɾa	m aː ɾ a		tree-A	704	m aː ɾ a	C V C V	m aː ɾ a -	m aː ɾ a	C V C V
+1897	Kurukh	tree	mann	mann	m a nː		tree-A	704	m a nː -	C V C	m a nː - -	m a nː	C V C
+1898	Malayalam	tree	maɾam	maɾam	m a ɾ a		tree-A	704	m a ɾ a	C V C V	m a ɾ a m	m a ɾ a m	C V C V C
+1899	Parji	tree	meri	meri	m e r i		tree-A	704	m e r i	C V C V	m e r i -	m e r i	C V C V
+1900	Tamil	tree	maɾam	maɾam	m a ɾ a		tree-A	704	m a ɾ a	C V C V	m a ɾ a m	m a ɾ a m	C V C V C
+1901	Toda	tree	me:n	me:n	m eː n		tree-A	704	m eː n -	C V C	m eː n - -	m eː n	C V C
+1902	Tulu	tree	maɾa	maɾa	m a ɾ a		tree-A	704	m a ɾ a	C V C V	m a ɾ a -	m a ɾ a	C V C V
+1903	Yeruva	tree	maɾa	maɾa	m a ɾ a		tree-A	704	m a ɾ a	C V C V	m a ɾ a -	m a ɾ a	C V C V
+1908	Badga	two	eɾaɖə	eɾaɖə	ɾ a ɖ ə		two-A	709	ɾ a ɖ ə	C V C V	- e ɾ a - ɖ ə	e ɾ a ɖ ə	V C V C V
+1909	Betta_Kurumba	two	əddu	əddu	ə d u		two-A	709	- ə d u	V C V	- - - ə d d u	ə d d u	V C C V
+1910	Brahui	two	iɾat	iɾat	ɾ a t		two-A	709	ɾ a t -	C V C	- i ɾ a - t -	i ɾ a t	V C V C
+1911	Gondi	two	ɾeɳɖu	ɾeɳɖu	ɾ e ɖ u		two-A	709	ɾ e ɖ u	C V C V	- - ɾ e ɳ ɖ u	ɾ e ɳ ɖ u	C V C C V
+1912	Kannada	two	jeɾaɖu	jeɾaɖu	ɾ a ɖ u		two-A	709	ɾ a ɖ u	C V C V	j e ɾ a - ɖ u	j e ɾ a ɖ u	C V C V C V
+1913	Kodava	two	daɳɖə	daɳɖə	d a ɖ ə		two-A	709	d a ɖ ə	C V C V	- - d a ɳ ɖ ə	d a ɳ ɖ ə	C V C C V
+1914	Kota	two	eɖu	eɖu	e ɖ u		two-A	709	- e ɖ u	V C V	- - - e - ɖ u	e ɖ u	V C V
+1915	Koya	two	ɾeɳɖ	ɾeɳɖ	ɾ e ɖ		two-A	709	ɾ e ɖ -	C V C	- - ɾ e ɳ ɖ -	ɾ e ɳ ɖ	C V C C
+1916	Kurukh	two	i:rəb	i:rəb	r ə b		two-A	709	r ə b -	C V C	- iː r ə - b -	iː r ə b	V C V C
+1917	Kuwi	two	rinɖa	rinɖa	r i ɖ a		two-A	709	r i ɖ a	C V C V	- - r i n ɖ a	r i n ɖ a	C V C C V
+1918	Malayalam	two	ɾendə	ɾendə	ɾ e d ə		two-A	709	ɾ e d ə	C V C V	- - ɾ e n d ə	ɾ e n d ə	C V C C V
+1919	Ollari_Gadba	two	iɾuɖu	iɾuɖu	ɾ u ɖ u		two-A	709	ɾ u ɖ u	C V C V	- i ɾ u - ɖ u	i ɾ u ɖ u	V C V C V
+1920	Parji	two	ir(ḍu)	ir	r		two-A	709	r - - -	C	- i r - - - -	i r	V C
+1921	Tamil	two	ɾenɖə	ɾenɖə	ɾ e ɖ ə		two-A	709	ɾ e ɖ ə	C V C V	- - ɾ e n ɖ ə	ɾ e n ɖ ə	C V C C V
+1922	Telugu	two	ɾeɳɖu	ɾeɳɖu	ɾ e ɖ u		two-A	709	ɾ e ɖ u	C V C V	- - ɾ e ɳ ɖ u	ɾ e ɳ ɖ u	C V C C V
+1923	Toda	two	e:ɖə	e:ɖə	eː ɖ ə		two-A	709	- eː ɖ ə	V C V	- - - eː - ɖ ə	eː ɖ ə	V C V
+1924	Tulu	two	ɾaɖɖu	ɾaɖɖu	ɾ a ɖː u		two-A	709	ɾ a ɖː u	C V C V	- - ɾ a - ɖː u	ɾ a ɖː u	C V C V
+1925	Yeruva	two	iɾandə	iɾandə	ɾ a d ə		two-A	709	ɾ a d ə	C V C V	- i ɾ a n d ə	i ɾ a n d ə	V C V C C V
+1930	Badga	walk	naɖəʋadə	naɖəʋadə	n a ɖ ə		walk-A	714	n a ɖ ə	C V C V	n a ɖ ə ʋ a d ə	n a ɖ ə ʋ a d ə	C V C V C V C V
+1931	Betta_Kurumba	walk	naɖi	naɖi	n a ɖ i		walk-A	714	n a ɖ i	C V C V	n a ɖ - - - - i	n a ɖ i	C V C V
+1932	Kannada	walk	naɖə	naɖə	n a ɖ ə		walk-A	714	n a ɖ ə	C V C V	n a ɖ - - - - ə	n a ɖ ə	C V C V
+1933	Kodava	walk	naɖa	naɖa	n a ɖ a		walk-A	714	n a ɖ a	C V C V	n a ɖ - - - - a	n a ɖ a	C V C V
+1934	Kota	walk	naɖʋu	naɖʋu	n a ɖ u		walk-A	714	n a ɖ u	C V C V	n a ɖ - ʋ - - u	n a ɖ ʋ u	C V C C V
+1935	Koya	walk	naɖam	naɖam	n a ɖ		walk-A	714	n a ɖ -	C V C	n a ɖ a m - - -	n a ɖ a m	C V C V C
+1936	Malayalam	walk	naɖakkuga	naɖakkuga	n a ɖ a		walk-A	714	n a ɖ a	C V C V	n a ɖ a kː u g a	n a ɖ a kː u g a	C V C V C V C V
+1937	Tamil	walk	naɖə	naɖə	n a ɖ ə		walk-A	714	n a ɖ ə	C V C V	n a ɖ - - - - ə	n a ɖ ə	C V C V
+1938	Telugu	walk	naɖutʃu	naɖutʃu	n a ɖ u		walk-A	714	n a ɖ u	C V C V	n a ɖ - - u tʃ u	n a ɖ u tʃ u	C V C V C V
+1939	Toda	walk	naɖaɾɾə	naɖaɾɾə	n a ɖ ə		walk-A	714	n a ɖ ə	C V C V	n a ɖ a ɾ - ɾ ə	n a ɖ a ɾ ɾ ə	C V C V C C V
+1941	Tulu	walk	naɖapaɾa	naɖapaɾa	n a ɖ a		walk-A	714	n a ɖ a	C V C V	n a ɖ a p a ɾ a	n a ɖ a p a ɾ a	C V C V C V C V
+1942	Yeruva	walk	naɖa	naɖa	n a ɖ a		walk-A	714	n a ɖ a	C V C V	n a ɖ - - - - a	n a ɖ a	C V C V
+1948	Brahui	warm	ba:sun	ba:sun	b aː s u		warm-A	719	b aː s u	C V C V	b aː s - - - - u n -	b aː s u n	C V C V C
+1949	Kannada	warm	betʃtʃage	betʃtʃage	b e tʃː a		warm-A	719	b e tʃː a	C V C V	b e tʃː - - - - a g e	b e tʃː a g e	C V C V C V
+1950	Kodava	warm	bekke	bekke	b e kː e		warm-A	719	b e kː e	C V C V	b e kː - - - - e - -	b e kː e	C V C V
+1951	Kolami	warm	ʋekka	ʋekka	ʋ e kː a		warm-A	719	ʋ e kː a	C V C V	ʋ e kː - - - - a - -	ʋ e kː a	C V C V
+1952	Koya	warm	ʋe:ɖ	ʋe:ɖ	ʋ eː ɖ		warm-A	719	ʋ eː ɖ -	C V C	ʋ eː ɖ - - - - - - -	ʋ eː ɖ	C V C
+1953	Ollari_Gadba	warm	ʋeʈal	ʋeʈal	ʋ e ʈ a		warm-A	719	ʋ e ʈ a	C V C V	ʋ e ʈ - - - - a l -	ʋ e ʈ a l	C V C V C
+1954	Tamil	warm	ʋedəʋedəppə	ʋedəʋedəppə	ʋ e d ə		warm-A	719	ʋ e d ə	C V C V	ʋ e d ə ʋ e d ə pː ə	ʋ e d ə ʋ e d ə pː ə	C V C V C V C V C V
+1955	Telugu	warm	ʋetʃtʃa	ʋetʃtʃa	ʋ e tʃː a		warm-A	719	ʋ e tʃː a	C V C V	ʋ e tʃː - - - - a - -	ʋ e tʃː a	C V C V
+1956	Tulu	warm	betʃtʃa	betʃtʃa	b e tʃː a		warm-A	719	b e tʃː a	C V C V	b e tʃː - - - - a - -	b e tʃː a	C V C V
+1957	Yeruva	warm	bekki	bekki	b e kː i		warm-A	719	b e kː i	C V C V	b e kː - - - - i - -	b e kː i	C V C V
+1974	Badga	water	ni:ɾə	ni:ɾə	n iː ɾ ə		water-E	733	n iː ɾ ə	C V C V	n iː ɾ ə	n iː ɾ ə	C V C V
+1975	Betta_Kurumba	water	ni:ɾə	ni:ɾə	n iː ɾ ə		water-E	733	n iː ɾ ə	C V C V	n iː ɾ ə	n iː ɾ ə	C V C V
+1976	Brahui	water	di:r	di:r	d iː r		water-E	733	d iː r -	C V C	d iː r -	d iː r	C V C
+1977	Kannada	water	ni:ɾu	ni:ɾu	n iː ɾ u		water-E	733	n iː ɾ u	C V C V	n iː ɾ u	n iː ɾ u	C V C V
+1978	Kodava	water	ni:ɾə	ni:ɾə	n iː ɾ ə		water-E	733	n iː ɾ ə	C V C V	n iː ɾ ə	n iː ɾ ə	C V C V
+1979	Kolami	water	i:ɾ	i:ɾ	iː ɾ		water-E	733	- iː ɾ -	V C	- iː ɾ -	iː ɾ	V C
+1980	Kota	water	ni:ɾ	ni:ɾ	n iː ɾ		water-E	733	n iː ɾ -	C V C	n iː ɾ -	n iː ɾ	C V C
+1981	Koya	water	e:ɾu	e:ɾu	eː ɾ u		water-E	733	- eː ɾ u	V C V	- eː ɾ u	eː ɾ u	V C V
+1982	Ollari_Gadba	water	ni:r	ni:r	n iː r		water-E	733	n iː r -	C V C	n iː r -	n iː r	C V C
+1983	Parji	water	nīr	nīr	n iː r		water-E	733	n iː r -	C V C	n iː r -	n iː r	C V C
+1984	Tamil	water	ni:ɾə	ni:ɾə	n iː ɾ ə		water-E	733	n iː ɾ ə	C V C V	n iː ɾ ə	n iː ɾ ə	C V C V
+1985	Telugu	water	ni:ɾu	ni:ɾu	n iː ɾ u		water-E	733	n iː ɾ u	C V C V	n iː ɾ u	n iː ɾ u	C V C V
+1987	Toda	water	ni:ɾ	ni:ɾ	n iː ɾ		water-E	733	n iː ɾ -	C V C	n iː ɾ -	n iː ɾ	C V C
+1988	Tulu	water	ni:ɾə	ni:ɾə	n iː ɾ ə		water-E	733	n iː ɾ ə	C V C V	n iː ɾ ə	n iː ɾ ə	C V C V
+1989	Yeruva	water	ni:ɾu	ni:ɾu	n iː ɾ u		water-E	733	n iː ɾ u	C V C V	n iː ɾ u	n iː ɾ u	C V C V
+1992	Badga	we	nanga	nanga	n a n g a		we-A	736	n a n g a	C V C C V	n a n - g a	n a n g a	C V C C V
+1993	Brahui	we	nan	nan	n a n		we-A	736	n a n - -	C V C	n a n - - -	n a n	C V C
+1994	Kannada	we	na:ʋu	na:ʋu	n aː ʋ u		we-A	736	n aː - ʋ u	C V C V	n aː - - ʋ u	n aː ʋ u	C V C V
+1995	Kodava	we	nanga	nanga	n a n g a		we-A	736	n a n g a	C V C C V	n a n - g a	n a n g a	C V C C V
+1996	Koya	we	mana:ɖu	mana:ɖu	m a n ɖ u		we-A	736	m a n ɖ u	C V C C V	m a n aː ɖ u	m a n aː ɖ u	C V C V C V
+1997	Kurukh	we	na:m	na:m	n aː m		we-A	736	n aː - m -	C V C	n aː - - m -	n aː m	C V C
+1998	Malayalam	we	na:m	na:m	n aː m		we-A	736	n aː - m -	C V C	n aː - - m -	n aː m	C V C
+1999	Malto	we	na:mu	na:mu	n aː m u		we-A	736	n aː - m u	C V C V	n aː - - m u	n aː m u	C V C V
+2000	Tamil	we	na:m	na:m	n aː m		we-A	736	n aː - m -	C V C	n aː - - m -	n aː m	C V C
+2001	Telugu	we	manamu	manamu	m a n m u		we-A	736	m a n m u	C V C C V	m a n a m u	m a n a m u	C V C V C V
+2002	Yeruva	we	nanga	nanga	n a n g a		we-A	736	n a n g a	C V C C V	n a n - g a	n a n g a	C V C C V
+2003	Betta_Kurumba	we	naɳgə	naɳgə	n a g		we-B	737	n a g	C V C	n a ɳ g - - ə	n a ɳ g ə	C V C C V
+2005	Gondi	we	mammoʈ	mammoʈ	m a mː		we-B	737	m a mː	C V C	m a - mː o ʈ -	m a mː o ʈ	C V C V C
+2006	Kolami	we	amdə	amdə	a m		we-B	737	- a m	V C	- a - m - d ə	a m d ə	V C C V
+2007	Kota	we	amme	amme	a mː		we-B	737	- a mː	V C	- a - mː - - e	a mː e	V C V
+2008	Koya	we	mamma	mamma	m a mː		we-B	737	m a mː	C V C	m a - mː a - -	m a mː a	C V C V
+2009	Kuwi	we	mambu	mambu	m a m		we-B	737	m a m	C V C	m a - m - b u	m a m b u	C V C C V
+2010	Malayalam	we	nammal	nammal	n a mː		we-B	737	n a mː	C V C	n a - mː a l -	n a mː a l	C V C V C
+2011	Ollari_Gadba	we	a:m	a:m	aː m		we-B	737	- aː m	V C	- aː - m - - -	aː m	V C
+2012	Parji	we	ām	ām	aː m		we-B	737	- aː m	V C	- aː - m - - -	aː m	V C
+2013	Tamil	we	na:nga	na:nga	n aː g		we-B	737	n aː g	C V C	n aː n g - - a	n aː n g a	C V C C V
+2014	Telugu	we	meːmu	meːmu	m eː m		we-B	737	m eː m	C V C	m eː - m u - -	m eː m u	C V C V
+2015	Toda	we	o:m	o:m	oː m		we-B	737	- oː m	V C	- oː - m - - -	oː m	V C
+2016	Tulu	we	jankulu	jankulu	j a k		we-B	737	j a k	C V C	j a n k u l u	j a n k u l u	C V C C V C V
+2017	Badga	what	e:nə	e:nə	eː n ə		what-A	738	eː n ə	V C V	- - eː n - - ə - - -	eː n ə	V C V
+2018	Betta_Kurumba	what	ajindi	ajindi	i n i		what-A	738	i n i	V C V	a j i n d - i - - -	a j i n d i	V C V C C V
+2019	Brahui	what	antə	antə	a n ə		what-A	738	a n ə	V C V	- - a n t - ə - - -	a n t ə	V C C V
+2020	Gondi	what	baʈʈal	baʈʈal	a ʈː a		what-A	738	a ʈː a	V C V	- b a ʈː - - a - l -	b a ʈː a l	C V C V C
+2021	Kannada	what	je:nu	je:nu	eː n u		what-A	738	eː n u	V C V	- j eː n - - u - - -	j eː n u	C V C V
+2022	Kodava	what	jentə	jentə	e n ə		what-A	738	e n ə	V C V	- j e n t - ə - - -	j e n t ə	C V C C V
+2023	Kolami	what	em	em	e m		what-A	738	e m -	V C	- - e m - - - - - -	e m	V C
+2024	Kota	what	eta:nə	eta:nə	e aː		what-A	738	e - aː	V V	- - e - t - aː - n ə	e t aː n ə	V C V C V
+2025	Koya	what	ba:ta	ba:ta	aː t a		what-A	738	aː t a	V C V	- b aː t - - a - - -	b aː t a	C V C V
+2026	Kurukh	what	je:ndra	je:ndra	eː n a		what-A	738	eː n a	V C V	- j eː n d r a - - -	j eː n d r a	C V C C C V
+2027	Kuwi	what	ena	ena	e n a		what-A	738	e n a	V C V	- - e n - - a - - -	e n a	V C V
+2028	Malayalam	what	endə	endə	e n ə		what-A	738	e n ə	V C V	- - e n d - ə - - -	e n d ə	V C C V
+2029	Malto	what	indiɾdu	indiɾdu	i n i		what-A	738	i n i	V C V	- - i n d - i ɾ d u	i n d i ɾ d u	V C C V C C V
+2031	Ollari_Gadba	what	enna:ʈ	enna:ʈ	e nː aː		what-A	738	e nː aː	V C V	- - e nː - - aː - ʈ -	e nː aː ʈ	V C V C
+2032	Parji	what	nāto	nāto	aː t o		what-A	738	aː t o	V C V	- n aː t - - o - - -	n aː t o	C V C V
+2033	Tamil	what	enne	enne	e nː e		what-A	738	e nː e	V C V	- - e nː - - e - - -	e nː e	V C V
+2034	Telugu	what	ēmi	ēmi	eː m i		what-A	738	eː m i	V C V	- - eː m - - i - - -	eː m i	V C V
+2037	Toda	what	inno	inno	i nː o		what-A	738	i nː o	V C V	- - i nː - - o - - -	i nː o	V C V
+2038	Tulu	what	entʃina	entʃina	e n i		what-A	738	e n i	V C V	- - e n tʃ - i - n a	e n tʃ i n a	V C C V C V
+2039	Yeruva	what	entai	entai	e n a		what-A	738	e n a	V C V	- - e n t - a - - i	e n t a i	V C C V V
+2040	Badga	white	ʋeɭɭe	ʋeɭɭe	ʋ e ɭː e		white-A	739	ʋ e ɭː e	C V C V	ʋ e ɭː - - - e	ʋ e ɭː e	C V C V
+2041	Betta_Kurumba	white	bəɭɭu	bəɭɭu	b ə ɭː u		white-A	739	b ə ɭː u	C V C V	b ə ɭː - - - u	b ə ɭː u	C V C V
+2042	Kannada	white	biɭi	biɭi	b i ɭ i		white-A	739	b i ɭ i	C V C V	b i ɭ - - - i	b i ɭ i	C V C V
+2043	Kodava	white	boltadə	boltadə	b o l ə		white-A	739	b o l ə	C V C V	b o l t a d ə	b o l t a d ə	C V C C V C V
+2044	Kota	white	ʋellə	ʋellə	ʋ e lː ə		white-A	739	ʋ e lː ə	C V C V	ʋ e lː - - - ə	ʋ e lː ə	C V C V
+2045	Malayalam	white	ʋeɭuppə	ʋeɭuppə	ʋ e ɭ ə		white-A	739	ʋ e ɭ ə	C V C V	ʋ e ɭ - u pː ə	ʋ e ɭ u pː ə	C V C V C V
+2046	Parji	white	vil	vil	v i l		white-A	739	v i l -	C V C	v i l - - - -	v i l	C V C
+2047	Tamil	white	veɭɭə	veɭɭə	v e ɭː ə		white-A	739	v e ɭː ə	C V C V	v e ɭː - - - ə	v e ɭː ə	C V C V
+2048	Telugu	white	vella	vella	v e lː a		white-A	739	v e lː a	C V C V	v e lː - - - a	v e lː a	C V C V
+2049	Toda	white	pelti	pelti	p e l i		white-A	739	p e l i	C V C V	p e l t - - i	p e l t i	C V C C V
+2050	Tulu	white	boldu	boldu	b o l u		white-A	739	b o l u	C V C V	b o l d - - u	b o l d u	C V C C V
+2051	Yeruva	white	boltaji	boltaji	b o l i		white-A	739	b o l i	C V C V	b o l t a j i	b o l t a j i	C V C C V C V
+2052	Gondi	white	tellag	tellag	t e lː a g		white-B	740	t e lː a g	C V C V C	t e lː a g -	t e lː a g	C V C V C
+2053	Kolami	white	telluɖi	telluɖi	t e lː u ɖ		white-B	740	t e lː u ɖ	C V C V C	t e lː u ɖ i	t e lː u ɖ i	C V C V C V
+2054	Koya	white	telup	telup	t e l u p		white-B	740	t e l u p	C V C V C	t e l u p -	t e l u p	C V C V C
+2055	Telugu	white	telupu	telupu	t e l u p		white-B	740	t e l u p	C V C V C	t e l u p u	t e l u p u	C V C V C V
+2063	Betta_Kurumba	who	da:ɾə	da:ɾə	d aː ɾ ə		who-A	747	d aː ɾ ə	C V C V	d aː - - ɾ ə	d aː ɾ ə	C V C V
+2064	Brahui	who	de:ɾ	de:ɾ	d eː ɾ		who-A	747	d eː ɾ -	C V C	d eː - - ɾ -	d eː ɾ	C V C
+2065	Gondi	who	boɾ	boɾ	b o ɾ		who-A	747	b o ɾ -	C V C	b o - - ɾ -	b o ɾ	C V C
+2066	Kannada	who	ja:ɾu	ja:ɾu	j aː ɾ u		who-A	747	j aː ɾ u	C V C V	j aː - - ɾ u	j aː ɾ u	C V C V
+2067	Kodava	who	da:ɾə	da:ɾə	d aː ɾ ə		who-A	747	d aː ɾ ə	C V C V	d aː - - ɾ ə	d aː ɾ ə	C V C V
+2068	Kota	who	da:ɾə	da:ɾə	d aː ɾ ə		who-A	747	d aː ɾ ə	C V C V	d aː - - ɾ ə	d aː ɾ ə	C V C V
+2069	Kurukh	who	ne	ne	n e		who-A	747	n e - -	C V	n e - - - -	n e	C V
+2070	Malayalam	who	a:ɾə	a:ɾə	aː ɾ ə		who-A	747	- aː ɾ ə	V C V	- aː - - ɾ ə	aː ɾ ə	V C V
+2071	Malto	who	ne:du	ne:du	n eː u		who-A	747	n eː - u	C V V	n eː d - - u	n eː d u	C V C V
+2072	Parji	who	ed	ed	e		who-A	747	- e - -	V	- e d - - -	e d	V C
+2073	Tamil	who	jaarə	jaarə	j a r ə		who-A	747	j a r ə	C V C V	j a - a r ə	j a a r ə	C V V C V
+2074	Telugu	who	evaru	evaru	e r u		who-A	747	- e r u	V C V	- e v a r u	e v a r u	V C V C V
+2075	Toda	who	oɾi	oɾi	o ɾ i		who-A	747	- o ɾ i	V C V	- o - - ɾ i	o ɾ i	V C V
+2076	Tulu	who	je:ɾu	je:ɾu	j eː ɾ u		who-A	747	j eː ɾ u	C V C V	j eː - - ɾ u	j eː ɾ u	C V C V
+2077	Yeruva	who	ja:ɾu	ja:ɾu	j aː ɾ u		who-A	747	j aː ɾ u	C V C V	j aː - - ɾ u	j aː ɾ u	C V C V
+2081	Betta_Kurumba	woman	pəɳakkən	pəɳakkən	p ə ɳ kː ə		woman-A	751	p ə ɳ kː ə	C V C C V	p ə ɳ a kː ə n -	p ə ɳ a kː ə n	C V C V C V C
+2082	Kannada	woman	hengasu	hengasu	h e n g a		woman-A	751	h e n g a	C V C C V	h e n - g a s u	h e n g a s u	C V C C V C V
+2083	Kodava	woman	ponna:ɭə	ponna:ɭə	p o nː ɭ ə		woman-A	751	p o nː ɭ ə	C V C C V	p o nː aː ɭ ə - -	p o nː aː ɭ ə	C V C V C V
+2084	Kota	woman	pemagu	pemagu	p e m g u		woman-A	751	p e m g u	C V C C V	p e m a g u - -	p e m a g u	C V C V C V
+2085	Malayalam	woman	peɳɳə	peɳɳə	p e ɳ		woman-A	751	p e ɳ - -	C V C	p e ɳ - - - ɳ ə	p e ɳ ɳ ə	C V C C V
+2086	Tamil	woman	peɳ	peɳ	p e ɳ		woman-A	751	p e ɳ - -	C V C	p e ɳ - - - - -	p e ɳ	C V C
+2088	Tulu	woman	pondʒa	pondʒa	p o n dʒ a		woman-A	751	p o n dʒ a	C V C C V	p o n - dʒ a - -	p o n dʒ a	C V C C V
+2089	Kannada	woman	strī	strī	s t r iː	LOAN	woman-B	752	s t r iː	C C C V	s t r iː	s t r iː	C C C V
+2090	Malayalam	woman	stɾi:	stɾi:	s t ɾ iː	LOAN	woman-B	752	s t ɾ iː	C C C V	s t ɾ iː	s t ɾ iː	C C C V
+2091	Telugu	woman	stɾi:	stɾi:	s t ɾ iː	LOAN	woman-B	752	s t ɾ iː	C C C V	s t ɾ iː	s t ɾ iː	C C C V
+2108	Badga	yellow	mandʒe	mandʒe	m a n dʒ e		yellow-A	769	m a n dʒ e	C V C C V	m a n dʒ e - - - - -	m a n dʒ e	C V C C V
+2109	Betta_Kurumba	yellow	mandʒəla:ngi	mandʒəla:ngi	m a n dʒ ə		yellow-A	769	m a n dʒ ə	C V C C V	m a n dʒ ə l aː n g i	m a n dʒ ə l aː n g i	C V C C V C V C C V
+2110	Kodava	yellow	mandʒa	mandʒa	m a n dʒ a		yellow-A	769	m a n dʒ a	C V C C V	m a n dʒ a - - - - -	m a n dʒ a	C V C C V
+2111	Kota	yellow	mandʒə	mandʒə	m a n dʒ ə		yellow-A	769	m a n dʒ ə	C V C C V	m a n dʒ ə - - - - -	m a n dʒ ə	C V C C V
+2112	Malayalam	yellow	maɲa	maɲa	m a ɲ a		yellow-A	769	m a ɲ - a	C V C V	m a ɲ - a - - - - -	m a ɲ a	C V C V
+2113	Tamil	yellow	mandʒaɭ	mandʒaɭ	m a n dʒ a		yellow-A	769	m a n dʒ a	C V C C V	m a n dʒ a ɭ - - - -	m a n dʒ a ɭ	C V C C V C
+2114	Tulu	yellow	mandʒalu	mandʒalu	m a n dʒ a		yellow-A	769	m a n dʒ a	C V C C V	m a n dʒ a l - - - u	m a n dʒ a l u	C V C C V C V
+2115	Yeruva	yellow	mandʒe	mandʒe	m a n dʒ e		yellow-A	769	m a n dʒ e	C V C C V	m a n dʒ e - - - - -	m a n dʒ e	C V C C V

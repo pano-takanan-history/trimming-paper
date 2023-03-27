@@ -1,0 +1,9 @@
+# Data sets
+__pycache__/
+cldf_data/
+examples/
+code/cldf-datastes/*
+code/randomize/*
+
+# MacOS
+*.DS_Store

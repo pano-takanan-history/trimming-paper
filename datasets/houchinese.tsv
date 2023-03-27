@@ -1,0 +1,1817 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COG	COGID	ALIGNMENT	STRUCTURE
+1529	Beijing	I	我	wo²¹⁴	w o ²¹⁴		267	291	- w o ²¹⁴	C V T
+1516	Changsha	I	我	ŋo⁴¹	ŋ o ⁴¹		267	291	- ŋ o ⁴¹	C V T
+1525	Chengdu	I	我	ŋo⁵³	ŋ o ⁵³		267	291	- ŋ o ⁵³	C V T
+1523	Guangzhou	I	我	ŋɔ²³	ŋ ɔ ²³		267	291	- ŋ ɔ ²³	C V T
+1517	Guixian	I	我	ŋo⁴²	ŋ o ⁴²		267	291	- ŋ o ⁴²	C V T
+1522	Hangzhou	I	我	ŋo⁵³	ŋ o ⁵³		267	291	- ŋ o ⁵³	C V T
+1519	Hefei	I	我	ʊ²⁴	ʊ ²⁴		267	291	- - ʊ ²⁴	V T
+1520	Jinan	I	我	və⁵⁵	v ə ⁵⁵		267	291	- v ə ⁵⁵	C V T
+1530	Kunming	I	我	o⁵³	o ⁵³		267	291	- - o ⁵³	V T
+1524	Nanchang	I	我	ŋo²¹³	ŋ o ²¹³		267	291	- ŋ o ²¹³	C V T
+1531	Shanghai	I	我	ŋu¹³	ŋ u ¹³		267	291	- ŋ u ¹³	C V T
+1526	Taiyuan	I	我	ɣɤ⁵³	ɣ ɤ ⁵³		267	291	ɣ - ɤ ⁵³	C V T
+1518	Xiamen	I	我	gwa⁵³	g w a ⁵³		267	291	g w a ⁵³	C C V T
+1921	Changsha	a while	听一下下子	xa¹¹xaʦɿ	x a ¹¹ x a ts ɿ		655	600	x - a - ¹¹ x a ts ɿ -	C V T C V C V
+1933	Chengdu	a while	听下儿	xər⁵⁵	x ə r ⁵⁵		655	600	x - ə r ⁵⁵ - - - - -	C V C T
+1923	Guixian	a while	听一下	xa²¹³	x a ²¹³		655	600	x - a - ²¹³ - - - - -	C V T
+1930	Hangzhou	a while	听一歇儿	ɕjəʔ⁵əl	ɕ j ə ʔ ⁵ ə l		655	600	ɕ j ə ʔ ⁵ - ə - l -	C C V C T V C
+1928	Hefei	a while	听一霎子	ʂɐʔ⁵	ʂ ɐ ʔ ⁵		655	600	ʂ - ɐ ʔ ⁵ - - - - -	C V C T
+1929	Jinan	a while	听一会儿	xwer²¹	x w e r ²¹		655	600	x w e r ²¹ - - - - -	C C V C T
+1937	Kunming	a while	听一小下	xᴀ²¹²	x ᴀ/a̱ ²¹²		655	600	x - ᴀ/a̱ - ²¹² - - - - -	C V T
+1920	Meixian	a while	听一下	ha⁵³	h a ⁵³		655	600	h - a - ⁵³ - - - - -	C V T
+1932	Nanchang	a while	听一下子	ha²¹ʦɿ⁰²	h a ²¹ ts ɿ ⁰²/¹²		655	600	h - a - ²¹ ts ɿ - - ⁰²/¹²	C V T C V T
+1938	Shanghai	a while	听一歇	ɕjɪʔ⁵	ɕ j ɪ ʔ ⁵		655	600	ɕ j ɪ ʔ ⁵ - - - - -	C C V C T
+1935	Shexian	a while	听一下儿	xã	x ã		655	600	x - ã - - - - - - -	C V
+1931	Guangzhou	a while	听一阵	ʦɐn²²	ts ɐ n ²²		580	540	ts ɐ n ²² - - - -	C V C T
+1922	Guixian	a while	听一阵	ʦen²¹³	ts e n ²¹³		580	540	ts e n ²¹³ - - - -	C V C T
+1934	Taiyuan	a while	听一阵阵	ʦəŋ⁴⁵ʦəŋ⁴⁵	ts ə ŋ ⁴⁵ ts ə ŋ ⁴⁵		580	540	ts ə ŋ ⁴⁵ ts ə ŋ ⁴⁵	C V C T C V C T
+2465	Chengdu	and	同	tʰoŋ³¹	tʰ o ŋ ³¹		301	317	tʰ o ŋ ³¹	C V C T
+2457	Guangzhou	and	同	tʰoŋ²¹	tʰ o ŋ ²¹		301	317	tʰ o ŋ ²¹	C V C T
+2456	Hangzhou	and	同	doŋ²¹³	d o ŋ ²¹³		301	317	d o ŋ ²¹³	C V C T
+2444	Meixian	and	同	tʰuŋ¹¹	tʰ u ŋ ¹¹		301	317	tʰ u ŋ ¹¹	C V C T
+2470	Beijing	and	跟	kən⁵⁵	k ə n ⁵⁵		863	772	k - ə n ⁵⁵	C V C T
+2445	Changsha	and	跟	kən³³	k ə n ³³		863	772	k - ə n ³³	C V C T
+2464	Chengdu	and	跟	kən⁵⁵	k ə n ⁵⁵		863	772	k - ə n ⁵⁵	C V C T
+2451	Hefei	and	跟	kən²¹	k ə n ²¹		863	772	k - ə n ²¹	C V C T
+2453	Jinan	and	跟	kẽ²¹³	k ẽ ²¹³		863	772	k - ẽ - ²¹³	C V T
+2461	Nanchang	and	跟	kjɛn⁴²	k j ɛ n ⁴²		863	772	k j ɛ n ⁴²	C C V C T
+2467	Taiyuan	and	跟	kəŋ¹¹	k ə ŋ ¹¹		863	772	k - ə ŋ ¹¹	C V C T
+2469	Beijing	and	和	xɤ³⁵	x ɤ ³⁵		323	333	x - ɤ ³⁵	C V T
+2463	Chengdu	and	和	xo³¹	x o ³¹		323	333	x - o ³¹	C V T
+2446	Guixian	and	和	xo²¹	x o ²¹		323	333	x - o ²¹	C V T
+2452	Jinan	and	和	xə⁴²	x ə ⁴²		323	333	x - ə ⁴²	C V T
+2466	Taiyuan	and	和	xwɤ¹¹	x w ɤ ¹¹		323	333	x w ɤ ¹¹	C C V T
+2455	Hangzhou	and	搭	tɑʔ⁵	t ɑ ʔ ⁵		385	390	t ɑ ʔ ⁵	C V C T
+2472	Kunming	and	搭	tᴀ³¹	t ᴀ/a̱ ³¹		385	390	t ᴀ/a̱ - ³¹	C V T
+2473	Shanghai	and	搭	taʔ⁵	t a ʔ ⁵		385	390	t a ʔ ⁵	C V C T
+2468	Shexian	and	搭	taʔ²¹	t a ʔ ²¹		385	390	t a ʔ ²¹	C V C T
+2459	Guangzhou	and	帮	pɔŋ⁵⁵	p ɔ ŋ ⁵⁵		1071	61	p ɔ ŋ ⁵⁵	C V C T
+1424	Beijing	become sick	病了	piŋ⁵¹lə¹	p i ŋ ⁵¹ l ə ¹		141	193	- - - - p - i ŋ ⁵¹ l - ə - - - ¹	C V C T C V T
+1418	Chengdu	become sick	病了	pin¹³no⁵³	p i n ¹³ n o ⁵³		141	193	- - - - p - i n ¹³ n - o - - - ⁵³	C V C T C V T
+1403	Guixian	become sick	生病了	sen⁵⁵pin²¹³əw²¹³	s e n ⁵⁵ p i n ²¹³ ə w ²¹³		141	193	s e n ⁵⁵ p - i n ²¹³ - - ə w - - ²¹³	C V C T C V C T V C T
+1425	Kunming	become sick	病了	pĩ²¹²lə⁵³	p ĩ ²¹² l ə ⁵³		141	193	- - - - p - ĩ - ²¹² l - ə - - - ⁵³	C V T C V T
+1417	Nanchang	become sick	病了	pʰjɑŋ²¹ljɛwiɛu⁰²	pʰ j ɑ ŋ ²¹ l j ɛ w i ɛu ⁰²/¹²		141	193	- - - - pʰ j ɑ ŋ ²¹ l j ɛ w i ɛu ⁰²/¹²	C C V C T C C V C V V T
+1407	Hefei	become sick	不好过	pəʔ⁵xɔ²⁴kʊ⁵³	p ə ʔ ⁵ x ɔ ²⁴ k ʊ ⁵³		579	539	p ə ʔ ⁵ x ɔ ²⁴ k ʊ ⁵³	C V C T C V T C V T
+1413	Jinan	become sick	不好	pu²¹³xɔ	p u ²¹³ x ɔ		579	539	p u - ²¹³ x ɔ - - - -	C V T C V
+1426	Kunming	become sick	不好了	pu³¹xɔ⁵³lə⁵³	p u ³¹ x ɔ ⁵³ l ə ⁵³		579	539	p u - ³¹ x ɔ ⁵³ l ə ⁵³	C V T C V T C V T
+1423	Shexian	become sick	不好过	pu²¹xɔ³⁵ko	p u ²¹ x ɔ ³⁵ k o		579	539	p u - ²¹ x ɔ ³⁵ k o -	C V T C V T C V
+459	Beijing	bedbug	臭虫	t͡ʂʰow⁵¹t͡ʂʰuŋ¹	ʈʂʰ o w ⁵¹ ʈʂʰ u ŋ ¹		1064	54	ʈʂʰ o w ⁵¹ ʈʂʰ u ŋ ¹	C V C T C V C T
+446	Changsha	bedbug	臭虫	t͡ʂʰəw⁵⁵t͡ʂoŋ¹³	ʈʂʰ ə w ⁵⁵ ʈʂ o ŋ ¹³		1064	54	ʈʂʰ ə w ⁵⁵ ʈʂ o ŋ ¹³	C V C T C V C T
+455	Chengdu	bedbug	臭虫	ʦʰəw¹³ʦʰoŋ³¹	tsʰ ə w ¹³ tsʰ o ŋ ³¹		1064	54	tsʰ ə w ¹³ tsʰ o ŋ ³¹	C V C T C V C T
+448	Guixian	bedbug	臭虫	ʦʰəw²¹³ʦʰoŋ²¹	tsʰ ə w ²¹³ tsʰ o ŋ ²¹		1064	54	tsʰ ə w ²¹³ tsʰ o ŋ ²¹	C V C T C V C T
+452	Hangzhou	bedbug	臭虫	ʦʰej⁴⁴⁵ʣoŋ²¹³	tsʰ e j ⁴⁴⁵ dz o ŋ ²¹³		1064	54	tsʰ e j ⁴⁴⁵ dz o ŋ ²¹³	C V C T C V C T
+450	Hefei	bedbug	臭虫	t͡ʂʰɯ⁵³t͡ʂʰəŋ	ʈʂʰ ɯ ⁵³ ʈʂʰ ə ŋ		1064	54	ʈʂʰ ɯ - ⁵³ ʈʂʰ ə ŋ -	C V T C V C
+451	Jinan	bedbug	臭虫	t͡ʂʰow²¹t͡ʂʰuŋ⁴²	ʈʂʰ o w ²¹ ʈʂʰ u ŋ ⁴²		1064	54	ʈʂʰ o w ²¹ ʈʂʰ u ŋ ⁴²	C V C T C V C T
+454	Nanchang	bedbug	臭虫	ʦʰɨw²¹³ʦʰuŋ⁰⁴	tsʰ ɨ w ²¹³ tsʰ u ŋ ⁰⁴/¹⁴		1064	54	tsʰ ɨ w ²¹³ tsʰ u ŋ ⁰⁴/¹⁴	C V C T C V C T
+461	Shanghai	bedbug	臭虫	ʦʰɤ³⁵zoŋ²³	tsʰ ɤ ³⁵ z o ŋ ²³		1064	54	tsʰ ɤ - ³⁵ z o ŋ ²³	C V T C V C T
+447	Changsha	bedbug	香姑娘	ɕjan³³ku³³ȵjan¹³	ɕ j a n ³³ k u ³³ ɲ j a n ¹³		461	449	ɕ j a n ³³ k u ³³ ɲ j a n ¹³ - - -	C C V C T C V T C C V C T
+453	Guangzhou	bedbug	木虱	mok²sɐt⁵	m o k ² s ɐ t ⁵		601	556	m o k ² s ɐ t ⁵	C V C T C V C T
+457	Shexian	bedbug	木虱	mɔ²²seʔ²¹	m ɔ ²² s e ʔ ²¹		601	556	m ɔ - ²² s e ʔ ²¹	C V T C V C T
+449	Xiamen	bedbug	木虱	bat⁵sat³²	b a t ⁵ s a t ³²		601	556	b a t ⁵ s a t ³²	C V C T C V C T
+460	Kunming	bedbug	壁虱	pi³¹sə³¹	p i ³¹ s ə ³¹		988	885	p - i - ³¹ s ə - ³¹	C V T C V T
+458	Shexian	bedbug	壁虱	pi²¹seʔ²¹	p i ²¹ s e ʔ ²¹		988	885	p - i - ²¹ s e ʔ ²¹	C V T C V C T
+456	Taiyuan	bedbug	壁虱	pjəʔ²səʔ²	p j ə ʔ ² s ə ʔ ²		988	885	p j ə ʔ ² s ə ʔ ²	C C V C T C V C T
+1354	Guixian	beggar	叫化子	ʨjaoiao²¹³xwa²¹³ʦɿ⁴²	tɕ j a o i a o ²¹³ x w a ²¹³ ts ɿ ⁴²		363	371	tɕ j a o i a o ²¹³ x w a ²¹³ ts ɿ ⁴²	C C V V V V V T C C V T C V T
+1360	Hangzhou	beggar	叫化子	ʨjɔ⁴⁴⁵hwɑ⁴⁴⁵ʦɿ⁵³	tɕ j ɔ ⁴⁴⁵ h w ɑ ⁴⁴⁵ ts ɿ ⁵³		363	371	tɕ j ɔ - - - - ⁴⁴⁵ h w ɑ ⁴⁴⁵ ts ɿ ⁵³	C C V T C C V T C V T
+1374	Shanghai	beggar	叫化子	kɔ³⁵ho³⁵ʦɿ³⁵	k ɔ ³⁵ h o ³⁵ ts ɿ ³⁵		363	371	k - - - - - ɔ ³⁵ h - o ³⁵ ts ɿ ³⁵	C V T C V T C V T
+1370	Beijing	beggar	要饭的	jɑwiɑu⁵¹fan⁵¹tə¹	j ɑ w i ɑ u ⁵¹ f a n ⁵¹ t ə ¹		376	382	j ɑ w i ɑ u ⁵¹ f a n ⁵¹ t ə - ¹	C V C V V V T C V C T C V T
+1364	Chengdu	beggar	要饭的	jawiau¹³fan¹³ni⁵⁵	j a w i a u ¹³ f a n ¹³ n i ⁵⁵		376	382	j a w i a u ¹³ f a n ¹³ n i - ⁵⁵	C V C V V V T C V C T C V T
+1355	Guixian	beggar	要饭的	jaoiao²¹³fan²¹³lɛ⁵⁵	j a o i a o ²¹³ f a n ²¹³ l ɛ ⁵⁵		376	382	j a o i a o ²¹³ f a n ²¹³ l ɛ - ⁵⁵	C V V V V V T C V C T C V T
+1358	Jinan	beggar	要饭的	jɔ²¹fã²¹ti	j ɔ ²¹ f ã ²¹ t i		376	382	j ɔ - - - - ²¹ f ã - ²¹ t i - -	C V T C V T C V
+1367	Taiyuan	beggar	要饭的	jawiau⁴⁵fæ̃⁴⁵təʔ	j a w i a u ⁴⁵ f æ̃ ⁴⁵ t ə ʔ		376	382	j a w i a u ⁴⁵ f æ̃ - ⁴⁵ t ə ʔ -	C V C V V V T C V T C V C
+1371	Beijing	beggar	叫花子	ʨjɑwiɑu⁵¹xwa⁵⁵ʦɿ²	tɕ j ɑ w i ɑ u ⁵¹ x w a ⁵⁵ ts ɿ ²		794	712	tɕ j ɑ w i ɑ u ⁵¹ x w a - - ⁵⁵ ts ɿ - ²	C C V C V V V T C C V T C V T
+1363	Chengdu	beggar	叫花子	ʨjawiau¹³xwa⁵⁵ʦɿ⁵³	tɕ j a w i a u ¹³ x w a ⁵⁵ ts ɿ ⁵³		794	712	tɕ j a w i a u ¹³ x w a - - ⁵⁵ ts ɿ - ⁵³	C C V C V V V T C C V T C V T
+1357	Hefei	beggar	叫花子	ʨjɔ⁵³xwa²¹ʦə	tɕ j ɔ ⁵³ x w a ²¹ ts ə		794	712	tɕ j ɔ - - - - ⁵³ x w a - - ²¹ ts ə - -	C C V T C C V T C V
+1359	Jinan	beggar	叫花子	ʨjɔ²¹xwaʦɿ	tɕ j ɔ ²¹ x w a ts ɿ		794	712	tɕ j ɔ - - - - ²¹ x w a ts ɿ - - - - -	C C V T C C V C V
+1372	Kunming	beggar	花子	xwᴀ⁴⁴ʦɿ⁵³	x w ᴀ/a̱ ⁴⁴ ts ɿ ⁵³		794	712	- - - - - - - - x w ᴀ/a̱ - - ⁴⁴ ts ɿ - ⁵³	C C V T C V T
+1368	Taiyuan	beggar	叫花子	ʨjawiau⁴⁵xwa¹¹ʦəʔ	tɕ j a w i a u ⁴⁵ x w a ¹¹ ts ə ʔ		794	712	tɕ j a w i a u ⁴⁵ x w a - - ¹¹ ts ə ʔ -	C C V C V V V T C C V T C V C
+179	Changsha	blow	起风	ʨʰi⁴¹xoŋ³³	tɕʰ i ⁴¹ x o ŋ ³³		833	747	tɕʰ i ⁴¹ x o ŋ ³³	C V T C V C T
+191	Chengdu	blow	起风	ʨʰi⁵³foŋ⁵⁵	tɕʰ i ⁵³ f o ŋ ⁵⁵		833	747	tɕʰ i ⁵³ f o ŋ ⁵⁵	C V T C V C T
+185	Hangzhou	blow	起风	ʨʰi⁵³foŋ³³	tɕʰ i ⁵³ f o ŋ ³³		833	747	tɕʰ i ⁵³ f o ŋ ³³	C V T C V C T
+183	Hefei	blow	起风	ʦʰɿ²⁴fəŋ²¹	tsʰ ɿ ²⁴ f ə ŋ ²¹		833	747	tsʰ ɿ ²⁴ f ə ŋ ²¹	C V T C V C T
+198	Kunming	blow	起风	ʨʰi⁵³foŋ⁴⁴	tɕʰ i ⁵³ f o ŋ ⁴⁴		833	747	tɕʰ i ⁵³ f o ŋ ⁴⁴	C V T C V C T
+178	Meixian	blow	起风	hi³¹fuŋ⁴⁴	h i ³¹ f u ŋ ⁴⁴		833	747	h i ³¹ f u ŋ ⁴⁴	C V T C V C T
+189	Nanchang	blow	起风	ʨʰi²¹³fuŋ⁴²	tɕʰ i ²¹³ f u ŋ ⁴²		833	747	tɕʰ i ²¹³ f u ŋ ⁴²	C V T C V C T
+199	Shanghai	blow	起风	ʨʰi³⁵foŋ⁵³	tɕʰ i ³⁵ f o ŋ ⁵³		833	747	tɕʰ i ³⁵ f o ŋ ⁵³	C V T C V C T
+194	Shexian	blow	起风	ʨʰi³⁵fʌ̃³¹	tɕʰ i ³⁵ f ʌ̃ ³¹		833	747	tɕʰ i ³⁵ f ʌ̃ - ³¹	C V T C V T
+182	Xiamen	blow	起风	kʰi⁵³hɔŋ⁵⁵	kʰ i ⁵³ h ɔ ŋ ⁵⁵		833	747	kʰ i ⁵³ h ɔ ŋ ⁵⁵	C V T C V C T
+196	Beijing	blow	刮风	kwa⁵⁵fəŋ⁵⁵	k w a ⁵⁵ f ə ŋ ⁵⁵		192	232	k w a - ⁵⁵ f ə ŋ ⁵⁵	C C V T C V C T
+190	Chengdu	blow	刮风	kwa³¹foŋ⁵⁵	k w a ³¹ f o ŋ ⁵⁵		192	232	k w a - ³¹ f o ŋ ⁵⁵	C C V T C V C T
+186	Hangzhou	blow	刮风	kwɑʔ⁵foŋ³³	k w ɑ ʔ ⁵ f o ŋ ³³		192	232	k w ɑ ʔ ⁵ f o ŋ ³³	C C V C T C V C T
+184	Jinan	blow	刮风	kwa²¹³fəŋ²¹³	k w a ²¹³ f ə ŋ ²¹³		192	232	k w a - ²¹³ f ə ŋ ²¹³	C C V T C V C T
+197	Kunming	blow	刮风	kwᴀ³¹foŋ⁴⁴	k w ᴀ/a̱ ³¹ f o ŋ ⁴⁴		192	232	k w ᴀ/a̱ - ³¹ f o ŋ ⁴⁴	C C V T C V C T
+200	Shanghai	blow	刮风	kwaʔ⁵foŋ⁵³	k w a ʔ ⁵ f o ŋ ⁵³		192	232	k w a ʔ ⁵ f o ŋ ⁵³	C C V C T C V C T
+193	Taiyuan	blow	刮风	kwaʔ²fəŋ¹¹	k w a ʔ ² f ə ŋ ¹¹		192	232	k w a ʔ ² f ə ŋ ¹¹	C C V C T C V C T
+1230	Hefei	boy	小厮	ɕjɔ²⁴sɿ	ɕ j ɔ ²⁴ s ɿ		172	217	ɕ j ɔ - ²⁴ s ɿ - -	C C V T C V
+1237	Chengdu	boy	男娃子	nan³¹wa³¹ʦɿ⁵³	n a n ³¹ w a ³¹ ts ɿ ⁵³		747	677	n a n ³¹ w a ³¹ ts ɿ ⁵³	C V C T C V T C V T
+1246	Kunming	boy	男娃娃	nᴀ̃³¹wᴀ³¹wᴀ³¹	n ᴀ̃/ã̱ ³¹ w ᴀ/a̱ ³¹ w ᴀ/a̱ ³¹		747	677	n ᴀ̃/ã̱ - ³¹ w ᴀ/a̱ ³¹ w ᴀ/a̱ ³¹	C V T C V T C V T
+1238	Taiyuan	boy	男娃娃	næ̃¹¹va¹¹va¹¹	n æ̃ ¹¹ v a ¹¹ v a ¹¹		747	677	n æ̃ - ¹¹ v a ¹¹ v a ¹¹	C V T C V T C V T
+1245	Beijing	boy	小子	ɕjɑwiɑu²¹⁴ʦɿ⁴	ɕ j ɑ w i ɑ u ²¹⁴ ts ɿ ⁴		562	526	ɕ j ɑ w i ɑ u ²¹⁴ ts ɿ - ⁴	C C V C V V V T C V T
+1241	Shexian	boy	小家	sjɔ³⁵ka	s j ɔ ³⁵ k a		562	526	s j ɔ - - - - ³⁵ k a - -	C C V T C V
+1023	Beijing	breakfast	早上饭	ʦɑw²¹⁴ʂɑŋ⁴fan	ts ɑ w ²¹⁴ ʂ ɑ ŋ ⁴ f a n		481	465	ts ɑ w ²¹⁴ ʂ - ɑ ŋ ⁴ f a n -	C V C T C V C T C V C
+1007	Changsha	breakfast	早饭	ʦaw⁴¹fan¹¹	ts a w ⁴¹ f a n ¹¹		481	465	ts a w ⁴¹ - - - - - f a n ¹¹	C V C T C V C T
+1019	Chengdu	breakfast	早饭	ʦaw⁵³fan¹³	ts a w ⁵³ f a n ¹³		481	465	ts a w ⁵³ - - - - - f a n ¹³	C V C T C V C T
+1010	Guixian	breakfast	早饭	ʦa⁴²fan²¹³	ts a ⁴² f a n ²¹³		481	465	ts a - ⁴² - - - - - f a n ²¹³	C V T C V C T
+1016	Hangzhou	breakfast	早饭	ʦɔ⁵³vᴇ̃¹³	ts ɔ ⁵³ v ᴇ̃/ẽ̞ ¹³		481	465	ts ɔ - ⁵³ - - - - - v ᴇ̃/ẽ̞ - ¹³	C V T C V T
+1013	Hefei	breakfast	早饭	ʦɔ²⁴fæ̃⁵³	ts ɔ ²⁴ f æ̃ ⁵³		481	465	ts ɔ - ²⁴ - - - - - f æ̃ - ⁵³	C V T C V T
+1014	Jinan	breakfast	早饭	ʦɔ⁵⁵fã²¹	ts ɔ ⁵⁵ f ã ²¹		481	465	ts ɔ - ⁵⁵ - - - - - f ã - ²¹	C V T C V T
+1018	Nanchang	breakfast	早饭	ʦɑw²¹³fan²¹	ts ɑ w ²¹³ f a n ²¹		481	465	ts ɑ w ²¹³ - - - - - f a n ²¹	C V C T C V C T
+1026	Shanghai	breakfast	早饭	ʦɔ³⁵ve¹³	ts ɔ ³⁵ v e ¹³		481	465	ts ɔ - ³⁵ - - - - - v e - ¹³	C V T C V T
+1021	Shexian	breakfast	早饭	ʦɔ³⁵fɛ	ts ɔ ³⁵ f ɛ		481	465	ts ɔ - ³⁵ - - - - - f ɛ - -	C V T C V
+1020	Taiyuan	breakfast	早清饭	ʦaw⁵³ʨʰjəŋ¹¹fæ̃⁴⁵	ts a w ⁵³ tɕʰ j ə ŋ ¹¹ f æ̃ ⁴⁵		481	465	ts a w ⁵³ tɕʰ j ə ŋ ¹¹ f æ̃ - ⁴⁵	C V C T C C V C T C V T
+1017	Guangzhou	breakfast	早餐	ʦow³⁵ʦʰan⁵⁵	ts o w ³⁵ tsʰ a n ⁵⁵		567	530	ts o w ³⁵ tsʰ a n ⁵⁵	C V C T C V C T
+1009	Guixian	breakfast	早餐	ʦa⁴²ʦʰan⁵⁵	ts a ⁴² tsʰ a n ⁵⁵		567	530	ts a - ⁴² tsʰ a n ⁵⁵	C V T C V C T
+1012	Xiamen	breakfast	早餐	ʦa⁵³ʦʰan⁵⁵	ts a ⁵³ tsʰ a n ⁵⁵		567	530	ts a - ⁵³ tsʰ a n ⁵⁵	C V T C V C T
+1024	Beijing	breakfast	早点	ʦɑw²¹⁴tjan²¹⁴	ts ɑ w ²¹⁴ t j a n ²¹⁴		286	305	ts ɑ w ²¹⁴ t j a n ²¹⁴	C V C T C C V C T
+1015	Jinan	breakfast	早点	ʦɔ⁵⁵tjã⁵⁵	ts ɔ ⁵⁵ t j ã ⁵⁵		286	305	ts ɔ - ⁵⁵ t j ã - ⁵⁵	C V T C C V T
+1025	Kunming	breakfast	早点	ʦɔ⁵³tjɛ̃⁵³	ts ɔ ⁵³ t j ɛ̃ ⁵³		286	305	ts ɔ - ⁵³ t j ɛ̃ - ⁵³	C V T C C V T
+314	Changsha	cabbage	包菜	paw³³ʦʰaj⁵⁵	p a w ³³ tsʰ a j ⁵⁵		456	444	p a w ³³ - - - - tsʰ a j ⁵⁵	C V C T C V C T
+321	Hangzhou	cabbage	包心菜	pɔ³³ɕin³³ʦʰᴇ⁴⁴⁵	p ɔ ³³ ɕ i n ³³ tsʰ ᴇ/e̞ ⁴⁴⁵		456	444	p ɔ - ³³ ɕ i n ³³ tsʰ ᴇ/e̞ - ⁴⁴⁵	C V T C V C T C V T
+317	Hefei	cabbage	包头菜	pu²¹tʰɯ⁵⁵ʦʰᴇ⁵³	p u ²¹ tʰ ɯ ⁵⁵ tsʰ ᴇ/e̞ ⁵³		456	444	p u - ²¹ tʰ ɯ - ⁵⁵ tsʰ ᴇ/e̞ - ⁵³	C V T C V T C V T
+313	Meixian	cabbage	包菜	paw⁴⁴ʦʰoj⁵³	p a w ⁴⁴ tsʰ o j ⁵³		456	444	p a w ⁴⁴ - - - - tsʰ o j ⁵³	C V C T C V C T
+323	Nanchang	cabbage	包菜	pɑw⁴²ʦʰaj⁰²	p ɑ w ⁴² tsʰ a j ⁰²/¹²		456	444	p ɑ w ⁴² - - - - tsʰ a j ⁰²/¹²	C V C T C V C T
+1454	Beijing	catch a cold	伤风	ʂɑŋ⁵⁵fəŋ⁵⁵	ʂ ɑ ŋ ⁵⁵ f ə ŋ ⁵⁵		240	273	ʂ - ɑ ŋ ⁵⁵ f ə ŋ ⁵⁵	C V C T C V C T
+1430	Changsha	catch a cold	伤风	ʂan³³xoŋ³³	ʂ a n ³³ x o ŋ ³³		240	273	ʂ - a n ³³ x o ŋ ³³	C V C T C V C T
+1447	Chengdu	catch a cold	伤风	saŋ⁵⁵foŋ⁵⁵	s a ŋ ⁵⁵ f o ŋ ⁵⁵		240	273	s - a ŋ ⁵⁵ f o ŋ ⁵⁵	C V C T C V C T
+1443	Guangzhou	catch a cold	伤风	sœŋ⁵⁵foŋ⁵⁵	s œ ŋ ⁵⁵ f o ŋ ⁵⁵		240	273	s - œ ŋ ⁵⁵ f o ŋ ⁵⁵	C V C T C V C T
+1441	Hangzhou	catch a cold	伤风	sɥɑŋ³³foŋ³³	s ɥ ɑ ŋ ³³ f o ŋ ³³		240	273	s ɥ ɑ ŋ ³³ f o ŋ ³³	C C V C T C V C T
+1435	Hefei	catch a cold	伤风	ʂɑ̃²¹fəŋ²¹	ʂ ɑ̃ ²¹ f ə ŋ ²¹		240	273	ʂ - ɑ̃ - ²¹ f ə ŋ ²¹	C V T C V C T
+1439	Jinan	catch a cold	伤风	ʂaŋ²¹³fəŋ²¹³	ʂ a ŋ ²¹³ f ə ŋ ²¹³		240	273	ʂ - a ŋ ²¹³ f ə ŋ ²¹³	C V C T C V C T
+1456	Kunming	catch a cold	伤风	ʂᴀ̃⁴⁴foŋ⁴⁴	ʂ ᴀ̃/ã̱ ⁴⁴ f o ŋ ⁴⁴		240	273	ʂ - ᴀ̃/ã̱ - ⁴⁴ f o ŋ ⁴⁴	C V T C V C T
+1428	Meixian	catch a cold	伤风	soŋ⁴⁴fuŋ⁴⁴	s o ŋ ⁴⁴ f u ŋ ⁴⁴		240	273	s - o ŋ ⁴⁴ f u ŋ ⁴⁴	C V C T C V C T
+1445	Nanchang	catch a cold	伤风	sɔŋ⁴²fuŋ⁴²	s ɔ ŋ ⁴² f u ŋ ⁴²		240	273	s - ɔ ŋ ⁴² f u ŋ ⁴²	C V C T C V C T
+1458	Shanghai	catch a cold	伤风	sɑ̃⁵³foŋ⁵³	s ɑ̃ ⁵³ f o ŋ ⁵³		240	273	s - ɑ̃ - ⁵³ f o ŋ ⁵³	C V T C V C T
+1453	Shexian	catch a cold	伤风	ɕja³¹fʌ̃³¹	ɕ j a ³¹ f ʌ̃ ³¹		240	273	ɕ j a - ³¹ f ʌ̃ - ³¹	C C V T C V T
+1429	Changsha	catch a cold	感冒	kan⁴¹maw⁵⁵	k a n ⁴¹ m a w ⁵⁵		224	260	k a n ⁴¹ m a w ⁵⁵ - - - -	C V C T C V C T
+1444	Guangzhou	catch a cold	感冒	kɐm³⁵mow²²	k ɐ m ³⁵ m o w ²²		224	260	k ɐ m ³⁵ m o w ²² - - - -	C V C T C V C T
+1432	Guixian	catch a cold	感冒	kan⁴²ma²¹³	k a n ⁴² m a ²¹³		224	260	k a n ⁴² m a - ²¹³ - - - -	C V C T C V T
+1442	Hangzhou	catch a cold	感冒	kᴇ̃⁵³mɔ¹³	k ᴇ̃/ẽ̞ ⁵³ m ɔ ¹³		224	260	k ᴇ̃/ẽ̞ - ⁵³ m ɔ - ¹³ - - - -	C V T C V T
+1436	Hefei	catch a cold	感冒	kæ̃²⁴mɔ⁵³	k æ̃ ²⁴ m ɔ ⁵³		224	260	k æ̃ - ²⁴ m ɔ - ⁵³ - - - -	C V T C V T
+1440	Jinan	catch a cold	感冒	kã⁵⁵mɔ²¹	k ã ⁵⁵ m ɔ ²¹		224	260	k ã - ⁵⁵ m ɔ - ²¹ - - - -	C V T C V T
+1446	Nanchang	catch a cold	感冒	kɵn²¹³mɑw²¹	k ɵ n ²¹³ m ɑ w ²¹		224	260	k ɵ n ²¹³ m ɑ w ²¹ - - - -	C V C T C V C T
+1459	Shanghai	catch a cold	感冒	kø³⁵mɔ¹³	k ø ³⁵ m ɔ ¹³		224	260	k ø - ³⁵ m ɔ - ¹³ - - - -	C V T C V T
+1452	Taiyuan	catch a cold	感冒咧	kæ̃⁵³maw⁴⁵lje⁵³	k æ̃ ⁵³ m a w ⁴⁵ l j e ⁵³		224	260	k æ̃ - ⁵³ m a w ⁴⁵ l j e ⁵³	C V T C V C T C C V T
+1434	Xiamen	catch a cold	感冒	kam⁵³mɔ²²	k a m ⁵³ m ɔ ²²		224	260	k a m ⁵³ m ɔ - ²² - - - -	C V C T C V T
+2417	Beijing	cheap	便宜	pʰjan³⁵i³	pʰ j a n ³⁵ i ³		73	661	pʰ j a n ³⁵ - i - ³	C C V C T V T
+2401	Changsha	cheap	便宜	pjẽ¹³i	p j ẽ ¹³ i		73	661	p j ẽ - ¹³ - i - -	C C V T V
+2411	Chengdu	cheap	便宜	pʰjan³¹ȵi³¹	pʰ j a n ³¹ ɲ i ³¹		73	661	pʰ j a n ³¹ ɲ i - ³¹	C C V C T C V T
+2402	Guixian	cheap	便宜	pʰjan²¹i²¹³	pʰ j a n ²¹ i ²¹³		73	661	pʰ j a n ²¹ - i - ²¹³	C C V C T V T
+2408	Hangzhou	cheap	便宜	bjᴇ̃²¹³ȵi²¹³	b j ᴇ̃/ẽ̞ ²¹³ ɲ i ²¹³		73	661	b j ᴇ̃/ẽ̞ - ²¹³ ɲ i - ²¹³	C C V T C V T
+2407	Jinan	cheap	便宜	pʰjã⁴²i	pʰ j ã ⁴² i		73	661	pʰ j ã - ⁴² - i - -	C C V T V
+2400	Meixian	cheap	便宜	pʰjen¹¹ŋin¹¹	pʰ j e n ¹¹ ŋ i n ¹¹		73	661	pʰ j e n ¹¹ ŋ i n ¹¹	C C V C T C V C T
+2410	Nanchang	cheap	便宜	pʰjɛn²⁴i⁰⁴	pʰ j ɛ n ²⁴ i ⁰⁴/¹⁴		73	661	pʰ j ɛ n ²⁴ - i - ⁰⁴/¹⁴	C C V C T V T
+2415	Shexian	cheap	便宜	pʰe⁴⁴ni⁴⁴	pʰ e ⁴⁴ n i ⁴⁴		73	661	pʰ - e - ⁴⁴ n i - ⁴⁴	C V T C V T
+2414	Taiyuan	cheap	便宜	pʰje¹¹i⁴⁵	pʰ j e ¹¹ i ⁴⁵		73	661	pʰ j e - ¹¹ - i - ⁴⁵	C C V T V T
+2405	Xiamen	cheap	便宜	pan³⁵gi³⁵	p a n ³⁵ g i ³⁵		73	661	p - a n ³⁵ g i - ³⁵	C V C T C V T
+403	Beijing	chicken	母鸡	mu²¹⁴ʨi⁵⁵	m u ²¹⁴ tɕ i ⁵⁵		1127	110	m - u - - - - ²¹⁴ tɕ - i - ⁵⁵	C V T C V T
+387	Guixian	chicken	母鸡	mu⁴²ʨi⁵⁵	m u ⁴² tɕ i ⁵⁵		1127	110	m - u - - - - ⁴² tɕ - i - ⁵⁵	C V T C V T
+390	Hefei	chicken	母鸡	məŋ²⁴ʦɿ²¹	m ə ŋ ²⁴ ts ɿ ²¹		1127	110	m - ə - - - ŋ ²⁴ ts - ɿ - ²¹	C V C T C V T
+392	Jinan	chicken	母鸡	mu⁵⁵ʨi	m u ⁵⁵ tɕ i		1127	110	m - u - - - - ⁵⁵ tɕ - i - -	C V T C V
+404	Kunming	chicken	母鸡	mu⁵³ʨi⁴⁴	m u ⁵³ tɕ i ⁴⁴		1127	110	m - u - - - - ⁵³ tɕ - i - ⁴⁴	C V T C V T
+406	Shanghai	chicken	母鸡	mu¹³ʨi⁵³	m u ¹³ tɕ i ⁵³		1127	110	m - u - - - - ¹³ tɕ - i - ⁵³	C V T C V T
+401	Shexian	chicken	鸡母	ʨi³¹m̩³⁵	tɕ i ³¹ m̩ ³⁵		1127	110	tɕ - i - - - - ³¹ m̩ - - - ³⁵	C V T C T
+388	Xiamen	chicken	鸡母	kwe⁵⁵bu	k w e ⁵⁵ b u		1127	110	k w e - - - - ⁵⁵ - b u - -	C C V T C V
+384	Changsha	chicken	鸡婆	ʨi³³po¹³	tɕ i ³³ p o ¹³		1104	90	tɕ i ³³ p - o - ¹³	C V T C V T
+399	Chengdu	chicken	鸡婆	ʨi⁵⁵pʰo³¹	tɕ i ⁵⁵ pʰ o ³¹		1104	90	tɕ i ⁵⁵ pʰ - o - ³¹	C V T C V T
+394	Hangzhou	chicken	婆鸡	bo²¹³ʨi	b o ²¹³ tɕ i		1104	90	b o ²¹³ tɕ - i - -	C V T C V
+397	Nanchang	chicken	鸡婆	ʨi⁴²pʰo²⁴	tɕ i ⁴² pʰ o ²⁴		1104	90	tɕ i ⁴² pʰ - o - ²⁴	C V T C V T
+402	Shexian	chicken	鸡婆	ʨi³¹pʰo⁴⁴	tɕ i ³¹ pʰ o ⁴⁴		1104	90	tɕ i ³¹ pʰ - o - ⁴⁴	C V T C V T
+386	Guixian	chicken	草鸡	ʦʰa⁴²ʨi⁵⁵	tsʰ a ⁴² tɕ i ⁵⁵		661	605	tsʰ a - ⁴² tɕ i ⁵⁵	C V T C V T
+393	Jinan	chicken	草鸡	ʦʰɔ⁵⁵ʨi	tsʰ ɔ ⁵⁵ tɕ i		661	605	tsʰ ɔ - ⁵⁵ tɕ i -	C V T C V
+400	Taiyuan	chicken	草鸡	ʦʰaw⁵³ʨi¹¹	tsʰ a w ⁵³ tɕ i ¹¹		661	605	tsʰ a w ⁵³ tɕ i ¹¹	C V C T C V T
+555	Beijing	chimney	烟筒	jan⁵⁵tʰuŋ²	j a n ⁵⁵ tʰ u ŋ ²		538	511	j a n ⁵⁵ tʰ - u ŋ ²	C V C T C V C T
+541	Changsha	chimney	烟筒	jẽ³³toŋ¹³	j ẽ ³³ t o ŋ ¹³		538	511	j ẽ - ³³ t - o ŋ ¹³	C V T C V C T
+545	Jinan	chimney	烟筒	jã²¹³tʰuŋ	j ã ²¹³ tʰ u ŋ		538	511	j ã - ²¹³ tʰ - u ŋ -	C V T C V C
+550	Nanchang	chimney	烟筒	jɛn⁴²tʰuŋ⁰²	j ɛ n ⁴² tʰ u ŋ ⁰²/¹²		538	511	j ɛ n ⁴² tʰ - u ŋ ⁰²/¹²	C V C T C V C T
+553	Taiyuan	chimney	烟筒	je¹¹tʰwəŋ⁵³	j e ¹¹ tʰ w ə ŋ ⁵³		538	511	j e - ¹¹ tʰ w ə ŋ ⁵³	C V T C C V C T
+543	Xiamen	chimney	烟筒	jan⁵⁵taŋ³⁵	j a n ⁵⁵ t a ŋ ³⁵		538	511	j a n ⁵⁵ t - a ŋ ³⁵	C V C T C V C T
+551	Chengdu	chimney	烟囱	jan⁵⁵ʦʰoŋ⁵⁵	j a n ⁵⁵ tsʰ o ŋ ⁵⁵		307	320	- j a n ⁵⁵ tsʰ o ŋ ⁵⁵	C V C T C V C T
+542	Guixian	chimney	烟囱	jan⁵⁵ʦʰoŋ⁵⁵	j a n ⁵⁵ tsʰ o ŋ ⁵⁵		307	320	- j a n ⁵⁵ tsʰ o ŋ ⁵⁵	C V C T C V C T
+548	Hangzhou	chimney	烟囱	ʔjᴇ̃³³ʦʰoŋ³³	ʔ j ᴇ̃/ẽ̞ ³³ tsʰ o ŋ ³³		307	320	ʔ j ᴇ̃/ẽ̞ - ³³ tsʰ o ŋ ³³	C C V T C V C T
+556	Kunming	chimney	烟囱	jɛ̃⁴⁴ʦʰoŋ⁴⁴	j ɛ̃ ⁴⁴ tsʰ o ŋ ⁴⁴		307	320	- j ɛ̃ - ⁴⁴ tsʰ o ŋ ⁴⁴	C V T C V C T
+557	Shanghai	chimney	烟囱	i⁵³ʦʰoŋ⁵³	i ⁵³ tsʰ o ŋ ⁵³		307	320	- - i - ⁵³ tsʰ o ŋ ⁵³	V T C V C T
+554	Shexian	chimney	烟囱	je³¹ʦʰʌ̃³¹	j e ³¹ tsʰ ʌ̃ ³¹		307	320	- j e - ³¹ tsʰ ʌ̃ - ³¹	C V T C V T
+1135	Beijing	chopsticks	筷子	kʰwajuai⁵¹ʦɿ¹	kʰ w a j u a i ⁵¹ ts ɿ ¹		818	734	kʰ w a j u a i ⁵¹ ts ɿ - ¹	C C V C V V V T C V T
+1124	Changsha	chopsticks	筷子	kʰwajuai⁵⁵ʦɿ	kʰ w a j u a i ⁵⁵ ts ɿ		818	734	kʰ w a j u a i ⁵⁵ ts ɿ - -	C C V C V V V T C V
+1132	Chengdu	chopsticks	筷子	kʰwajuai¹³ʦɿ⁵³	kʰ w a j u a i ¹³ ts ɿ ⁵³		818	734	kʰ w a j u a i ¹³ ts ɿ - ⁵³	C C V C V V V T C V T
+1130	Guangzhou	chopsticks	筷子	faj³³ʦi³⁵	f a j ³³ ts i ³⁵		818	734	- f a j - - - ³³ ts i - ³⁵	C V C T C V T
+1125	Guixian	chopsticks	筷子	kʰwajuai²¹³ʦɿ⁴²	kʰ w a j u a i ²¹³ ts ɿ ⁴²		818	734	kʰ w a j u a i ²¹³ ts ɿ - ⁴²	C C V C V V V T C V T
+1127	Hefei	chopsticks	筷子	kʰwᴇ⁵³ʦə	kʰ w ᴇ/e̞ ⁵³ ts ə		818	734	kʰ w ᴇ/e̞ - - - - ⁵³ ts ə - -	C C V T C V
+1128	Jinan	chopsticks	筷子	kʰwɛ²¹ʦɿ	kʰ w ɛ ²¹ ts ɿ		818	734	kʰ w ɛ - - - - ²¹ ts ɿ - -	C C V T C V
+1131	Nanchang	chopsticks	筷子	kʰwajuai²¹³ʦɿ⁰⁴	kʰ w a j u a i ²¹³ ts ɿ ⁰⁴/¹⁴		818	734	kʰ w a j u a i ²¹³ ts ɿ - ⁰⁴/¹⁴	C C V C V V V T C V T
+1139	Shanghai	chopsticks	筷子	kʰwe⁵³ʦɿ³⁵	kʰ w e ⁵³ ts ɿ ³⁵		818	734	kʰ w e - - - - ⁵³ ts ɿ - ³⁵	C C V T C V T
+1133	Taiyuan	chopsticks	筷子	kʰwajuai⁴⁵ʦəʔ	kʰ w a j u a i ⁴⁵ ts ə ʔ		818	734	kʰ w a j u a i ⁴⁵ ts ə ʔ -	C C V C V V V T C V C
+1883	Changsha	classifier (cow)	一条牛	tjawiau¹³	t j a w i a u ¹³		716	650	t j a w i a u ¹³	C C V C V V V T
+1893	Chengdu	classifier (cow)	一条牛	tʰjawiau³¹	tʰ j a w i a u ³¹		716	650	tʰ j a w i a u ³¹	C C V C V V V T
+1884	Guixian	classifier (cow)	一条牛	tʰjaoiao²¹	tʰ j a o i a o ²¹		716	650	tʰ j a o i a o ²¹	C C V V V V V T
+1886	Hefei	classifier (cow)	一条牛	tʰjɔ⁵⁵	tʰ j ɔ ⁵⁵		716	650	tʰ j ɔ - - - - ⁵⁵	C C V T
+1887	Jinan	classifier (cow)	一条牛	tʰjɔ⁴²	tʰ j ɔ ⁴²		716	650	tʰ j ɔ - - - - ⁴²	C C V T
+1899	Kunming	classifier (cow)	一条牛	tʰjɔ³¹	tʰ j ɔ ³¹		716	650	tʰ j ɔ - - - - ³¹	C C V T
+1882	Meixian	classifier (cow)	一条牛	tʰjawiau¹¹	tʰ j a w i a u ¹¹		716	650	tʰ j a w i a u ¹¹	C C V C V V V T
+1890	Guangzhou	classifier (cow)	一只牛	ʦɛk³	ts ɛ k ³		652	597	ts - ɛ k ³	C V C T
+1889	Hangzhou	classifier (cow)	一只牛	ʦɑʔ⁵	ts ɑ ʔ ⁵		652	597	ts - ɑ ʔ ⁵	C V C T
+1892	Nanchang	classifier (cow)	一只牛	ʦɑʔ⁵	ts ɑ ʔ ⁵		652	597	ts - ɑ ʔ ⁵	C V C T
+1900	Shanghai	classifier (cow)	一只牛	ʦaʔ⁵	ts a ʔ ⁵		652	597	ts - a ʔ ⁵	C V C T
+1897	Shexian	classifier (cow)	一只牛	ʨi²¹	tɕ i ²¹		652	597	tɕ - i - ²¹	C V T
+1885	Xiamen	classifier (cow)	一只牛	ʦjaʔ³²	ts j a ʔ ³²		652	597	ts j a ʔ ³²	C C V C T
+1831	Changsha	classifier (pair)	一双鞋子	ɕɥan³³	ɕ ɥ a n ³³		708	643	ɕ ɥ a n ³³	C C V C T
+1839	Chengdu	classifier (pair)	一双鞋	swaŋ⁵⁵	s w a ŋ ⁵⁵		708	643	s w a ŋ ⁵⁵	C C V C T
+1832	Guixian	classifier (pair)	一双鞋	swaŋ⁵⁵	s w a ŋ ⁵⁵		708	643	s w a ŋ ⁵⁵	C C V C T
+1836	Hangzhou	classifier (pair)	一双鞋子	sɥɑŋ³³	s ɥ ɑ ŋ ³³		708	643	s ɥ ɑ ŋ ³³	C C V C T
+1834	Hefei	classifier (pair)	一双鞋	ʂwɑ̃²¹	ʂ w ɑ̃ ²¹		708	643	ʂ w ɑ̃ - ²¹	C C V T
+1835	Jinan	classifier (pair)	一双鞋	ʂwaŋ²¹³	ʂ w a ŋ ²¹³		708	643	ʂ w a ŋ ²¹³	C C V C T
+1843	Kunming	classifier (pair)	一双鞋子	ʂwᴀ̃⁴⁴	ʂ w ᴀ̃/ã̱ ⁴⁴		708	643	ʂ w ᴀ̃/ã̱ - ⁴⁴	C C V T
+1830	Meixian	classifier (pair)	一双鞋	suŋ⁴⁴	s u ŋ ⁴⁴		708	643	s - u ŋ ⁴⁴	C V C T
+1838	Nanchang	classifier (pair)	一双鞋子	sɔŋ⁴²	s ɔ ŋ ⁴²		708	643	s - ɔ ŋ ⁴²	C V C T
+1844	Shanghai	classifier (pair)	一双鞋子	sɑ̃⁵³	s ɑ̃ ⁵³		708	643	s - ɑ̃ - ⁵³	C V T
+1841	Shexian	classifier (pair)	一双鞋	so³¹	s o ³¹		708	643	s - o - ³¹	C V T
+1833	Xiamen	classifier (pair)	一双鞋	sjaŋ⁵⁵	s j a ŋ ⁵⁵		708	643	s j a ŋ ⁵⁵	C C V C T
+1816	Changsha	classifier (person)	一位客人	wejuei¹¹	w e j u/w e i ¹¹		288	307	- w e j u/w e i ¹¹	C V C V V V T
+1824	Chengdu	classifier (person)	一位客人	wejuei¹³	w e j u/w e i ¹³		288	307	- w e j u/w e i ¹³	C V C V V V T
+1822	Guangzhou	classifier (person)	一位客人	wɐj²²	w ɐ j ²²		288	307	- w ɐ j - - - ²²	C V C T
+1817	Guixian	classifier (person)	一个客人	ko²¹³	k o ²¹³		288	307	k - o - - - - ²¹³	C V T
+1821	Hangzhou	classifier (person)	一个客人	kəʔ⁵	k ə ʔ ⁵		288	307	k - ə ʔ - - - ⁵	C V C T
+1819	Hefei	classifier (person)	一个客人	kə⁵³	k ə ⁵³		288	307	k - ə - - - - ⁵³	C V T
+1820	Jinan	classifier (person)	一位客人	vej²¹	v e j ²¹		288	307	- v e j - - - ²¹	C V C T
+1828	Kunming	classifier (person)	一个客人	kə²¹²	k ə ²¹²		288	307	k - ə - - - - ²¹²	C V T
+1815	Meixian	classifier (person)	一个人客	ke⁵³	k e ⁵³		288	307	k - e - - - - ⁵³	C V T
+1823	Nanchang	classifier (person)	一个客	ko⁴⁵	k o ⁴⁵		288	307	k - o - - - - ⁴⁵	C V T
+1829	Shanghai	classifier (person)	一位客人	we¹³	w e ¹³		288	307	- w e - - - - ¹³	C V T
+1826	Shexian	classifier (person)	一个客	ko³²⁴	k o ³²⁴		288	307	k - o - - - - ³²⁴	C V T
+1825	Taiyuan	classifier (person)	一块客人	kwajuai⁴⁵	k w a j u a i ⁴⁵		288	307	k w a j u a i ⁴⁵	C C V C V V V T
+1818	Xiamen	classifier (person)	一个人客	e³⁵	e ³⁵		288	307	- - e - - - - ³⁵	V T
+1911	Chengdu	classifier (pig)	一条猪	tʰjawiau³¹	tʰ j a w i a u ³¹		758	686	tʰ j a w i a u ³¹	C C V C V V V T
+1909	Guangzhou	classifier (pig)	一条猪	tʰju²¹	tʰ j u ²¹		758	686	tʰ j u - - - - ²¹	C C V T
+1903	Guixian	classifier (pig)	一条猪	tʰjaoiao²¹	tʰ j a o i a o ²¹		758	686	tʰ j a o i a o ²¹	C C V V V V V T
+1901	Meixian	classifier (pig)	一条猪	tʰjawiau¹¹	tʰ j a w i a u ¹¹		758	686	tʰ j a w i a u ¹¹	C C V C V V V T
+1902	Changsha	classifier (pig)	一只猪	t͡ʂa²⁴	ʈʂ a ²⁴		681	624	ʈʂ - a - ²⁴	C V T
+1908	Guangzhou	classifier (pig)	一只猪	ʦɛk³	ts ɛ k ³		681	624	ts - ɛ k ³	C V C T
+1907	Hangzhou	classifier (pig)	一只猪	ʦɑʔ⁵	ts ɑ ʔ ⁵		681	624	ts - ɑ ʔ ⁵	C V C T
+1910	Nanchang	classifier (pig)	一只猪	ʦɑʔ⁵	ts ɑ ʔ ⁵		681	624	ts - ɑ ʔ ⁵	C V C T
+1919	Shanghai	classifier (pig)	一只猪猡	ʦaʔ⁵	ts a ʔ ⁵		681	624	ts - a ʔ ⁵	C V C T
+1915	Shexian	classifier (pig)	一只猪	ʨi²¹	tɕ i ²¹		681	624	tɕ - i - ²¹	C V T
+1904	Xiamen	classifier (pig)	一只猪	ʦjaʔ³²	ts j a ʔ ³²		681	624	ts j a ʔ ³²	C C V C T
+1846	Changsha	classifier (pillow)	一床被子	ʨɥan¹³	tɕ ɥ a n ¹³		682	625	tɕ ɥ a n - - - ¹³	C C V C T
+1854	Guangzhou	classifier (pillow)	一床被	ʦʰɔŋ²¹	tsʰ ɔ ŋ ²¹		682	625	tsʰ - ɔ ŋ - - - ²¹	C V C T
+1847	Guixian	classifier (pillow)	一床被窝	ʦʰwaŋ²¹	tsʰ w a ŋ ²¹		682	625	tsʰ w a ŋ - - - ²¹	C C V C T
+1852	Hangzhou	classifier (pillow)	一床棉被	ʣɥɑŋ²¹³	dz ɥ ɑ ŋ ²¹³		682	625	dz ɥ ɑ ŋ - - - ²¹³	C C V C T
+1850	Hefei	classifier (pillow)	一床被	t͡ʂʰwɑ̃⁵⁵	ʈʂʰ w ɑ̃ ⁵⁵		682	625	ʈʂʰ w ɑ̃ - - - - ⁵⁵	C C V T
+1851	Jinan	classifier (pillow)	一床被窝	t͡ʂʰwaŋ⁴²	ʈʂʰ w a ŋ ⁴²		682	625	ʈʂʰ w a ŋ - - - ⁴²	C C V C T
+1862	Kunming	classifier (pillow)	一床被窝	ʦʰwaŋ²¹	tsʰ w a ŋ ²¹		682	625	tsʰ w a ŋ - - - ²¹	C C V C T
+1856	Nanchang	classifier (pillow)	一床被火	ʦʰɔŋ²⁴	tsʰ ɔ ŋ ²⁴		682	625	tsʰ - ɔ ŋ - - - ²⁴	C V C T
+1859	Shexian	classifier (pillow)	一床被	so⁴⁴	s o ⁴⁴		682	625	s - o - - - - ⁴⁴	C V T
+1858	Taiyuan	classifier (pillow)	一块被子	kwajuai⁴⁵	k w a j u a i ⁴⁵		682	625	k w a j u a i ⁴⁵	C C V C V V V T
+1849	Xiamen	classifier (pillow)	一床被	ʦʰŋ̍³⁵	tsʰ ŋ̍ ³⁵		682	625	tsʰ - - ŋ̍ - - - ³⁵	C C T
+1853	Hangzhou	classifier (pillow)	一条被头	djɔ²¹³	d j ɔ ²¹³		516	496	d j ɔ ²¹³	C C V T
+1863	Shanghai	classifier (pillow)	一条被头	djɔ¹³	d j ɔ ¹³		516	496	d j ɔ ¹³	C C V T
+1860	Shexian	classifier (pillow)	一条被	tʰjɔ⁴⁴	tʰ j ɔ ⁴⁴		516	496	tʰ j ɔ ⁴⁴	C C V T
+1865	Changsha	classifier (vehicle)	一部车子	pu¹¹	p u ¹¹		175	219	- p u ¹¹	C V T
+1875	Chengdu	classifier (vehicle)	一架车	ʨja¹³	tɕ j a ¹³		175	219	tɕ j a ¹³	C C V T
+1873	Guangzhou	classifier (vehicle)	一架车	ka³³	k a ³³		175	219	k - a ³³	C V T
+1866	Guixian	classifier (vehicle)	一架车子	ʨja²¹³	tɕ j a ²¹³		175	219	tɕ j a ²¹³	C C V T
+1872	Hangzhou	classifier (vehicle)	一部车子	bu¹³	b u ¹³		175	219	- b u ¹³	C V T
+1874	Nanchang	classifier (vehicle)	一部车子	pʰu²¹	pʰ u ²¹		175	219	- pʰ u ²¹	C V T
+1881	Shanghai	classifier (vehicle)	一部车子	bu¹³	b u ¹³		175	219	- b u ¹³	C V T
+1878	Shexian	classifier (vehicle)	一部车	pʰu²²	pʰ u ²²		175	219	- pʰ u ²²	C V T
+1868	Xiamen	classifier (vehicle)	一部车	pɔ²²	p ɔ ²²		175	219	- p ɔ ²²	C V T
+1876	Chengdu	classifier (vehicle)	一挂车	kwa¹³	k w a ¹³		741	672	k w a ¹³	C C V T
+1869	Hefei	classifier (vehicle)	一挂车	kwa⁵³	k w a ⁵³		741	672	k w a ⁵³	C C V T
+1871	Jinan	classifier (vehicle)	一挂车	kwa²¹	k w a ²¹		741	672	k w a ²¹	C C V T
+1877	Taiyuan	classifier (vehicle)	一挂车	kwa⁴⁵	k w a ⁴⁵		741	672	k w a ⁴⁵	C C V T
+2397	Beijing	clean	干净	kan⁵⁵ʨiŋ²	k a n ⁵⁵ tɕ i ŋ ²		748	678	k a n ⁵⁵ tɕ - i ŋ ²	C V C T C V C T
+2384	Changsha	clean	干净	kan³³ʦin⁵⁵	k a n ³³ ts i n ⁵⁵		748	678	k a n ³³ ts - i n ⁵⁵	C V C T C V C T
+2394	Chengdu	clean	干净	kan⁵⁵ʨin¹³	k a n ⁵⁵ tɕ i n ¹³		748	678	k a n ⁵⁵ tɕ - i n ¹³	C V C T C V C T
+2392	Guangzhou	clean	干净	kɔn⁵³ʦɛŋ²²	k ɔ n ⁵³ ts ɛ ŋ ²²		748	678	k ɔ n ⁵³ ts - ɛ ŋ ²²	C V C T C V C T
+2386	Guixian	clean	干净	kan⁵⁵ʨin²¹³	k a n ⁵⁵ tɕ i n ²¹³		748	678	k a n ⁵⁵ tɕ - i n ²¹³	C V C T C V C T
+2390	Hangzhou	clean	干净	kᴇ̃³³ʥin¹³	k ᴇ̃/ẽ̞ ³³ dʑ i n ¹³		748	678	k ᴇ̃/ẽ̞ - ³³ dʑ - i n ¹³	C V T C V C T
+2389	Jinan	clean	干净	kã²¹³ʨiŋ	k ã ²¹³ tɕ i ŋ		748	678	k ã - ²¹³ tɕ - i ŋ -	C V T C V C
+2398	Kunming	clean	干净	kᴀ̃⁴⁴ʨĩ²¹²	k ᴀ̃/ã̱ ⁴⁴ tɕ ĩ ²¹²		748	678	k ᴀ̃/ã̱ - ⁴⁴ tɕ - ĩ - ²¹²	C V T C V T
+2393	Nanchang	clean	干净	kɵn⁴²ʨʰin⁰²	k ɵ n ⁴² tɕʰ i n ⁰²/¹²		748	678	k ɵ n ⁴² tɕʰ - i n ⁰²/¹²	C V C T C V C T
+2396	Shexian	clean	干净	kɛ³¹ʦʰjʌ̃²²	k ɛ ³¹ tsʰ j ʌ̃ ²²		748	678	k ɛ - ³¹ tsʰ j ʌ̃ - ²²	C V T C C V T
+2395	Taiyuan	clean	干净	kæ̃¹¹ʨjəŋ⁴⁵	k æ̃ ¹¹ tɕ j ə ŋ ⁴⁵		748	678	k æ̃ - ¹¹ tɕ j ə ŋ ⁴⁵	C V T C C V C T
+2236	Guangzhou	cold	冻	toŋ³³	t o ŋ ³³		776	699	t - o ŋ ³³ - - - - -	C V C T
+2241	Beijing	cold	冷	ləŋ²¹⁴	l ə ŋ ²¹⁴		177	221	l ə ŋ ²¹⁴	C V C T
+2228	Changsha	cold	冷	lən⁴¹	l ə n ⁴¹		177	221	l ə n ⁴¹	C V C T
+2238	Chengdu	cold	冷	nən⁵³	n ə n ⁵³		177	221	n ə n ⁵³	C V C T
+2229	Guixian	cold	冷	len⁴²	l e n ⁴²		177	221	l e n ⁴²	C V C T
+2234	Hangzhou	cold	冷	len⁵³	l e n ⁵³		177	221	l e n ⁵³	C V C T
+2232	Hefei	cold	冷	lən²⁴	l ə n ²⁴		177	221	l ə n ²⁴	C V C T
+2233	Jinan	cold	冷	ləŋ⁵⁵	l ə ŋ ⁵⁵		177	221	l ə ŋ ⁵⁵	C V C T
+2242	Kunming	cold	冷	lə̃⁵³	l ə̃ ⁵³		177	221	l ə̃ - ⁵³	C V T
+2237	Nanchang	cold	冷	lɑŋ²¹³	l ɑ ŋ ²¹³		177	221	l ɑ ŋ ²¹³	C V C T
+2243	Shanghai	cold	冷	lã¹³	l ã ¹³		177	221	l ã - ¹³	C V T
+2240	Shexian	cold	冷	lɛ³⁵	l ɛ ³⁵		177	221	l ɛ - ³⁵	C V T
+2231	Xiamen	cold	冷	liŋ⁵³	l i ŋ ⁵³		177	221	l i ŋ ⁵³	C V C T
+1348	Beijing	cook	厨子	t͡ʂʰu³⁵ʦɿ³	ʈʂʰ u ³⁵ ts ɿ ³		523	502	ʈʂʰ u ³⁵ ts ɿ - ³ - - -	C V T C V T
+1337	Chengdu	cook	厨师	ʦʰu³¹sɿ⁵⁵	tsʰ u ³¹ s ɿ ⁵⁵		523	502	tsʰ u ³¹ s ɿ - ⁵⁵ - - -	C V T C V T
+1330	Guixian	cook	厨子	ʦʰu²¹ʦɿ⁴²	tsʰ u ²¹ ts ɿ ⁴²		523	502	tsʰ u ²¹ ts ɿ - ⁴² - - -	C V T C V T
+1332	Hefei	cook	厨子	tʰu⁵⁵ʦə	tʰ u ⁵⁵ ts ə		523	502	tʰ u ⁵⁵ ts ə - - - - -	C V T C V
+1333	Jinan	cook	厨师	t͡ʂʰu⁴²ʂʅ²¹³	ʈʂʰ u ⁴² ʂ ʅ ²¹³		523	502	ʈʂʰ u ⁴² ʂ ʅ - ²¹³ - - -	C V T C V T
+1349	Kunming	cook	厨子	t͡ʂʰu³¹ʦɿ⁵³	ʈʂʰ u ³¹ ts ɿ ⁵³		523	502	ʈʂʰ u ³¹ ts ɿ - ⁵³ - - -	C V T C V T
+1325	Meixian	cook	厨师	ʦʰu¹¹sɿ⁴⁴	tsʰ u ¹¹ s ɿ ⁴⁴		523	502	tsʰ u ¹¹ s ɿ - ⁴⁴ - - -	C V T C V T
+1350	Shanghai	cook	厨师	zɿ¹³sɿ⁵³	z ɿ ¹³ s ɿ ⁵³		523	502	z ɿ ¹³ s ɿ - ⁵³ - - -	C V T C V T
+1342	Taiyuan	cook	厨子	ʦʰu¹¹ʦəʔ	tsʰ u ¹¹ ts ə ʔ		523	502	tsʰ u ¹¹ ts ə ʔ - - - -	C V T C V C
+1331	Xiamen	cook	厨子师	tɔ³⁵ʦi⁵³saj	t ɔ ³⁵ ts i ⁵³ s a j		523	502	t ɔ ³⁵ ts i - ⁵³ s a j	C V T C V T C V C
+1347	Beijing	cook	大师傅	ta⁵¹ʂʅ¹fu¹	t a ⁵¹ ʂ ʅ ¹ f u ¹		710	645	t a - ⁵¹ ʂ ʅ ¹ f u ¹	C V T C V T C V T
+1329	Changsha	cook	大师傅	taj¹¹sɿ³³fu	t a j ¹¹ s ɿ ³³ f u		710	645	t a j ¹¹ s ɿ ³³ f u -	C V C T C V T C V
+1338	Chengdu	cook	大师傅	ta¹³sɿ⁵⁵fu¹³	t a ¹³ s ɿ ⁵⁵ f u ¹³		710	645	t a - ¹³ s ɿ ⁵⁵ f u ¹³	C V T C V T C V T
+1336	Nanchang	cook	大师傅	tʰaj²¹sɿ⁴²fu⁰²	tʰ a j ²¹ s ɿ ⁴² f u ⁰²/¹²		710	645	tʰ a j ²¹ s ɿ ⁴² f u ⁰²/¹²	C V C T C V T C V T
+1343	Taiyuan	cook	大师傅	ta⁴⁵sɿ¹¹fu⁴⁵	t a ⁴⁵ s ɿ ¹¹ f u ⁴⁵		710	645	t a - ⁴⁵ s ɿ ¹¹ f u ⁴⁵	C V T C V T C V T
+988	Guixian	daughter	姑娘	ku⁵⁵ljaŋ⁵⁵	k u ⁵⁵ l j a ŋ ⁵⁵		461	449	- - - - - k u ⁵⁵ l j a ŋ ⁵⁵ - - -	C V T C C V C T
+1000	Taiyuan	daughter	姑娘	ku¹¹njɒ̃¹¹	k u ¹¹ n j ɒ̃ ¹¹		461	449	- - - - - k u ¹¹ n j ɒ̃ - ¹¹ - - -	C V T C C V T
+987	Changsha	daughter	女	ȵy⁴¹	ɲ y ⁴¹		202	241	ɲ y - ⁴¹	C V T
+995	Guangzhou	daughter	女	nøɥ²³	n ø ɥ ²³		202	241	n ø ɥ ²³	C V C T
+996	Nanchang	daughter	女	ȵy²¹³	ɲ y ²¹³		202	241	ɲ y - ²¹³	C V T
+1001	Shexian	daughter	女	ny³⁵	n y ³⁵		202	241	n y - ³⁵	C V T
+991	Guixian	daughter	女娃儿	li⁴²wa²¹ɚ⁵⁵	l i ⁴² w a ²¹ ɚ ⁵⁵		520	500	l i ⁴² w - a - ²¹ ɚ - ⁵⁵	C V T C V T V T
+1002	Beijing	daughter	闺女	kwejuei⁵⁵ny²	k w e j u/w e i ⁵⁵ n y ²		119	170	k w e j u/w e i ⁵⁵ n y ²	C C V C V V V T C V T
+994	Jinan	daughter	闺女	kwejuei²¹³ȵy	k w e j u/w e i ²¹³ ɲ y		119	170	k w e j u/w e i ²¹³ ɲ y -	C C V C V V V T C V
+999	Taiyuan	daughter	闺女	kwejuei¹¹ny⁵³	k w e j u/w e i ¹¹ n y ⁵³		119	170	k w e j u/w e i ¹¹ n y ⁵³	C C V C V V V T C V T
+1511	Beijing	die	死了	sɿ²¹⁴lə⁴	s ɿ ²¹⁴ l ə ⁴		1000	3	s ɿ ²¹⁴ - - - - l - - - - ə ⁴ - -	C V T C V T
+1499	Chengdu	die	死了	sɿ⁵³no	s ɿ ⁵³ n o		1000	3	s ɿ ⁵³ n o - - - - - - - - - - -	C V T C V
+1481	Guixian	die	死了	sɿ⁴²əw²¹³	s ɿ ⁴² ə w ²¹³		1000	3	s ɿ ⁴² - - - - - - ə w - - ²¹³ - -	C V T V C T
+1493	Hangzhou	die	死了得	sɿ⁵³ljɔ⁵³tə	s ɿ ⁵³ l j ɔ ⁵³ t ə		1000	3	s ɿ ⁵³ - - - - l j - - - ɔ ⁵³ t ə	C V T C C V T C V
+1476	Meixian	die	死撇了	si³¹pʰet¹le	s i ³¹ pʰ e t ¹ l e		1000	3	s i ³¹ pʰ e t ¹ l - - - - e - - -	C V T C V C T C V
+1496	Nanchang	die	死不了	sɿ²¹³pɨʔ⁰⁴ljɛwiɛu⁰⁴	s ɿ ²¹³ p ɨ ʔ ⁰⁴/¹⁴ l j ɛ w i ɛu ⁰⁴/¹⁴		1000	3	s ɿ ²¹³ p ɨ ʔ ⁰⁴/¹⁴ l j ɛ w i ɛu ⁰⁴/¹⁴ - -	C V T C V C T C C V C V V T
+2354	Changsha	dirty	邋遢	la²⁴tʰa²⁴	l a ²⁴ tʰ a ²⁴		422	419	l a - ²⁴ tʰ a - ²⁴	C V T C V T
+2374	Chengdu	dirty	邋遢	na³¹tʰa³¹	n a ³¹ tʰ a ³¹		422	419	n a - ³¹ tʰ a - ³¹	C V T C V T
+2368	Guangzhou	dirty	邋遢	lat²tʰat³	l a t ² tʰ a t ³		422	419	l a t ² tʰ a t ³	C V C T C V C T
+2363	Jinan	dirty	邋遢	la²¹³tʰa	l a ²¹³ tʰ a		422	419	l a - ²¹³ tʰ a - -	C V T C V
+2370	Nanchang	dirty	邋遢	laʔ⁵tʰaʔ⁰²	l a ʔ ⁵ tʰ a ʔ ⁰²/¹²		422	419	l a ʔ ⁵ tʰ a ʔ ⁰²/¹²	C V C T C V C T
+2378	Shexian	dirty	邋遢	la²¹tʰaʔ²¹	l a ²¹ tʰ a ʔ ²¹		422	419	l a - ²¹ tʰ a ʔ ²¹	C V T C V C T
+2379	Beijing	dirty	脏	ʦɑŋ⁵⁵	ts ɑ ŋ ⁵⁵		959	861	ts ɑ ŋ ⁵⁵	C V C T
+2371	Chengdu	dirty	脏	ʦaŋ⁵⁵	ts a ŋ ⁵⁵		959	861	ts a ŋ ⁵⁵	C V C T
+2357	Guixian	dirty	脏	ʦaŋ⁵⁵	ts a ŋ ⁵⁵		959	861	ts a ŋ ⁵⁵	C V C T
+2359	Hefei	dirty	脏	ʦɑ̃	ts ɑ̃		959	861	ts ɑ̃ - -	C V
+2362	Jinan	dirty	脏	ʦaŋ²¹³	ts a ŋ ²¹³		959	861	ts a ŋ ²¹³	C V C T
+2380	Kunming	dirty	脏	ʦᴀ̃⁴⁴	ts ᴀ̃/ã̱ ⁴⁴		959	861	ts ᴀ̃/ã̱ - ⁴⁴	C V T
+2373	Chengdu	dirty	龌龊	o³¹ʦʰo³¹	o ³¹ tsʰ o ³¹		1096	82	- o - ³¹ tsʰ o - ³¹	V T C V T
+2366	Hangzhou	dirty	龌龊	ʔoʔ⁵ʦʰoʔ⁵	ʔ o ʔ ⁵ tsʰ o ʔ ⁵		1096	82	ʔ o ʔ ⁵ tsʰ o ʔ ⁵	C V C T C V C T
+2382	Shanghai	dirty	龌龊	oʔ⁵ʦʰoʔ⁵	o ʔ ⁵ tsʰ o ʔ ⁵		1096	82	- o ʔ ⁵ tsʰ o ʔ ⁵	V C T C V C T
+1321	Beijing	doctor	医生	i⁵⁵ʂəŋ²	i ⁵⁵ ʂ ə ŋ ²		822	737	- i ⁵⁵ ʂ ə ŋ ²	V T C V C T
+1300	Changsha	doctor	医生	i³³sən³³	i ³³ s ə n ³³		822	737	- i ³³ s ə n ³³	V T C V C T
+1315	Chengdu	doctor	医生	i⁵⁵sən⁵⁵	i ⁵⁵ s ə n ⁵⁵		822	737	- i ⁵⁵ s ə n ⁵⁵	V T C V C T
+1312	Guangzhou	doctor	医生	ji⁵⁵sɐŋ⁵⁵	j i ⁵⁵ s ɐ ŋ ⁵⁵		822	737	j i ⁵⁵ s ɐ ŋ ⁵⁵	C V T C V C T
+1302	Guixian	doctor	医生	i⁵⁵sen⁵⁵	i ⁵⁵ s e n ⁵⁵		822	737	- i ⁵⁵ s e n ⁵⁵	V T C V C T
+1310	Hangzhou	doctor	医生	ʔi³³sen³³	ʔ i ³³ s e n ³³		822	737	ʔ i ³³ s e n ³³	C V T C V C T
+1307	Hefei	doctor	医生	zɿ²¹sən	z ɿ ²¹ s ə n		822	737	z ɿ ²¹ s ə n -	C V T C V C
+1323	Kunming	doctor	医生	i⁴⁴sə̃⁴⁴	i ⁴⁴ s ə̃ ⁴⁴		822	737	- i ⁴⁴ s ə̃ - ⁴⁴	V T C V T
+1299	Meixian	doctor	医生	i⁴⁴sen⁴⁴	i ⁴⁴ s e n ⁴⁴		822	737	- i ⁴⁴ s e n ⁴⁴	V T C V C T
+1313	Nanchang	doctor	医生	i⁴²sɛn⁴²	i ⁴² s ɛ n ⁴²		822	737	- i ⁴² s ɛ n ⁴²	V T C V C T
+1324	Shanghai	doctor	医生	i⁵³sã⁵³	i ⁵³ s ã ⁵³		822	737	- i ⁵³ s ã - ⁵³	V T C V T
+1317	Taiyuan	doctor	医生	i¹¹səŋ¹¹	i ¹¹ s ə ŋ ¹¹		822	737	- i ¹¹ s ə ŋ ¹¹	V T C V C T
+1305	Xiamen	doctor	医生	i⁵⁵siŋ⁵⁵	i ⁵⁵ s i ŋ ⁵⁵		822	737	- i ⁵⁵ s i ŋ ⁵⁵	V T C V C T
+1301	Changsha	doctor	郎中	lan¹³t͡ʂoŋ³³	l a n ¹³ ʈʂ o ŋ ³³		998	893	l a n ¹³ ʈʂ o ŋ ³³	C V C T C V C T
+1314	Nanchang	doctor	郎中	lɔŋ⁴⁵ʦuŋ⁴²	l ɔ ŋ ⁴⁵ ts u ŋ ⁴²		998	893	l ɔ ŋ ⁴⁵ ts u ŋ ⁴²	C V C T C V C T
+1320	Shexian	doctor	郎中	la⁴⁴ʦʌ̃³¹	l a ⁴⁴ ts ʌ̃ ³¹		998	893	l a - ⁴⁴ ts ʌ̃ - ³¹	C V T C V T
+1304	Guixian	doctor	先生	ɕjan⁵⁵sen⁵⁵	ɕ j a n ⁵⁵ s e n ⁵⁵		200	239	ɕ j a n ⁵⁵ s e n ⁵⁵	C C V C T C V C T
+1309	Jinan	doctor	先生	ɕjã²¹³ʂəŋ	ɕ j ã ²¹³ ʂ ə ŋ		200	239	ɕ j ã - ²¹³ ʂ ə ŋ -	C C V T C V C
+1319	Shexian	doctor	先生	se³¹sɛ	s e ³¹ s ɛ		200	239	s - e - ³¹ s ɛ - -	C V T C V
+1316	Taiyuan	doctor	先生	ɕje¹¹səŋ¹¹	ɕ j e ¹¹ s ə ŋ ¹¹		200	239	ɕ j e - ¹¹ s ə ŋ ¹¹	C C V T C V C T
+1306	Xiamen	doctor	先生	sjan⁵⁵sĩ⁵⁵	s j a n ⁵⁵ s ĩ ⁵⁵		200	239	s j a n ⁵⁵ s ĩ - ⁵⁵	C C V C T C V T
+514	Beijing	doorsills	门坎儿	mən³⁵kʰar²¹⁴	m ə n ³⁵ kʰ a r ²¹⁴		612	564	m ə n ³⁵ kʰ a r ²¹⁴	C V C T C V C T
+503	Changsha	doorsills	门坎	mən¹³kʰan⁴¹	m ə n ¹³ kʰ a n ⁴¹		612	564	m ə n ¹³ kʰ a n ⁴¹	C V C T C V C T
+509	Guangzhou	doorsills	门坎	mun²¹hɐm	m u n ²¹ h ɐ m		612	564	m u n ²¹ h ɐ m -	C V C T C V C
+504	Guixian	doorsills	门坎	men²¹kʰan⁴²	m e n ²¹ kʰ a n ⁴²		612	564	m e n ²¹ kʰ a n ⁴²	C V C T C V C T
+508	Hangzhou	doorsills	门坎	men²¹³kʰᴇ̃⁵³	m e n ²¹³ kʰ ᴇ̃/ẽ̞ ⁵³		612	564	m e n ²¹³ kʰ ᴇ̃/ẽ̞ - ⁵³	C V C T C V T
+506	Hefei	doorsills	门坎	mən⁵⁵kʰæ̃²⁴	m ə n ⁵⁵ kʰ æ̃ ²⁴		612	564	m ə n ⁵⁵ kʰ æ̃ - ²⁴	C V C T C V T
+515	Kunming	doorsills	门坎	mə̃³¹kʰᴀ̃⁵³	m ə̃ ³¹ kʰ ᴀ̃/ã̱ ⁵³		612	564	m ə̃ - ³¹ kʰ ᴀ̃/ã̱ - ⁵³	C V T C V T
+510	Nanchang	doorsills	门坎	mɨn⁴⁵kan⁰⁴	m ɨ n ⁴⁵ k a n ⁰⁴/¹⁴		612	564	m ɨ n ⁴⁵ k a n ⁰⁴/¹⁴	C V C T C V C T
+511	Chengdu	doorsills	门槛	mən³¹kʰan⁵³	m ə n ³¹ kʰ a n ⁵³		650	595	m ə n ³¹ kʰ - a n ⁵³ - -	C V C T C V C T
+507	Jinan	doorsills	门槛子	mẽ⁴²ʨʰjã²¹ʦɿ	m ẽ ⁴² tɕʰ j ã ²¹ ts ɿ		650	595	m ẽ - ⁴² tɕʰ j ã - ²¹ ts ɿ	C V T C C V T C V
+516	Shanghai	doorsills	门槛	məŋ¹³kʰe³⁵	m ə ŋ ¹³ kʰ e ³⁵		650	595	m ə ŋ ¹³ kʰ - e - ³⁵ - -	C V C T C V T
+513	Shexian	doorsills	门槛	mʌ̃⁴⁴kʰɛ³⁵	m ʌ̃ ⁴⁴ kʰ ɛ ³⁵		650	595	m ʌ̃ - ⁴⁴ kʰ - ɛ - ³⁵ - -	C V T C V T
+2694	Beijing	eight	八	pa⁵⁵	p a ⁵⁵		782	702	p - a - ⁵⁵	C V T
+2683	Changsha	eight	八	pa²⁴	p a ²⁴		782	702	p - a - ²⁴	C V T
+2691	Chengdu	eight	八	pa³¹	p a ³¹		782	702	p - a - ³¹	C V T
+2689	Guangzhou	eight	八	pat³	p a t ³		782	702	p - a t ³	C V C T
+2684	Guixian	eight	八	pa²¹	p a ²¹		782	702	p - a - ²¹	C V T
+2688	Hangzhou	eight	八	pɑʔ⁵	p ɑ ʔ ⁵		782	702	p - ɑ ʔ ⁵	C V C T
+2686	Hefei	eight	八	pɐʔ⁵	p ɐ ʔ ⁵		782	702	p - ɐ ʔ ⁵	C V C T
+2687	Jinan	eight	八	pa²¹³	p a ²¹³		782	702	p - a - ²¹³	C V T
+2695	Kunming	eight	八	pᴀ³¹	p ᴀ/a̱ ³¹		782	702	p - ᴀ/a̱ - ³¹	C V T
+2682	Meixian	eight	八	pat¹	p a t ¹		782	702	p - a t ¹	C V C T
+2690	Nanchang	eight	八	paʔ⁵	p a ʔ ⁵		782	702	p - a ʔ ⁵	C V C T
+2696	Shanghai	eight	八	paʔ⁵	p a ʔ ⁵		782	702	p - a ʔ ⁵	C V C T
+2693	Shexian	eight	八	paʔ²¹	p a ʔ ²¹		782	702	p - a ʔ ²¹	C V C T
+2692	Taiyuan	eight	八	paʔ²	p a ʔ ²		782	702	p - a ʔ ²	C V C T
+2685	Xiamen	eight	八	pweʔ³²	p w e ʔ ³²		782	702	p w e ʔ ³²	C C V C T
+2740	Beijing	eleven	十一	ʂʅ³⁵i⁵⁵	ʂ ʅ ³⁵ i ⁵⁵		49	472	ʂ ʅ - ³⁵ - - i - ⁵⁵	C V T V T
+2729	Changsha	eleven	十一	ʂʅ²⁴i²⁴	ʂ ʅ ²⁴ i ²⁴		49	472	ʂ ʅ - ²⁴ - - i - ²⁴	C V T V T
+2737	Chengdu	eleven	十一	sɿ³¹i³¹	s ɿ ³¹ i ³¹		49	472	s ɿ - ³¹ - - i - ³¹	C V T V T
+2735	Guangzhou	eleven	十一	sɐp²jɐt⁵	s ɐ p ² j ɐ t ⁵		49	472	s ɐ p ² - j ɐ t ⁵	C V C T C V C T
+2730	Guixian	eleven	十一	sɿ²¹i²¹	s ɿ ²¹ i ²¹		49	472	s ɿ - ²¹ - - i - ²¹	C V T V T
+2734	Hangzhou	eleven	十一	zəʔ²ʔjəʔ⁵	z ə ʔ ² ʔ j ə ʔ ⁵		49	472	z ə ʔ ² ʔ j ə ʔ ⁵	C V C T C C V C T
+2732	Hefei	eleven	十一	ʂəʔ⁵jəʔ⁵	ʂ ə ʔ ⁵ j ə ʔ ⁵		49	472	ʂ ə ʔ ⁵ - j ə ʔ ⁵	C V C T C V C T
+2733	Jinan	eleven	十一	ʂʅ⁴²i²¹³	ʂ ʅ ⁴² i ²¹³		49	472	ʂ ʅ - ⁴² - - i - ²¹³	C V T V T
+2741	Kunming	eleven	十一	ʂʅ³¹i³¹	ʂ ʅ ³¹ i ³¹		49	472	ʂ ʅ - ³¹ - - i - ³¹	C V T V T
+2728	Meixian	eleven	十一	səp⁵it¹	s ə p ⁵ i t ¹		49	472	s ə p ⁵ - - i t ¹	C V C T V C T
+2736	Nanchang	eleven	十一	sɨʔ²iʔ⁵	s ɨ ʔ ² i ʔ ⁵		49	472	s ɨ ʔ ² - - i ʔ ⁵	C V C T V C T
+2742	Shanghai	eleven	十一	zəʔ¹jɪʔ⁵	z ə ʔ ¹ j ɪ ʔ ⁵		49	472	z ə ʔ ¹ - j ɪ ʔ ⁵	C V C T C V C T
+2739	Shexian	eleven	十一	ɕi²²iʔ²¹	ɕ i ²² i ʔ ²¹		49	472	ɕ i - ²² - - i ʔ ²¹	C V T V C T
+2738	Taiyuan	eleven	十一	səʔ⁵⁴jəʔ²	s ə ʔ ⁵⁴ j ə ʔ ²		49	472	s ə ʔ ⁵⁴ - j ə ʔ ²	C V C T C V C T
+2731	Xiamen	eleven	十一	ʦap⁵it³²	ts a p ⁵ i t ³²		49	472	ts a p ⁵ - - i t ³²	C V C T V C T
+642	Guangzhou	face	面	min²²	m i n ²²		229	265	m - i n ²²	C V C T
+632	Meixian	face	面	mjen⁵³	m j e n ⁵³		229	265	m j e n ⁵³	C C V C T
+638	Xiamen	face	面	bin²²	b i n ²²		229	265	b - i n ²²	C V C T
+649	Beijing	face	脸	ljan²¹⁴	l j a n ²¹⁴		896	804	l j a n ²¹⁴	C C V C T
+634	Changsha	face	脸	ljẽ⁴¹	l j ẽ ⁴¹		896	804	l j ẽ - ⁴¹	C C V T
+644	Chengdu	face	脸	njan⁵³	n j a n ⁵³		896	804	n j a n ⁵³	C C V C T
+635	Guixian	face	脸	ljan⁴²	l j a n ⁴²		896	804	l j a n ⁴²	C C V C T
+639	Hefei	face	脸	ljɪ̃²⁴	l j ɪ̃ ²⁴		896	804	l j ɪ̃ - ²⁴	C C V T
+640	Jinan	face	脸	ljã⁵⁵	l j ã ⁵⁵		896	804	l j ã - ⁵⁵	C C V T
+650	Kunming	face	脸	ljɛ̃⁵³	l j ɛ̃ ⁵³		896	804	l j ɛ̃ - ⁵³	C C V T
+643	Nanchang	face	脸	ljɛn²¹³	l j ɛ n ²¹³		896	804	l j ɛ n ²¹³	C C V C T
+646	Taiyuan	face	脸	lje⁵³	l j e ⁵³		896	804	l j e - ⁵³	C C V T
+2202	Guangzhou	fat	肥	fej²¹	f e j ²¹		941	845	f - e j ²¹	C V C T
+2193	Meixian	fat	肥	pʰi¹¹	pʰ i ¹¹		941	845	pʰ - i - ¹¹	C V T
+2197	Xiamen	fat	肥	pwi³⁵	p w i ³⁵		941	845	p w i - ³⁵	C C V T
+2194	Changsha	fat	壮	ʨɥan⁵⁵	tɕ ɥ a n ⁵⁵		1143	124	tɕ ɥ a n ⁵⁵	C C V C T
+2200	Hangzhou	fat	壮	ʦɥɑŋ⁴⁴⁵	ts ɥ ɑ ŋ ⁴⁴⁵		1143	124	ts ɥ ɑ ŋ ⁴⁴⁵	C C V C T
+2210	Shanghai	fat	壮	ʦɑ̃³	ts ɑ̃ ³		1143	124	ts - ɑ̃ - ³	C V T
+2206	Shexian	fat	壮	ʦo³²⁴	ts o ³²⁴		1143	124	ts - o - ³²⁴	C V T
+2208	Beijing	fat	胖	pʰɑŋ⁵¹	pʰ ɑ ŋ ⁵¹		102	19	pʰ ɑ ŋ ⁵¹	C V C T
+2195	Changsha	fat	胖	pʰan⁵⁵	pʰ a n ⁵⁵		102	19	pʰ a n ⁵⁵	C V C T
+2204	Chengdu	fat	胖	pʰaŋ¹³	pʰ a ŋ ¹³		102	19	pʰ a ŋ ¹³	C V C T
+2196	Guixian	fat	胖	pʰaŋ²¹³	pʰ a ŋ ²¹³		102	19	pʰ a ŋ ²¹³	C V C T
+2201	Hangzhou	fat	胖	pʰɑŋ⁴⁴⁵	pʰ ɑ ŋ ⁴⁴⁵		102	19	pʰ ɑ ŋ ⁴⁴⁵	C V C T
+2198	Hefei	fat	胖	pʰɑ̃⁵³	pʰ ɑ̃ ⁵³		102	19	pʰ ɑ̃ - ⁵³	C V T
+2199	Jinan	fat	胖	pʰaŋ²¹	pʰ a ŋ ²¹		102	19	pʰ a ŋ ²¹	C V C T
+2209	Kunming	fat	胖	pʰᴀ̃²¹²	pʰ ᴀ̃/ã̱ ²¹²		102	19	pʰ ᴀ̃/ã̱ - ²¹²	C V T
+2203	Nanchang	fat	胖	pʰɔŋ²¹³	pʰ ɔ ŋ ²¹³		102	19	pʰ ɔ ŋ ²¹³	C V C T
+2211	Shanghai	fat	胖	pʰɑ̃³⁵	pʰ ɑ̃ ³⁵		102	19	pʰ ɑ̃ - ³⁵	C V T
+2207	Shexian	fat	胖	pʰo³²⁴	pʰ o ³²⁴		102	19	pʰ o - ³²⁴	C V T
+847	Chengdu	father	老爸子	naw⁵³pa³¹ʦɿ⁵³	n a w ⁵³ p a ³¹ ts ɿ ⁵³		594	548	n a w ⁵³ p a ³¹ ts - ɿ - ⁵³	C V C T C V T C V T
+860	Shanghai	father	爷	ɦja¹³	ɦ j a ¹³		594	548	- - - - - - - ɦ j a - ¹³	C C V T
+853	Shexian	father	爷	je⁴⁴	j e ⁴⁴		594	548	- - - - - - - - j e - ⁴⁴	C V T
+850	Taiyuan	father	老子	law⁵³ʦəʔ	l a w ⁵³ ts ə ʔ		594	548	l a w ⁵³ - - - ts - ə ʔ -	C V C T C V C
+846	Chengdu	father	爸爸	pa³¹pa	p a ³¹ p a		172	217	- p a - ³¹ p a - -	C V T C V
+840	Guangzhou	father	爸爸	pa²¹pa⁵⁵	p a ²¹ p a ⁵⁵		172	217	- p a - ²¹ p a - ⁵⁵	C V T C V T
+829	Guixian	father	爸爸	pa²¹pa	p a ²¹ p a		172	217	- p a - ²¹ p a - -	C V T C V
+837	Jinan	father	爸爸	pa²¹pa	p a ²¹ p a		172	217	- p a - ²¹ p a - -	C V T C V
+824	Meixian	father	阿爸	a⁴⁴pa⁴⁴	a ⁴⁴ p a ⁴⁴		172	217	- - a - ⁴⁴ p a - ⁴⁴	V T C V T
+843	Nanchang	father	爸爸新	pɑʔ⁵pɑʔ⁰²	p ɑ ʔ ⁵ p ɑ ʔ ⁰²/¹²		172	217	- p ɑ ʔ ⁵ p ɑ ʔ ⁰²/¹²	C V C T C V C T
+832	Xiamen	father	老爸	law²²pe²²	l a w ²² p e ²²		172	217	- l a w ²² p e - ²²	C V C T C V T
+838	Jinan	father	大大	ta⁴²ta	t a ⁴² t a		35	356	t a ⁴² t a - -	C V T C V
+854	Beijing	father	爹	tjɛ⁵⁵	t j ɛ ⁵⁵		264	289	t j ɛ ⁵⁵ - - - -	C C V T
+826	Changsha	father	爹爹	tje³³tje	t j e ³³ t j e		264	289	t j e ³³ t j e -	C C V T C C V
+848	Chengdu	father	爹	tje⁵⁵	t j e ⁵⁵		264	289	t j e ⁵⁵ - - - -	C C V T
+830	Guixian	father	爹	tjɛ⁵⁵	t j ɛ ⁵⁵		264	289	t j ɛ ⁵⁵ - - - -	C C V T
+836	Jinan	father	爹	tjə²¹³	t j ə ²¹³		264	289	t j ə ²¹³ - - - -	C C V T
+857	Kunming	father	爹	tjɛ⁴⁴	t j ɛ ⁴⁴		264	289	t j ɛ ⁴⁴ - - - -	C C V T
+858	Shanghai	father	爹爹	tja⁵³tja⁵³	t j a ⁵³ t j a ⁵³		264	289	t j a ⁵³ t j a ⁵³	C C V T C C V T
+835	Hefei	father	伯伯	pɐʔ⁵pɐʔ⁵	p ɐ ʔ ⁵ p ɐ ʔ ⁵		464	452	- - - - - - p ɐ ʔ ⁵ p ɐ ʔ ⁵	C V C T C V C T
+859	Shanghai	father	阿伯	aʔ⁵paʔ⁵	a ʔ ⁵ p a ʔ ⁵		464	452	- - - - - - - a ʔ ⁵ p a ʔ ⁵	V C T C V C T
+855	Beijing	father	爸	pa⁵¹	p a ⁵¹		143	194	p a - ⁵¹	C V T
+845	Chengdu	father	爸	pa³¹	p a ³¹		143	194	p a - ³¹	C V T
+842	Nanchang	father	爸	pɑʔ⁵	p ɑ ʔ ⁵		143	194	p ɑ ʔ ⁵	C V C T
+851	Taiyuan	father	爸	pa⁴⁵	p a ⁴⁵		143	194	p a - ⁴⁵	C V T
+780	Beijing	fingernail	指甲	t͡ʂʅ⁵⁵ʨja²	ʈʂ ʅ ⁵⁵ tɕ j a ²		120	177	ʈʂ - ʅ - ⁵⁵ tɕ j a - - - ² - - - -	C V T C C V T
+770	Changsha	fingernail	指甲子	t͡ʂʅ²⁴ka²⁴ʦɿ	ʈʂ ʅ ²⁴ k a ²⁴ ts ɿ		120	177	ʈʂ - ʅ - ²⁴ k - a - - - ²⁴ ts ɿ - -	C V T C V T C V
+777	Chengdu	fingernail	指甲	ʦɿ⁵³ʨja³¹	ts ɿ ⁵³ tɕ j a ³¹		120	177	ts - ɿ - ⁵³ tɕ j a - - - ³¹ - - - -	C V T C C V T
+771	Guixian	fingernail	指甲	ʦɿ⁴²ʨja²¹	ts ɿ ⁴² tɕ j a ²¹		120	177	ts - ɿ - ⁴² tɕ j a - - - ²¹ - - - -	C V T C C V T
+773	Hefei	fingernail	指甲盖	t͡ʂəʔ⁵ʨjɐʔ⁵kᴇ⁵³	ʈʂ ə ʔ ⁵ tɕ j ɐ ʔ ⁵ k ᴇ/e̞ ⁵³		120	177	ʈʂ - ə ʔ ⁵ tɕ j ɐ - - ʔ ⁵ k ᴇ/e̞ - ⁵³	C V C T C C V C T C V T
+774	Jinan	fingernail	指甲盖儿	t͡ʂʅ²¹³ʨjakɛr²¹	ʈʂ ʅ ²¹³ tɕ j a k ɛ r ²¹		120	177	ʈʂ - ʅ - ²¹³ tɕ j a k ɛ r ²¹ - - - -	C V T C C V C V C T
+781	Kunming	fingernail	指甲	t͡ʂʅ³¹ʨjᴀ³¹	ʈʂ ʅ ³¹ tɕ j ᴀ/a̱ ³¹		120	177	ʈʂ - ʅ - ³¹ tɕ j ᴀ/a̱ - - - ³¹ - - - -	C V T C C V T
+769	Meixian	fingernail	手指甲	su³¹ʦɿ³¹kap¹	s u ³¹ ts ɿ ³¹ k a p ¹		120	177	s - u - ³¹ ts - ɿ - - - ³¹ k a p ¹	C V T C V T C V C T
+776	Nanchang	fingernail	指甲子	ʦʔ⁵kaʔ⁰²ʦɿ⁰²	ts ʔ ⁵ k a ʔ ⁰²/¹² ts ɿ ⁰²/¹²		120	177	ts - - ʔ ⁵ k - a - - ʔ ⁰²/¹² ts ɿ - ⁰²/¹²	C C T C V C T C V T
+779	Shexian	fingernail	手指甲	ɕju³⁵ʦɿ³⁵kaʔ²¹	ɕ j u ³⁵ ts ɿ ³⁵ k a ʔ ²¹		120	177	ɕ j u - ³⁵ ts - ɿ - - - ³⁵ k a ʔ ²¹	C C V T C V T C V C T
+778	Taiyuan	fingernail	指甲	ʦəʔ²ʨjaʔ²	ts ə ʔ ² tɕ j a ʔ ²		120	177	ts - ə ʔ ² tɕ j a - - ʔ ² - - - -	C V C T C C V C T
+775	Guangzhou	fingernail	膝头	sɐt⁵tʰɐw²¹	s ɐ t ⁵ tʰ ɐ w ²¹		326	336	- - - - - s - ɐ t ⁵ tʰ ɐ w - - ²¹ - - - -	C V C T C V C T
+2759	Beijing	first	第一	ti⁵¹i⁵⁵	t i ⁵¹ i ⁵⁵		23	266	t i - ⁵¹ - - i - ⁵⁵	C V T V T
+2748	Changsha	first	第一	ti¹¹i²⁴	t i ¹¹ i ²⁴		23	266	t i - ¹¹ - - i - ²⁴	C V T V T
+2756	Chengdu	first	第一	ti¹³i³¹	t i ¹³ i ³¹		23	266	t i - ¹³ - - i - ³¹	C V T V T
+2754	Guangzhou	first	第一	tɐj²²jɐt⁵	t ɐ j ²² j ɐ t ⁵		23	266	t ɐ j ²² - j ɐ t ⁵	C V C T C V C T
+2749	Guixian	first	第一	ti²¹³i²¹	t i ²¹³ i ²¹		23	266	t i - ²¹³ - - i - ²¹	C V T V T
+2753	Hangzhou	first	第一	di¹³ʔjəʔ⁵	d i ¹³ ʔ j ə ʔ ⁵		23	266	d i - ¹³ ʔ j ə ʔ ⁵	C V T C C V C T
+2751	Hefei	first	第一	ʦɿ⁵³jəʔ⁵	ts ɿ ⁵³ j ə ʔ ⁵		23	266	ts ɿ - ⁵³ - j ə ʔ ⁵	C V T C V C T
+2752	Jinan	first	第一	ti²¹i²¹³	t i ²¹ i ²¹³		23	266	t i - ²¹ - - i - ²¹³	C V T V T
+2760	Kunming	first	第一	ti²¹²i³¹	t i ²¹² i ³¹		23	266	t i - ²¹² - - i - ³¹	C V T V T
+2747	Meixian	first	第一	tʰi⁵³it¹	tʰ i ⁵³ i t ¹		23	266	tʰ i - ⁵³ - - i t ¹	C V T V C T
+2755	Nanchang	first	第一	tʰi²¹iʔ⁵	tʰ i ²¹ i ʔ ⁵		23	266	tʰ i - ²¹ - - i ʔ ⁵	C V T V C T
+2761	Shanghai	first	第一	di¹³jɪʔ⁵	d i ¹³ j ɪ ʔ ⁵		23	266	d i - ¹³ - j ɪ ʔ ⁵	C V T C V C T
+2758	Shexian	first	第一	tʰi²²iʔ²¹	tʰ i ²² i ʔ ²¹		23	266	tʰ i - ²² - - i ʔ ²¹	C V T V C T
+2757	Taiyuan	first	第一	ti⁴⁵jəʔ²	t i ⁴⁵ j ə ʔ ²		23	266	t i - ⁴⁵ - j ə ʔ ²	C V T C V C T
+2750	Xiamen	first	第一	te²²it³²	t e ²² i t ³²		23	266	t e - ²² - - i t ³²	C V T V C T
+746	Beijing	fist	拳头	ʨʰɥan³⁵tʰow³	tɕʰ ɥ a n ³⁵ tʰ o w ³		723	656	tɕʰ ɥ a n ³⁵ tʰ o w ³ - - -	C C V C T C V C T
+730	Changsha	fist	拳头骨	ʨɥẽ¹³təw¹³ku	tɕ ɥ ẽ ¹³ t ə w ¹³ k u		723	656	tɕ ɥ ẽ - ¹³ t ə w ¹³ k u -	C C V T C V C T C V
+738	Guangzhou	fist	拳头	kʰyn²¹tʰɐw²¹	kʰ y n ²¹ tʰ ɐ w ²¹		723	656	kʰ - y n ²¹ tʰ ɐ w ²¹ - - -	C V C T C V C T
+737	Hangzhou	fist	拳头	ʣɥõ²¹³dej²¹³	dz ɥ õ ²¹³ d e j ²¹³		723	656	dz ɥ õ - ²¹³ d e j ²¹³ - - -	C C V T C V C T
+734	Hefei	fist	拳头	ʨʰɥɪ̃⁵⁵tʰɯ	tɕʰ ɥ ɪ̃ ⁵⁵ tʰ ɯ		723	656	tɕʰ ɥ ɪ̃ - ⁵⁵ tʰ ɯ - - - - -	C C V T C V
+735	Jinan	fist	拳头	ʨʰɥã⁴²tʰow	tɕʰ ɥ ã ⁴² tʰ o w		723	656	tɕʰ ɥ ã - ⁴² tʰ o w - - - -	C C V T C V C
+729	Meixian	fist	拳头	kʰjan¹¹tʰew¹¹	kʰ j a n ¹¹ tʰ e w ¹¹		723	656	kʰ j a n ¹¹ tʰ e w ¹¹ - - -	C C V C T C V C T
+739	Nanchang	fist	拳头	ʨʰɥɵn²⁴tʰɛw⁰⁴	tɕʰ ɥ ɵ n ²⁴ tʰ ɛ w ⁰⁴/¹⁴		723	656	tɕʰ ɥ ɵ n ²⁴ tʰ ɛ w ⁰⁴/¹⁴ - - -	C C V C T C V C T
+748	Shanghai	fist	拳头	ʥɥø¹³dɤ¹³	dʑ ɥ ø ¹³ d ɤ ¹³		723	656	dʑ ɥ ø - ¹³ d ɤ - ¹³ - - -	C C V T C V T
+733	Xiamen	fist	拳头母	kun³⁵tʰaw³⁵bu⁵³	k u n ³⁵ tʰ a w ³⁵ b u ⁵³		723	656	k - u n ³⁵ tʰ a w ³⁵ b u ⁵³	C V C T C V C T C V T
+86	Changsha	flash (verb)	扯闪	t͡ʂʰʅ⁴¹ʂə̃⁴¹	ʈʂʰ ʅ ⁴¹ ʂ ə̃ ⁴¹		885	792	ʈʂʰ - ʅ - ⁴¹ - - - ʂ - ə̃ - ⁴¹	C V T C V T
+88	Guixian	flash (verb)	扯火闪	ʦʰej⁴²xo⁴²san⁴²	tsʰ e j ⁴² x o ⁴² s a n ⁴²		885	792	tsʰ - e j ⁴² x o ⁴² s - a n ⁴²	C V C T C V T C V C T
+100	Kunming	flash (verb)	扯闪	t͡ʂʰə⁵³ʂᴀ̃⁵³	ʈʂʰ ə ⁵³ ʂ ᴀ̃/ã̱ ⁵³		885	792	ʈʂʰ - ə - ⁵³ - - - ʂ - ᴀ̃/ã̱ - ⁵³	C V T C V T
+98	Shexian	flash (verb)	扯热闪	ʨʰja³⁵ne²²ɕɥe³²⁴	tɕʰ j a ³⁵ n e ²² ɕ ɥ e ³²⁴		885	792	tɕʰ j a - ³⁵ n e ²² ɕ ɥ e - ³²⁴	C C V T C V T C C V T
+99	Beijing	flash (verb)	闪电	ʂan²¹⁴tjan⁵¹	ʂ a n ²¹⁴ t j a n ⁵¹		86	770	ʂ a n ²¹⁴ - - - t j a n ⁵¹	C V C T C C V C T
+92	Guangzhou	flash (verb)	闪电	sim³⁵tin²²	s i m ³⁵ t i n ²²		86	770	s i m ³⁵ - - - t - i n ²²	C V C T C V C T
+89	Hefei	flash (verb)	打闪	ta²⁴ʂən²⁴	t a ²⁴ ʂ ə n ²⁴		86	770	t a - ²⁴ - - - ʂ - ə n ²⁴	C V T C V C T
+90	Jinan	flash (verb)	打闪	ta⁵⁵ʂã⁵⁵	t a ⁵⁵ ʂ ã ⁵⁵		86	770	t a - ⁵⁵ - - - ʂ - ã - ⁵⁵	C V T C V T
+102	Shanghai	flash (verb)	闪电	sø³⁵di¹³	s ø ³⁵ d i ¹³		86	770	s ø - ³⁵ - - - d - i - ¹³	C V T C V T
+97	Shexian	flash (verb)	打热闪	ta³⁵ne²²ɕɥe³²⁴	t a ³⁵ n e ²² ɕ ɥ e ³²⁴		86	770	t a - ³⁵ n e ²² ɕ ɥ e - ³²⁴	C V T C V T C C V T
+96	Taiyuan	flash (verb)	打闪	ta⁵³sæ̃⁵³	t a ⁵³ s æ̃ ⁵³		86	770	t a - ⁵³ - - - s - æ̃ - ⁵³	C V T C V T
+765	Beijing	forefinger	手指头	ʂow²¹⁴t͡ʂʅ²¹⁴tʰow⁴	ʂ o w ²¹⁴ ʈʂ ʅ ²¹⁴ tʰ o w ⁴		853	763	ʂ - o w ²¹⁴ ʈʂ ʅ - ²¹⁴ tʰ o w ⁴	C V C T C V T C V C T
+750	Changsha	forefinger	手指脑	ʂəw⁴¹t͡ʂʅ²⁴law⁴¹	ʂ ə w ⁴¹ ʈʂ ʅ ²⁴ l a w ⁴¹		853	763	ʂ - ə w ⁴¹ ʈʂ ʅ - ²⁴ l a w ⁴¹	C V C T C V T C V C T
+760	Chengdu	forefinger	手指	səw⁵³ʦɿ	s ə w ⁵³ ts ɿ		853	763	s - ə w ⁵³ - - - - ts ɿ - -	C V C T C V
+758	Guangzhou	forefinger	手指头	sɐw³⁵ʦi³⁵tʰɐw²¹	s ɐ w ³⁵ ts i ³⁵ tʰ ɐ w ²¹		853	763	s - ɐ w ³⁵ ts i - ³⁵ tʰ ɐ w ²¹	C V C T C V T C V C T
+752	Guixian	forefinger	手指头	səw⁴²ʦɿ⁴²tʰəw²¹	s ə w ⁴² ts ɿ ⁴² tʰ ə w ²¹		853	763	s - ə w ⁴² ts ɿ - ⁴² tʰ ə w ²¹	C V C T C V T C V C T
+757	Hangzhou	forefinger	手指头	sej⁵³ʦɿ⁵³dej²¹³	s e j ⁵³ ts ɿ ⁵³ d e j ²¹³		853	763	s - e j ⁵³ ts ɿ - ⁵³ d e j ²¹³	C V C T C V T C V C T
+756	Jinan	forefinger	手指头	ʂow⁵⁵t͡ʂʅ²¹³tʰow	ʂ o w ⁵⁵ ʈʂ ʅ ²¹³ tʰ o w		853	763	ʂ - o w ⁵⁵ ʈʂ ʅ - ²¹³ tʰ o w -	C V C T C V T C V C
+766	Kunming	forefinger	手指头	ʂəw⁵³t͡ʂʅ³¹tʰəw³¹	ʂ ə w ⁵³ ʈʂ ʅ ³¹ tʰ ə w ³¹		853	763	ʂ - ə w ⁵³ ʈʂ ʅ - ³¹ tʰ ə w ³¹	C V C T C V T C V C T
+749	Meixian	forefinger	手指	su³¹ʦɿ³¹	s u ³¹ ts ɿ ³¹		853	763	s - u - ³¹ - - - - ts ɿ - ³¹	C V T C V T
+767	Shanghai	forefinger	手指头	sɤ³⁵ʦɿ³⁵dɤ¹³	s ɤ ³⁵ ts ɿ ³⁵ d ɤ ¹³		853	763	s - ɤ - ³⁵ ts ɿ - ³⁵ d ɤ - ¹³	C V T C V T C V T
+763	Taiyuan	forefinger	手指头	səw⁵³ʦəʔ²tʰəw¹¹	s ə w ⁵³ ts ə ʔ ² tʰ ə w ¹¹		853	763	s - ə w ⁵³ ts ə ʔ ² tʰ ə w ¹¹	C V C T C V C T C V C T
+754	Xiamen	forefinger	手指	ʦʰju⁵³ʦãj⁵³	tsʰ j u ⁵³ ts ã j ⁵³		853	763	tsʰ j u - ⁵³ - - - - ts ã j ⁵³	C C V T C V C T
+761	Chengdu	forefinger	指头儿	ʦɿ⁵³tʰər³¹	ts ɿ ⁵³ tʰ ə r ³¹		535	510	ts ɿ - ⁵³ tʰ ə r ³¹ - - -	C V T C V C T
+751	Guixian	forefinger	指头	ʦɿ⁴²tʰəw²¹	ts ɿ ⁴² tʰ ə w ²¹		535	510	ts ɿ - ⁴² tʰ ə w ²¹ - - -	C V T C V C T
+759	Nanchang	forefinger	指头子	ʦɨʔ⁵tʰɛw⁰²ʦɿ⁰²	ts ɨ ʔ ⁵ tʰ ɛ w ⁰²/¹² ts ɿ ⁰²/¹²		535	510	ts ɨ ʔ ⁵ tʰ ɛ w ⁰²/¹² ts ɿ ⁰²/¹²	C V C T C V C T C V T
+621	Hangzhou	forehead	额角头	ŋɑʔ²koʔ⁵dej²¹³	ŋ ɑ ʔ ² k o ʔ ⁵ d e j ²¹³		111	95	ŋ - ɑ ʔ ² k o ʔ ⁵ d - e j ²¹³	C V C T C V C T C V C T
+630	Kunming	forehead	额勒头	ə³¹lə⁴⁴tʰəw³¹	ə ³¹ l ə ⁴⁴ tʰ ə w ³¹		111	95	- - ə - ³¹ l ə - ⁴⁴ tʰ - ə w ³¹	V T C V T C V C T
+614	Meixian	forehead	额角	ŋjak¹kok¹	ŋ j a k ¹ k o k ¹		111	95	ŋ j a k ¹ k o k ¹ - - - - -	C C V C T C V C T
+631	Shanghai	forehead	额角头	ŋaʔ¹³koʔ⁵dɤ¹³	ŋ a ʔ ¹³ k o ʔ ⁵ d ɤ ¹³		111	95	ŋ - a ʔ ¹³ k o ʔ ⁵ d - ɤ - ¹³	C V C T C V C T C V T
+627	Shexian	forehead	额角头	ŋɛ²¹kɔ²¹tʰju⁴⁴	ŋ ɛ ²¹ k ɔ ²¹ tʰ j u ⁴⁴		111	95	ŋ - ɛ - ²¹ k ɔ - ²¹ tʰ j u - ⁴⁴	C V T C V T C C V T
+616	Changsha	forehead	额头	ŋə²⁴təw¹³	ŋ ə ²⁴ t ə w ¹³		932	836	ŋ ə - ²⁴ t ə w ¹³ - - - - -	C V T C V C T
+622	Guangzhou	forehead	额头	ŋak²tʰɐw²¹	ŋ a k ² tʰ ɐ w ²¹		932	836	ŋ a k ² tʰ ɐ w ²¹ - - - - -	C V C T C V C T
+619	Hefei	forehead	额脑头	ɐʔ⁵lɔ²⁴tʰɯ⁵⁵	ɐ ʔ ⁵ l ɔ ²⁴ tʰ ɯ ⁵⁵		932	836	- ɐ ʔ ⁵ l ɔ - ²⁴ tʰ - ɯ - ⁵⁵	V C T C V T C V T
+618	Xiamen	forehead	头额	tʰaw³⁵hjaʔ⁵	tʰ a w ³⁵ h j a ʔ ⁵		932	836	- - - - tʰ a w ³⁵ h j a ʔ ⁵	C V C T C C V C T
+2634	Beijing	four	四	sɿ⁵¹	s ɿ ⁵¹		1156	136	s ɿ - ⁵¹	C V T
+2623	Changsha	four	四	sɿ⁵⁵	s ɿ ⁵⁵		1156	136	s ɿ - ⁵⁵	C V T
+2631	Chengdu	four	四	sɿ¹³	s ɿ ¹³		1156	136	s ɿ - ¹³	C V T
+2629	Guangzhou	four	四	sej³³	s e j ³³		1156	136	s e j ³³	C V C T
+2624	Guixian	four	四	sɿ²¹³	s ɿ ²¹³		1156	136	s ɿ - ²¹³	C V T
+2628	Hangzhou	four	四	sɿ⁴⁴⁵	s ɿ ⁴⁴⁵		1156	136	s ɿ - ⁴⁴⁵	C V T
+2626	Hefei	four	四	sɿ⁵³	s ɿ ⁵³		1156	136	s ɿ - ⁵³	C V T
+2627	Jinan	four	四	sɿ²¹	s ɿ ²¹		1156	136	s ɿ - ²¹	C V T
+2635	Kunming	four	四	sɿ²¹²	s ɿ ²¹²		1156	136	s ɿ - ²¹²	C V T
+2622	Meixian	four	四	si⁵³	s i ⁵³		1156	136	s i - ⁵³	C V T
+2630	Nanchang	four	四	sɿ⁴⁵	s ɿ ⁴⁵		1156	136	s ɿ - ⁴⁵	C V T
+2636	Shanghai	four	四	sɿ³⁵	s ɿ ³⁵		1156	136	s ɿ - ³⁵	C V T
+2633	Shexian	four	四	sɿ³²⁴	s ɿ ³²⁴		1156	136	s ɿ - ³²⁴	C V T
+2632	Taiyuan	four	四	sɿ⁴⁵	s ɿ ⁴⁵		1156	136	s ɿ - ⁴⁵	C V T
+2625	Xiamen	four	四	si²¹	s i ²¹		1156	136	s i - ²¹	C V T
+175	Beijing	freeze	结冰	ʨjɛ⁵⁵piŋ⁵⁵	tɕ j ɛ ⁵⁵ p i ŋ ⁵⁵		711	646	tɕ j ɛ - ⁵⁵ p i ŋ ⁵⁵	C C V T C V C T
+172	Chengdu	freeze	结冰	ʨje³¹pin⁵⁵	tɕ j e ³¹ p i n ⁵⁵		711	646	tɕ j e - ³¹ p i n ⁵⁵	C C V T C V C T
+169	Guangzhou	freeze	结冰	kit³peŋ⁵⁵	k i t ³ p e ŋ ⁵⁵		711	646	k - i t ³ p e ŋ ⁵⁵	C V C T C V C T
+162	Guixian	freeze	结冰	ʨjɛ²¹pin	tɕ j ɛ ²¹ p i n		711	646	tɕ j ɛ - ²¹ p i n -	C C V T C V C
+168	Hangzhou	freeze	结冰	ʨjəʔ⁵pin³³	tɕ j ə ʔ ⁵ p i n ³³		711	646	tɕ j ə ʔ ⁵ p i n ³³	C C V C T C V C T
+166	Hefei	freeze	结冰	ʨiʔ⁵pin²¹	tɕ i ʔ ⁵ p i n ²¹		711	646	tɕ - i ʔ ⁵ p i n ²¹	C V C T C V C T
+176	Kunming	freeze	结冰	ʨjɛ³¹pĩ⁴⁴	tɕ j ɛ ³¹ p ĩ ⁴⁴		711	646	tɕ j ɛ - ³¹ p ĩ - ⁴⁴	C C V T C V T
+159	Meixian	freeze	结冰	kjat¹pen⁴⁴	k j a t ¹ p e n ⁴⁴		711	646	k j a t ¹ p e n ⁴⁴	C C V C T C V C T
+170	Nanchang	freeze	结冰	ʨjɛʔ⁵pin⁴²	tɕ j ɛ ʔ ⁵ p i n ⁴²		711	646	tɕ j ɛ ʔ ⁵ p i n ⁴²	C C V C T C V C T
+177	Shanghai	freeze	结冰	ʨjɪʔ⁵piŋ⁵³	tɕ j ɪ ʔ ⁵ p i ŋ ⁵³		711	646	tɕ j ɪ ʔ ⁵ p i ŋ ⁵³	C C V C T C V C T
+164	Xiamen	freeze	结冰	kjat³²piŋ⁵⁵	k j a t ³² p i ŋ ⁵⁵		711	646	k j a t ³² p i ŋ ⁵⁵	C C V C T C V C T
+167	Jinan	freeze	冻冻	tuŋ²¹³tuŋ	t u ŋ ²¹³ t u ŋ		776	699	t - u ŋ ²¹³ t - u ŋ -	C V C T C V C
+174	Shexian	freeze	冻冰	tʌ̃³²⁴pjʌ̃³¹	t ʌ̃ ³²⁴ p j ʌ̃ ³¹		776	699	t - ʌ̃ - ³²⁴ p j ʌ̃ - ³¹	C V T C C V T
+173	Taiyuan	freeze	冻冰	twəŋ⁴⁵pjəŋ¹¹	t w ə ŋ ⁴⁵ p j ə ŋ ¹¹		776	699	t w ə ŋ ⁴⁵ p j ə ŋ ¹¹	C C V C T C C V C T
+2508	Beijing	from	从	ʦʰuŋ³⁵	tsʰ u ŋ ³⁵		1086	74	tsʰ - u ŋ ³⁵	C V C T
+2495	Changsha	from	从	ʦoŋ¹³	ts o ŋ ¹³		1086	74	ts - o ŋ ¹³	C V C T
+2505	Chengdu	from	从	ʦʰoŋ³¹	tsʰ o ŋ ³¹		1086	74	tsʰ - o ŋ ³¹	C V C T
+2502	Guangzhou	from	从	ʦʰoŋ²¹	tsʰ o ŋ ²¹		1086	74	tsʰ - o ŋ ²¹	C V C T
+2501	Hangzhou	from	从	ʣoŋ²¹³	dz o ŋ ²¹³		1086	74	dz - o ŋ ²¹³	C V C T
+2498	Hefei	from	从	ʦʰəŋ⁵⁵	tsʰ ə ŋ ⁵⁵		1086	74	tsʰ - ə ŋ ⁵⁵	C V C T
+2499	Jinan	from	从	ʦʰuŋ⁴²	tsʰ u ŋ ⁴²		1086	74	tsʰ - u ŋ ⁴²	C V C T
+2511	Kunming	from	从	ʦʰoŋ³¹	tsʰ o ŋ ³¹		1086	74	tsʰ - o ŋ ³¹	C V C T
+2494	Meixian	from	从	ʦʰjuŋ¹¹	tsʰ j u ŋ ¹¹		1086	74	tsʰ j u ŋ ¹¹	C C V C T
+2503	Nanchang	from	从	ʦʰuŋ²⁴	tsʰ u ŋ ²⁴		1086	74	tsʰ - u ŋ ²⁴	C V C T
+2512	Shanghai	from	从	zoŋ¹³	z o ŋ ¹³		1086	74	z - o ŋ ¹³	C V C T
+2507	Shexian	from	从	ʦʰʌ̃⁴⁴	tsʰ ʌ̃ ⁴⁴		1086	74	tsʰ - ʌ̃ - ⁴⁴	C V T
+2506	Taiyuan	from	从	ʦʰwəŋ¹¹	tsʰ w ə ŋ ¹¹		1086	74	tsʰ w ə ŋ ¹¹	C C V C T
+1260	Hangzhou	girl	姑娘儿	ku³³njɑŋ²¹³əl²¹³	k u ³³ n j ɑ ŋ ²¹³ ə l ²¹³		461	449	- - - - - k u ³³ n j ɑ ŋ ²¹³ ə l ²¹³	C V T C C V C T V C T
+1275	Kunming	girl	姑娘	ku⁴⁴njᴀ̃⁴⁴	k u ⁴⁴ n j ᴀ̃/ã̱ ⁴⁴		461	449	- - - - - k u ⁴⁴ n j ᴀ̃/ã̱ - ⁴⁴ - - -	C V T C C V T
+1272	Beijing	girl	女孩儿	ny²¹⁴xar	n y ²¹⁴ x a r		520	500	n y ²¹⁴ x - a r - - - -	C V T C V C
+1259	Hangzhou	girl	女伢儿	ny⁵³ɦjɑ²¹³əl²¹³	n y ⁵³ ɦ j ɑ ²¹³ ə l ²¹³		520	500	n y ⁵³ ɦ j ɑ - ²¹³ ə l ²¹³	C V T C C V T V C T
+146	Guangzhou	hail	雹	pɔk²	p ɔ k ²		191	231	p ɔ - k ²	C V C T
+137	Meixian	hail	雹	pʰok⁵	pʰ o k ⁵		191	231	pʰ o - k ⁵	C V C T
+141	Xiamen	hail	雹	pʰawʔ⁵	pʰ a w ʔ ⁵		191	231	pʰ a w ʔ ⁵	C V C C T
+154	Beijing	hail	雹子	pɑw³⁵ʦɿ³	p ɑ w ³⁵ ts ɿ ³		31	321	- - - - - p ɑ w ³⁵ ts ɿ ³	C V C T C V T
+138	Changsha	hail	冰雹	pin³³pʰaw⁵⁵	p i n ³³ pʰ a w ⁵⁵		31	321	p - i n ³³ pʰ a w ⁵⁵ - - -	C V C T C V C T
+149	Chengdu	hail	冰雹子	pin⁵⁵paw¹³ʦɿ⁵³	p i n ⁵⁵ p a w ¹³ ts ɿ ⁵³		31	321	p - i n ⁵⁵ p a w ¹³ ts ɿ ⁵³	C V C T C V C T C V T
+139	Guixian	hail	冰雹	pin⁵⁵pa	p i n ⁵⁵ p a		31	321	p - i n ⁵⁵ p a - - - - -	C V C T C V
+145	Hangzhou	hail	冰雹	pin³³bɔ²¹³	p i n ³³ b ɔ ²¹³		31	321	p - i n ³³ b ɔ - ²¹³ - - -	C V C T C V T
+143	Jinan	hail	雹子	pa⁴²ʦɿ	p a ⁴² ts ɿ		31	321	- - - - - p a - ⁴² ts ɿ -	C V T C V
+155	Kunming	hail	冰雹	pĩ⁴⁴pɔ²¹²	p ĩ ⁴⁴ p ɔ ²¹²		31	321	p - ĩ - ⁴⁴ p ɔ - ²¹² - - -	C V T C V T
+148	Nanchang	hail	雹子	pʰɔʔ²ʦɿ⁰²	pʰ ɔ ʔ ² ts ɿ ⁰²/¹²		31	321	- - - - - pʰ ɔ ʔ ² ts ɿ ⁰²/¹²	C V C T C V T
+158	Shanghai	hail	冰雹	piŋ⁵³bɔ³	p i ŋ ⁵³ b ɔ ³		31	321	p - i ŋ ⁵³ b ɔ - ³ - - -	C V C T C V T
+153	Shexian	hail	冰雹	pjʌ̃³¹pʰɔ²²	p j ʌ̃ ³¹ pʰ ɔ ²²		31	321	p j ʌ̃ - ³¹ pʰ ɔ - ²² - - -	C C V T C V T
+1561	Beijing	he	他	tʰa⁵⁵	tʰ a ⁵⁵		704	640	tʰ a ⁵⁵	C V T
+1550	Changsha	he	他	tʰa³³	tʰ a ³³		704	640	tʰ a ³³	C V T
+1559	Chengdu	he	他	tʰa⁵⁵	tʰ a ⁵⁵		704	640	tʰ a ⁵⁵	C V T
+1551	Guixian	he	他	la⁵⁵	l a ⁵⁵		704	640	l a ⁵⁵	C V T
+1556	Hangzhou	he	他	tʰɑ³³	tʰ ɑ ³³		704	640	tʰ ɑ ³³	C V T
+1554	Hefei	he	他	tʰa²¹	tʰ a ²¹		704	640	tʰ a ²¹	C V T
+1555	Jinan	he	他	tʰa⁵⁵	tʰ a ⁵⁵		704	640	tʰ a ⁵⁵	C V T
+1562	Kunming	he	他	tʰᴀ⁴⁴	tʰ ᴀ/a̱ ⁴⁴		704	640	tʰ ᴀ/a̱ ⁴⁴	C V T
+1560	Taiyuan	he	他	tʰa¹¹	tʰ a ¹¹		704	640	tʰ a ¹¹	C V T
+610	Beijing	head	头	tʰow³⁵	tʰ o w ³⁵		944	848	tʰ - o w ³⁵	C V C T
+603	Chengdu	head	头	tʰəw³¹	tʰ ə w ³¹		944	848	tʰ - ə w ³¹	C V C T
+600	Guangzhou	head	头	tʰɐw²¹	tʰ ɐ w ²¹		944	848	tʰ - ɐ w ²¹	C V C T
+599	Hangzhou	head	头	dej²¹³	d e j ²¹³		944	848	d - e j ²¹³	C V C T
+596	Hefei	head	头	tʰɯ⁵⁵	tʰ ɯ ⁵⁵		944	848	tʰ - ɯ - ⁵⁵	C V T
+597	Jinan	head	头	tʰow	tʰ o w		944	848	tʰ - o w -	C V C
+591	Meixian	head	头	tʰew¹¹	tʰ e w ¹¹		944	848	tʰ - e w ¹¹	C V C T
+602	Nanchang	head	头	tʰɛw²⁴	tʰ ɛ w ²⁴		944	848	tʰ - ɛ w ²⁴	C V C T
+612	Shanghai	head	头	dɤ¹³	d ɤ ¹³		944	848	d - ɤ - ¹³	C V T
+606	Shexian	head	头	tʰju⁴⁴	tʰ j u ⁴⁴		944	848	tʰ j u - ⁴⁴	C C V T
+595	Xiamen	head	头	tʰaw³⁵	tʰ a w ³⁵		944	848	tʰ - a w ³⁵	C V C T
+592	Changsha	head	脑壳	law⁴¹kʰo²⁴	l a w ⁴¹ kʰ o ²⁴		937	841	- l a w ⁴¹ - - - kʰ o - ²⁴	C V C T C V T
+604	Chengdu	head	脑壳	naw⁵³kʰo³¹	n a w ⁵³ kʰ o ³¹		937	841	- n a w ⁵³ - - - kʰ o - ³¹	C V C T C V T
+601	Guangzhou	head	头壳	tʰɐw²¹hɔk³	tʰ ɐ w ²¹ h ɔ k ³		937	841	tʰ - ɐ w ²¹ - - - h ɔ k ³	C V C T C V C T
+593	Guixian	head	脑壳	la⁴²kʰo²¹	l a ⁴² kʰ o ²¹		937	841	- l a - ⁴² - - - kʰ o - ²¹	C V T C V T
+611	Kunming	head	脑壳	nɔ⁵³kʰo³¹	n ɔ ⁵³ kʰ o ³¹		937	841	- n ɔ - ⁵³ - - - kʰ o - ³¹	C V T C V T
+607	Shexian	head	头脑壳	tʰju⁴⁴lɔ³⁵kʰɔʔ²¹	tʰ j u ⁴⁴ l ɔ ³⁵ kʰ ɔ ʔ ²¹		937	841	tʰ j u - ⁴⁴ l ɔ ³⁵ kʰ ɔ ʔ ²¹	C C V T C V T C V C T
+594	Xiamen	head	头壳	tʰaw³⁵kʰak³²	tʰ a w ³⁵ kʰ a k ³²		937	841	tʰ - a w ³⁵ - - - kʰ a k ³²	C V C T C V C T
+1690	Shexian	here	嗯哪	n̩³¹na	n̩ ³¹ n a		271	294	n̩ - ³¹ n a -	C T C V
+1691	Beijing	here	这儿	t͡ʂɤr⁵¹	ʈʂ ɤ r ⁵¹		854	764	ʈʂ ɤ r ⁵¹ - - - -	C V C T
+1687	Chengdu	here	这儿	ʦər⁵⁵	ts ə r ⁵⁵		854	764	ts ə r ⁵⁵ - - - -	C V C T
+1680	Jinan	here	这儿	t͡ʂər²¹	ʈʂ ə r ²¹		854	764	ʈʂ ə r ²¹ - - - -	C V C T
+1689	Taiyuan	here	这儿家	ʦar⁴⁵ʨja⁵³	ts a r ⁴⁵ tɕ j a ⁵³		854	764	ts a r ⁴⁵ tɕ j a ⁵³	C V C T C C V T
+1686	Nanchang	here	箇块屑子	ko²¹³kʰwajuai⁰⁴ɕjɛʔ⁵ʦɿ⁰²	k o ²¹³ kʰ w a j u a i ⁰⁴/¹⁴ ɕ j ɛ ʔ ⁵ ts ɿ ⁰²/¹²		280	302	k o ²¹³ kʰ w a j u a i ⁰⁴/¹⁴ ɕ j ɛ ʔ ⁵ ts ɿ ⁰²/¹²	C V T C C V C V V V T C C V C T C V T
+2259	Beijing	hot	热	ʐɤ⁵¹	ʐ ɤ ⁵¹		834	748	ʐ - ɤ - ⁵¹	C V T
+2246	Changsha	hot	热	ɥe²⁴	ɥ e ²⁴		834	748	- ɥ e - ²⁴	C V T
+2256	Chengdu	hot	热	ze³¹	z e ³¹		834	748	z - e - ³¹	C V T
+2253	Guangzhou	hot	热	jit²	j i t ²		834	748	- j i t ²	C V C T
+2247	Guixian	hot	热	zɛ²¹	z ɛ ²¹		834	748	z - ɛ - ²¹	C V T
+2252	Hangzhou	hot	热	zɥəʔ²	z ɥ ə ʔ ²		834	748	z ɥ ə ʔ ²	C C V C T
+2250	Hefei	hot	热	ʐɐʔ⁵	ʐ ɐ ʔ ⁵		834	748	ʐ - ɐ ʔ ⁵	C V C T
+2251	Jinan	hot	热	ʐə²¹	ʐ ə ²¹		834	748	ʐ - ə - ²¹	C V T
+2260	Kunming	hot	热	ʐə³¹	ʐ ə ³¹		834	748	ʐ - ə - ³¹	C V T
+2245	Meixian	hot	热	ŋjat⁵	ŋ j a t ⁵		834	748	ŋ j a t ⁵	C C V C T
+2255	Nanchang	hot	热	lɛʔ⁵	l ɛ ʔ ⁵		834	748	l - ɛ ʔ ⁵	C V C T
+2264	Shanghai	hot	热	ȵjɪʔ¹	ɲ j ɪ ʔ ¹		834	748	ɲ j ɪ ʔ ¹	C C V C T
+2258	Shexian	hot	热	ne²²	n e ²²		834	748	n - e - ²²	C V T
+2257	Taiyuan	hot	热	zaʔ²	z a ʔ ²		834	748	z - a ʔ ²	C V C T
+2248	Xiamen	hot	热	lwaʔ⁵	l w a ʔ ⁵		834	748	l w a ʔ ⁵	C C V C T
+476	Beijing	house	房子	fɑŋ³⁵ʦɿ³	f ɑ ŋ ³⁵ ts ɿ ³		1003	5	f ɑ ŋ ³⁵ ts ɿ - ³	C V C T C V T
+473	Chengdu	house	房子	faŋ³¹ʦɿ⁵³	f a ŋ ³¹ ts ɿ ⁵³		1003	5	f a ŋ ³¹ ts ɿ - ⁵³	C V C T C V T
+465	Guixian	house	房子	faŋ²¹ʦɿ⁴²	f a ŋ ²¹ ts ɿ ⁴²		1003	5	f a ŋ ²¹ ts ɿ - ⁴²	C V C T C V T
+470	Hangzhou	house	房子	vɑŋ²¹³ʦɿ	v ɑ ŋ ²¹³ ts ɿ		1003	5	v ɑ ŋ ²¹³ ts ɿ - -	C V C T C V
+468	Jinan	house	房子	faŋ⁴²ʦɿ	f a ŋ ⁴² ts ɿ		1003	5	f a ŋ ⁴² ts ɿ - -	C V C T C V
+477	Kunming	house	房子	fᴀ̃³¹ʦɿ⁵³	f ᴀ̃/ã̱ ³¹ ts ɿ ⁵³		1003	5	f ᴀ̃/ã̱ - ³¹ ts ɿ - ⁵³	C V T C V T
+478	Shanghai	house	房子	vɑ̃¹³ʦɿ³⁵	v ɑ̃ ¹³ ts ɿ ³⁵		1003	5	v ɑ̃ - ¹³ ts ɿ - ³⁵	C V T C V T
+474	Taiyuan	house	房子	fɒ̃¹¹ʦəʔ	f ɒ̃ ¹¹ ts ə ʔ		1003	5	f ɒ̃ - ¹¹ ts ə ʔ -	C V T C V C
+1807	Chengdu	how	咋个	ʦa³¹ko¹³	ts a ³¹ k o ¹³		388	392	ts a ³¹ k o ¹³ - - - -	C V T C V T
+1797	Guixian	how	咋个样	ʦa²¹ko²¹jaŋ	ts a ²¹ k o ²¹ j a ŋ		388	392	ts a ²¹ k o ²¹ j a ŋ -	C V T C V T C V C
+1813	Kunming	how	咋个了	ʦᴀ³¹kə²¹²lə⁵³	ts ᴀ/a̱ ³¹ k ə ²¹² l ə ⁵³		388	392	ts ᴀ/a̱ ³¹ k ə ²¹² l ə - ⁵³	C V T C V T C V T
+1812	Beijing	how	怎么样	ʦən²¹⁴mə⁴jɑŋ⁵¹	ts ə n ²¹⁴ m ə ⁴ j ɑ ŋ ⁵¹		351	358	ts ə n ²¹⁴ m ə ⁴ j - - - - - ɑ ŋ ⁵¹	C V C T C V T C V C T
+1800	Hefei	how	怎样	ʦən²⁴jɑ̃⁵³	ts ə n ²⁴ j ɑ̃ ⁵³		351	358	ts ə n ²⁴ - - - j - - - - - ɑ̃ - ⁵³	C V C T C V T
+1801	Jinan	how	怎么样儿	ʦəŋ⁵⁵məiãəiãr²¹	ts ə ŋ ⁵⁵ m ə i ã ə i ã r ²¹		351	358	ts ə ŋ ⁵⁵ - - - m ə i ã ə i ã r ²¹	C V C T C V V V V V V C T
+1798	Xiamen	how	怎仔样	ʦãj⁵³jã⁵³jũ²²	ts ã j ⁵³ j ã ⁵³ j ũ ²²		351	358	ts ã j ⁵³ j ã ⁵³ j - - - - - ũ - ²²	C V C T C V T C V T
+1461	Changsha	humpback	驼子	to¹³ʦɿ	t o ¹³ ts ɿ		174	218	t o ¹³ - - - - - ts ɿ - - - -	C V T C V
+1470	Chengdu	humpback	驼背子	tʰo³¹pej¹³ʦɿ⁵³	tʰ o ³¹ p e j ¹³ ts ɿ ⁵³		174	218	tʰ o ³¹ p - e j ¹³ ts ɿ ⁵³ - - -	C V T C V C T C V T
+1468	Guangzhou	humpback	驼背	tʰɔ²¹pwi³³	tʰ ɔ ²¹ p w i ³³		174	218	tʰ ɔ ²¹ p w i - ³³ - - - - - -	C V T C C V T
+1462	Guixian	humpback	驼子	tʰo²¹ʦɿ⁴²	tʰ o ²¹ ts ɿ ⁴²		174	218	tʰ o ²¹ - - - - - ts ɿ ⁴² - - -	C V T C V T
+1467	Hangzhou	humpback	驼背佬儿	do²¹³pej⁴⁴⁵lɔ⁵³əl²¹³	d o ²¹³ p e j ⁴⁴⁵ l ɔ ⁵³ ə l ²¹³		174	218	d o ²¹³ p - e j ⁴⁴⁵ l ɔ ⁵³ ə l ²¹³	C V T C V C T C V T V C T
+1463	Hefei	humpback	驼子	tʰʊ⁵⁵ʦə	tʰ ʊ ⁵⁵ ts ə		174	218	tʰ ʊ ⁵⁵ - - - - - ts ə - - - -	C V T C V
+1460	Meixian	humpback	驼背儿	tʰo¹¹poj⁵³je	tʰ o ¹¹ p o j ⁵³ j e		174	218	tʰ o ¹¹ p - o j ⁵³ j e - - - -	C V T C V C T C V
+1469	Nanchang	humpback	驼子	tʰo²⁴ʦɿ⁰⁴	tʰ o ²⁴ ts ɿ ⁰⁴/¹⁴		174	218	tʰ o ²⁴ - - - - - ts ɿ ⁰⁴/¹⁴ - - -	C V T C V T
+1475	Shanghai	humpback	驼子	du¹³ʦɿ³⁵	d u ¹³ ts ɿ ³⁵		174	218	d u ¹³ - - - - - ts ɿ ³⁵ - - -	C V T C V T
+1472	Shexian	humpback	驼背	tʰo⁴⁴pɛ	tʰ o ⁴⁴ p ɛ		174	218	tʰ o ⁴⁴ p - ɛ - - - - - - - -	C V T C V
+909	Chengdu	husband	老公	naw⁵³koŋ⁵⁵	n a w ⁵³ k o ŋ ⁵⁵		89	797	n a w ⁵³ k - o ŋ ⁵⁵	C V C T C V C T
+907	Guangzhou	husband	老公	low²³koŋ⁵⁵	l o w ²³ k o ŋ ⁵⁵		89	797	l o w ²³ k - o ŋ ⁵⁵	C V C T C V C T
+895	Guixian	husband	老公	la⁴²koŋ⁵⁵	l a ⁴² k o ŋ ⁵⁵		89	797	l a - ⁴² k - o ŋ ⁵⁵	C V T C V C T
+904	Hangzhou	husband	老公	lɔ⁵³koŋ³³	l ɔ ⁵³ k o ŋ ³³		89	797	l ɔ - ⁵³ k - o ŋ ³³	C V T C V C T
+889	Meixian	husband	老公	law³¹kuŋ⁴⁴	l a w ³¹ k u ŋ ⁴⁴		89	797	l a w ³¹ k - u ŋ ⁴⁴	C V C T C V C T
+908	Nanchang	husband	老公	lɑw²¹³kuŋ⁰⁴	l ɑ w ²¹³ k u ŋ ⁰⁴/¹⁴		89	797	l ɑ w ²¹³ k - u ŋ ⁰⁴/¹⁴	C V C T C V C T
+926	Shanghai	husband	老公	lɔ¹³koŋ⁵³	l ɔ ¹³ k o ŋ ⁵³		89	797	l ɔ - ¹³ k - o ŋ ⁵³	C V T C V C T
+914	Shexian	husband	老公	lɔ³⁵kwʌ̃	l ɔ ³⁵ k w ʌ̃		89	797	l ɔ - ³⁵ k w ʌ̃ - -	C V T C C V
+918	Beijing	husband	男人	nan³⁵ʐən³	n a n ³⁵ ʐ ə n ³		1006	8	n a n ³⁵ - - ʐ ə n ³ - - - -	C V C T C V C T
+890	Changsha	husband	男人	lan¹³ʐən¹³	l a n ¹³ ʐ ə n ¹³		1006	8	l a n ¹³ - - ʐ ə n ¹³ - - - -	C V C T C V C T
+911	Chengdu	husband	男人	nan³¹zən³¹	n a n ³¹ z ə n ³¹		1006	8	n a n ³¹ - - z ə n ³¹ - - - -	C V C T C V C T
+893	Guixian	husband	男人	lan²¹zen²¹	l a n ²¹ z e n ²¹		1006	8	l a n ²¹ - - z e n ²¹ - - - -	C V C T C V C T
+905	Hangzhou	husband	男人	nᴇ̃²¹³zen²¹³	n ᴇ̃/ẽ̞ ²¹³ z e n ²¹³		1006	8	n ᴇ̃/ẽ̞ - ²¹³ - - z e n ²¹³ - - - -	C V T C V C T
+900	Jinan	husband	男人	nã⁴²ʐẽ	n ã ⁴² ʐ ẽ		1006	8	n ã - ⁴² - - ʐ ẽ - - - - - -	C V T C V
+921	Kunming	husband	男人	nᴀ̃³¹ʐə̃³¹	n ᴀ̃/ã̱ ³¹ ʐ ə̃ ³¹		1006	8	n ᴀ̃/ã̱ - ³¹ - - ʐ ə̃ - ³¹ - - - -	C V T C V T
+925	Shanghai	husband	男人	nø¹³ȵiŋ¹³	n ø ¹³ ɲ i ŋ ¹³		1006	8	n ø - ¹³ - - ɲ i ŋ ¹³ - - - -	C V T C V C T
+916	Shexian	husband	男人	lɛ⁴⁴jʌ̃⁴⁴	l ɛ ⁴⁴ j ʌ̃ ⁴⁴		1006	8	l ɛ - ⁴⁴ - - j ʌ̃ - ⁴⁴ - - - -	C V T C V T
+892	Changsha	husband	爱人	ŋaj⁵⁵ʐən¹³	ŋ a j ⁵⁵ ʐ ə n ¹³		707	642	ŋ a j ⁵⁵ ʐ ə n ¹³	C V C T C V C T
+906	Hangzhou	husband	爱人	ʔᴇ⁴⁴⁵zen²¹³	ʔ ᴇ/e̞ ⁴⁴⁵ z e n ²¹³		707	642	ʔ ᴇ/e̞ - ⁴⁴⁵ z e n ²¹³	C V T C V C T
+924	Shanghai	husband	爱人	e³⁵ȵiŋ¹³	e ³⁵ ɲ i ŋ ¹³		707	642	- e - ³⁵ ɲ i ŋ ¹³	V T C V C T
+901	Jinan	husband	男的	nã⁴²ti	n ã ⁴² t i		1049	42	n ã - ⁴² t - i - -	C V T C V
+919	Beijing	husband	当家的	tɑŋ⁵⁵ʨja⁵⁵tə²	t ɑ ŋ ⁵⁵ tɕ j a ⁵⁵ t ə ²		596	550	t ɑ ŋ ⁵⁵ tɕ j a ⁵⁵ t ə - ²	C V C T C C V T C V T
+910	Chengdu	husband	当家的	taŋ⁵⁵ʨja⁵⁵ni⁵⁵	t a ŋ ⁵⁵ tɕ j a ⁵⁵ n i ⁵⁵		596	550	t a ŋ ⁵⁵ tɕ j a ⁵⁵ n i - ⁵⁵	C V C T C C V T C V T
+912	Taiyuan	husband	当家的	tɒ̃¹¹ʨja¹¹təʔ	t ɒ̃ ¹¹ tɕ j a ¹¹ t ə ʔ		596	550	t ɒ̃ - ¹¹ tɕ j a ¹¹ t ə ʔ -	C V T C C V T C V C
+2057	Changsha	in the middle	中间	t͡ʂoŋ³³kan³³	ʈʂ o ŋ ³³ k a n ³³		1083	71	- - - - ʈʂ - o ŋ ³³ k - a n ³³	C V C T C V C T
+2071	Chengdu	in the middle	中间	ʦoŋ⁵⁵ʨjan⁵⁵	ts o ŋ ⁵⁵ tɕ j a n ⁵⁵		1083	71	- - - - ts - o ŋ ⁵⁵ tɕ j a n ⁵⁵	C V C T C C V C T
+2067	Guangzhou	in the middle	中间	ʦoŋ⁵⁵kan⁵⁵	ts o ŋ ⁵⁵ k a n ⁵⁵		1083	71	- - - - ts - o ŋ ⁵⁵ k - a n ⁵⁵	C V C T C V C T
+2059	Guixian	in the middle	正中间	ʦen²¹³ʦoŋ⁵⁵ʨjan⁵⁵	ts e n ²¹³ ts o ŋ ⁵⁵ tɕ j a n ⁵⁵		1083	71	ts e n ²¹³ ts - o ŋ ⁵⁵ tɕ j a n ⁵⁵	C V C T C V C T C C V C T
+2062	Hefei	in the middle	中间	t͡ʂəŋ²¹ʨjɪ̃²¹	ʈʂ ə ŋ ²¹ tɕ j ɪ̃ ²¹		1083	71	- - - - ʈʂ - ə ŋ ²¹ tɕ j ɪ̃ - ²¹	C V C T C C V T
+2063	Jinan	in the middle	当中间儿	taŋ²¹³t͡ʂuŋ²¹³ʨjɛr	t a ŋ ²¹³ ʈʂ u ŋ ²¹³ tɕ j ɛ r		1083	71	t a ŋ ²¹³ ʈʂ - u ŋ ²¹³ tɕ j ɛ r -	C V C T C V C T C C V C
+2076	Kunming	in the middle	正中间	t͡ʂə̃²¹²ʦoŋ⁴⁴ʨʰjɛ̃⁴⁴	ʈʂ ə̃ ²¹² ts o ŋ ⁴⁴ tɕʰ j ɛ̃ ⁴⁴		1083	71	ʈʂ ə̃ - ²¹² ts - o ŋ ⁴⁴ tɕʰ j ɛ̃ - ⁴⁴	C V T C V C T C C V T
+2056	Meixian	in the middle	中间	ʦuŋ⁴⁴kjan⁴⁴	ts u ŋ ⁴⁴ k j a n ⁴⁴		1083	71	- - - - ts - u ŋ ⁴⁴ k j a n ⁴⁴	C V C T C C V C T
+2072	Taiyuan	in the middle	当中间儿	tɒ̃¹¹ʦwəŋ¹¹ʨjar¹¹	t ɒ̃ ¹¹ ts w ə ŋ ¹¹ tɕ j a r ¹¹		1083	71	t ɒ̃ - ¹¹ ts w ə ŋ ¹¹ tɕ j a r ¹¹	C V T C C V C T C C V C T
+2070	Chengdu	in the middle	当中	taŋ⁵⁵ʦoŋ⁵⁵	t a ŋ ⁵⁵ ts o ŋ ⁵⁵		405	406	t a ŋ ⁵⁵ - - - ts - o ŋ ⁵⁵	C V C T C V C T
+2058	Guixian	in the middle	当中	taŋ⁵⁵ʦoŋ⁵⁵	t a ŋ ⁵⁵ ts o ŋ ⁵⁵		405	406	t a ŋ ⁵⁵ - - - ts - o ŋ ⁵⁵	C V C T C V C T
+2065	Hangzhou	in the middle	当中	tɑŋ³³ʦoŋ³³	t ɑ ŋ ³³ ts o ŋ ³³		405	406	t ɑ ŋ ³³ - - - ts - o ŋ ³³	C V C T C V C T
+2068	Nanchang	in the middle	当中	tɔŋ⁴²ʦuŋ⁴²	t ɔ ŋ ⁴² ts u ŋ ⁴²		405	406	t ɔ ŋ ⁴² - - - ts - u ŋ ⁴²	C V C T C V C T
+2077	Shanghai	in the middle	当中	tɑ̃⁵³ʦoŋ⁵³	t ɑ̃ ⁵³ ts o ŋ ⁵³		405	406	t ɑ̃ - ⁵³ - - - ts - o ŋ ⁵³	C V T C V C T
+2074	Shexian	in the middle	当中	ta³¹ʦʌ̃³¹	t a ³¹ ts ʌ̃ ³¹		405	406	t a - ³¹ - - - ts - ʌ̃ - ³¹	C V T C V T
+2073	Taiyuan	in the middle	当当中	tɒ̃¹¹tɒ̃¹¹ʦwəŋ¹¹	t ɒ̃ ¹¹ t ɒ̃ ¹¹ ts w ə ŋ ¹¹		405	406	t ɒ̃ - ¹¹ t ɒ̃ ¹¹ ts w ə ŋ ¹¹	C V T C V T C C V C T
+2102	Beijing	inside	里面	li²¹⁴mjan⁴	l i ²¹⁴ m j a n ⁴		52	499	l i - ²¹⁴ m j a n ⁴	C V T C C V C T
+2080	Changsha	inside	里面	li⁴¹mjẽ	l i ⁴¹ m j ẽ		52	499	l i - ⁴¹ m j ẽ - -	C V T C C V
+2095	Chengdu	inside	里面	ni⁵³mjan¹³	n i ⁵³ m j a n ¹³		52	499	n i - ⁵³ m j a n ¹³	C V T C C V C T
+2089	Jinan	inside	里面	li⁵⁵mjã	l i ⁵⁵ m j ã		52	499	l i - ⁵⁵ m j ã - -	C V T C C V
+2084	Xiamen	inside	里面	laj²²bin²²	l a j ²² b i n ²²		52	499	l a j ²² b - i n ²²	C V C T C V C T
+2101	Beijing	inside	里头	li²¹⁴tʰow	l i ²¹⁴ tʰ o w		689	630	l i - ²¹⁴ tʰ - o w - -	C V T C V C
+2081	Changsha	inside	里头	li⁴¹təw	l i ⁴¹ t ə w		689	630	l i - ⁴¹ t - ə w - -	C V T C V C
+2097	Chengdu	inside	里头	ni⁵³tʰəw³¹	n i ⁵³ tʰ ə w ³¹		689	630	n i - ⁵³ tʰ - ə w ³¹ -	C V T C V C T
+2083	Guixian	inside	里头	i⁴²tʰəw⁵⁵	i ⁴² tʰ ə w ⁵⁵		689	630	- i - ⁴² tʰ - ə w ⁵⁵ -	V T C V C T
+2090	Hangzhou	inside	里头	li⁵³dej²¹³	l i ⁵³ d e j ²¹³		689	630	l i - ⁵³ d - e j ²¹³ -	C V T C V C T
+2086	Hefei	inside	里头	zɿ²⁴tʰɯ	z ɿ ²⁴ tʰ ɯ		689	630	z ɿ - ²⁴ tʰ - ɯ - - -	C V T C V
+2087	Jinan	inside	里头	li⁵⁵tʰow	l i ⁵⁵ tʰ o w		689	630	l i - ⁵⁵ tʰ - o w - -	C V T C V C
+2093	Nanchang	inside	里头	li²¹³tʰɛw⁰⁴	l i ²¹³ tʰ ɛ w ⁰⁴/¹⁴		689	630	l i - ²¹³ tʰ - ɛ w ⁰⁴/¹⁴ -	C V T C V C T
+2105	Shanghai	inside	里向	li¹³ɕjã³⁴	l i ¹³ ɕ j ã ³ ⁴		689	630	l i - ¹³ ɕ j ã - ³ ⁴	C V T C C V T T
+2100	Shexian	inside	里头	li³⁵tʰju⁴⁴	l i ³⁵ tʰ j u ⁴⁴		689	630	l i - ³⁵ tʰ j u - ⁴⁴ -	C V T C C V T
+2099	Taiyuan	inside	里头	li⁵³tʰəw¹¹	l i ⁵³ tʰ ə w ¹¹		689	630	l i - ⁵³ tʰ - ə w ¹¹ -	C V T C V C T
+2085	Xiamen	inside	里头	laj²²tʰaw³⁵	l a j ²² tʰ a w ³⁵		689	630	l a j ²² tʰ - a w ³⁵ -	C V C T C V C T
+2103	Beijing	inside	里边儿	li²¹⁴pjar⁴	l i ²¹⁴ p j a r ⁴		1008	10	l i ²¹⁴ p j a r ⁴	C V T C C V C T
+2096	Chengdu	inside	里边	ni⁵³pjan⁵⁵	n i ⁵³ p j a n ⁵⁵		1008	10	n i ⁵³ p j a n ⁵⁵	C V T C C V C T
+2088	Jinan	inside	里边儿	li⁵⁵pjɛr	l i ⁵⁵ p j ɛ r		1008	10	l i ⁵⁵ p j ɛ r -	C V T C C V C
+2514	Changsha	instead of	帮	pan³³	p a n ³³		1071	61	p a n ³³	C V C T
+2527	Chengdu	instead of	帮	paŋ⁵⁵	p a ŋ ⁵⁵		1071	61	p a ŋ ⁵⁵	C V C T
+2518	Hefei	instead of	帮	pɑ̃²¹	p ɑ̃ ²¹		1071	61	p ɑ̃ - ²¹	C V T
+2524	Nanchang	instead of	帮	pɔŋ⁴²	p ɔ ŋ ⁴²		1071	61	p ɔ ŋ ⁴²	C V C T
+2529	Shexian	instead of	帮	pɔ³¹	p ɔ ³¹		1071	61	p ɔ - ³¹	C V T
+2530	Beijing	instead of	替	tʰi⁵¹	tʰ i ⁵¹		991	888	tʰ - i ⁵¹	C V T
+2525	Chengdu	instead of	替	tʰi¹³	tʰ i ¹³		991	888	tʰ - i ¹³	C V T
+2515	Guixian	instead of	替	tʰi²¹³	tʰ i ²¹³		991	888	tʰ - i ²¹³	C V T
+2519	Jinan	instead of	替	tʰi²¹	tʰ i ²¹		991	888	tʰ - i ²¹	C V T
+2513	Meixian	instead of	替	tʰi⁵³	tʰ i ⁵³		991	888	tʰ - i ⁵³	C V T
+2528	Taiyuan	instead of	替	tʰi⁴⁵	tʰ i ⁴⁵		991	888	tʰ - i ⁴⁵	C V T
+2517	Xiamen	instead of	替	tʰwe²¹	tʰ w e ²¹		991	888	tʰ w e ²¹	C C V T
+2440	Beijing	just right	正好儿	t͡ʂəŋ⁵¹xawr²¹⁴	ʈʂ ə ŋ ⁵¹ x a w r ²¹⁴		36	367	- - - ʈʂ - ə ŋ ⁵¹ - - - - x a w r ²¹⁴	C V C T C V C C T
+2433	Chengdu	just right	正好	ʦən¹³xaw⁵³	ts ə n ¹³ x a w ⁵³		36	367	- - - ts - ə n ¹³ - - - - x a w - ⁵³	C V C T C V C T
+2429	Hangzhou	just right	正好	ʦen⁴⁴⁵hɔ⁵³	ts e n ⁴⁴⁵ h ɔ ⁵³		36	367	- - - ts - e n ⁴⁴⁵ - - - - h ɔ - - ⁵³	C V C T C V T
+2425	Hefei	just right	将好	ʨjɑ̃²¹xʊ²⁴	tɕ j ɑ̃ ²¹ x ʊ ²⁴		36	367	- - - tɕ j ɑ̃ - ²¹ - - - - x ʊ - - ²⁴	C C V T C V T
+2427	Jinan	just right	正好	t͡ʂəŋ²¹xɔ⁵⁵	ʈʂ ə ŋ ²¹ x ɔ ⁵⁵		36	367	- - - ʈʂ - ə ŋ ²¹ - - - - x ɔ - - ⁵⁵	C V C T C V T
+2419	Meixian	just right	正好	ʦaŋ⁵³haw³¹	ts a ŋ ⁵³ h a w ³¹		36	367	- - - ts - a ŋ ⁵³ - - - - h a w - ³¹	C V C T C V C T
+2431	Nanchang	just right	正好	ʦɨn⁴⁵hɑw²¹³	ts ɨ n ⁴⁵ h ɑ w ²¹³		36	367	- - - ts - ɨ n ⁴⁵ - - - - h ɑ w - ²¹³	C V C T C V C T
+2443	Shanghai	just right	刚正好	kɑ̃⁵³ʦəŋ³⁵hɔ³	k ɑ̃ ⁵³ ts ə ŋ ³⁵ h ɔ ³		36	367	k ɑ̃ ⁵³ ts - ə ŋ ³⁵ - - - - h ɔ - - ³	C V T C V C T C V T
+2437	Taiyuan	just right	正好好	ʦəŋ⁴⁵xaw⁵³xaw⁵³	ts ə ŋ ⁴⁵ x a w ⁵³ x a w ⁵³		36	367	- - - ts - ə ŋ ⁴⁵ x a w ⁵³ x a w - ⁵³	C V C T C V C T C V C T
+2420	Changsha	just right	刚好	kan³³xaw⁴¹	k a n ³³ x a w ⁴¹		733	664	k - a n ³³ x a w ⁴¹	C V C T C V C T
+2434	Chengdu	just right	刚好	kaŋ⁵⁵xaw⁵³	k a ŋ ⁵⁵ x a w ⁵³		733	664	k - a ŋ ⁵⁵ x a w ⁵³	C V C T C V C T
+2428	Hangzhou	just right	刚好	kɑŋ³³hɔ⁵³	k ɑ ŋ ³³ h ɔ ⁵³		733	664	k - ɑ ŋ ³³ h ɔ - ⁵³	C V C T C V T
+2426	Jinan	just right	刚好	ʨjaŋ²¹³xɔ⁵⁵	tɕ j a ŋ ²¹³ x ɔ ⁵⁵		733	664	tɕ j a ŋ ²¹³ x ɔ - ⁵⁵	C C V C T C V T
+2441	Kunming	just right	刚好	kᴀ̃⁴⁴xɔ⁵³	k ᴀ̃/ã̱ ⁴⁴ x ɔ ⁵³		733	664	k - ᴀ̃/ã̱ - ⁴⁴ x ɔ - ⁵³	C V T C V T
+2432	Nanchang	just right	刚好	kɔŋ⁴²hɑw²¹³	k ɔ ŋ ⁴² h ɑ w ²¹³		733	664	k - ɔ ŋ ⁴² h ɑ w ²¹³	C V C T C V C T
+2439	Shexian	just right	刚好	ʨja³¹xɔ³⁵	tɕ j a ³¹ x ɔ ³⁵		733	664	tɕ j a - ³¹ x ɔ - ³⁵	C C V T C V T
+537	Beijing	kitchen	厨房	t͡ʂʰu³⁵fɑŋ³⁵	ʈʂʰ u ³⁵ f ɑ ŋ ³⁵		514	494	ʈʂʰ u - ³⁵ f ɑ ŋ ³⁵ - - -	C V T C V C T
+518	Changsha	kitchen	厨房	ʨy¹³fan¹³	tɕ y ¹³ f a n ¹³		514	494	tɕ y - ¹³ f a n ¹³ - - -	C V T C V C T
+531	Chengdu	kitchen	厨房	ʦʰu³¹faŋ³¹	tsʰ u ³¹ f a ŋ ³¹		514	494	tsʰ u - ³¹ f a ŋ ³¹ - - -	C V T C V C T
+528	Guangzhou	kitchen	厨房	ʦʰøɥ²¹fɔŋ²¹	tsʰ ø ɥ ²¹ f ɔ ŋ ²¹		514	494	tsʰ ø ɥ ²¹ f ɔ ŋ ²¹ - - -	C V C T C V C T
+520	Guixian	kitchen	厨房	ʦʰu²¹faŋ²¹	tsʰ u ²¹ f a ŋ ²¹		514	494	tsʰ u - ²¹ f a ŋ ²¹ - - -	C V T C V C T
+527	Hangzhou	kitchen	厨房	ʣy²¹³vɑŋ²¹³	dz y ²¹³ v ɑ ŋ ²¹³		514	494	dz y - ²¹³ v ɑ ŋ ²¹³ - - -	C V T C V C T
+526	Jinan	kitchen	厨房	t͡ʂʰu⁴²faŋ⁴²	ʈʂʰ u ⁴² f a ŋ ⁴²		514	494	ʈʂʰ u - ⁴² f a ŋ ⁴² - - -	C V T C V C T
+517	Meixian	kitchen	厨房下	ʦʰu¹¹foŋ¹¹ha⁴⁴	tsʰ u ¹¹ f o ŋ ¹¹ h a ⁴⁴		514	494	tsʰ u - ¹¹ f o ŋ ¹¹ h a ⁴⁴	C V T C V C T C V T
+530	Nanchang	kitchen	厨房	ʨʰy²⁴fɔŋ⁰⁴	tɕʰ y ²⁴ f ɔ ŋ ⁰⁴/¹⁴		514	494	tɕʰ y - ²⁴ f ɔ ŋ ⁰⁴/¹⁴ - - -	C V T C V C T
+535	Taiyuan	kitchen	厨房	ʦʰu¹¹fɒ̃¹¹	tsʰ u ¹¹ f ɒ̃ ¹¹		514	494	tsʰ u - ¹¹ f ɒ̃ - ¹¹ - - -	C V T C V T
+523	Xiamen	kitchen	厨房	tu³⁵paŋ³⁵	t u ³⁵ p a ŋ ³⁵		514	494	t u - ³⁵ p a ŋ ³⁵ - - -	C V T C V C T
+532	Chengdu	kitchen	灶房	ʦaw¹³faŋ³¹	ts a w ¹³ f a ŋ ³¹		705	641	ts a w ¹³ f a ŋ ³¹	C V C T C V C T
+521	Guixian	kitchen	灶房	ʦa²¹³faŋ²¹	ts a ²¹³ f a ŋ ²¹		705	641	ts a - ²¹³ f a ŋ ²¹	C V T C V C T
+538	Kunming	kitchen	灶房	ʦɔ²¹²fᴀ̃³¹	ts ɔ ²¹² f ᴀ̃/ã̱ ³¹		705	641	ts ɔ - ²¹² f ᴀ̃/ã̱ - ³¹	C V T C V T
+785	Changsha	knee	膝头骨	si²⁴təwku²⁴	s i ²⁴ t ə w k u ²⁴		326	336	- - - - - s - i - ²⁴ t ə w k u ²⁴ - - - -	C V T C V C C V T
+795	Chengdu	knee	磕膝头儿	kʰe³¹ɕi³¹tʰər³¹	kʰ e ³¹ ɕ i ³¹ tʰ ə r ³¹		326	336	kʰ - e - ³¹ ɕ - i - ³¹ tʰ ə r - - ³¹ - - - -	C V T C V T C V C T
+787	Guixian	knee	克膝头	kʰɛ²¹ɕi⁵⁵tʰəw²¹	kʰ ɛ ²¹ ɕ i ⁵⁵ tʰ ə w ²¹		326	336	kʰ - ɛ - ²¹ ɕ - i - ⁵⁵ tʰ ə w - - ²¹ - - - -	C V T C V T C V C T
+793	Hangzhou	knee	膝髁头	ɕjəʔ⁵kʰo³³dej²¹³	ɕ j ə ʔ ⁵ kʰ o ³³ d e j ²¹³		326	336	ɕ j ə ʔ ⁵ kʰ - o - ³³ d e - - j ²¹³ - - - -	C C V C T C V T C V C T
+789	Hefei	knee	磕膝头	kʰɐʔ⁵ʨʰjəʔ⁵tʰɯ⁵⁵	kʰ ɐ ʔ ⁵ tɕʰ j ə ʔ ⁵ tʰ ɯ ⁵⁵		326	336	kʰ - ɐ ʔ ⁵ tɕʰ j ə ʔ ⁵ tʰ ɯ - - - ⁵⁵ - - - -	C V C T C C V C T C V T
+800	Kunming	knee	磕膝头	kʰə³¹ɕi³¹tʰəw³¹	kʰ ə ³¹ ɕ i ³¹ tʰ ə w ³¹		326	336	kʰ - ə - ³¹ ɕ - i - ³¹ tʰ ə w - - ³¹ - - - -	C V T C V T C V C T
+784	Meixian	knee	膝头项	ʦʰit¹tʰew¹¹hoŋ⁵³	tsʰ i t ¹ tʰ e w ¹¹ h o ŋ ⁵³		326	336	- - - - - tsʰ - i t ¹ tʰ e w - - ¹¹ h o ŋ ⁵³	C V C T C V C T C V C T
+794	Nanchang	knee	克膝头子	kʰjɛʔ⁵ɕiʔ⁵tʰɛw²⁴ʦɿ⁰⁴	kʰ j ɛ ʔ ⁵ ɕ i ʔ ⁵ tʰ ɛ w ²⁴ ts ɿ ⁰⁴/¹⁴		326	336	kʰ j ɛ ʔ ⁵ ɕ - i ʔ ⁵ tʰ ɛ w - - ²⁴ ts ɿ - ⁰⁴/¹⁴	C C V C T C V C T C V C T C V T
+801	Shanghai	knee	脚馒头	ʨjaʔ⁵mø¹³dɤ¹³	tɕ j a ʔ ⁵ m ø ¹³ d ɤ ¹³		609	560	tɕ j a ʔ ⁵ m ø ¹³ d - ɤ ¹³	C C V C T C V T C V T
+798	Shexian	knee	脚膝头	ʨja²¹si²¹tʰju⁴⁴	tɕ j a ²¹ s i ²¹ tʰ j u ⁴⁴		609	560	tɕ j a - ²¹ s i ²¹ tʰ j u ⁴⁴	C C V T C V T C C V T
+2029	Beijing	left	左边儿	ʦwo²¹⁴pjar⁴	ts w o ²¹⁴ p j a r ⁴		1052	44	ts w o ²¹⁴ - - - - p j a r ⁴	C C V T C C V C T
+2012	Changsha	left	左边	ʦo⁴¹pjẽ³³	ts o ⁴¹ p j ẽ ³³		1052	44	ts - o ⁴¹ - - - - p j ẽ - ³³	C V T C C V T
+2023	Chengdu	left	左边	ʦo⁵³pjan⁵⁵	ts o ⁵³ p j a n ⁵⁵		1052	44	ts - o ⁵³ - - - - p j a n ⁵⁵	C V T C C V C T
+2013	Guixian	left	左边	ʦo⁴²pjan⁵⁵	ts o ⁴² p j a n ⁵⁵		1052	44	ts - o ⁴² - - - - p j a n ⁵⁵	C V T C C V C T
+2018	Hangzhou	left	左边	ʦo⁵³pjᴇ̃³³	ts o ⁵³ p j ᴇ̃/ẽ̞ ³³		1052	44	ts - o ⁵³ - - - - p j ᴇ̃/ẽ̞ - ³³	C V T C C V T
+2017	Jinan	left	左边儿	ʦwə²¹pjɛr	ts w ə ²¹ p j ɛ r		1052	44	ts w ə ²¹ - - - - p j ɛ r -	C C V T C C V C
+2030	Kunming	left	左手边	ʦo⁵³ʂəw⁵³pjɛ̃⁴⁴	ts o ⁵³ ʂ ə w ⁵³ p j ɛ̃ ⁴⁴		1052	44	ts - o ⁵³ ʂ ə w ⁵³ p j ɛ̃ - ⁴⁴	C V T C V C T C C V T
+2021	Nanchang	left	左边	ʦo²¹³pjɛn⁰⁴	ts o ²¹³ p j ɛ n ⁰⁴/¹⁴		1052	44	ts - o ²¹³ - - - - p j ɛ n ⁰⁴/¹⁴	C V T C C V C T
+2024	Chengdu	left	左面	ʦo⁵³mjan¹³	ts o ⁵³ m j a n ¹³		590	546	ts o ⁵³ m j a n ¹³	C V T C C V C T
+2031	Shanghai	left	左面	ʦu³⁵mi¹³	ts u ³⁵ m i ¹³		590	546	ts u ³⁵ m - i - ¹³	C V T C V T
+2026	Taiyuan	left	左面儿	ʦɤ⁵³mjar⁴⁵	ts ɤ ⁵³ m j a r ⁴⁵		590	546	ts ɤ ⁵³ m j a r ⁴⁵	C V T C C V C T
+698	Hangzhou	left hand	小手	ɕjɔ⁵³sej⁵³	ɕ j ɔ ⁵³ s e j ⁵³		172	217	ɕ j ɔ - ⁵³ s e j ⁵³	C C V T C V C T
+707	Beijing	left hand	左手	ʦwo²¹⁴ʂow²¹⁴	ts w o ²¹⁴ ʂ o w ²¹⁴		1080	68	ts w o ²¹⁴ ʂ - o w ²¹⁴	C C V T C V C T
+689	Changsha	left hand	左手	ʦo⁴¹ʂəw⁴¹	ts o ⁴¹ ʂ ə w ⁴¹		1080	68	ts - o ⁴¹ ʂ - ə w ⁴¹	C V T C V C T
+701	Chengdu	left hand	左手	ʦo⁵³səw	ts o ⁵³ s ə w		1080	68	ts - o ⁵³ s - ə w -	C V T C V C
+699	Guangzhou	left hand	左手	ʦɔ³⁵sɐw³⁵	ts ɔ ³⁵ s ɐ w ³⁵		1080	68	ts - ɔ ³⁵ s - ɐ w ³⁵	C V T C V C T
+691	Guixian	left hand	左手	ʦo⁴²səw⁴²	ts o ⁴² s ə w ⁴²		1080	68	ts - o ⁴² s - ə w ⁴²	C V T C V C T
+695	Hefei	left hand	左手	ʦʊ²⁴ʂɯ²⁴	ts ʊ ²⁴ ʂ ɯ ²⁴		1080	68	ts - ʊ ²⁴ ʂ - ɯ - ²⁴	C V T C V T
+696	Jinan	left hand	左手	ʦwə²¹ʂow⁵⁵	ts w ə ²¹ ʂ o w ⁵⁵		1080	68	ts w ə ²¹ ʂ - o w ⁵⁵	C C V T C V C T
+708	Kunming	left hand	左手	ʦo⁵³ʂəw⁵³	ts o ⁵³ ʂ ə w ⁵³		1080	68	ts - o ⁵³ ʂ - ə w ⁵³	C V T C V C T
+688	Meixian	left hand	左手	ʦo³¹su³¹	ts o ³¹ s u ³¹		1080	68	ts - o ³¹ s - u - ³¹	C V T C V T
+700	Nanchang	left hand	左手	ʦo²¹³sɨw²¹³	ts o ²¹³ s ɨ w ²¹³		1080	68	ts - o ²¹³ s - ɨ w ²¹³	C V T C V C T
+709	Shanghai	left hand	左手	ʦu³⁵sɤ³⁵	ts u ³⁵ s ɤ ³⁵		1080	68	ts - u ³⁵ s - ɤ - ³⁵	C V T C V T
+705	Taiyuan	left hand	左手	ʦɤ⁵³səw⁵³	ts ɤ ⁵³ s ə w ⁵³		1080	68	ts - ɤ ⁵³ s - ə w ⁵³	C V T C V C T
+694	Xiamen	left hand	左手	ʦo⁵³ʦʰju⁵³	ts o ⁵³ tsʰ j u ⁵³		1080	68	ts - o ⁵³ tsʰ j u - ⁵³	C V T C C V T
+704	Chengdu	left hand	反手	fan⁵³səw⁵³	f a n ⁵³ s ə w ⁵³		569	532	f a n ⁵³ s - ə w ⁵³	C V C T C V C T
+692	Guixian	left hand	反手	fan⁴²səw⁴²	f a n ⁴² s ə w ⁴²		569	532	f a n ⁴² s - ə w ⁴²	C V C T C V C T
+706	Shexian	left hand	反手	fɛ³⁵ɕju³⁵	f ɛ ³⁵ ɕ j u ³⁵		569	532	f ɛ - ³⁵ ɕ j u - ³⁵	C V T C C V T
+815	Chengdu	leg	腿腿儿	tʰwejuei⁵³tʰwər⁵³	tʰ w e j u/w e i ⁵³ tʰ w ə r ⁵³		1127	110	tʰ w e j u/w e i ⁵³ tʰ w ə r ⁵³	C C V C V V V T C C V C T
+811	Guangzhou	leg	脚	kœk³	k œ k ³		609	560	k - œ k ³ - - - - - - -	C V C T
+822	Kunming	leg	脚杆儿	ʨjo³¹kə³¹	tɕ j o ³¹ k ə ³¹		609	560	tɕ j o - ³¹ - - - k - ə ³¹	C C V T C V T
+813	Nanchang	leg	脚	ʨjɔʔ⁵	tɕ j ɔ ʔ ⁵		609	560	tɕ j ɔ ʔ ⁵ - - - - - - -	C C V C T
+820	Beijing	leg	腿	tʰwejuei²¹⁴	tʰ w e j u/w e i ²¹⁴		1201	179	tʰ w e j u/w e i ²¹⁴	C C V C V V V T
+814	Chengdu	leg	腿	tʰwejuei	tʰ w e j u/w e i		1201	179	tʰ w e j u/w e i -	C C V C V V V
+808	Hefei	leg	腿	tʰe²⁴	tʰ e ²⁴		1201	179	tʰ - e - - - - ²⁴	C V T
+809	Jinan	leg	腿	tʰwejuei⁵⁵	tʰ w e j u/w e i ⁵⁵		1201	179	tʰ w e j u/w e i ⁵⁵	C C V C V V V T
+817	Taiyuan	leg	腿	tʰwejuei⁵³	tʰ w e j u/w e i ⁵³		1201	179	tʰ w e j u/w e i ⁵³	C C V C V V V T
+807	Xiamen	leg	腿	tʰwi⁵³	tʰ w i ⁵³		1201	179	tʰ w i - - - - ⁵³	C C V T
+2335	Beijing	long	长	t͡ʂʰɑŋ³⁵	ʈʂʰ ɑ ŋ ³⁵		552	517	ʈʂʰ - ɑ ŋ ³⁵	C V C T
+2324	Changsha	long	长	t͡ʂan¹³	ʈʂ a n ¹³		552	517	ʈʂ - a n ¹³	C V C T
+2332	Chengdu	long	长	ʦʰaŋ³¹	tsʰ a ŋ ³¹		552	517	tsʰ - a ŋ ³¹	C V C T
+2330	Guangzhou	long	长	ʦʰœŋ²¹	tsʰ œ ŋ ²¹		552	517	tsʰ - œ ŋ ²¹	C V C T
+2325	Guixian	long	长	ʦʰaŋ²¹	tsʰ a ŋ ²¹		552	517	tsʰ - a ŋ ²¹	C V C T
+2329	Hangzhou	long	长	ʣɑŋ²¹³	dz ɑ ŋ ²¹³		552	517	dz - ɑ ŋ ²¹³	C V C T
+2327	Hefei	long	长	tʰɑ̃⁵⁵	tʰ ɑ̃ ⁵⁵		552	517	tʰ - ɑ̃ - ⁵⁵	C V T
+2328	Jinan	long	长	t͡ʂʰaŋ⁴²	ʈʂʰ a ŋ ⁴²		552	517	ʈʂʰ - a ŋ ⁴²	C V C T
+2336	Kunming	long	长	t͡ʂʰᴀ̃³¹	ʈʂʰ ᴀ̃/ã̱ ³¹		552	517	ʈʂʰ - ᴀ̃/ã̱ - ³¹	C V T
+2323	Meixian	long	长	ʦʰoŋ¹¹	tsʰ o ŋ ¹¹		552	517	tsʰ - o ŋ ¹¹	C V C T
+2331	Nanchang	long	长	ʦʰɔŋ²⁴	tsʰ ɔ ŋ ²⁴		552	517	tsʰ - ɔ ŋ ²⁴	C V C T
+2337	Shanghai	long	长	zã¹³	z ã ¹³		552	517	z - ã - ¹³	C V T
+2334	Shexian	long	长	ʨʰja⁴⁴	tɕʰ j a ⁴⁴		552	517	tɕʰ j a - ⁴⁴	C C V T
+2333	Taiyuan	long	长	ʦʰɒ̃¹¹	tsʰ ɒ̃ ¹¹		552	517	tsʰ - ɒ̃ - ¹¹	C V T
+2326	Xiamen	long	长	tŋ̍	t ŋ̍		552	517	t ŋ̍ - - -	C C
+1043	Kunming	lunch	早饭	ʦɔ⁵³fᴀ̃²¹²	ts ɔ ⁵³ f ᴀ̃/ã̱ ²¹²		481	465	ts ɔ - ⁵³ - - - - - f ᴀ̃/ã̱ - ²¹²	C V T C V T
+1028	Changsha	lunch	中饭	t͡ʂoŋ³³fan¹¹	ʈʂ o ŋ ³³ f a n ¹¹		329	339	ʈʂ o ŋ ³³ - - - f a n ¹¹	C V C T C V C T
+1036	Guangzhou	lunch	中午饭	ʦoŋ⁵³ŋ̍²³fan²²	ts o ŋ ⁵³ ŋ̍ ²³ f a n ²²		329	339	ts o ŋ ⁵³ ŋ̍ - ²³ f a n ²²	C V C T C T C V C T
+1029	Guixian	lunch	中午饭	ʦoŋ⁵⁵u⁴²fan²¹³	ts o ŋ ⁵⁵ u ⁴² f a n ²¹³		329	339	ts o ŋ ⁵⁵ - u ⁴² f a n ²¹³	C V C T V T C V C T
+1034	Hangzhou	lunch	中饭	ʦoŋ³³vᴇ̃¹³	ts o ŋ ³³ v ᴇ̃/ẽ̞ ¹³		329	339	ts o ŋ ³³ - - - v ᴇ̃/ẽ̞ - ¹³	C V C T C V T
+1032	Hefei	lunch	中饭	t͡ʂəŋ²¹fæ̃⁵³	ʈʂ ə ŋ ²¹ f æ̃ ⁵³		329	339	ʈʂ ə ŋ ²¹ - - - f æ̃ - ⁵³	C V C T C V T
+1037	Nanchang	lunch	中饭	ʦuŋ⁴²fan²¹	ts u ŋ ⁴² f a n ²¹		329	339	ts u ŋ ⁴² - - - f a n ²¹	C V C T C V C T
+1044	Shanghai	lunch	中饭	ʦoŋ⁵³ve¹³	ts o ŋ ⁵³ v e ¹³		329	339	ts o ŋ ⁵³ - - - v e - ¹³	C V C T C V T
+1041	Shexian	lunch	中饭	ʦʌ̃³¹fɛ²²	ts ʌ̃ ³¹ f ɛ ²²		329	339	ts ʌ̃ - ³¹ - - - f ɛ - ²²	C V T C V T
+1042	Beijing	lunch	晌午饭	ʂɑŋ²¹⁴u³fan⁵¹	ʂ ɑ ŋ ²¹⁴ u ³ f a n ⁵¹		880	787	ʂ ɑ ŋ ²¹⁴ u - - ³ f a n ⁵¹	C V C T V T C V C T
+1039	Chengdu	lunch	午饭	u⁵³fan¹³	u ⁵³ f a n ¹³		880	787	- - - - u - - ⁵³ f a n ¹³	V T C V C T
+1033	Jinan	lunch	晌午饭	ʂaŋ⁵⁵ufã²¹	ʂ a ŋ ⁵⁵ u f ã ²¹		880	787	ʂ a ŋ ⁵⁵ u f ã ²¹ - - - -	C V C T V C V T
+1040	Taiyuan	lunch	晌午饭	sɒ̃⁵³vu⁵³fæ̃⁴⁵	s ɒ̃ ⁵³ v u ⁵³ f æ̃ ⁴⁵		880	787	s ɒ̃ - ⁵³ - v u ⁵³ f æ̃ - ⁴⁵	C V T C V T C V T
+1178	Guangzhou	man	男人	nam²¹jɐn²¹	n a m ²¹ j ɐ n ²¹		1006	8	n a m ²¹ - - j ɐ n ²¹ - - - -	C V C T C V C T
+1164	Meixian	man	男儿人	nam¹¹meŋin¹¹	n a m ¹¹ m e ŋ i n ¹¹		1006	8	n a m ¹¹ m e ŋ i n ¹¹ - - - -	C V C T C V C V C T
+1185	Taiyuan	man	男人家	næ̃¹¹zəŋ¹¹ʨja¹¹	n æ̃ ¹¹ z ə ŋ ¹¹ tɕ j a ¹¹		1006	8	n æ̃ - ¹¹ - - z ə ŋ ¹¹ tɕ j a ¹¹	C V T C V C T C C V T
+1192	Beijing	man	男的	nan³⁵tə³	n a n ³⁵ t ə ³		1049	42	n a n ³⁵ t - ə - ³	C V C T C V T
+1166	Changsha	man	男的	lan¹³ti	l a n ¹³ t i		1049	42	l a n ¹³ t - i - -	C V C T C V
+1182	Chengdu	man	男的	nan³¹ni⁵⁵	n a n ³¹ n i ⁵⁵		1049	42	n a n ³¹ n - i - ⁵⁵	C V C T C V T
+1168	Guixian	man	男的	lan²¹lɛ⁵⁵	l a n ²¹ l ɛ ⁵⁵		1049	42	l a n ²¹ l - ɛ - ⁵⁵	C V C T C V T
+1172	Hefei	man	男的	læ̃⁵⁵tjəʔ	l æ̃ ⁵⁵ t j ə ʔ		1049	42	l æ̃ - ⁵⁵ t j ə ʔ -	C V T C C V C
+1184	Taiyuan	man	男的	næ̃¹¹təʔ	n æ̃ ¹¹ t ə ʔ		1049	42	n æ̃ - ¹¹ t - ə ʔ -	C V T C V C
+1171	Xiamen	man	男的	lam³⁵e	l a m ³⁵ e		1049	42	l a m ³⁵ - - e - -	C V C T V
+39	Guangzhou	moon	月光	jyt²kwɔŋ⁵⁵	j y t ² k w ɔ ŋ ⁵⁵		129	184	- j y t ² k w ɔ ŋ ⁵⁵	C V C T C C V C T
+29	Meixian	moon	月光	ŋjat⁵kwoŋ⁴⁴	ŋ j a t ⁵ k w o ŋ ⁴⁴		129	184	ŋ j a t ⁵ k w o ŋ ⁴⁴	C C V C T C C V C T
+41	Nanchang	moon	月光	ȵɥɵʔ²kwɔŋ⁴²	ɲ ɥ ɵ ʔ ² k w ɔ ŋ ⁴²		129	184	ɲ ɥ ɵ ʔ ² k w ɔ ŋ ⁴²	C C V C T C C V C T
+50	Shanghai	moon	月光	ɦɥɪʔ¹kwɑ̃⁵³	ɦ ɥ ɪ ʔ ¹ k w ɑ̃ ⁵³		129	184	ɦ ɥ ɪ ʔ ¹ k w ɑ̃ - ⁵³	C C V C T C C V T
+46	Beijing	moon	月亮	ɥɛ⁵¹ljɑŋ¹	ɥ ɛ ⁵¹ l j ɑ ŋ ¹		659	602	- ɥ ɛ - ⁵¹ l j ɑ ŋ ¹	C V T C C V C T
+30	Changsha	moon	月亮	ɥe²⁴ljan¹¹	ɥ e ²⁴ l j a n ¹¹		659	602	- ɥ e - ²⁴ l j a n ¹¹	C V T C C V C T
+42	Chengdu	moon	月亮	ɥe³¹njaŋ¹³	ɥ e ³¹ n j a ŋ ¹³		659	602	- ɥ e - ³¹ n j a ŋ ¹³	C V T C C V C T
+40	Guangzhou	moon	月亮	jyt²lœŋ²²	j y t ² l œ ŋ ²²		659	602	- j y t ² l - œ ŋ ²²	C V C T C V C T
+33	Guixian	moon	月亮	jɛ²¹ljaŋ²¹³	j ɛ ²¹ l j a ŋ ²¹³		659	602	- j ɛ - ²¹ l j a ŋ ²¹³	C V T C C V C T
+38	Hangzhou	moon	月亮	ɦɥəʔ²ljɑŋ¹³	ɦ ɥ ə ʔ ² l j ɑ ŋ ¹³		659	602	ɦ ɥ ə ʔ ² l j ɑ ŋ ¹³	C C V C T C C V C T
+36	Hefei	moon	月亮	ɥɐʔ⁵ljɑ̃⁵³	ɥ ɐ ʔ ⁵ l j ɑ̃ ⁵³		659	602	- ɥ ɐ ʔ ⁵ l j ɑ̃ - ⁵³	C V C T C C V T
+37	Jinan	moon	月亮	ɥə²¹ljaŋ	ɥ ə ²¹ l j a ŋ		659	602	- ɥ ə - ²¹ l j a ŋ -	C V T C C V C
+47	Kunming	moon	月亮	jɛ³¹ljᴀ̃²¹²	j ɛ ³¹ l j ᴀ̃/ã̱ ²¹²		659	602	- j ɛ - ³¹ l j ᴀ̃/ã̱ - ²¹²	C V T C C V T
+49	Shanghai	moon	月亮	ɦɥɪʔ¹ljã¹³	ɦ ɥ ɪ ʔ ¹ l j ã ¹³		659	602	ɦ ɥ ɪ ʔ ¹ l j ã - ¹³	C C V C T C C V T
+45	Shexian	moon	月亮	we²²lja²²	w e ²² l j a ²²		659	602	- w e - ²² l j a - ²²	C V T C C V T
+44	Taiyuan	moon	月亮	ɥəʔ²ljɒ̃⁴⁵	ɥ ə ʔ ² l j ɒ̃ ⁴⁵		659	602	- ɥ ə ʔ ² l j ɒ̃ - ⁴⁵	C V C T C C V T
+866	Guixian	mother	老妈	la⁴²ma⁵⁵	l a ⁴² m a ⁵⁵		594	548	l a - ⁴² m a ⁵⁵ - - - - -	C V T C V T
+873	Guangzhou	mother	老母	low²³mow²³	l o w ²³ m o w ²³		1127	110	- l o - w - - ²³ m - o w ²³	C V C T C V C T
+883	Beijing	mother	娘	njɑŋ³⁵	n j ɑ ŋ ³⁵		461	449	- - - - - - - - n j ɑ ŋ ³⁵ - - -	C C V C T
+877	Chengdu	mother	娘	ȵjaŋ	ɲ j a ŋ		461	449	- - - - - - - - ɲ j a ŋ - - - -	C C V C
+870	Jinan	mother	娘	ȵjaŋ⁴²	ɲ j a ŋ ⁴²		461	449	- - - - - - - - ɲ j a ŋ ⁴² - - -	C C V C T
+875	Nanchang	mother	娘称述	ȵjɔŋ⁴⁵	ɲ j ɔ ŋ ⁴⁵		461	449	- - - - - - - - ɲ j ɔ ŋ ⁴⁵ - - -	C C V C T
+888	Shanghai	mother	娘	ȵjã¹³	ɲ j ã ¹³		461	449	- - - - - - - - ɲ j ã - ¹³ - - -	C C V T
+884	Beijing	mother	妈	ma⁵⁵	m a ⁵⁵		35	356	m a ⁵⁵ - - - -	C V T
+862	Changsha	mother	妈妈	ma⁵⁵ma	m a ⁵⁵ m a		35	356	m a ⁵⁵ m a - -	C V T C V
+876	Chengdu	mother	妈	ma	m a		35	356	m a - - - - -	C V
+872	Guangzhou	mother	妈妈	ma²¹ma⁵⁵	m a ²¹ m a ⁵⁵		35	356	m a ²¹ m a - ⁵⁵	C V T C V T
+865	Guixian	mother	妈	ma⁵⁵	m a ⁵⁵		35	356	m a ⁵⁵ - - - -	C V T
+885	Kunming	mother	妈	mᴀ⁴⁴	m ᴀ/a̱ ⁴⁴		35	356	m ᴀ/a̱ ⁴⁴ - - - -	C V T
+874	Nanchang	mother	姆妈	m̩⁴²mɑ⁰²	m̩ ⁴² m ɑ ⁰²/¹²		35	356	m̩ - ⁴² m ɑ - ⁰²/¹²	C T C V T
+887	Shanghai	mother	姆妈	m̩⁵³ma¹³	m̩ ⁵³ m a ¹³		35	356	m̩ - ⁵³ m a - ¹³	C T C V T
+880	Shexian	mother	姆妈	m̩³⁵ma³¹	m̩ ³⁵ m a ³¹		35	356	m̩ - ³⁵ m a - ³¹	C T C V T
+879	Taiyuan	mother	妈	ma¹¹	m a ¹¹		35	356	m a ¹¹ - - - -	C V T
+868	Xiamen	mother	妈妈	ma⁵⁵ma⁵⁵	m a ⁵⁵ m a ⁵⁵		35	356	m a ⁵⁵ m a - ⁵⁵	C V T C V T
+428	Changsha	mouse	老鼠子	law⁴¹ɕy⁴¹ʦɿ	l a w ⁴¹ ɕ y ⁴¹ ts ɿ		594	548	l a w ⁴¹ ɕ y ⁴¹ ts - ɿ - -	C V C T C V T C V
+437	Chengdu	mouse	老鼠	naw⁵³su⁵³	n a w ⁵³ s u ⁵³		946	850	n - a w - - - ⁵³ s - u ⁵³ - -	C V C T C V T
+435	Hangzhou	mouse	老鼠	lɔ⁵³ʦʰy⁵³	l ɔ ⁵³ tsʰ y ⁵³		946	850	- l ɔ - - - - ⁵³ tsʰ - y ⁵³ - -	C V T C V T
+432	Hefei	mouse	老鼠	lɔ²⁴t͡ʂʰwə	l ɔ ²⁴ ʈʂʰ w ə		946	850	- l ɔ - - - - ²⁴ ʈʂʰ w ə - - -	C V T C C V
+433	Jinan	mouse	老鼠	lɔ⁵⁵ʂu	l ɔ ⁵⁵ ʂ u		946	850	- l ɔ - - - - ⁵⁵ ʂ - u - - -	C V T C V
+442	Kunming	mouse	老鼠	lɔ⁵³t͡ʂʰu⁵³	l ɔ ⁵³ ʈʂʰ u ⁵³		946	850	- l ɔ - - - - ⁵³ ʈʂʰ - u ⁵³ - -	C V T C V T
+427	Meixian	mouse	老鼠儿	law³¹ʦʰu³¹ve	l a w ³¹ tsʰ u ³¹ v e		946	850	- l a w - - - ³¹ tsʰ - u ³¹ v e	C V C T C V T C V
+436	Nanchang	mouse	老鼠	lɑw²¹³ɕy⁰⁴	l ɑ w ²¹³ ɕ y ⁰⁴/¹⁴		946	850	- l ɑ w - - - ²¹³ ɕ - y ⁰⁴/¹⁴ - -	C V C T C V T
+444	Shanghai	mouse	老鼠	lɔ¹³ʦʰɿ³⁵	l ɔ ¹³ tsʰ ɿ ³⁵		946	850	- l ɔ - - - - ¹³ tsʰ - ɿ ³⁵ - -	C V T C V T
+439	Shexian	mouse	老鼠	lɔ³⁵ʨʰy³⁵	l ɔ ³⁵ tɕʰ y ³⁵		946	850	- l ɔ - - - - ³⁵ tɕʰ - y ³⁵ - -	C V T C V T
+431	Xiamen	mouse	老鼠	njawiau⁵³ʦʰu⁵³	n j a w i a u ⁵³ tsʰ u ⁵³		946	850	n j a w i a u ⁵³ tsʰ - u ⁵³ - -	C C V C V V V T C V T
+441	Beijing	mouse	耗子	xɑw⁵¹ʦɿ¹	x ɑ w ⁵¹ ts ɿ ¹		45	438	x ɑ w ⁵¹ ts ɿ ¹	C V C T C V T
+438	Chengdu	mouse	耗子	xaw¹³ʦɿ⁵³	x a w ¹³ ts ɿ ⁵³		45	438	x a w ¹³ ts ɿ ⁵³	C V C T C V T
+430	Guixian	mouse	耗子	xa²¹³ʦɿ⁴²	x a ²¹³ ts ɿ ⁴²		45	438	x a - ²¹³ ts ɿ ⁴²	C V T C V T
+434	Jinan	mouse	耗子	xɔ²¹ʦɿ	x ɔ ²¹ ts ɿ		45	438	x ɔ - ²¹ ts ɿ -	C V T C V
+685	Beijing	neck	脖子	po³⁵ʦɿ³	p o ³⁵ ts ɿ ³		502	487	p o - ³⁵ ts ɿ - ³	C V T C V T
+675	Jinan	neck	脖子	pə⁴²ʦɿ	p ə ⁴² ts ɿ		502	487	p ə - ⁴² ts ɿ - -	C V T C V
+686	Kunming	neck	脖子	po³¹ʦɿ⁵³	p o ³¹ ts ɿ ⁵³		502	487	p o - ³¹ ts ɿ - ⁵³	C V T C V T
+682	Taiyuan	neck	脖子	paʔ⁵⁴ʦəʔ	p a ʔ ⁵⁴ ts ə ʔ		502	487	p a ʔ ⁵⁴ ts ə ʔ -	C V C T C V C
+2709	Beijing	nine	九	ʨjowiou²¹⁴	tɕ j o w i/j o u ²¹⁴		292	311	tɕ j o w i/j o u ²¹⁴	C C V C V V V T
+2698	Changsha	nine	九	ʨjəwiəu⁴¹	tɕ j ə w i əu ⁴¹		292	311	tɕ j ə w - i əu ⁴¹	C C V C V V T
+2706	Chengdu	nine	九	ʨjəwiəu⁵³	tɕ j ə w i əu ⁵³		292	311	tɕ j ə w - i əu ⁵³	C C V C V V T
+2704	Guangzhou	nine	九	kɐw³⁵	k ɐ w ³⁵		292	311	k - ɐ w - - - ³⁵	C V C T
+2699	Guixian	nine	九	ʨjəwiəu⁴²	tɕ j ə w i əu ⁴²		292	311	tɕ j ə w - i əu ⁴²	C C V C V V T
+2703	Hangzhou	nine	九	ʨjø⁵³	tɕ j ø ⁵³		292	311	tɕ j ø - - - - ⁵³	C C V T
+2701	Hefei	nine	九	ʨjɯ²⁴	tɕ j ɯ ²⁴		292	311	tɕ j ɯ - - - - ²⁴	C C V T
+2702	Jinan	nine	九	ʨjowiou⁵⁵	tɕ j o w i/j o u ⁵⁵		292	311	tɕ j o w i/j o u ⁵⁵	C C V C V V V T
+2710	Kunming	nine	九	ʨjəwiəu⁵³	tɕ j ə w i əu ⁵³		292	311	tɕ j ə w - i əu ⁵³	C C V C V V T
+2697	Meixian	nine	九	kju³¹	k j u ³¹		292	311	k j u - - - - ³¹	C C V T
+2705	Nanchang	nine	九	ʨju²¹³	tɕ j u ²¹³		292	311	tɕ j u - - - - ²¹³	C C V T
+2711	Shanghai	nine	九	ʨjɤ³⁵	tɕ j ɤ ³⁵		292	311	tɕ j ɤ - - - - ³⁵	C C V T
+2708	Shexian	nine	九	ʨju³⁵	tɕ j u ³⁵		292	311	tɕ j u - - - - ³⁵	C C V T
+2707	Taiyuan	nine	九	ʨjəwiəu⁵³	tɕ j ə w i əu ⁵³		292	311	tɕ j ə w - i əu ⁵³	C C V C V V T
+2700	Xiamen	nine	九	kaw⁵³	k a w ⁵³		292	311	k - a w - - - ⁵³	C V C T
+1079	Beijing	noodles	面	mjan⁵¹	m j a n ⁵¹		229	265	m j a n ⁵¹	C C V C T
+1064	Changsha	noodles	面	mjẽ¹¹	m j ẽ ¹¹		229	265	m j ẽ - ¹¹	C C V T
+1074	Chengdu	noodles	面	mjan¹³	m j a n ¹³		229	265	m j a n ¹³	C C V C T
+1065	Guixian	noodles	面	mjan²¹³	m j a n ²¹³		229	265	m j a n ²¹³	C C V C T
+1071	Hangzhou	noodles	面	mjᴇ̃¹³	m j ᴇ̃/ẽ̞ ¹³		229	265	m j ᴇ̃/ẽ̞ - ¹³	C C V T
+1070	Jinan	noodles	面	mjã²¹	m j ã ²¹		229	265	m j ã - ²¹	C C V T
+1080	Kunming	noodles	面	mjɛ̃²¹²	m j ɛ̃ ²¹²		229	265	m j ɛ̃ - ²¹²	C C V T
+1073	Nanchang	noodles	面	mjɛn²¹	m j ɛ n ²¹		229	265	m j ɛ n ²¹	C C V C T
+1081	Shanghai	noodles	面	mi¹³	m i ¹³		229	265	m - i - ¹³	C V T
+1077	Shexian	noodles	面	me²²	m e ²²		229	265	m - e - ²²	C V T
+1076	Taiyuan	noodles	面	mje⁴⁵	m j e ⁴⁵		229	265	m j e - ⁴⁵	C C V T
+1078	Beijing	noodles	面条儿	mjan⁵¹tʰjɑwiɑur	m j a n ⁵¹ tʰ j ɑ w i ɑ u r		664	607	m j a n ⁵¹ tʰ j ɑ w i ɑ u r -	C C V C T C C V C V V V C
+1075	Chengdu	noodles	面条儿	mjan¹³tʰjər³¹	m j a n ¹³ tʰ j ə r ³¹		664	607	m j a n ¹³ tʰ j - - - - ə r ³¹	C C V C T C C V C T
+1066	Guixian	noodles	面条	mjan²¹³tʰjaoiao²¹	m j a n ²¹³ tʰ j a o i a o ²¹		664	607	m j a n ²¹³ tʰ j a o i a o - ²¹	C C V C T C C V V V V V T
+1068	Hefei	noodles	面条	mjɪ̃⁵³tʰjɔ⁵⁵	m j ɪ̃ ⁵³ tʰ j ɔ ⁵⁵		664	607	m j ɪ̃ - ⁵³ tʰ j - - - - ɔ - ⁵⁵	C C V T C C V T
+1069	Jinan	noodles	面条儿	mjã²¹tʰjɔr⁴²	m j ã ²¹ tʰ j ɔ r ⁴²		664	607	m j ã - ²¹ tʰ j - - - - ɔ r ⁴²	C C V T C C V C T
+666	Beijing	nose	鼻子	pi³⁵ʦɿ³	p i ³⁵ ts ɿ ³		28	301	p - i - ³⁵ ts ɿ - ³	C V T C V T
+653	Changsha	nose	鼻子	pi²⁴ʦɿ	p i ²⁴ ts ɿ		28	301	p - i - ²⁴ ts ɿ - -	C V T C V
+662	Chengdu	nose	鼻子	pi³¹ʦɿ⁵³	p i ³¹ ts ɿ ⁵³		28	301	p - i - ³¹ ts ɿ - ⁵³	C V T C V T
+654	Guixian	nose	鼻子	pi²¹ʦɿ⁴²	p i ²¹ ts ɿ ⁴²		28	301	p - i - ²¹ ts ɿ - ⁴²	C V T C V T
+657	Hefei	nose	鼻子	pjəʔ⁵ʦə	p j ə ʔ ⁵ ts ə		28	301	p j ə ʔ ⁵ ts ə - -	C C V C T C V
+658	Jinan	nose	鼻子	pi⁴²ʦɿ	p i ⁴² ts ɿ		28	301	p - i - ⁴² ts ɿ - -	C V T C V
+667	Kunming	nose	鼻子	pi³¹ʦɿ⁵³	p i ³¹ ts ɿ ⁵³		28	301	p - i - ³¹ ts ɿ - ⁵³	C V T C V T
+663	Taiyuan	nose	鼻子	pjəʔ⁵⁴ʦəʔ	p j ə ʔ ⁵⁴ ts ə ʔ		28	301	p j ə ʔ ⁵⁴ ts ə ʔ -	C C V C T C V C
+659	Hangzhou	nose	鼻头	bɑʔ²dej²¹³	b ɑ ʔ ² d e j ²¹³		729	660	b - ɑ ʔ ² d - e j ²¹³	C V C T C V C T
+668	Shanghai	nose	鼻头	bjɪʔ¹dɤ¹³	b j ɪ ʔ ¹ d ɤ ¹³		729	660	b j ɪ ʔ ¹ d - ɤ - ¹³	C C V C T C V T
+664	Shexian	nose	鼻头	pʰi²²tʰju⁴⁴	pʰ i ²² tʰ j u ⁴⁴		729	660	pʰ - i - ²² tʰ j u - ⁴⁴	C V T C C V T
+1392	Chengdu	nurse	奶妈子	naj⁵³ma⁵⁵ʦɿ⁵³	n a j ⁵³ m a ⁵⁵ ts ɿ ⁵³		398	400	n a j ⁵³ - - m a - ⁵⁵ ts ɿ ⁵³	C V C T C V T C V T
+1394	Shexian	nurse	奶姆	na³⁵m̩³⁵	n a ³⁵ m̩ ³⁵		398	400	n a - ³⁵ - - m̩ - - ³⁵ - - -	C V T C T
+1396	Beijing	nurse	保姆	pɑw²¹⁴mu²¹⁴	p ɑ w ²¹⁴ m u ²¹⁴		378	383	p ɑ w ²¹⁴ m u - ²¹⁴	C V C T C V T
+1377	Changsha	nurse	保姆	paw⁴¹mo⁴¹	p a w ⁴¹ m o ⁴¹		378	383	p a w ⁴¹ m o - ⁴¹	C V C T C V T
+1390	Chengdu	nurse	保姆	paw⁵³mu⁵³	p a w ⁵³ m u ⁵³		378	383	p a w ⁵³ m u - ⁵³	C V C T C V T
+1387	Guangzhou	nurse	保姆	pow³⁵mow²³	p o w ³⁵ m o w ²³		378	383	p o w ³⁵ m o w ²³	C V C T C V C T
+1378	Guixian	nurse	保姆	pa⁴²mu⁴²	p a ⁴² m u ⁴²		378	383	p a - ⁴² m u - ⁴²	C V T C V T
+1384	Hangzhou	nurse	保姆	pɔ⁵³mu⁵³	p ɔ ⁵³ m u ⁵³		378	383	p ɔ - ⁵³ m u - ⁵³	C V T C V T
+1382	Jinan	nurse	保姆	pɔ⁵⁵mu⁵⁵	p ɔ ⁵⁵ m u ⁵⁵		378	383	p ɔ - ⁵⁵ m u - ⁵⁵	C V T C V T
+1398	Kunming	nurse	保姆	pɔ⁵³mu⁵³	p ɔ ⁵³ m u ⁵³		378	383	p ɔ - ⁵³ m u - ⁵³	C V T C V T
+1375	Meixian	nurse	保姆	paw³¹me⁴⁴	p a w ³¹ m e ⁴⁴		378	383	p a w ³¹ m e - ⁴⁴	C V C T C V T
+1389	Nanchang	nurse	保姆	pɑw²¹³mu²¹³	p ɑ w ²¹³ m u ²¹³		378	383	p ɑ w ²¹³ m u - ²¹³	C V C T C V T
+1400	Shanghai	nurse	保姆	pɔ³⁵mu¹³	p ɔ ³⁵ m u ¹³		378	383	p ɔ - ³⁵ m u - ¹³	C V T C V T
+1393	Taiyuan	nurse	保姆	paw⁵³mu⁵³	p a w ⁵³ m u ⁵³		378	383	p a w ⁵³ m u - ⁵³	C V C T C V T
+1379	Xiamen	nurse	保姆	po⁵³bu	p o ⁵³ b u		378	383	p o - ⁵³ b u - -	C V T C V
+1281	Hefei	old man	老头子	lɔ²⁴tʰɯ⁵⁵ʦə	l ɔ ²⁴ tʰ ɯ ⁵⁵ ts ə		594	548	l ɔ - ²⁴ tʰ ɯ ⁵⁵ ts - ə - -	C V T C V T C V
+1286	Guangzhou	old man	伯父	pak³fu²²	p a k ³ f u ²²		464	452	- - - - - - p a k ³ f u - ²²	C V C T C V T
+1277	Meixian	old man	老阿伯	law³¹a⁴⁴pak¹	l a w ³¹ a ⁴⁴ p a k ¹		464	452	l a w ³¹ a ⁴⁴ p a k ¹ - - - -	C V C T V T C V C T
+1295	Beijing	old man	老头儿	lɑw²¹⁴tʰowr³⁵	l ɑ w ²¹⁴ tʰ o w r ³⁵		1058	49	l ɑ w ²¹⁴ tʰ o w r ³⁵ - - -	C V C T C V C C T
+1288	Chengdu	old man	老头儿	naw⁵³tʰər³¹	n a w ⁵³ tʰ ə r ³¹		1058	49	n a w ⁵³ tʰ ə - r ³¹ - - -	C V C T C V C T
+1284	Hangzhou	old man	老头儿	lɔ⁵³dej²¹³əl²¹³	l ɔ ⁵³ d e j ²¹³ ə l ²¹³		1058	49	l ɔ - ⁵³ d e - j ²¹³ ə l ²¹³	C V T C V C T V C T
+1282	Jinan	old man	老头儿	lɔ⁵⁵tʰowr⁴²	l ɔ ⁵⁵ tʰ o w r ⁴²		1058	49	l ɔ - ⁵⁵ tʰ o w r ⁴² - - -	C V T C V C C T
+1971	Taiyuan	on	脑头	naw⁵³tʰəw¹¹	n a w ⁵³ tʰ ə w ¹¹		932	836	n a w ⁵³ tʰ ə w ¹¹ - - - - -	C V C T C V C T
+1949	Changsha	on	高头	kaw³³təw	k a w ³³ t ə w		1085	73	k a w ³³ t ə w -	C V C T C V C
+1968	Chengdu	on	高头	kaw⁵⁵tʰəw³¹	k a w ⁵⁵ tʰ ə w ³¹		1085	73	k a w ⁵⁵ tʰ ə w ³¹	C V C T C V C T
+1959	Hangzhou	on	高头	kɔ³³dej²¹³	k ɔ ³³ d e j ²¹³		1085	73	k ɔ - ³³ d e j ²¹³	C V T C V C T
+1955	Hefei	on	高头	kɔ²¹tʰɯ	k ɔ ²¹ tʰ ɯ		1085	73	k ɔ - ²¹ tʰ ɯ - -	C V T C V
+1964	Nanchang	on	高头	kɑw⁴²tʰɛw⁰²	k ɑ w ⁴² tʰ ɛ w ⁰²/¹²		1085	73	k ɑ w ⁴² tʰ ɛ w ⁰²/¹²	C V C T C V C T
+1979	Shanghai	on	高头	kɔ⁵³dɤ¹³	k ɔ ⁵³ d ɤ ¹³		1085	73	k ɔ - ⁵³ d ɤ - ¹³	C V T C V T
+1974	Beijing	on	上头	ʂɑŋ⁵¹tʰow¹	ʂ ɑ ŋ ⁵¹ tʰ o w ¹		210	249	ʂ - ɑ ŋ ⁵¹ tʰ - o w ¹	C V C T C V C T
+1950	Changsha	on	上头	ʂan¹¹təw	ʂ a n ¹¹ t ə w		210	249	ʂ - a n ¹¹ t - ə w -	C V C T C V C
+1965	Chengdu	on	上头	saŋ¹³tʰəw³¹	s a ŋ ¹³ tʰ ə w ³¹		210	249	s - a ŋ ¹³ tʰ - ə w ³¹	C V C T C V C T
+1951	Guixian	on	上头	saŋ²¹³tʰəw⁵⁵	s a ŋ ²¹³ tʰ ə w ⁵⁵		210	249	s - a ŋ ²¹³ tʰ - ə w ⁵⁵	C V C T C V C T
+1960	Hangzhou	on	上头	zɑŋ¹³dej²¹³	z ɑ ŋ ¹³ d e j ²¹³		210	249	z - ɑ ŋ ¹³ d - e j ²¹³	C V C T C V C T
+1956	Jinan	on	上头	ʂaŋ²¹tʰow	ʂ a ŋ ²¹ tʰ o w		210	249	ʂ - a ŋ ²¹ tʰ - o w -	C V C T C V C
+1963	Nanchang	on	上头	sɔŋ²¹tʰɛw⁰²	s ɔ ŋ ²¹ tʰ ɛ w ⁰²/¹²		210	249	s - ɔ ŋ ²¹ tʰ - ɛ w ⁰²/¹²	C V C T C V C T
+1978	Shanghai	on	上头	zɑ̃¹³dɤ¹³	z ɑ̃ ¹³ d ɤ ¹³		210	249	z - ɑ̃ - ¹³ d - ɤ - ¹³	C V T C V T
+1973	Shexian	on	上头	ɕja²²tʰju⁴⁴	ɕ j a ²² tʰ j u ⁴⁴		210	249	ɕ j a - ²² tʰ j u - ⁴⁴	C C V T C C V T
+1972	Taiyuan	on	上头	sɒ̃⁴⁵tʰəw⁵³	s ɒ̃ ⁴⁵ tʰ ə w ⁵³		210	249	s - ɒ̃ - ⁴⁵ tʰ - ə w ⁵³	C V T C V C T
+1969	Chengdu	on	高上	kaw⁵⁵saŋ¹³	k a w ⁵⁵ s a ŋ ¹³		179	222	k a w ⁵⁵ s a ŋ ¹³	C V C T C V C T
+1962	Guangzhou	on	上高	sœŋ²²kow⁵⁵	s œ ŋ ²² k o w ⁵⁵		179	222	s œ ŋ ²² k o w ⁵⁵	C V C T C V C T
+1952	Guixian	on	高上	ka⁵⁵saŋ²¹³	k a ⁵⁵ s a ŋ ²¹³		179	222	k a - ⁵⁵ s a ŋ ²¹³	C V T C V C T
+1975	Beijing	on	上边儿	ʂɑŋ⁵¹pjar¹	ʂ ɑ ŋ ⁵¹ p j a r ¹		124	181	ʂ ɑ ŋ ⁵¹ p j a r ¹	C V C T C C V C T
+1966	Chengdu	on	上边	saŋ¹³pjan⁵⁵	s a ŋ ¹³ p j a n ⁵⁵		124	181	s a ŋ ¹³ p j a n ⁵⁵	C V C T C C V C T
+1957	Jinan	on	上边儿	ʂaŋ²¹pjɛr	ʂ a ŋ ²¹ p j ɛ r		124	181	ʂ a ŋ ²¹ p j ɛ r -	C V C T C C V C
+2570	Beijing	on purpose	故意	ku⁵¹i⁵¹	k u ⁵¹ i ⁵¹		59	545	- - - - - - - - k u ⁵¹ - i ⁵¹	C V T V T
+2551	Changsha	on purpose	故意	ku⁵⁵i⁵⁵	k u ⁵⁵ i ⁵⁵		59	545	- - - - - - - - k u ⁵⁵ - i ⁵⁵	C V T V T
+2554	Guixian	on purpose	刁意	tjaoiao⁵⁵i²¹³	t j a o i a o ⁵⁵ i ²¹³		59	545	t j a o i a o ⁵⁵ - - - - i ²¹³	C C V V V V V T V T
+2557	Hefei	on purpose	故意	ku⁵³zɿ	k u ⁵³ z ɿ		59	545	- - - - - - - - k u ⁵³ z ɿ -	C V T C V
+2572	Kunming	on purpose	故意	ku²¹²i²¹²	k u ²¹² i ²¹²		59	545	- - - - - - - - k u ²¹² - i ²¹²	C V T V T
+2549	Meixian	on purpose	故意	ku⁵³i⁵³	k u ⁵³ i ⁵³		59	545	- - - - - - - - k u ⁵³ - i ⁵³	C V T V T
+2567	Taiyuan	on purpose	故意	ku⁴⁵i⁴⁵	k u ⁴⁵ i ⁴⁵		59	545	- - - - - - - - k u ⁴⁵ - i ⁴⁵	C V T V T
+2555	Xiamen	on purpose	刁故意	tʰjawiau⁵⁵kɔ²¹i²¹	tʰ j a w i a u ⁵⁵ k ɔ ²¹ i ²¹		59	545	tʰ j a w i a u ⁵⁵ k ɔ ²¹ - i ²¹	C C V C V V V T C V T V T
+2550	Meixian	on purpose	有意	ju⁴⁴i⁵³	j u ⁴⁴ i ⁵³		808	723	- j u ⁴⁴ i ⁵³	C V T V T
+2573	Shanghai	on purpose	有意	ɦjɤ¹³i⁵³	ɦ j ɤ ¹³ i ⁵³		808	723	ɦ j ɤ ¹³ i ⁵³	C C V T V T
+2569	Shexian	on purpose	有意	ju³⁵i³²⁴	j u ³⁵ i ³²⁴		808	723	- j u ³⁵ i ³²⁴	C V T V T
+2588	Beijing	one	一	i⁵⁵	i ⁵⁵		637	584	- - i - ⁵⁵	V T
+2577	Changsha	one	一	i²⁴	i ²⁴		637	584	- - i - ²⁴	V T
+2585	Chengdu	one	一	i³¹	i ³¹		637	584	- - i - ³¹	V T
+2583	Guangzhou	one	一	jɐt⁵	j ɐ t ⁵		637	584	- j ɐ t ⁵	C V C T
+2578	Guixian	one	一	i²¹	i ²¹		637	584	- - i - ²¹	V T
+2582	Hangzhou	one	一	ʔjəʔ⁵	ʔ j ə ʔ ⁵		637	584	ʔ j ə ʔ ⁵	C C V C T
+2580	Hefei	one	一	jəʔ⁵	j ə ʔ ⁵		637	584	- j ə ʔ ⁵	C V C T
+2581	Jinan	one	一	i²¹³	i ²¹³		637	584	- - i - ²¹³	V T
+2589	Kunming	one	一	i³¹	i ³¹		637	584	- - i - ³¹	V T
+2576	Meixian	one	一	it¹	i t ¹		637	584	- - i t ¹	V C T
+2584	Nanchang	one	一	iʔ⁵	i ʔ ⁵		637	584	- - i ʔ ⁵	V C T
+2590	Shanghai	one	一	jɪʔ	j ɪ ʔ		637	584	- j ɪ ʔ -	C V C
+2587	Shexian	one	一	iʔ²¹	i ʔ ²¹		637	584	- - i ʔ ²¹	V C T
+2586	Taiyuan	one	一	jəʔ²	j ə ʔ ²		637	584	- j ə ʔ ²	C V C T
+2579	Xiamen	one	一	it³²	i t ³²		637	584	- - i t ³²	V C T
+1944	Guangzhou	one time	打一下	ha²³	h a ²³		655	600	h - a - ²³ - - - - -	C V T
+1945	Taiyuan	one time	打一下	xa⁴⁵	x a ⁴⁵		655	600	x - a - ⁴⁵ - - - - -	C V T
+2491	Beijing	only	只	t͡ʂʅ²¹⁴	ʈʂ ʅ ²¹⁴		597	551	ʈʂ ʅ - ²¹⁴	C V T
+2476	Changsha	only	只	t͡ʂʅ⁴¹	ʈʂ ʅ ⁴¹		597	551	ʈʂ ʅ - ⁴¹	C V T
+2487	Chengdu	only	只	ʦɿ⁵³	ts ɿ ⁵³		597	551	ts ɿ - ⁵³	C V T
+2485	Guangzhou	only	只	ʦi³⁵	ts i ³⁵		597	551	ts i - ³⁵	C V T
+2477	Guixian	only	只	ʦɿ⁴²	ts ɿ ⁴²		597	551	ts ɿ - ⁴²	C V T
+2483	Hangzhou	only	只	ʦəʔ⁵	ts ə ʔ ⁵		597	551	ts ə ʔ ⁵	C V C T
+2481	Hefei	only	只	t͡ʂəʔ⁵	ʈʂ ə ʔ ⁵		597	551	ʈʂ ə ʔ ⁵	C V C T
+2482	Jinan	only	只	t͡ʂʅ⁴²	ʈʂ ʅ ⁴²		597	551	ʈʂ ʅ - ⁴²	C V T
+2492	Kunming	only	只	t͡ʂʅ⁵³	ʈʂ ʅ ⁵³		597	551	ʈʂ ʅ - ⁵³	C V T
+2475	Meixian	only	只	ʦak¹	ts a k ¹		597	551	ts a k ¹	C V C T
+2486	Nanchang	only	只	ʦɨʔ⁵	ts ɨ ʔ ⁵		597	551	ts ɨ ʔ ⁵	C V C T
+2493	Shanghai	only	只	ʦəʔ⁵	ts ə ʔ ⁵		597	551	ts ə ʔ ⁵	C V C T
+2490	Shexian	only	只	ʨiʔ²¹	tɕ i ʔ ²¹		597	551	tɕ i ʔ ²¹	C V C T
+2480	Xiamen	only	只	ʦi⁵³	ts i ⁵³		597	551	ts i - ⁵³	C V T
+2126	Beijing	outside	外头	wajuai⁵¹tʰow	w a j u a i ⁵¹ tʰ o w		283	304	- w a j u a i ⁵¹ tʰ - o w -	C V C V V V T C V C
+2107	Changsha	outside	外头	wajuai¹¹təw	w a j u a i ¹¹ t ə w		283	304	- w a j u a i ¹¹ t - ə w -	C V C V V V T C V C
+2123	Chengdu	outside	外头	wajuai¹³tʰəw³¹	w a j u a i ¹³ tʰ ə w ³¹		283	304	- w a j u a i ¹³ tʰ - ə w ³¹	C V C V V V T C V C T
+2109	Guixian	outside	外头	wajuai²¹³tʰəw⁵⁵	w a j u a i ²¹³ tʰ ə w ⁵⁵		283	304	- w a j u a i ²¹³ tʰ - ə w ⁵⁵	C V C V V V T C V C T
+2116	Hangzhou	outside	外头	ɦwᴇ¹³dej²¹³	ɦ w ᴇ/e̞ ¹³ d e j ²¹³		283	304	ɦ w ᴇ/e̞ - - - - ¹³ d - e j ²¹³	C C V T C V C T
+2112	Hefei	outside	外头	wᴇ⁵³tʰɯ	w ᴇ/e̞ ⁵³ tʰ ɯ		283	304	- w ᴇ/e̞ - - - - ⁵³ tʰ - ɯ - -	C V T C V
+2113	Jinan	outside	外头	vɛ²¹tʰow	v ɛ ²¹ tʰ o w		283	304	- v ɛ - - - - ²¹ tʰ - o w -	C V T C V C
+2119	Nanchang	outside	外头	wajuai²¹tʰɛw⁰²	w a j u a i ²¹ tʰ ɛ w ⁰²/¹²		283	304	- w a j u a i ²¹ tʰ - ɛ w ⁰²/¹²	C V C V V V T C V C T
+2131	Shanghai	outside	外头	ŋa¹³dɤ¹³	ŋ a ¹³ d ɤ ¹³		283	304	- ŋ a - - - - ¹³ d - ɤ - ¹³	C V T C V T
+2125	Shexian	outside	外头	wɛ²²tʰju⁴⁴	w ɛ ²² tʰ j u ⁴⁴		283	304	- w ɛ - - - - ²² tʰ j u - ⁴⁴	C V T C C V T
+2124	Taiyuan	outside	外头	vaj⁴⁵tʰəw⁵³	v a j ⁴⁵ tʰ ə w ⁵³		283	304	- v a j - - - ⁴⁵ tʰ - ə w ⁵³	C V C T C V C T
+2127	Beijing	outside	外面儿	wajuai⁵¹mjan¹	w a j u a i ⁵¹ m j a n ¹		658	601	- w a j u a i ⁵¹ m j a n ¹	C V C V V V T C C V C T
+2108	Changsha	outside	外面	wajuai¹¹mjẽ	w a j u a i ¹¹ m j ẽ		658	601	- w a j u a i ¹¹ m j ẽ - -	C V C V V V T C C V
+2121	Chengdu	outside	外面	wajuai¹³mjan¹³	w a j u a i ¹³ m j a n ¹³		658	601	- w a j u a i ¹³ m j a n ¹³	C V C V V V T C C V C T
+2115	Jinan	outside	外面	vɛ²¹mjã	v ɛ ²¹ m j ã		658	601	- v ɛ - - - - ²¹ m j ã - -	C V T C C V
+2130	Shanghai	outside	外面	ŋa¹³mi¹³	ŋ a ¹³ m i ¹³		658	601	- ŋ a - - - - ¹³ m - i - ¹³	C V T C V T
+2111	Xiamen	outside	外面	gwa²²bin²²	g w a ²² b i n ²²		658	601	g w a - - - - ²² b - i n ²²	C C V T C V C T
+2128	Beijing	outside	外边儿	wajuai⁵¹pjar¹	w a j u a i ⁵¹ p j a r ¹		341	349	w a j u a i ⁵¹ p j a r ¹	C V C V V V T C C V C T
+2122	Chengdu	outside	外边	wajuai¹³pjan⁵⁵	w a j u a i ¹³ p j a n ⁵⁵		341	349	w a j u a i ¹³ p j a n ⁵⁵	C V C V V V T C C V C T
+2114	Jinan	outside	外边儿	vɛ²¹pjɛr	v ɛ ²¹ p j ɛ r		341	349	v ɛ - - - - ²¹ p j ɛ r -	C V T C C V C
+361	Beijing	pig	猪	t͡ʂu⁵⁵	ʈʂ u ⁵⁵		558	523	ʈʂ u ⁵⁵	C V T
+349	Changsha	pig	猪	ʨy³³	tɕ y ³³		558	523	tɕ y ³³	C V T
+358	Chengdu	pig	猪	ʦu⁵⁵	ts u ⁵⁵		558	523	ts u ⁵⁵	C V T
+356	Guangzhou	pig	猪	ʦy⁵⁵	ts y ⁵⁵		558	523	ts y ⁵⁵	C V T
+350	Guixian	pig	猪	ʦu⁵⁵	ts u ⁵⁵		558	523	ts u ⁵⁵	C V T
+354	Hangzhou	pig	猪	ʦy³³	ts y ³³		558	523	ts y ³³	C V T
+352	Hefei	pig	猪	t͡ʂu²¹	ʈʂ u ²¹		558	523	ʈʂ u ²¹	C V T
+353	Jinan	pig	猪	t͡ʂu²¹³	ʈʂ u ²¹³		558	523	ʈʂ u ²¹³	C V T
+362	Kunming	pig	猪	t͡ʂu⁴⁴	ʈʂ u ⁴⁴		558	523	ʈʂ u ⁴⁴	C V T
+357	Nanchang	pig	猪	ʨy⁴²	tɕ y ⁴²		558	523	tɕ y ⁴²	C V T
+360	Shexian	pig	猪	ʨy³¹	tɕ y ³¹		558	523	tɕ y ³¹	C V T
+359	Taiyuan	pig	猪	ʦu¹¹	ts u ¹¹		558	523	ts u ¹¹	C V T
+351	Xiamen	pig	猪	ti⁵⁵	t i ⁵⁵		558	523	t i ⁵⁵	C V T
+104	Changsha	rain	落雨	lo²⁴y⁴¹	l o ²⁴ y ⁴¹		1162	143	l o - ²⁴ - y ⁴¹	C V T V T
+114	Chengdu	rain	落雨	no³¹y⁵³	n o ³¹ y ⁵³		1162	143	n o - ³¹ - y ⁵³	C V T V T
+111	Guangzhou	rain	落雨	lɔk²jy²³	l ɔ k ² j y ²³		1162	143	l ɔ k ² j y ²³	C V C T C V T
+106	Guixian	rain	落雨	lo²¹i⁴²	l o ²¹ i ⁴²		1162	143	l o - ²¹ - i ⁴²	C V T V T
+110	Hangzhou	rain	落雨	loʔ²y⁵³	l o ʔ ² y ⁵³		1162	143	l o ʔ ² - y ⁵³	C V C T V T
+103	Meixian	rain	落雨	lok⁵i³¹	l o k ⁵ i ³¹		1162	143	l o k ⁵ - i ³¹	C V C T V T
+112	Nanchang	rain	落雨	lɔʔ²y²¹³	l ɔ ʔ ² y ²¹³		1162	143	l ɔ ʔ ² - y ²¹³	C V C T V T
+119	Shanghai	rain	落雨	loʔ¹ɦy²³	l o ʔ ¹ ɦ y ²³		1162	143	l o ʔ ¹ ɦ y ²³	C V C T C V T
+116	Shexian	rain	落雨	lɔ²²y³⁵	l ɔ ²² y ³⁵		1162	143	l ɔ - ²² - y ³⁵	C V T V T
+107	Xiamen	rain	落雨	loʔ⁵hɔ²²	l o ʔ ⁵ h ɔ ²²		1162	143	l o ʔ ⁵ h ɔ ²²	C V C T C V T
+117	Beijing	rain	下雨	ɕja⁵¹y²¹⁴	ɕ j a ⁵¹ y ²¹⁴		140	192	ɕ j a ⁵¹ - y ²¹⁴	C C V T V T
+113	Chengdu	rain	下雨	ɕja¹³y⁵³	ɕ j a ¹³ y ⁵³		140	192	ɕ j a ¹³ - y ⁵³	C C V T V T
+105	Guixian	rain	下雨	ɕja²¹³i⁴²	ɕ j a ²¹³ i ⁴²		140	192	ɕ j a ²¹³ - i ⁴²	C C V T V T
+108	Hefei	rain	下雨	ɕja⁵³zy²⁴	ɕ j a ⁵³ z y ²⁴		140	192	ɕ j a ⁵³ z y ²⁴	C C V T C V T
+109	Jinan	rain	下雨	ɕja²¹y⁵⁵	ɕ j a ²¹ y ⁵⁵		140	192	ɕ j a ²¹ - y ⁵⁵	C C V T V T
+118	Kunming	rain	下雨	ɕjᴀ²¹²i⁵³	ɕ j ᴀ/a̱ ²¹² i ⁵³		140	192	ɕ j ᴀ/a̱ ²¹² - i ⁵³	C C V T V T
+115	Taiyuan	rain	下雨	xa⁴⁵y⁵³	x a ⁴⁵ y ⁵³		140	192	x - a ⁴⁵ - y ⁵³	C V T V T
+216	Beijing	rainbow	虹	ʨjɑŋ⁵¹	tɕ j ɑ ŋ ⁵¹		855	765	tɕ j ɑ ŋ ⁵¹	C C V C T
+202	Changsha	rainbow	虹	kan⁵⁵	k a n ⁵⁵		855	765	k - a n ⁵⁵	C V C T
+210	Chengdu	rainbow	虹	xoŋ³¹	x o ŋ ³¹		855	765	x - o ŋ ³¹	C V C T
+208	Guangzhou	rainbow	虹	hoŋ²¹	h o ŋ ²¹		855	765	h - o ŋ ²¹	C V C T
+203	Guixian	rainbow	虹	kaŋ²¹³	k a ŋ ²¹³		855	765	k - a ŋ ²¹³	C V C T
+205	Hefei	rainbow	虹	ʨjɑ̃⁵³	tɕ j ɑ̃ ⁵³		855	765	tɕ j ɑ̃ - ⁵³	C C V T
+206	Jinan	rainbow	虹	ʨjaŋ²¹	tɕ j a ŋ ²¹		855	765	tɕ j a ŋ ²¹	C C V C T
+217	Kunming	rainbow	虹	kᴀ̃²¹²	k ᴀ̃/ã̱ ²¹²		855	765	k - ᴀ̃/ã̱ - ²¹²	C V T
+209	Nanchang	rainbow	虹	kɔŋ⁴⁵	k ɔ ŋ ⁴⁵		855	765	k - ɔ ŋ ⁴⁵	C V C T
+214	Shexian	rainbow	虹	ka³²⁴	k a ³²⁴		855	765	k - a - ³²⁴	C V T
+213	Taiyuan	rainbow	虹	ʨjɒ̃⁵³	tɕ j ɒ̃ ⁵³		855	765	tɕ j ɒ̃ - ⁵³	C C V T
+204	Xiamen	rainbow	虹	kʰiŋ²²	kʰ i ŋ ²²		855	765	kʰ - i ŋ ²²	C V C T
+211	Chengdu	rainbow	彩虹	ʦʰaj⁵³xoŋ³¹	tsʰ a j ⁵³ x o ŋ ³¹		796	714	tsʰ a j ⁵³ x o ŋ ³¹	C V C T C V C T
+219	Shanghai	rainbow	彩虹	ʦʰe³⁵ɦoŋ¹³	tsʰ e ³⁵ ɦ o ŋ ¹³		796	714	tsʰ e - ³⁵ ɦ o ŋ ¹³	C V T C V C T
+215	Shexian	rainbow	彩虹	ʦʰɛ³⁵ka³²⁴	tsʰ ɛ ³⁵ k a ³²⁴		796	714	tsʰ ɛ - ³⁵ k a - ³²⁴	C V T C V T
+2041	Hangzhou	right	右边	ɦjø¹³pjᴇ̃³³	ɦ j ø ¹³ p j ᴇ̃/ẽ̞ ³³		181	224	ɦ j ø - - - - ¹³ p j ᴇ̃/ẽ̞ - ³³	C C V T C C V T
+2037	Xiamen	right	正爿	ʦjã²¹piŋ	ts j ã ²¹ p i ŋ		36	367	- - - ts j ã - ²¹ - - - - p i ŋ - -	C C V T C V C
+2047	Chengdu	right	右面	jəwiəu¹³mjan¹³	j ə w i əu ¹³ m j a n ¹³		443	434	- j ə w i əu ¹³ m j a n ¹³	C V C V V T C C V C T
+2054	Shanghai	right	右面	ɦjɤ¹³mi¹³	ɦ j ɤ ¹³ m i ¹³		443	434	ɦ j ɤ - - - ¹³ m - i - ¹³	C C V T C V T
+2049	Taiyuan	right	右面儿	jəwiəu⁴⁵mjar⁵³	j ə w i əu ⁴⁵ m j a r ⁵³		443	434	- j ə w i əu ⁴⁵ m j a r ⁵³	C V C V V T C C V C T
+726	Beijing	right hand	右手	jowiou⁵¹ʂow²¹⁴	j o w i/j o u ⁵¹ ʂ o w ²¹⁴		181	224	- j o w i/j o u ⁵¹ ʂ - o w ²¹⁴	C V C V V V T C V C T
+711	Changsha	right hand	右手	jəwiəu¹¹ʂəw⁴¹	j ə w i əu ¹¹ ʂ ə w ⁴¹		181	224	- j ə w - i əu ¹¹ ʂ - ə w ⁴¹	C V C V V T C V C T
+722	Chengdu	right hand	右手	jəwiəu¹³səw⁵³	j ə w i əu ¹³ s ə w ⁵³		181	224	- j ə w - i əu ¹³ s - ə w ⁵³	C V C V V T C V C T
+720	Guangzhou	right hand	右手	jɐw²²sɐw³⁵	j ɐ w ²² s ɐ w ³⁵		181	224	- j ɐ w - - - ²² s - ɐ w ³⁵	C V C T C V C T
+712	Guixian	right hand	右手	jəwiəu²¹³səw⁴²	j ə w i əu ²¹³ s ə w ⁴²		181	224	- j ə w - i əu ²¹³ s - ə w ⁴²	C V C V V T C V C T
+716	Hefei	right hand	右手	jɯ⁵³ʂɯ²⁴	j ɯ ⁵³ ʂ ɯ ²⁴		181	224	- j ɯ - - - - ⁵³ ʂ - ɯ - ²⁴	C V T C V T
+717	Jinan	right hand	右手	jowiou²¹ʂow⁵⁵	j o w i/j o u ²¹ ʂ o w ⁵⁵		181	224	- j o w i/j o u ²¹ ʂ - o w ⁵⁵	C V C V V V T C V C T
+727	Kunming	right hand	右手	jəwiəu²¹²ʂəw⁵³	j ə w i əu ²¹² ʂ ə w ⁵³		181	224	- j ə w - i əu ²¹² ʂ - ə w ⁵³	C V C V V T C V C T
+710	Meixian	right hand	右手	ju⁵³su³¹	j u ⁵³ s u ³¹		181	224	- j u - - - - ⁵³ s - u - ³¹	C V T C V T
+721	Nanchang	right hand	右手	ju²¹sɨw²¹³	j u ²¹ s ɨ w ²¹³		181	224	- j u - - - - ²¹ s - ɨ w ²¹³	C V T C V C T
+728	Shanghai	right hand	右手	ɦjɤ¹³sɤ³⁵	ɦ j ɤ ¹³ s ɤ ³⁵		181	224	ɦ j ɤ - - - - ¹³ s - ɤ - ³⁵	C C V T C V T
+724	Taiyuan	right hand	右手	jəwiəu⁴⁵səw⁵³	j ə w i əu ⁴⁵ s ə w ⁵³		181	224	- j ə w - i əu ⁴⁵ s - ə w ⁵³	C V C V V T C V C T
+714	Xiamen	right hand	右手	ju²²ʦʰju⁵³	j u ²² tsʰ j u ⁵³		181	224	- j u - - - - ²² tsʰ j u - ⁵³	C V T C C V T
+713	Guixian	right hand	正手	ʦen²¹³səw⁴²	ts e n ²¹³ s ə w ⁴²		564	528	ts - e n ²¹³ s - ə w ⁴²	C V C T C V C T
+723	Taiyuan	right hand	正手	ʦəŋ⁴⁵səw⁵³	ts ə ŋ ⁴⁵ s ə w ⁵³		564	528	ts - ə ŋ ⁴⁵ s - ə w ⁵³	C V C T C V C T
+715	Xiamen	right hand	正手	ʦjã²¹ʦʰju	ts j ã ²¹ tsʰ j u		564	528	ts j ã - ²¹ tsʰ j u - -	C C V T C C V
+719	Hangzhou	right hand	大手	dɑ¹³sej⁵³	d ɑ ¹³ s e j ⁵³		35	356	d ɑ ¹³ s e j ⁵³	C V T C V C T
+379	Beijing	rooster	公鸡	kuŋ⁵⁵ʨi⁵⁵	k u ŋ ⁵⁵ tɕ i ⁵⁵		412	411	k - - - - u ŋ ⁵⁵ - - - tɕ - i - ⁵⁵	C V C T C V T
+365	Changsha	rooster	叫鸡公	ʨjawiau⁵⁵ʨi³³koŋ³³	tɕ j a w i a u ⁵⁵ tɕ i ³³ k o ŋ ³³		412	411	tɕ j a w i a u ⁵⁵ tɕ i ³³ k - o ŋ ³³	C C V C V V V T C V T C V C T
+375	Chengdu	rooster	鸡公	ʨi⁵⁵koŋ⁵⁵	tɕ i ⁵⁵ k o ŋ ⁵⁵		412	411	tɕ - - - - i - ⁵⁵ - - - k - o ŋ ⁵⁵	C V T C V C T
+372	Guangzhou	rooster	鸡公	kɐj⁵⁵koŋ⁵⁵	k ɐ j ⁵⁵ k o ŋ ⁵⁵		412	411	k - - - - ɐ j ⁵⁵ - - - k - o ŋ ⁵⁵	C V C T C V C T
+366	Guixian	rooster	公鸡	koŋ⁵⁵ʨi⁵⁵	k o ŋ ⁵⁵ tɕ i ⁵⁵		412	411	k - - - - o ŋ ⁵⁵ - - - tɕ - i - ⁵⁵	C V C T C V T
+368	Hefei	rooster	公鸡	kəŋ²¹ʦɿ²¹	k ə ŋ ²¹ ts ɿ ²¹		412	411	k - - - - ə ŋ ²¹ - - - ts - ɿ - ²¹	C V C T C V T
+369	Jinan	rooster	公鸡	kuŋ²¹³ʨi	k u ŋ ²¹³ tɕ i		412	411	k - - - - u ŋ ²¹³ - - - tɕ - i - -	C V C T C V
+380	Kunming	rooster	公鸡	koŋ⁴⁴ʨi⁴⁴	k o ŋ ⁴⁴ tɕ i ⁴⁴		412	411	k - - - - o ŋ ⁴⁴ - - - tɕ - i - ⁴⁴	C V C T C V T
+364	Meixian	rooster	鸡公	ke⁴⁴kuŋ⁴⁴	k e ⁴⁴ k u ŋ ⁴⁴		412	411	k - - - - e - ⁴⁴ - - - k - u ŋ ⁴⁴	C V T C V C T
+374	Nanchang	rooster	鸡公	ʨi⁴²kuŋ⁴²	tɕ i ⁴² k u ŋ ⁴²		412	411	tɕ - - - - i - ⁴² - - - k - u ŋ ⁴²	C V T C V C T
+382	Shanghai	rooster	公鸡	koŋ⁵³ʨi⁵³	k o ŋ ⁵³ tɕ i ⁵³		412	411	k - - - - o ŋ ⁵³ - - - tɕ - i - ⁵³	C V C T C V T
+378	Shexian	rooster	鸡公	ʨi³¹kwʌ̃³¹	tɕ i ³¹ k w ʌ̃ ³¹		412	411	tɕ - - - - i - ³¹ - - - k w ʌ̃ - ³¹	C V T C C V T
+377	Taiyuan	rooster	公鸡	kwəŋ¹¹ʨi¹¹	k w ə ŋ ¹¹ tɕ i ¹¹		412	411	k - - w - ə ŋ ¹¹ - - - tɕ - i - ¹¹	C C V C T C V T
+376	Chengdu	rooster	雄鸡	ɕɥoŋ³¹ʨi⁵⁵	ɕ ɥ o ŋ ³¹ tɕ i ⁵⁵		903	811	ɕ ɥ o ŋ ³¹ tɕ i ⁵⁵	C C V C T C V T
+370	Hangzhou	rooster	雄鸡	ɦjoŋ²¹³ʨi³³	ɦ j o ŋ ²¹³ tɕ i ³³		903	811	ɦ j o ŋ ²¹³ tɕ i ³³	C C V C T C V T
+381	Shanghai	rooster	雄鸡	ɦjoŋ¹³ʨi⁵³	ɦ j o ŋ ¹³ tɕ i ⁵³		903	811	ɦ j o ŋ ¹³ tɕ i ⁵³	C C V C T C V T
+1120	Beijing	salt	盐	jan³⁵	j a n ³⁵		669	611	- j a n ³⁵	C V C T
+1103	Changsha	salt	盐	jẽ¹³	j ẽ ¹³		669	611	- j ẽ - ¹³	C V T
+1112	Chengdu	salt	盐	jan³¹	j a n ³¹		669	611	- j a n ³¹	C V C T
+1110	Guangzhou	salt	盐	jim²¹	j i m ²¹		669	611	- j i m ²¹	C V C T
+1109	Hangzhou	salt	盐	ɦjᴇ̃²¹³	ɦ j ᴇ̃/ẽ̞ ²¹³		669	611	ɦ j ᴇ̃/ẽ̞ - ²¹³	C C V T
+1106	Hefei	salt	盐	jɪ̃⁵⁵	j ɪ̃ ⁵⁵		669	611	- j ɪ̃ - ⁵⁵	C V T
+1107	Jinan	salt	盐	jã⁴²	j ã ⁴²		669	611	- j ã - ⁴²	C V T
+1102	Meixian	salt	盐	jam¹¹	j a m ¹¹		669	611	- j a m ¹¹	C V C T
+1111	Nanchang	salt	盐	jɛn⁴⁵	j ɛ n ⁴⁵		669	611	- j ɛ n ⁴⁵	C V C T
+1122	Shanghai	salt	盐	ɦi¹³	ɦ i ¹³		669	611	ɦ - i - ¹³	C V T
+1105	Xiamen	salt	盐	jam³⁵	j a m ³⁵		669	611	- j a m ³⁵	C V C T
+1113	Chengdu	salt	盐巴	jan³¹pa⁵⁵	j a n ³¹ p a ⁵⁵		1132	116	j a n ³¹ p a ⁵⁵	C V C T C V T
+1104	Guixian	salt	盐巴	jan²¹pa⁵⁵	j a n ²¹ p a ⁵⁵		1132	116	j a n ²¹ p a ⁵⁵	C V C T C V T
+1121	Kunming	salt	盐巴	jɛ̃³¹pᴀ⁴⁴	j ɛ̃ ³¹ p ᴀ/a̱ ⁴⁴		1132	116	j ɛ̃ - ³¹ p ᴀ/a̱ ⁴⁴	C V T C V T
+1108	Jinan	salt	咸盐	ɕjã⁴²jã⁴²	ɕ j ã ⁴² j ã ⁴²		936	840	ɕ j ã ⁴² j ã ⁴²	C C V T C V T
+1118	Shexian	salt	咸盐	xɛ⁴⁴je⁴⁴	x ɛ ⁴⁴ j e ⁴⁴		936	840	x - ɛ ⁴⁴ j e ⁴⁴	C V T C V T
+1114	Taiyuan	salt	咸盐	ɕje¹¹je¹¹	ɕ j e ¹¹ j e ¹¹		936	840	ɕ j e ¹¹ j e ¹¹	C C V T C V T
+2174	Beijing	salty	咸	ɕjan³⁵	ɕ j a n ³⁵		38	385	ɕ j a n ³⁵	C C V C T
+2163	Changsha	salty	咸	xan¹³	x a n ¹³		38	385	x - a n ¹³	C V C T
+2171	Chengdu	salty	咸	xan³¹	x a n ³¹		38	385	x - a n ³¹	C V C T
+2169	Guangzhou	salty	咸	ham²¹	h a m ²¹		38	385	h - a m ²¹	C V C T
+2164	Guixian	salty	咸	ɕjan²¹	ɕ j a n ²¹		38	385	ɕ j a n ²¹	C C V C T
+2168	Hangzhou	salty	咸	ɦjᴇ̃²¹³	ɦ j ᴇ̃/ẽ̞ ²¹³		38	385	ɦ j ᴇ̃/ẽ̞ - ²¹³	C C V T
+2166	Hefei	salty	咸	ɕjɪ̃⁵⁵	ɕ j ɪ̃ ⁵⁵		38	385	ɕ j ɪ̃ - ⁵⁵	C C V T
+2167	Jinan	salty	咸	ɕjã⁴²	ɕ j ã ⁴²		38	385	ɕ j ã - ⁴²	C C V T
+2175	Kunming	salty	咸	ɕjɛ̃³¹	ɕ j ɛ̃ ³¹		38	385	ɕ j ɛ̃ - ³¹	C C V T
+2162	Meixian	salty	咸	ham¹¹	h a m ¹¹		38	385	h - a m ¹¹	C V C T
+2170	Nanchang	salty	咸	han²⁴	h a n ²⁴		38	385	h - a n ²⁴	C V C T
+2176	Shanghai	salty	咸	ɦe¹³	ɦ e ¹³		38	385	ɦ - e - ¹³	C V T
+2173	Shexian	salty	咸	xɛ⁴⁴	x ɛ ⁴⁴		38	385	x - ɛ - ⁴⁴	C V T
+2172	Taiyuan	salty	咸	ɕje¹¹	ɕ j e ¹¹		38	385	ɕ j e - ¹¹	C C V T
+2165	Xiamen	salty	咸	kjam³⁵	k j a m ³⁵		38	385	k j a m ³⁵	C C V C T
+2772	Beijing	second	第二	ti⁵¹ər⁵¹	t i ⁵¹ ə r ⁵¹		753	683	t i - ⁵¹ - ə r ⁵¹	C V T V C T
+2763	Changsha	second	第二	ti¹¹ə¹¹	t i ¹¹ ə ¹¹		753	683	t i - ¹¹ - ə - ¹¹	C V T V T
+2769	Chengdu	second	第二	ti¹³ər¹³	t i ¹³ ə r ¹³		753	683	t i - ¹³ - ə r ¹³	C V T V C T
+2767	Guangzhou	second	第二	tɐj²²ji²²	t ɐ j ²² j i ²²		753	683	t ɐ j ²² j i - ²²	C V C T C V T
+2764	Guixian	second	第二	ti²¹³ɚ²¹³	t i ²¹³ ɚ ²¹³		753	683	t i - ²¹³ - ɚ - ²¹³	C V T V T
+2766	Hangzhou	second	第二	di¹³əl⁴⁴⁵	d i ¹³ ə l ⁴⁴⁵		753	683	d i - ¹³ - ə l ⁴⁴⁵	C V T V C T
+2765	Jinan	second	第二	ti²¹ər²¹	t i ²¹ ə r ²¹		753	683	t i - ²¹ - ə r ²¹	C V T V C T
+2773	Kunming	second	第二	ti²¹²ə²¹²	t i ²¹² ə ²¹²		753	683	t i - ²¹² - ə - ²¹²	C V T V T
+2762	Meixian	second	第二	tʰi⁵³ŋi⁵³	tʰ i ⁵³ ŋ i ⁵³		753	683	tʰ i - ⁵³ ŋ i - ⁵³	C V T C V T
+2768	Nanchang	second	第二	tʰi²¹ɵ²¹	tʰ i ²¹ ɵ ²¹		753	683	tʰ i - ²¹ - ɵ - ²¹	C V T V T
+2774	Shanghai	second	第二	di¹³ȵi¹³	d i ¹³ ɲ i ¹³		753	683	d i - ¹³ ɲ i - ¹³	C V T C V T
+2771	Shexian	second	第二	tʰi²²ɛ²²	tʰ i ²² ɛ ²²		753	683	tʰ i - ²² - ɛ - ²²	C V T V T
+2770	Taiyuan	second	第二	ti⁴⁵ər⁴⁵	t i ⁴⁵ ə r ⁴⁵		753	683	t i - ⁴⁵ - ə r ⁴⁵	C V T V C T
+1620	Changsha	self	自家	ʦɿ¹¹ka	ts ɿ ¹¹ k a		727	659	ts ɿ ¹¹ k - a -	C V T C V
+1631	Chengdu	self	自家	ʦɿ¹³ʨja⁵⁵	ts ɿ ¹³ tɕ j a ⁵⁵		727	659	ts ɿ ¹³ tɕ j a ⁵⁵	C V T C C V T
+1622	Guixian	self	自家	ʦɿ²¹³ʨja⁵⁵	ts ɿ ²¹³ tɕ j a ⁵⁵		727	659	ts ɿ ²¹³ tɕ j a ⁵⁵	C V T C C V T
+1628	Hangzhou	self	自家	ʣɿ¹³ʨjɑ³³	dz ɿ ¹³ tɕ j ɑ ³³		727	659	dz ɿ ¹³ tɕ j ɑ ³³	C V T C C V T
+1626	Jinan	self	自家	ʦɿ⁴²ʨja	ts ɿ ⁴² tɕ j a		727	659	ts ɿ ⁴² tɕ j a -	C V T C C V
+1619	Meixian	self	自家	ʦʰɿ⁵³ka⁴⁴	tsʰ ɿ ⁵³ k a ⁴⁴		727	659	tsʰ ɿ ⁵³ k - a ⁴⁴	C V T C V T
+1638	Shanghai	self	自家	zɿ¹³ka⁵³	z ɿ ¹³ k a ⁵³		727	659	z ɿ ¹³ k - a ⁵³	C V T C V T
+1634	Shexian	self	自家	ʦʰɿ²²ka³¹	tsʰ ɿ ²² k a ³¹		727	659	tsʰ ɿ ²² k - a ³¹	C V T C V T
+1633	Taiyuan	self	自家	ʦɿ⁴⁵ʨja⁵³	ts ɿ ⁴⁵ tɕ j a ⁵³		727	659	ts ɿ ⁴⁵ tɕ j a ⁵³	C V T C C V T
+1629	Guangzhou	self	自己	ʦi²²kej³⁵	ts i ²² k e j ³⁵		431	426	ts i ²² k e j ³⁵	C V T C V C T
+1621	Guixian	self	自己	ʦɿ²¹³ʨi⁴²	ts ɿ ²¹³ tɕ i ⁴²		431	426	ts ɿ ²¹³ tɕ i - ⁴²	C V T C V T
+1625	Hefei	self	自己	ʦɿ⁵³ʦɿ²⁴	ts ɿ ⁵³ ts ɿ ²⁴		431	426	ts ɿ ⁵³ ts ɿ - ²⁴	C V T C V T
+1636	Kunming	self	自己	ʦɿ²¹²ʨi⁵³	ts ɿ ²¹² tɕ i ⁵³		431	426	ts ɿ ²¹² tɕ i - ⁵³	C V T C V T
+2679	Beijing	seven	七	ʨʰi⁵⁵	tɕʰ i ⁵⁵		500	485	tɕʰ - i - ⁵⁵	C V T
+2668	Changsha	seven	七	ʦʰi²⁴	tsʰ i ²⁴		500	485	tsʰ - i - ²⁴	C V T
+2676	Chengdu	seven	七	ʨʰi³¹	tɕʰ i ³¹		500	485	tɕʰ - i - ³¹	C V T
+2674	Guangzhou	seven	七	ʦʰɐt⁵	tsʰ ɐ t ⁵		500	485	tsʰ - ɐ t ⁵	C V C T
+2669	Guixian	seven	七	ʨʰi²¹	tɕʰ i ²¹		500	485	tɕʰ - i - ²¹	C V T
+2673	Hangzhou	seven	七	ʨʰjəʔ⁵	tɕʰ j ə ʔ ⁵		500	485	tɕʰ j ə ʔ ⁵	C C V C T
+2671	Hefei	seven	七	ʨʰjəʔ⁵	tɕʰ j ə ʔ ⁵		500	485	tɕʰ j ə ʔ ⁵	C C V C T
+2672	Jinan	seven	七	ʨʰi²¹³	tɕʰ i ²¹³		500	485	tɕʰ - i - ²¹³	C V T
+2680	Kunming	seven	七	ʨʰi³¹	tɕʰ i ³¹		500	485	tɕʰ - i - ³¹	C V T
+2667	Meixian	seven	七	ʦʰit¹	tsʰ i t ¹		500	485	tsʰ - i t ¹	C V C T
+2675	Nanchang	seven	七	ʨʰiʔ⁵	tɕʰ i ʔ ⁵		500	485	tɕʰ - i ʔ ⁵	C V C T
+2681	Shanghai	seven	七	ʨʰjɪʔ⁵	tɕʰ j ɪ ʔ ⁵		500	485	tɕʰ j ɪ ʔ ⁵	C C V C T
+2678	Shexian	seven	七	ʦʰiʔ²¹	tsʰ i ʔ ²¹		500	485	tsʰ - i ʔ ²¹	C V C T
+2677	Taiyuan	seven	七	ʨʰjəʔ²	tɕʰ j ə ʔ ²		500	485	tɕʰ j ə ʔ ²	C C V C T
+2670	Xiamen	seven	七	ʦʰit³²	tsʰ i t ³²		500	485	tsʰ - i t ³²	C V C T
+2351	Beijing	short	短	twan²¹⁴	t w a n ²¹⁴		868	776	t w a n ²¹⁴	C C V C T
+2339	Changsha	short	短	tõ⁴¹	t õ ⁴¹		868	776	t - õ - ⁴¹	C V T
+2348	Chengdu	short	短	twan⁵³	t w a n ⁵³		868	776	t w a n ⁵³	C C V C T
+2346	Guangzhou	short	短	tyn³⁵	t y n ³⁵		868	776	t - y n ³⁵	C V C T
+2340	Guixian	short	短	twan⁴²	t w a n ⁴²		868	776	t w a n ⁴²	C C V C T
+2345	Hangzhou	short	短	twõ⁵³	t w õ ⁵³		868	776	t w õ - ⁵³	C C V T
+2343	Hefei	short	短	tʊ̃²⁴	t ʊ̃ ²⁴		868	776	t - ʊ̃ - ²⁴	C V T
+2344	Jinan	short	短	twã⁵⁵	t w ã ⁵⁵		868	776	t w ã - ⁵⁵	C C V T
+2352	Kunming	short	短	twᴀ̃⁵³	t w ᴀ̃/ã̱ ⁵³		868	776	t w ᴀ̃/ã̱ - ⁵³	C C V T
+2338	Meixian	short	短	ton³¹	t o n ³¹		868	776	t - o n ³¹	C V C T
+2347	Nanchang	short	短	tɵn²¹³	t ɵ n ²¹³		868	776	t - ɵ n ²¹³	C V C T
+2353	Shanghai	short	短	tø³⁵	t ø ³⁵		868	776	t - ø - ³⁵	C V T
+2350	Shexian	short	短	to³⁵	t o ³⁵		868	776	t - o - ³⁵	C V T
+2349	Taiyuan	short	短	twæ̃⁵³	t w æ̃ ⁵³		868	776	t w æ̃ - ⁵³	C C V T
+2341	Xiamen	short	短	te⁵³	t e ⁵³		868	776	t - e - ⁵³	C V T
+2664	Beijing	six	六	ljowiou⁵¹	l j o w i/j o u ⁵¹		813	729	l j o w i/j o u ⁵¹	C C V C V V V T
+2653	Changsha	six	六	ləw²⁴	l ə w ²⁴		813	729	l - ə w - - - ²⁴	C V C T
+2661	Chengdu	six	六	nu³¹	n u ³¹		813	729	n - u - - - - ³¹	C V T
+2659	Guangzhou	six	六	lok²	l o k ²		813	729	l - o - k - - ²	C V C T
+2654	Guixian	six	六	lu²¹	l u ²¹		813	729	l - u - - - - ²¹	C V T
+2658	Hangzhou	six	六	loʔ²	l o ʔ ²		813	729	l - o - ʔ - - ²	C V C T
+2656	Hefei	six	六	ləʔ⁵	l ə ʔ ⁵		813	729	l - ə - ʔ - - ⁵	C V C T
+2657	Jinan	six	六	ljowiou²¹	l j o w i/j o u ²¹		813	729	l j o w i/j o u ²¹	C C V C V V V T
+2665	Kunming	six	六	lu³¹	l u ³¹		813	729	l - u - - - - ³¹	C V T
+2652	Meixian	six	六	ljuk¹	l j u k ¹		813	729	l j u - k - - ¹	C C V C T
+2660	Nanchang	six	六	ljuʔ²	l j u ʔ ²		813	729	l j u - ʔ - - ²	C C V C T
+2666	Shanghai	six	六	loʔ¹	l o ʔ ¹		813	729	l - o - ʔ - - ¹	C V C T
+2663	Shexian	six	六	lo²²	l o ²²		813	729	l - o - - - - ²²	C V T
+2662	Taiyuan	six	六	ljəwiəu⁴⁵	l j ə w i əu ⁴⁵		813	729	l j ə w - i əu ⁴⁵	C C V C V V T
+2655	Xiamen	six	六	lak⁵	l a k ⁵		813	729	l - a - k - - ⁵	C V C T
+121	Changsha	snow	落雪	lo²⁴sje²⁴	l o ²⁴ s j e ²⁴		1163	144	l - o - ²⁴ s j e - ²⁴	C V T C C V T
+131	Chengdu	snow	落雪	no³¹ɕɥe³¹	n o ³¹ ɕ ɥ e ³¹		1163	144	n - o - ³¹ ɕ ɥ e - ³¹	C V T C C V T
+128	Guangzhou	snow	落雪	lɔk²syt³	l ɔ k ² s y t ³		1163	144	l - ɔ k ² s - y t ³	C V C T C V C T
+127	Hangzhou	snow	落雪	loʔ²ɕjəʔ⁵	l o ʔ ² ɕ j ə ʔ ⁵		1163	144	l - o ʔ ² ɕ j ə ʔ ⁵	C V C T C C V C T
+126	Jinan	snow	落雪	lwə²¹ɕɥə²¹³	l w ə ²¹ ɕ ɥ ə ²¹³		1163	144	l w ə - ²¹ ɕ ɥ ə - ²¹³	C C V T C C V T
+120	Meixian	snow	落雪	lok⁵sjet¹	l o k ⁵ s j e t ¹		1163	144	l - o k ⁵ s j e t ¹	C V C T C C V C T
+129	Nanchang	snow	落雪	lɔʔ²ɕɥɵʔ⁵	l ɔ ʔ ² ɕ ɥ ɵ ʔ ⁵		1163	144	l - ɔ ʔ ² ɕ ɥ ɵ ʔ ⁵	C V C T C C V C T
+136	Shanghai	snow	落雪	loʔ¹ɕjɪʔ⁵	l o ʔ ¹ ɕ j ɪ ʔ ⁵		1163	144	l - o ʔ ¹ ɕ j ɪ ʔ ⁵	C V C T C C V C T
+133	Shexian	snow	落雪	lɔ²²ɕɥeʔ²¹	l ɔ ²² ɕ ɥ e ʔ ²¹		1163	144	l - ɔ - ²² ɕ ɥ e ʔ ²¹	C V T C C V C T
+123	Xiamen	snow	落雪	loʔ⁵seʔ³²	l o ʔ ⁵ s e ʔ ³²		1163	144	l - o ʔ ⁵ s - e ʔ ³²	C V C T C V C T
+134	Beijing	snow	下雪	ɕja⁵¹ɕɥɛ²¹⁴	ɕ j a ⁵¹ ɕ ɥ ɛ ²¹⁴		139	191	ɕ j a ⁵¹ ɕ ɥ ɛ - ²¹⁴	C C V T C C V T
+130	Chengdu	snow	下雪	ɕja¹³ɕɥe³¹	ɕ j a ¹³ ɕ ɥ e ³¹		139	191	ɕ j a ¹³ ɕ ɥ e - ³¹	C C V T C C V T
+122	Guixian	snow	下雪	ɕja²¹³ɕjɛ²¹	ɕ j a ²¹³ ɕ j ɛ ²¹		139	191	ɕ j a ²¹³ ɕ j ɛ - ²¹	C C V T C C V T
+124	Hefei	snow	下雪	ɕja⁵³ɕɥɐʔ⁵	ɕ j a ⁵³ ɕ ɥ ɐ ʔ ⁵		139	191	ɕ j a ⁵³ ɕ ɥ ɐ ʔ ⁵	C C V T C C V C T
+125	Jinan	snow	下雪	ɕja²¹ɕɥə²¹³	ɕ j a ²¹ ɕ ɥ ə ²¹³		139	191	ɕ j a ²¹ ɕ ɥ ə - ²¹³	C C V T C C V T
+135	Kunming	snow	下雪	ɕjᴀ²¹²ɕjɛ³¹	ɕ j ᴀ/a̱ ²¹² ɕ j ɛ ³¹		139	191	ɕ j ᴀ/a̱ ²¹² ɕ j ɛ - ³¹	C C V T C C V T
+132	Taiyuan	snow	下雪	xa⁴⁵ɕɥəʔ²	x a ⁴⁵ ɕ ɥ ə ʔ ²		139	191	x - a ⁴⁵ ɕ ɥ ə ʔ ²	C V T C C V C T
+976	Hangzhou	son	儿子	əl²¹³ʦɿ⁵³	ə l ²¹³ ts ɿ ⁵³		1127	110	- - ə - - - l ²¹³ ts - ɿ - ⁵³	V C T C V T
+970	Guixian	son	男娃娃	lan²¹wa²¹wa⁵⁵	l a n ²¹ w a ²¹ w a ⁵⁵		747	677	l a n ²¹ w a ²¹ w a ⁵⁵	C V C T C V T C V T
+975	Jinan	son	小子	ɕjɔ⁵⁵ʦɿ	ɕ j ɔ ⁵⁵ ts ɿ		562	526	ɕ j ɔ - - - - ⁵⁵ ts ɿ - -	C C V T C V
+980	Taiyuan	son	小子	ɕjawiau⁵³ʦəʔ	ɕ j a w i a u ⁵³ ts ə ʔ		562	526	ɕ j a w i a u ⁵³ ts ə ʔ -	C C V C V V V T C V C
+2159	Beijing	sour	酸	swan⁵⁵	s w a n ⁵⁵		274	296	s w a n ⁵⁵	C C V C T
+2148	Changsha	sour	酸	sõ³³	s õ ³³		274	296	s - õ - ³³	C V T
+2156	Chengdu	sour	酸	swan⁵⁵	s w a n ⁵⁵		274	296	s w a n ⁵⁵	C C V C T
+2154	Guangzhou	sour	酸	syn⁵³	s y n ⁵³		274	296	s - y n ⁵³	C V C T
+2149	Guixian	sour	酸	swan⁵⁵	s w a n ⁵⁵		274	296	s w a n ⁵⁵	C C V C T
+2153	Hangzhou	sour	酸	sɥõ³³	s ɥ õ ³³		274	296	s ɥ õ - ³³	C C V T
+2151	Hefei	sour	酸	sʊ̃²¹	s ʊ̃ ²¹		274	296	s - ʊ̃ - ²¹	C V T
+2152	Jinan	sour	酸	swã²¹³	s w ã ²¹³		274	296	s w ã - ²¹³	C C V T
+2160	Kunming	sour	酸	swᴀ̃⁴⁴	s w ᴀ̃/ã̱ ⁴⁴		274	296	s w ᴀ̃/ã̱ - ⁴⁴	C C V T
+2147	Meixian	sour	酸	son⁴⁴	s o n ⁴⁴		274	296	s - o n ⁴⁴	C V C T
+2155	Nanchang	sour	酸	sɵn⁴²	s ɵ n ⁴²		274	296	s - ɵ n ⁴²	C V C T
+2161	Shanghai	sour	酸	sø⁵³	s ø ⁵³		274	296	s - ø - ⁵³	C V T
+2158	Shexian	sour	酸	so³¹	s o ³¹		274	296	s - o - ³¹	C V T
+2157	Taiyuan	sour	酸	swæ̃¹¹	s w æ̃ ¹¹		274	296	s w æ̃ - ¹¹	C C V T
+2150	Xiamen	sour	酸	sŋ̍⁵⁵	s ŋ̍ ⁵⁵		274	296	s - - ŋ̍ ⁵⁵	C C T
+1098	Beijing	soya sauce	酱油	ʨjɑŋ⁵¹jowiou³⁵	tɕ j ɑ ŋ ⁵¹ j o w i/j o u ³⁵		279	300	tɕ j ɑ ŋ ⁵¹ j o w i/j o u ³⁵	C C V C T C V C V V V T
+1084	Changsha	soya sauce	酱油	ʦjan⁵⁵jəwiəu¹³	ts j a n ⁵⁵ j ə w i əu ¹³		279	300	ts j a n ⁵⁵ j ə w - i əu ¹³	C C V C T C V C V V T
+1094	Chengdu	soya sauce	酱油	ʨjaŋ¹³jəwiəu³¹	tɕ j a ŋ ¹³ j ə w i əu ³¹		279	300	tɕ j a ŋ ¹³ j ə w - i əu ³¹	C C V C T C V C V V T
+1085	Guixian	soya sauce	酱油	ʨjaŋ²¹³jəwiəu²¹	tɕ j a ŋ ²¹³ j ə w i əu ²¹		279	300	tɕ j a ŋ ²¹³ j ə w - i əu ²¹	C C V C T C V C V V T
+1090	Hangzhou	soya sauce	酱油	ʨjɑŋ⁴⁴⁵ɦjø²¹³	tɕ j ɑ ŋ ⁴⁴⁵ ɦ j ø ²¹³		279	300	tɕ j ɑ ŋ ⁴⁴⁵ - - ɦ j - ø ²¹³	C C V C T C C V T
+1087	Hefei	soya sauce	酱油	ʨjɑ̃⁵³jɯ⁵⁵	tɕ j ɑ̃ ⁵³ j ɯ ⁵⁵		279	300	tɕ j ɑ̃ - ⁵³ - - - j - ɯ ⁵⁵	C C V T C V T
+1088	Jinan	soya sauce	酱油	ʨjaŋ²¹jowiou⁴²	tɕ j a ŋ ²¹ j o w i/j o u ⁴²		279	300	tɕ j a ŋ ²¹ j o w i/j o u ⁴²	C C V C T C V C V V V T
+1100	Kunming	soya sauce	酱油	ʨjᴀ̃²¹²jəwiəu³¹	tɕ j ᴀ̃/ã̱ ²¹² j ə w i əu ³¹		279	300	tɕ j ᴀ̃/ã̱ - ²¹² j ə w - i əu ³¹	C C V T C V C V V T
+1093	Nanchang	soya sauce	酱油	ʨjɔŋ⁴⁵ju⁴⁵	tɕ j ɔ ŋ ⁴⁵ j u ⁴⁵		279	300	tɕ j ɔ ŋ ⁴⁵ - - - j - u ⁴⁵	C C V C T C V T
+1101	Shanghai	soya sauce	酱油	ʨjã⁵³ɦjɤ¹³	tɕ j ã ⁵³ ɦ j ɤ ¹³		279	300	tɕ j ã - ⁵³ - - ɦ j - ɤ ¹³	C C V T C C V T
+1097	Shexian	soya sauce	酱油	ʦja³²⁴ju⁴⁴	ts j a ³²⁴ j u ⁴⁴		279	300	ts j a - ³²⁴ - - - j - u ⁴⁴	C C V T C V T
+1096	Taiyuan	soya sauce	酱油	ʨjɒ̃⁴⁵jəwiəu¹¹	tɕ j ɒ̃ ⁴⁵ j ə w i əu ¹¹		279	300	tɕ j ɒ̃ - ⁴⁵ j ə w - i əu ¹¹	C C V T C V C V V T
+419	Taiyuan	sparrow	雀儿	ʨʰɥar⁵³	tɕʰ ɥ a r ⁵³		1127	110	tɕʰ ɥ a - - - r ⁵³ - - - - -	C C V C T
+422	Beijing	sparrow	家雀儿	ʨja⁵⁵ʨʰjɑwiɑur²¹⁴	tɕ j a ⁵⁵ tɕʰ j ɑ w i ɑ u r ²¹⁴		91	816	tɕ j a ⁵⁵ tɕʰ j ɑ w i ɑ u r ²¹⁴ - - -	C C V T C C V C V V V C T
+408	Changsha	sparrow	麻雀子	ma¹³ʦʰjo²⁴ʦɿ	m a ¹³ tsʰ j o ²⁴ ts ɿ		91	816	- m a ¹³ tsʰ j o - - - - - ²⁴ ts ɿ -	C V T C C V T C V
+418	Chengdu	sparrow	麻雀儿	ma³¹ʨʰɥər³¹	m a ³¹ tɕʰ ɥ ə r ³¹		91	816	- m a ³¹ tɕʰ ɥ ə - - - - r ³¹ - - -	C V T C C V C T
+415	Guangzhou	sparrow	麻雀	ma²¹ʦœk³³	m a ²¹ ts œ k ³³		91	816	- m a ²¹ ts - œ - - - - k ³³ - - -	C V T C V C T
+409	Guixian	sparrow	麻雀	ma²¹ʨʰjo²¹	m a ²¹ tɕʰ j o ²¹		91	816	- m a ²¹ tɕʰ j o - - - - - ²¹ - - -	C V T C C V T
+412	Jinan	sparrow	家雀儿	ʨja²¹³ʨʰɥər	tɕ j a ²¹³ tɕʰ ɥ ə r		91	816	tɕ j a ²¹³ tɕʰ ɥ ə - - - - r - - - -	C C V T C C V C
+424	Kunming	sparrow	麻雀	mᴀ³¹ʨʰjo³¹	m ᴀ/a̱ ³¹ tɕʰ j o ³¹		91	816	- m ᴀ/a̱ ³¹ tɕʰ j o - - - - - ³¹ - - -	C V T C C V T
+417	Nanchang	sparrow	麻雀子	mɑ⁴⁵ʨʰjɔʔ⁰⁴ʦɿ⁰⁴	m ɑ ⁴⁵ tɕʰ j ɔ ʔ ⁰⁴/¹⁴ ts ɿ ⁰⁴/¹⁴		91	816	- m ɑ ⁴⁵ tɕʰ j ɔ - - - - ʔ ⁰⁴/¹⁴ ts ɿ ⁰⁴/¹⁴	C V T C C V C T C V T
+425	Shanghai	sparrow	麻雀	mo¹³ʨʰjaʔ⁵	m o ¹³ tɕʰ j a ʔ ⁵		91	816	- m o ¹³ tɕʰ j a - - - - ʔ ⁵ - - -	C V T C C V C T
+421	Shexian	sparrow	麻雀	ma⁴⁴ʦʰjɔʔ²¹	m a ⁴⁴ tsʰ j ɔ ʔ ²¹		91	816	- m a ⁴⁴ tsʰ j ɔ - - - - ʔ ²¹ - - -	C V T C C V C T
+420	Taiyuan	sparrow	麻雀儿	ma¹¹ʨʰɥar⁵³	m a ¹¹ tɕʰ ɥ a r ⁵³		91	816	- m a ¹¹ tɕʰ ɥ a - - - - r ⁵³ - - -	C V T C C V C T
+310	Beijing	spinach	菠菜	po³⁵ʦʰaj⁵¹	p o ³⁵ tsʰ a j ⁵¹		249	277	p o ³⁵ - - - - tsʰ a j ⁵¹	C V T C V C T
+298	Changsha	spinach	菠菜	po³³ʦʰaj⁵⁵	p o ³³ tsʰ a j ⁵⁵		249	277	p o ³³ - - - - tsʰ a j ⁵⁵	C V T C V C T
+306	Chengdu	spinach	菠菜	po⁵⁵ʦʰaj¹³	p o ⁵⁵ tsʰ a j ¹³		249	277	p o ⁵⁵ - - - - tsʰ a j ¹³	C V T C V C T
+304	Guangzhou	spinach	菠菜	pɔ⁵³ʦʰɔj³³	p ɔ ⁵³ tsʰ ɔ j ³³		249	277	p ɔ ⁵³ - - - - tsʰ ɔ j ³³	C V T C V C T
+299	Guixian	spinach	菠菜	po⁵⁵ʦʰaj²¹³	p o ⁵⁵ tsʰ a j ²¹³		249	277	p o ⁵⁵ - - - - tsʰ a j ²¹³	C V T C V C T
+303	Hangzhou	spinach	菠菜	po³³ʦʰᴇ⁴⁴⁵	p o ³³ tsʰ ᴇ/e̞ ⁴⁴⁵		249	277	p o ³³ - - - - tsʰ ᴇ/e̞ - ⁴⁴⁵	C V T C V T
+301	Hefei	spinach	菠菜	pu²¹ʦʰᴇ⁵³	p u ²¹ tsʰ ᴇ/e̞ ⁵³		249	277	p u ²¹ - - - - tsʰ ᴇ/e̞ - ⁵³	C V T C V T
+302	Jinan	spinach	菠菜	pə²¹³ʦʰɛ	p ə ²¹³ tsʰ ɛ		249	277	p ə ²¹³ - - - - tsʰ ɛ - -	C V T C V
+311	Kunming	spinach	菠菜	po⁴⁴ʦʰæ²¹²	p o ⁴⁴ tsʰ æ ²¹²		249	277	p o ⁴⁴ - - - - tsʰ æ - ²¹²	C V T C V T
+305	Nanchang	spinach	菠菜	po⁴²ʦʰaj⁰²	p o ⁴² tsʰ a j ⁰²/¹²		249	277	p o ⁴² - - - - tsʰ a j ⁰²/¹²	C V T C V C T
+312	Shanghai	spinach	菠菜	pu⁵³ʦʰe³⁵	p u ⁵³ tsʰ e ³⁵		249	277	p u ⁵³ - - - - tsʰ e - ³⁵	C V T C V T
+309	Shexian	spinach	菠菜	po³¹ʦʰɛ³²⁴	p o ³¹ tsʰ ɛ ³²⁴		249	277	p o ³¹ - - - - tsʰ ɛ - ³²⁴	C V T C V T
+308	Taiyuan	spinach	菠菜	pɤ¹¹ʦʰaj⁴⁵	p ɤ ¹¹ tsʰ a j ⁴⁵		249	277	p ɤ ¹¹ - - - - tsʰ a j ⁴⁵	C V T C V C T
+300	Xiamen	spinach	菠菱菜	pe⁵⁵liŋ³⁵ʦʰaj²¹	p e ⁵⁵ l i ŋ ³⁵ tsʰ a j ²¹		249	277	p e ⁵⁵ l i ŋ ³⁵ tsʰ a j ²¹	C V T C V C T C V C T
+1140	Changsha	spoon	瓢	pjawiau¹³	p j a w i a u ¹³		41	408	p j a w i a u ¹³ - - - - - - - -	C C V C V V V T
+1153	Chengdu	spoon	瓢瓢	pʰjawiau³¹pʰjawiau³¹	pʰ j a w i a u ³¹ pʰ j a w i a u ³¹		41	408	pʰ j a w i a u ³¹ pʰ j a w i a u ³¹	C C V C V V V T C C V C V V V T
+1142	Guixian	spoon	瓢瓢	pʰjaoiao²¹pʰjaoiao⁵⁵	pʰ j a o i a o ²¹ pʰ j a o i a o ⁵⁵		41	408	pʰ j a o i a o ²¹ pʰ j a o i a o ⁵⁵	C C V V V V V T C C V V V V V T
+1157	Shexian	spoon	瓢	pʰjɔ⁴⁴	pʰ j ɔ ⁴⁴		41	408	pʰ j ɔ - - - - ⁴⁴ - - - - - - - -	C C V T
+1158	Beijing	spoon	勺子	ʂɑw³⁵ʦɿ	ʂ ɑ w ³⁵ ts ɿ		1180	160	ʂ - ɑ w ³⁵ ts ɿ - -	C V C T C V
+1144	Hefei	spoon	勺子	ʂwɐʔ⁵ʦə	ʂ w ɐ ʔ ⁵ ts ə		1180	160	ʂ w ɐ ʔ ⁵ ts ə - -	C C V C T C V
+1145	Jinan	spoon	勺子	ʂɔ⁴²ʦɿ	ʂ ɔ ⁴² ts ɿ		1180	160	ʂ - ɔ - ⁴² ts ɿ - -	C V T C V
+1149	Nanchang	spoon	勺子	sɔʔ²ʦɿ⁰²	s ɔ ʔ ² ts ɿ ⁰²/¹²		1180	160	s - ɔ ʔ ² ts ɿ - ⁰²/¹²	C V C T C V T
+1162	Shanghai	spoon	勺子	zoʔ¹ʦɿ³⁵	z o ʔ ¹ ts ɿ ³⁵		1180	160	z - o ʔ ¹ ts ɿ - ³⁵	C V C T C V T
+1156	Taiyuan	spoon	勺子	saw¹¹ʦəʔ	s a w ¹¹ ts ə ʔ		1180	160	s - a w ¹¹ ts ə ʔ -	C V C T C V C
+1151	Chengdu	spoon	调羹儿	tʰjawiau³¹kər⁵⁵	tʰ j a w i a u ³¹ k ə r ⁵⁵		85	759	tʰ j a w i a u ³¹ k ə r ⁵⁵	C C V C V V V T C V C T
+1146	Jinan	spoon	调羹	tʰjɔ⁴²kəŋ⁵⁵	tʰ j ɔ ⁴² k ə ŋ ⁵⁵		85	759	tʰ j ɔ - - - - ⁴² k ə ŋ ⁵⁵	C C V T C V C T
+1160	Kunming	spoon	调羹	tʰjɔ³¹kə̃⁴⁴	tʰ j ɔ ³¹ k ə̃ ⁴⁴		85	759	tʰ j ɔ - - - - ³¹ k ə̃ - ⁴⁴	C C V T C V T
+1154	Taiyuan	spoon	调羹	tʰjawiau¹¹kəŋ¹¹	tʰ j a w i a u ¹¹ k ə ŋ ¹¹		85	759	tʰ j a w i a u ¹¹ k ə ŋ ¹¹	C C V C V V V T C V C T
+588	Beijing	stairs	楼梯	low³⁵tʰi⁵⁵	l o w ³⁵ tʰ i ⁵⁵		1035	31	l o w ³⁵ tʰ - i - ⁵⁵	C V C T C V T
+575	Changsha	stairs	楼梯	ləw¹³tʰi³³	l ə w ¹³ tʰ i ³³		1035	31	l ə w ¹³ tʰ - i - ³³	C V C T C V T
+584	Chengdu	stairs	楼梯	nəw³¹tʰi⁵⁵	n ə w ³¹ tʰ i ⁵⁵		1035	31	n ə w ³¹ tʰ - i - ⁵⁵	C V C T C V T
+582	Guangzhou	stairs	楼梯	lɐw²¹tʰɐj⁵⁵	l ɐ w ²¹ tʰ ɐ j ⁵⁵		1035	31	l ɐ w ²¹ tʰ - ɐ j ⁵⁵	C V C T C V C T
+576	Guixian	stairs	楼梯	ləw²¹tʰi⁵⁵	l ə w ²¹ tʰ i ⁵⁵		1035	31	l ə w ²¹ tʰ - i - ⁵⁵	C V C T C V T
+579	Hefei	stairs	楼梯	lɯ⁵⁵ʦʰɿ²¹	l ɯ ⁵⁵ tsʰ ɿ ²¹		1035	31	l ɯ - ⁵⁵ tsʰ - ɿ - ²¹	C V T C V T
+580	Jinan	stairs	楼梯	low²¹tʰi²¹³	l o w ²¹ tʰ i ²¹³		1035	31	l o w ²¹ tʰ - i - ²¹³	C V C T C V T
+589	Kunming	stairs	楼梯	ləw³¹tʰi⁴⁴	l ə w ³¹ tʰ i ⁴⁴		1035	31	l ə w ³¹ tʰ - i - ⁴⁴	C V C T C V T
+583	Nanchang	stairs	楼梯	lɛw⁴⁵tʰi⁰⁴	l ɛ w ⁴⁵ tʰ i ⁰⁴/¹⁴		1035	31	l ɛ w ⁴⁵ tʰ - i - ⁰⁴/¹⁴	C V C T C V T
+585	Taiyuan	stairs	楼梯	ləw¹¹tʰi¹¹	l ə w ¹¹ tʰ i ¹¹		1035	31	l ə w ¹¹ tʰ - i - ¹¹	C V C T C V T
+577	Xiamen	stairs	楼梯	law³⁵tʰwi	l a w ³⁵ tʰ w i		1035	31	l a w ³⁵ tʰ w i - -	C V C T C C V
+51	Meixian	star	星儿	sen⁴⁴ne	s e n ⁴⁴ n e		1127	110	s - e - - - n ⁴⁴ n - e - -	C V C T C V
+63	Beijing	star	星星	ɕiŋ⁵⁵ɕiŋ²	ɕ i ŋ ⁵⁵ ɕ i ŋ ²		6	553	ɕ - i ŋ ⁵⁵ ɕ - i ŋ - - ²	C V C T C V C T
+52	Changsha	star	星子	sin³³ʦɿ	s i n ³³ ts ɿ		6	553	s - i n ³³ ts - ɿ - - - -	C V C T C V
+60	Chengdu	star	星星儿	ɕin⁵⁵ɕir⁵⁵	ɕ i n ⁵⁵ ɕ i r ⁵⁵		6	553	ɕ - i n ⁵⁵ ɕ - i r - - ⁵⁵	C V C T C V C T
+58	Guangzhou	star	星	seŋ⁵⁵	s e ŋ ⁵⁵		6	553	s - e ŋ ⁵⁵ - - - - - - -	C V C T
+53	Guixian	star	星宿	ɕin⁵⁵ɕju²¹³	ɕ i n ⁵⁵ ɕ j u ²¹³		6	553	ɕ - i n ⁵⁵ ɕ j u - - - ²¹³	C V C T C C V T
+57	Hangzhou	star	星	ɕin³³	ɕ i n ³³		6	553	ɕ - i n ³³ - - - - - - -	C V C T
+55	Hefei	star	星	ɕin²¹	ɕ i n ²¹		6	553	ɕ - i n ²¹ - - - - - - -	C V C T
+56	Jinan	star	星	ɕiŋ²¹³	ɕ i ŋ ²¹³		6	553	ɕ - i ŋ ²¹³ - - - - - - -	C V C T
+64	Kunming	star	星宿	ɕĩ⁴⁴ɕjəwiəu²¹²	ɕ ĩ ⁴⁴ ɕ j ə w i əu ²¹²		6	553	ɕ - ĩ - ⁴⁴ ɕ j ə w i əu ²¹²	C V T C C V C V V T
+59	Nanchang	star	星子	sjɑŋ⁴²ʦɿ⁰²	s j ɑ ŋ ⁴² ts ɿ ⁰²/¹²		6	553	s j ɑ ŋ ⁴² ts - ɿ - - - ⁰²/¹²	C C V C T C V T
+65	Shanghai	star	星	ɕiŋ⁵³	ɕ i ŋ ⁵³		6	553	ɕ - i ŋ ⁵³ - - - - - - -	C V C T
+62	Shexian	star	天星	tʰe³¹sjʌ̃³¹	tʰ e ³¹ s j ʌ̃ ³¹		6	553	tʰ - e - ³¹ s j ʌ̃ - - - ³¹	C V T C C V T
+61	Taiyuan	star	星宿	ɕi¹¹ɕjəwiəu⁴⁵	ɕ i ¹¹ ɕ j ə w i əu ⁴⁵		6	553	ɕ - i - ¹¹ ɕ j ə w i əu ⁴⁵	C V T C C V C V V T
+54	Xiamen	star	星	ʦʰĩ⁵⁵	tsʰ ĩ ⁵⁵		6	553	tsʰ - ĩ - ⁵⁵ - - - - - - -	C V T
+2293	Beijing	stinky	臭	t͡ʂʰow⁵¹	ʈʂʰ o w ⁵¹		133	188	ʈʂʰ - o w ⁵¹	C V C T
+2281	Changsha	stinky	臭	t͡ʂʰəw⁵⁵	ʈʂʰ ə w ⁵⁵		133	188	ʈʂʰ - ə w ⁵⁵	C V C T
+2290	Chengdu	stinky	臭	ʦʰəw¹³	tsʰ ə w ¹³		133	188	tsʰ - ə w ¹³	C V C T
+2287	Guangzhou	stinky	臭	ʦʰɐw³³	tsʰ ɐ w ³³		133	188	tsʰ - ɐ w ³³	C V C T
+2282	Guixian	stinky	臭	ʦʰəw²¹³	tsʰ ə w ²¹³		133	188	tsʰ - ə w ²¹³	C V C T
+2286	Hangzhou	stinky	臭	ʦʰej⁴⁴⁵	tsʰ e j ⁴⁴⁵		133	188	tsʰ - e j ⁴⁴⁵	C V C T
+2284	Hefei	stinky	臭	t͡ʂʰɯ⁵³	ʈʂʰ ɯ ⁵³		133	188	ʈʂʰ - ɯ - ⁵³	C V T
+2285	Jinan	stinky	臭	t͡ʂʰow²¹	ʈʂʰ o w ²¹		133	188	ʈʂʰ - o w ²¹	C V C T
+2294	Kunming	stinky	臭	t͡ʂʰəw²¹²	ʈʂʰ ə w ²¹²		133	188	ʈʂʰ - ə w ²¹²	C V C T
+2280	Meixian	stinky	臭	ʦʰu⁵³	tsʰ u ⁵³		133	188	tsʰ - u - ⁵³	C V T
+2289	Nanchang	stinky	臭	ʦʰɨw²¹³	tsʰ ɨ w ²¹³		133	188	tsʰ - ɨ w ²¹³	C V C T
+2295	Shanghai	stinky	臭	ʦʰɤ³⁵	tsʰ ɤ ³⁵		133	188	tsʰ - ɤ - ³⁵	C V T
+2292	Shexian	stinky	臭	ʨʰju³²⁴	tɕʰ j u ³²⁴		133	188	tɕʰ j u - ³²⁴	C C V T
+2291	Taiyuan	stinky	臭	ʦʰəw⁴⁵	tsʰ ə w ⁴⁵		133	188	tsʰ - ə w ⁴⁵	C V C T
+2283	Xiamen	stinky	臭	ʦʰaw²¹	tsʰ a w ²¹		133	188	tsʰ - a w ²¹	C V C T
+24	Beijing	sun	日头	ʐʅ⁵¹tʰow¹	ʐ ʅ ⁵¹ tʰ o w ¹		184	225	- ʐ ʅ - ⁵¹ tʰ - o w ¹	C V T C V C T
+3	Changsha	sun	日头	ʐʅ²⁴təw	ʐ ʅ ²⁴ t ə w		184	225	- ʐ ʅ - ²⁴ t - ə w -	C V T C V C
+13	Guangzhou	sun	热头	jit²tʰɐw²¹	j i t ² tʰ ɐ w ²¹		184	225	j - i t ² tʰ - ɐ w ²¹	C V C T C V C T
+8	Hefei	sun	日头	ʐəʔ⁵tʰɯ	ʐ ə ʔ ⁵ tʰ ɯ		184	225	- ʐ ə ʔ ⁵ tʰ - ɯ - -	C V C T C V
+11	Jinan	sun	日头	ʐʅ²¹tʰow	ʐ ʅ ²¹ tʰ o w		184	225	- ʐ ʅ - ²¹ tʰ - o w -	C V T C V C
+26	Kunming	sun	热头	ʐə³¹tʰəw³¹	ʐ ə ³¹ tʰ ə w ³¹		184	225	- ʐ ə - ³¹ tʰ - ə w ³¹	C V T C V C T
+1	Meixian	sun	日头	ŋit¹tʰew¹¹	ŋ i t ¹ tʰ e w ¹¹		184	225	ŋ - i t ¹ tʰ - e w ¹¹	C V C T C V C T
+16	Nanchang	sun	日头	ȵiʔ⁵tʰu⁰²	ɲ i ʔ ⁵ tʰ u ⁰²/¹²		184	225	ɲ - i ʔ ⁵ tʰ - u - ⁰²/¹²	C V C T C V T
+28	Shanghai	sun	日头	ȵjɪʔ¹dɤ¹³	ɲ j ɪ ʔ ¹ d ɤ ¹³		184	225	ɲ j ɪ ʔ ¹ d - ɤ - ¹³	C C V C T C V T
+20	Shexian	sun	日头	ni²²tʰju⁴⁴	n i ²² tʰ j u ⁴⁴		184	225	n - i - ²² tʰ j u - ⁴⁴	C V T C C V T
+5	Xiamen	sun	日头	lit⁵tʰaw	l i t ⁵ tʰ a w		184	225	l - i t ⁵ tʰ - a w -	C V C T C V C
+22	Beijing	sun	太阳	tʰaj⁵¹jɑŋ¹	tʰ a j ⁵¹ j ɑ ŋ ¹		469	456	tʰ a j ⁵¹ - - j ɑ ŋ ¹	C V C T C V C T
+2	Changsha	sun	太阳	tʰaj⁵⁵jan¹³	tʰ a j ⁵⁵ j a n ¹³		469	456	tʰ a j ⁵⁵ - - j a n ¹³	C V C T C V C T
+17	Chengdu	sun	太阳	tʰaj¹³jaŋ³¹	tʰ a j ¹³ j a ŋ ³¹		469	456	tʰ a j ¹³ - - j a ŋ ³¹	C V C T C V C T
+14	Guangzhou	sun	太阳	tʰaj³³jœŋ²¹	tʰ a j ³³ j œ ŋ ²¹		469	456	tʰ a j ³³ - - j œ ŋ ²¹	C V C T C V C T
+4	Guixian	sun	太阳	tʰaj²¹³jaŋ²¹	tʰ a j ²¹³ j a ŋ ²¹		469	456	tʰ a j ²¹³ - - j a ŋ ²¹	C V C T C V C T
+12	Hangzhou	sun	太阳	tʰᴇ⁴⁴⁵ɦjɑŋ²¹³	tʰ ᴇ/e̞ ⁴⁴⁵ ɦ j ɑ ŋ ²¹³		469	456	tʰ ᴇ/e̞ - ⁴⁴⁵ - ɦ j ɑ ŋ ²¹³	C V T C C V C T
+7	Hefei	sun	太阳	tʰᴇ⁵³jɑ̃	tʰ ᴇ/e̞ ⁵³ j ɑ̃		469	456	tʰ ᴇ/e̞ - ⁵³ - - j ɑ̃ - -	C V T C V
+9	Jinan	sun	太阳	tʰɛ²¹jaŋ	tʰ ɛ ²¹ j a ŋ		469	456	tʰ ɛ - ²¹ - - j a ŋ -	C V T C V C
+25	Kunming	sun	太阳	tʰæ²¹²jᴀ̃³¹	tʰ æ ²¹² j ᴀ̃/ã̱ ³¹		469	456	tʰ æ - ²¹² - - j ᴀ̃/ã̱ - ³¹	C V T C V T
+15	Nanchang	sun	太阳	tʰaj²¹³iŋ⁰⁴	tʰ a j ²¹³ i ŋ ⁰⁴/¹⁴		469	456	tʰ a j ²¹³ - - - i ŋ ⁰⁴/¹⁴	C V C T V C T
+27	Shanghai	sun	太阳	tʰa³⁴ɦjã¹³	tʰ a ³ ⁴ ɦ j ã ¹³		469	456	tʰ a - ³ ⁴ ɦ j ã - ¹³	C V T T C C V T
+21	Shexian	sun	太阳	tʰa³²⁴ja⁴⁴	tʰ a ³²⁴ j a ⁴⁴		469	456	tʰ a - ³²⁴ - - j a - ⁴⁴	C V T C V T
+19	Taiyuan	sun	太阳	taj⁴⁵jɒ̃¹¹	t a j ⁴⁵ j ɒ̃ ¹¹		469	456	t a j ⁴⁵ - - j ɒ̃ - ¹¹	C V C T C V T
+6	Xiamen	sun	太阳	tʰaj²¹jɔŋ³⁵	tʰ a j ²¹ j ɔ ŋ ³⁵		469	456	tʰ a j ²¹ - - j ɔ ŋ ³⁵	C V C T C V C T
+23	Beijing	sun	老爷儿	lɑw²¹⁴ir³⁵	l ɑ w ²¹⁴ i r ³⁵		594	548	l ɑ w ²¹⁴ - - - - - i r ³⁵	C V C T V C T
+10	Jinan	sun	老爷爷儿	lɔ⁵⁵jə⁴²jər⁴²	l ɔ ⁵⁵ j ə ⁴² j ə r ⁴²		594	548	l ɔ - ⁵⁵ j ə ⁴² - j ə r ⁴²	C V T C V T C V C T
+292	Beijing	sunflower	向日葵	ɕjaŋ⁵¹ʐʅ¹kʰwejuei³⁵	ɕ j a ŋ ⁵¹ ʐ ʅ ¹ kʰ w e j u/w e i ³⁵		928	831	ɕ j a ŋ ⁵¹ ʐ ʅ - ¹ kʰ w e j u/w e i ³⁵	C C V C T C V T C C V C V V V T
+285	Chengdu	sunflower	向日葵	ɕjaŋ¹³zɿ³¹kʰwejuei³¹	ɕ j a ŋ ¹³ z ɿ ³¹ kʰ w e j u/w e i ³¹		928	831	ɕ j a ŋ ¹³ z ɿ - ³¹ kʰ w e j u/w e i ³¹	C C V C T C V T C C V C V V V T
+282	Guangzhou	sunflower	向日葵	hœŋ³³jɐt²kʰwɐj²¹	h œ ŋ ³³ j ɐ t ² kʰ w ɐ j ²¹		928	831	h - œ ŋ ³³ j ɐ t ² kʰ w ɐ j - - - ²¹	C V C T C V C T C C V C T
+281	Hangzhou	sunflower	向日葵	ɕjɑŋ⁴⁴⁵zʔ²gwi²¹³	ɕ j ɑ ŋ ⁴⁴⁵ z ʔ ² g w i ²¹³		928	831	ɕ j ɑ ŋ ⁴⁴⁵ z - ʔ ² g w i - - - - ²¹³	C C V C T C C T C C V T
+273	Meixian	sunflower	向日葵	hjoŋ⁵³ŋit¹kʰwi¹¹	h j o ŋ ⁵³ ŋ i t ¹ kʰ w i ¹¹		928	831	h j o ŋ ⁵³ ŋ i t ¹ kʰ w i - - - - ¹¹	C C V C T C V C T C C V T
+295	Shanghai	sunflower	向日葵	ɕjã³⁵zəʔ¹²gwe¹³	ɕ j ã ³⁵ z ə ʔ ¹² g w e ¹³		928	831	ɕ j ã - ³⁵ z ə ʔ ¹² g w e - - - - ¹³	C C V T C V C T C C V T
+276	Xiamen	sunflower	向日葵	hjɔŋ²¹lit⁵kʰwi	h j ɔ ŋ ²¹ l i t ⁵ kʰ w i		928	831	h j ɔ ŋ ²¹ l i t ⁵ kʰ w i - - - - -	C C V C T C V C T C C V
+293	Beijing	sunflower	葵花	kʰwejuei³⁵xwa⁵⁵	kʰ w e j u/w e i ³⁵ x w a ⁵⁵		358	365	kʰ w e j u/w e i ³⁵ x w a ⁵⁵ - - -	C C V C V V V T C C V T
+274	Changsha	sunflower	葵花	kwejuei¹³fa³³	k w e j u/w e i ¹³ f a ³³		358	365	k w e j u/w e i ¹³ - f a ³³ - - -	C C V C V V V T C V T
+287	Chengdu	sunflower	葵花	kʰwejuei³¹xwa⁵⁵	kʰ w e j u/w e i ³¹ x w a ⁵⁵		358	365	kʰ w e j u/w e i ³¹ x w a ⁵⁵ - - -	C C V C V V V T C C V T
+283	Guangzhou	sunflower	葵花	kʰwɐj²¹fa⁵⁵	kʰ w ɐ j ²¹ f a ⁵⁵		358	365	kʰ w ɐ j - - - ²¹ - f a ⁵⁵ - - -	C C V C T C V T
+275	Guixian	sunflower	葵花	kʰwejuei²¹xwa⁵⁵	kʰ w e j u/w e i ²¹ x w a ⁵⁵		358	365	kʰ w e j u/w e i ²¹ x w a ⁵⁵ - - -	C C V C V V V T C C V T
+280	Hangzhou	sunflower	葵花	gwi²¹³hwɑ³³	g w i ²¹³ h w ɑ ³³		358	365	g w i - - - - ²¹³ h w ɑ ³³ - - -	C C V T C C V T
+278	Hefei	sunflower	葵花	kʰwe⁵⁵xwa²¹	kʰ w e ⁵⁵ x w a ²¹		358	365	kʰ w e - - - - ⁵⁵ x w a ²¹ - - -	C C V T C C V T
+284	Nanchang	sunflower	葵花	kʰwi²⁴fɑ⁴²	kʰ w i ²⁴ f ɑ ⁴²		358	365	kʰ w i - - - - ²⁴ - f ɑ ⁴² - - -	C C V T C V T
+296	Shanghai	sunflower	葵花	gwe¹³ho⁵³	g w e ¹³ h o ⁵³		358	365	g w e - - - - ¹³ h - o ⁵³ - - -	C C V T C V T
+289	Shexian	sunflower	葵花莲	kʰwe⁴⁴xwa³¹le⁴⁴	kʰ w e ⁴⁴ x w a ³¹ l e ⁴⁴		358	365	kʰ w e - - - - ⁴⁴ x w a ³¹ l e ⁴⁴	C C V T C C V T C V T
+288	Taiyuan	sunflower	葵花	kʰwejuei¹¹xwa¹¹	kʰ w e j u/w e i ¹¹ x w a ¹¹		358	365	kʰ w e j u/w e i ¹¹ x w a ¹¹ - - -	C C V C V V V T C C V T
+1046	Changsha	supper	夜饭	ja¹¹fan¹¹	j a ¹¹ f a n ¹¹		67	612	- - - - - j a ¹¹ f a n ¹¹	C V T C V C T
+1057	Chengdu	supper	夜饭	je¹³fan¹³	j e ¹³ f a n ¹³		67	612	- - - - - j e ¹³ f a n ¹³	C V T C V C T
+1052	Hangzhou	supper	夜饭	ɦi¹³vᴇ̃¹³	ɦ i ¹³ v ᴇ̃/ẽ̞ ¹³		67	612	- - - - ɦ - i ¹³ v ᴇ̃/ẽ̞ - ¹³	C V T C V T
+1055	Nanchang	supper	夜饭	jɑ²¹fan²¹	j ɑ ²¹ f a n ²¹		67	612	- - - - - j ɑ ²¹ f a n ²¹	C V T C V C T
+1062	Shanghai	supper	夜饭	ɦja¹³ve¹³	ɦ j a ¹³ v e ¹³		67	612	- - - - ɦ j a ¹³ v e - ¹³	C C V T C V T
+1059	Shexian	supper	夜饭	ja²²fɛ²²	j a ²² f ɛ ²²		67	612	- - - - - j a ²² f ɛ - ²²	C V T C V T
+1058	Taiyuan	supper	黑夜饭	xəʔ²je⁴⁵fæ̃⁴⁵	x ə ʔ ² j e ⁴⁵ f æ̃ ⁴⁵		67	612	x ə ʔ ² - j e ⁴⁵ f æ̃ - ⁴⁵	C V C T C V T C V T
+1060	Beijing	supper	晚饭	wan²¹⁴fan⁵¹	w a n ²¹⁴ f a n ⁵¹		852	762	w a n ²¹⁴ f a n ⁵¹	C V C T C V C T
+1056	Chengdu	supper	晚饭	wan⁵³fan¹³	w a n ⁵³ f a n ¹³		852	762	w a n ⁵³ f a n ¹³	C V C T C V C T
+1054	Guangzhou	supper	晚饭	man²³fan²²	m a n ²³ f a n ²²		852	762	m a n ²³ f a n ²²	C V C T C V C T
+1047	Guixian	supper	晚饭	wan⁴²fan²¹³	w a n ⁴² f a n ²¹³		852	762	w a n ⁴² f a n ²¹³	C V C T C V C T
+1050	Hefei	supper	晚饭	wæ̃²⁴fæ̃⁵³	w æ̃ ²⁴ f æ̃ ⁵³		852	762	w æ̃ - ²⁴ f æ̃ - ⁵³	C V T C V T
+1051	Jinan	supper	晚饭	vã⁵⁵fã²¹	v ã ⁵⁵ f ã ²¹		852	762	v ã - ⁵⁵ f ã - ²¹	C V T C V T
+1061	Kunming	supper	晚饭	wᴀ̃⁵³fᴀ̃²¹²	w ᴀ̃/ã̱ ⁵³ f ᴀ̃/ã̱ ²¹²		852	762	w ᴀ̃/ã̱ - ⁵³ f ᴀ̃/ã̱ - ²¹²	C V T C V T
+2144	Beijing	sweet	甜	tʰjan³⁵	tʰ j a n ³⁵		1177	157	tʰ j a n ³⁵	C C V C T
+2133	Changsha	sweet	甜	tjẽ¹³	t j ẽ ¹³		1177	157	t j ẽ - ¹³	C C V T
+2141	Chengdu	sweet	甜	tʰjan³¹	tʰ j a n ³¹		1177	157	tʰ j a n ³¹	C C V C T
+2139	Guangzhou	sweet	甜	tʰim²¹	tʰ i m ²¹		1177	157	tʰ - i m ²¹	C V C T
+2134	Guixian	sweet	甜	tʰjan²¹	tʰ j a n ²¹		1177	157	tʰ j a n ²¹	C C V C T
+2138	Hangzhou	sweet	甜	djᴇ̃²¹³	d j ᴇ̃/ẽ̞ ²¹³		1177	157	d j ᴇ̃/ẽ̞ - ²¹³	C C V T
+2136	Hefei	sweet	甜	tʰjɪ̃⁵⁵	tʰ j ɪ̃ ⁵⁵		1177	157	tʰ j ɪ̃ - ⁵⁵	C C V T
+2137	Jinan	sweet	甜	tʰjã⁴²	tʰ j ã ⁴²		1177	157	tʰ j ã - ⁴²	C C V T
+2145	Kunming	sweet	甜	tʰjɛ̃³¹	tʰ j ɛ̃ ³¹		1177	157	tʰ j ɛ̃ - ³¹	C C V T
+2132	Meixian	sweet	甜	tʰjam¹¹	tʰ j a m ¹¹		1177	157	tʰ j a m ¹¹	C C V C T
+2140	Nanchang	sweet	甜	tʰjɛn²⁴	tʰ j ɛ n ²⁴		1177	157	tʰ j ɛ n ²⁴	C C V C T
+2146	Shanghai	sweet	甜	di¹³	d i ¹³		1177	157	d - i - ¹³	C V T
+2143	Shexian	sweet	甜	tʰe⁴⁴	tʰ e ⁴⁴		1177	157	tʰ - e - ⁴⁴	C V T
+2142	Taiyuan	sweet	甜	tʰje¹¹	tʰ j e ¹¹		1177	157	tʰ j e - ¹¹	C C V T
+2135	Xiamen	sweet	甜	tĩ⁵⁵	t ĩ ⁵⁵		1177	157	t - ĩ - ⁵⁵	C V T
+339	Guangzhou	sweet potato	番薯	fan⁵³sy²¹	f a n ⁵³ s y ²¹		393	396	f a n ⁵³ s y ²¹	C V C T C V T
+338	Hangzhou	sweet potato	番薯	fᴇ̃³³ʣy¹³	f ᴇ̃/ẽ̞ ³³ dz y ¹³		393	396	f ᴇ̃/ẽ̞ - ³³ dz y ¹³	C V T C V T
+331	Meixian	sweet potato	番薯	fan⁴⁴su¹¹	f a n ⁴⁴ s u ¹¹		393	396	f a n ⁴⁴ s u ¹¹	C V C T C V T
+332	Changsha	sweet potato	红薯	xoŋ¹³ɕy¹¹	x o ŋ ¹³ ɕ y ¹¹		737	668	x - o ŋ ¹³ ɕ y ¹¹	C V C T C V T
+341	Nanchang	sweet potato	红薯	fuŋ⁴⁵ɕy⁴⁵	f u ŋ ⁴⁵ ɕ y ⁴⁵		737	668	f - u ŋ ⁴⁵ ɕ y ⁴⁵	C V C T C V T
+343	Taiyuan	sweet potato	红薯	xwəŋ¹¹su⁵³	x w ə ŋ ¹¹ s u ⁵³		737	668	x w ə ŋ ¹¹ s u ⁵³	C C V C T C V T
+571	Beijing	table	桌子	t͡ʂwo⁵⁵ʦɿ²	ʈʂ w o ⁵⁵ ts ɿ ²		718	652	ʈʂ w o - ⁵⁵ ts ɿ - ²	C C V T C V T
+559	Changsha	table	桌子	ʦo²⁴ʦɿ	ts o ²⁴ ts ɿ		718	652	ts - o - ²⁴ ts ɿ - -	C V T C V
+568	Chengdu	table	桌子	ʦo³¹ʦɿ⁵³	ts o ³¹ ts ɿ ⁵³		718	652	ts - o - ³¹ ts ɿ - ⁵³	C V T C V T
+560	Guixian	table	桌子	ʦo²¹ʦɿ⁴²	ts o ²¹ ts ɿ ⁴²		718	652	ts - o - ²¹ ts ɿ - ⁴²	C V T C V T
+565	Hangzhou	table	桌子	ʦoʔ⁵ʦɿ	ts o ʔ ⁵ ts ɿ		718	652	ts - o ʔ ⁵ ts ɿ - -	C V C T C V
+563	Hefei	table	桌子	t͡ʂwɐ⁵ʦə	ʈʂ w ɐ ⁵ ts ə		718	652	ʈʂ w ɐ - ⁵ ts ə - -	C C V T C V
+564	Jinan	table	桌子	t͡ʂwə²¹³ʦɿ	ʈʂ w ə ²¹³ ts ɿ		718	652	ʈʂ w ə - ²¹³ ts ɿ - -	C C V T C V
+572	Kunming	table	桌子	t͡ʂo³¹ʦɿ⁵³	ʈʂ o ³¹ ts ɿ ⁵³		718	652	ʈʂ - o - ³¹ ts ɿ - ⁵³	C V T C V T
+567	Nanchang	table	桌子	ʦɔʔ⁵ʦɿ⁰²	ts ɔ ʔ ⁵ ts ɿ ⁰²/¹²		718	652	ts - ɔ ʔ ⁵ ts ɿ - ⁰²/¹²	C V C T C V T
+569	Taiyuan	table	桌子	ʦwaʔ²ʦəʔ	ts w a ʔ ² ts ə ʔ		718	652	ts w a ʔ ² ts ə ʔ -	C C V C T C V C
+2546	Beijing	take	拿	na³⁵	n a ³⁵		1103	89	n a ³⁵	C V T
+2534	Changsha	take	拿	la³³	l a ³³		1103	89	l a ³³	C V T
+2543	Chengdu	take	拿	na³¹	n a ³¹		1103	89	n a ³¹	C V T
+2535	Guixian	take	拿	la²¹	l a ²¹		1103	89	l a ²¹	C V T
+2538	Hefei	take	拿	la⁵⁵	l a ⁵⁵		1103	89	l a ⁵⁵	C V T
+2539	Jinan	take	拿	na⁴²	n a ⁴²		1103	89	n a ⁴²	C V T
+2547	Kunming	take	拿	nᴀ³¹	n ᴀ/a̱ ³¹		1103	89	n ᴀ/a̱ ³¹	C V T
+2533	Meixian	take	拿	na⁴⁴	n a ⁴⁴		1103	89	n a ⁴⁴	C V T
+2548	Shanghai	take	拿	ne⁵³	n e ⁵³		1103	89	n e ⁵³	C V T
+2544	Taiyuan	take	拿	na¹¹	n a ¹¹		1103	89	n a ¹¹	C V T
+2725	Beijing	ten	十	ʂʅ³⁵	ʂ ʅ ³⁵		805	720	ʂ ʅ - ³⁵	C V T
+2713	Changsha	ten	十	ʂʅ²⁴	ʂ ʅ ²⁴		805	720	ʂ ʅ - ²⁴	C V T
+2722	Chengdu	ten	十	sɿ³¹	s ɿ ³¹		805	720	s ɿ - ³¹	C V T
+2720	Guangzhou	ten	十	sɐp²	s ɐ p ²		805	720	s ɐ p ²	C V C T
+2715	Guixian	ten	十	sɿ²¹	s ɿ ²¹		805	720	s ɿ - ²¹	C V T
+2719	Hangzhou	ten	十	zəʔ²	z ə ʔ ²		805	720	z ə ʔ ²	C V C T
+2717	Hefei	ten	十	ʂəʔ⁵	ʂ ə ʔ ⁵		805	720	ʂ ə ʔ ⁵	C V C T
+2718	Jinan	ten	十	ʂʅ⁴²	ʂ ʅ ⁴²		805	720	ʂ ʅ - ⁴²	C V T
+2726	Kunming	ten	十	ʂʅ³¹	ʂ ʅ ³¹		805	720	ʂ ʅ - ³¹	C V T
+2712	Meixian	ten	十	səp⁵	s ə p ⁵		805	720	s ə p ⁵	C V C T
+2721	Nanchang	ten	十	sɨʔ²	s ɨ ʔ ²		805	720	s ɨ ʔ ²	C V C T
+2727	Shanghai	ten	十	zəʔ¹	z ə ʔ ¹		805	720	z ə ʔ ¹	C V C T
+2724	Shexian	ten	十	ɕi²²	ɕ i ²²		805	720	ɕ i - ²²	C V T
+2723	Taiyuan	ten	十	səʔ⁵⁴	s ə ʔ ⁵⁴		805	720	s ə ʔ ⁵⁴	C V C T
+2716	Xiamen	ten	十	ʦap⁵	ts a p ⁵		805	720	ts a p ⁵	C V C T
+1775	Beijing	that	那个	na⁵¹kə¹	n a ⁵¹ k ə ¹		888	795	n a - ⁵¹ k ə - ¹	C V T C V T
+1762	Changsha	that	那个	laj⁵⁵ko	l a j ⁵⁵ k o		888	795	l a j ⁵⁵ k o - -	C V C T C V
+1771	Chengdu	that	那个	na¹³ko¹³	n a ¹³ k o ¹³		888	795	n a - ¹³ k o - ¹³	C V T C V T
+1764	Guixian	that	那个	a⁵⁵ko²¹³	a ⁵⁵ k o ²¹³		888	795	- a - ⁵⁵ k o - ²¹³	V T C V T
+1768	Hangzhou	that	那个	nɑ⁵³koʔ⁵	n ɑ ⁵³ k o ʔ ⁵		888	795	n ɑ - ⁵³ k o ʔ ⁵	C V T C V C T
+1766	Hefei	that	那个	lɑʔ⁵ko	l ɑ ʔ ⁵ k o		888	795	l ɑ ʔ ⁵ k o - -	C V C T C V
+1767	Jinan	that	那个	na²¹kə	n a ²¹ k ə		888	795	n a - ²¹ k ə - -	C V T C V
+1776	Kunming	that	那个	nə²¹²kə²¹²	n ə ²¹² k ə ²¹²		888	795	n ə - ²¹² k ə - ²¹²	C V T C V T
+1773	Shexian	that	那个	na²²ko	n a ²² k o		888	795	n a - ²² k o - -	C V T C V
+1696	Changsha	there	那里	la⁵⁵li	l a ⁵⁵ l i		519	498	l a - ⁵⁵ l i	C V T C V
+1706	Hangzhou	there	那里	nɑ⁴⁴⁵li	n ɑ ⁴⁴⁵ l i		519	498	n ɑ - ⁴⁴⁵ l i	C V T C V
+1703	Jinan	there	那里	na²¹ȵi	n a ²¹ ɲ i		519	498	n a - ²¹ ɲ i	C V T C V
+1712	Taiyuan	there	那里	nəʔ²lɤ	n ə ʔ ² l ɤ		519	498	n ə ʔ ² l ɤ	C V C T C V
+1698	Guixian	there	那点	a⁵⁵tɛ⁴²	a ⁵⁵ t ɛ ⁴²		482	466	- a - ⁵⁵ t - ɛ ⁴² - -	V T C V T
+1718	Kunming	there	那点儿	nə²¹²tjə³¹ə³¹	n ə ²¹² t j ə ³¹ ə ³¹		482	466	n ə - ²¹² t j ə ³¹ ə ³¹	C V T C C V T V T
+1713	Taiyuan	there	那儿家	nar⁴⁵ʨja⁵³	n a r ⁴⁵ tɕ j a ⁵³		482	466	n a r ⁴⁵ tɕ j a ⁵³ - -	C V C T C C V T
+1717	Beijing	there	那下儿	na⁵¹xar	n a ⁵¹ x a r		655	600	n - a - ⁵¹ x a r - -	C V T C V C
+1616	Beijing	they	他们	tʰam̩⁵⁵	tʰ a m̩ ⁵⁵		1200	178	tʰ a m̩ ⁵⁵ - - - -	C V C T
+1605	Changsha	they	他们	tʰa³³mən	tʰ a ³³ m ə n		1200	178	tʰ a - ³³ m ə n -	C V T C V C
+1614	Chengdu	they	他们	tʰa⁵⁵mən³¹	tʰ a ⁵⁵ m ə n ³¹		1200	178	tʰ a - ⁵⁵ m ə n ³¹	C V T C V C T
+1607	Guixian	they	他们	la⁵⁵men⁵⁵	l a ⁵⁵ m e n ⁵⁵		1200	178	l a - ⁵⁵ m e n ⁵⁵	C V T C V C T
+1611	Hangzhou	they	他们	tʰɑ³³men²¹³	tʰ ɑ ³³ m e n ²¹³		1200	178	tʰ ɑ - ³³ m e n ²¹³	C V T C V C T
+1608	Hefei	they	他们	tʰa²¹mən	tʰ a ²¹ m ə n		1200	178	tʰ a - ²¹ m ə n -	C V T C V C
+1609	Jinan	they	他们	tʰa⁵⁵mẽ	tʰ a ⁵⁵ m ẽ		1200	178	tʰ a - ⁵⁵ m ẽ - -	C V T C V
+1617	Kunming	they	他们	tʰə⁴⁴mə⁴⁴	tʰ ə ⁴⁴ m ə ⁴⁴		1200	178	tʰ ə - ⁴⁴ m ə - ⁴⁴	C V T C V T
+1615	Taiyuan	they	他们	tʰa¹¹məʔ	tʰ a ¹¹ m ə ʔ		1200	178	tʰ a - ¹¹ m ə ʔ -	C V T C V C
+2306	Beijing	thick	粗	ʦʰu⁵⁵	tsʰ u ⁵⁵		1146	126	tsʰ u - ⁵⁵	C V T
+2297	Changsha	thick	粗	ʦʰəw³³	tsʰ ə w ³³		1146	126	tsʰ ə w ³³	C V C T
+2303	Chengdu	thick	粗	ʦʰu⁵⁵	tsʰ u ⁵⁵		1146	126	tsʰ u - ⁵⁵	C V T
+2298	Guixian	thick	粗	ʦʰu⁵⁵	tsʰ u ⁵⁵		1146	126	tsʰ u - ⁵⁵	C V T
+2301	Hangzhou	thick	粗	ʦʰu³³	tsʰ u ³³		1146	126	tsʰ u - ³³	C V T
+2299	Hefei	thick	粗	ʦʰu²¹	tsʰ u ²¹		1146	126	tsʰ u - ²¹	C V T
+2300	Jinan	thick	粗	ʦʰu²¹³	tsʰ u ²¹³		1146	126	tsʰ u - ²¹³	C V T
+2308	Kunming	thick	粗	ʦʰu⁴⁴	tsʰ u ⁴⁴		1146	126	tsʰ u - ⁴⁴	C V T
+2296	Meixian	thick	粗	ʦʰɿ⁴⁴	tsʰ ɿ ⁴⁴		1146	126	tsʰ ɿ - ⁴⁴	C V T
+2302	Nanchang	thick	粗	ʦʰu⁴²	tsʰ u ⁴²		1146	126	tsʰ u - ⁴²	C V T
+2309	Shanghai	thick	粗	ʦʰu⁵³	tsʰ u ⁵³		1146	126	tsʰ u - ⁵³	C V T
+2305	Shexian	thick	粗	ʦʰu³¹	tsʰ u ³¹		1146	126	tsʰ u - ³¹	C V T
+2304	Taiyuan	thick	粗	ʦʰu¹¹	tsʰ u ¹¹		1146	126	tsʰ u - ¹¹	C V T
+2224	Beijing	thin	瘦	ʂow⁵¹	ʂ o w ⁵¹		683	626	ʂ - o w ⁵¹	C V C T
+2213	Changsha	thin	瘦	ʂəw⁵⁵	ʂ ə w ⁵⁵		683	626	ʂ - ə w ⁵⁵	C V C T
+2221	Chengdu	thin	瘦	səw¹³	s ə w ¹³		683	626	s - ə w ¹³	C V C T
+2219	Guangzhou	thin	瘦	sɐw³³	s ɐ w ³³		683	626	s - ɐ w ³³	C V C T
+2215	Guixian	thin	瘦	səw²¹³	s ə w ²¹³		683	626	s - ə w ²¹³	C V C T
+2218	Hangzhou	thin	瘦	sej⁴⁴⁵	s e j ⁴⁴⁵		683	626	s - e j ⁴⁴⁵	C V C T
+2216	Hefei	thin	瘦	sɯ⁵³	s ɯ ⁵³		683	626	s - ɯ - ⁵³	C V T
+2217	Jinan	thin	瘦	ʂow²¹	ʂ o w ²¹		683	626	ʂ - o w ²¹	C V C T
+2225	Kunming	thin	瘦	səw²¹²	s ə w ²¹²		683	626	s - ə w ²¹²	C V C T
+2212	Meixian	thin	瘦	sew⁵³	s e w ⁵³		683	626	s - e w ⁵³	C V C T
+2220	Nanchang	thin	瘦	sɛw⁴⁵	s ɛ w ⁴⁵		683	626	s - ɛ w ⁴⁵	C V C T
+2226	Shanghai	thin	瘦	sɤ³⁵	s ɤ ³⁵		683	626	s - ɤ - ³⁵	C V T
+2223	Shexian	thin	瘦	ɕju³²⁴	ɕ j u ³²⁴		683	626	ɕ j u - ³²⁴	C C V T
+2222	Taiyuan	thin	瘦	səw⁴⁵	s ə w ⁴⁵		683	626	s - ə w ⁴⁵	C V C T
+1758	Beijing	this	这个	t͡ʂə⁵¹kə¹	ʈʂ ə ⁵¹ k ə ¹		984	883	ʈʂ ə ⁵¹ k ə ¹	C V T C V T
+1756	Chengdu	this	这个	ʦe¹³ko¹³	ts e ¹³ k o ¹³		984	883	ts e ¹³ k o ¹³	C V T C V T
+1749	Guixian	this	这个	ʦɿ⁵⁵ko²¹³	ts ɿ ⁵⁵ k o ²¹³		984	883	ts ɿ ⁵⁵ k o ²¹³	C V T C V T
+1752	Jinan	this	这个	t͡ʂə²¹kə	ʈʂ ə ²¹ k ə		984	883	ʈʂ ə ²¹ k ə -	C V T C V
+1759	Kunming	this	这个	t͡ʂʅ⁴⁴kə²¹²	ʈʂ ʅ ⁴⁴ k ə ²¹²		984	883	ʈʂ ʅ ⁴⁴ k ə ²¹²	C V T C V T
+233	Beijing	this year	今年个	ʨin⁵⁵njan³⁵kə³	tɕ i n ⁵⁵ n j a n ³⁵ k ə ³		760	687	tɕ - i n ⁵⁵ n j a n ³⁵ k ə ³	C V C T C C V C T C V T
+221	Changsha	this year	今年	ʨin³³ȵjẽ¹³	tɕ i n ³³ ɲ j ẽ ¹³		760	687	tɕ - i n ³³ ɲ j ẽ - ¹³ - - -	C V C T C C V T
+230	Chengdu	this year	今年	ʨin⁵⁵ȵjan³¹	tɕ i n ⁵⁵ ɲ j a n ³¹		760	687	tɕ - i n ⁵⁵ ɲ j a n ³¹ - - -	C V C T C C V C T
+228	Guangzhou	this year	今年	kɐm⁵³nin²¹	k ɐ m ⁵³ n i n ²¹		760	687	k - ɐ m ⁵³ n - i n ²¹ - - -	C V C T C V C T
+222	Guixian	this year	今年	ʨin⁵⁵ljan²¹	tɕ i n ⁵⁵ l j a n ²¹		760	687	tɕ - i n ⁵⁵ l j a n ²¹ - - -	C V C T C C V C T
+225	Hefei	this year	今年	ʨin²¹ljɪ̃⁵⁵	tɕ i n ²¹ l j ɪ̃ ⁵⁵		760	687	tɕ - i n ²¹ l j ɪ̃ - ⁵⁵ - - -	C V C T C C V T
+226	Jinan	this year	今年	ʨjẽ²¹³jã⁴²	tɕ j ẽ ²¹³ j ã ⁴²		760	687	tɕ j ẽ - ²¹³ - j ã - ⁴² - - -	C C V T C V T
+234	Kunming	this year	今年	ʨĩ⁴⁴njɛ̃³¹	tɕ ĩ ⁴⁴ n j ɛ̃ ³¹		760	687	tɕ - ĩ - ⁴⁴ n j ɛ̃ - ³¹ - - -	C V T C C V T
+220	Meixian	this year	今年	kin⁴⁴ŋjan¹¹	k i n ⁴⁴ ŋ j a n ¹¹		760	687	k - i n ⁴⁴ ŋ j a n ¹¹ - - -	C V C T C C V C T
+229	Nanchang	this year	今年	ʨin⁴²ȵjɛn⁰²	tɕ i n ⁴² ɲ j ɛ n ⁰²/¹²		760	687	tɕ - i n ⁴² ɲ j ɛ n ⁰²/¹² - - -	C V C T C C V C T
+235	Shanghai	this year	今年	ʨiŋ⁵³ȵi¹³	tɕ i ŋ ⁵³ ɲ i ¹³		760	687	tɕ - i ŋ ⁵³ ɲ - i - ¹³ - - -	C V C T C V T
+231	Taiyuan	this year	今年	ʨjəŋ¹¹nje¹¹	tɕ j ə ŋ ¹¹ n j e ¹¹		760	687	tɕ j ə ŋ ¹¹ n j e - ¹¹ - - -	C C V C T C C V T
+224	Xiamen	this year	今年	kin⁵⁵ni³⁵	k i n ⁵⁵ n i ³⁵		760	687	k - i n ⁵⁵ n - i - ³⁵ - - -	C V C T C V T
+1545	Beijing	thou	你	ni²¹⁴	n i ²¹⁴		1185	165	n i - ²¹⁴	C V T
+1533	Changsha	thou	你	ȵi⁴¹	ɲ i ⁴¹		1185	165	ɲ i - ⁴¹	C V T
+1541	Chengdu	thou	你	ȵi⁵³	ɲ i ⁵³		1185	165	ɲ i - ⁵³	C V T
+1539	Guangzhou	thou	你	nej²³	n e j ²³		1185	165	n e j ²³	C V C T
+1534	Guixian	thou	你	li⁴²	l i ⁴²		1185	165	l i - ⁴²	C V T
+1538	Hangzhou	thou	你	ni⁵³	n i ⁵³		1185	165	n i - ⁵³	C V T
+1536	Hefei	thou	你	li²⁴	l i ²⁴		1185	165	l i - ²⁴	C V T
+1537	Jinan	thou	你	ȵi⁵⁵	ɲ i ⁵⁵		1185	165	ɲ i - ⁵⁵	C V T
+1546	Kunming	thou	你	ni⁵³	n i ⁵³		1185	165	n i - ⁵³	C V T
+1532	Meixian	thou	你	n̩¹¹	n̩ ¹¹		1185	165	n̩ - - ¹¹	C T
+1540	Nanchang	thou	你	n̩²¹³	n̩ ²¹³		1185	165	n̩ - - ²¹³	C T
+1542	Taiyuan	thou	你	ni⁵³	n i ⁵³		1185	165	n i - ⁵³	C V T
+1535	Xiamen	thou	你	li⁵³	l i ⁵³		1185	165	l i - ⁵³	C V T
+2619	Beijing	three	三	san⁵⁵	s a n ⁵⁵		196	235	s a n ⁵⁵	C V C T
+2608	Changsha	three	三	san³³	s a n ³³		196	235	s a n ³³	C V C T
+2616	Chengdu	three	三	san⁵⁵	s a n ⁵⁵		196	235	s a n ⁵⁵	C V C T
+2614	Guangzhou	three	三	sam⁵³	s a m ⁵³		196	235	s a m ⁵³	C V C T
+2609	Guixian	three	三	san⁵⁵	s a n ⁵⁵		196	235	s a n ⁵⁵	C V C T
+2613	Hangzhou	three	三	sᴇ̃³³	s ᴇ̃/ẽ̞ ³³		196	235	s ᴇ̃/ẽ̞ - ³³	C V T
+2611	Hefei	three	三	sæ̃²¹	s æ̃ ²¹		196	235	s æ̃ - ²¹	C V T
+2612	Jinan	three	三	sã²¹³	s ã ²¹³		196	235	s ã - ²¹³	C V T
+2620	Kunming	three	三	sᴀ̃⁴⁴	s ᴀ̃/ã̱ ⁴⁴		196	235	s ᴀ̃/ã̱ - ⁴⁴	C V T
+2607	Meixian	three	三	sam⁴⁴	s a m ⁴⁴		196	235	s a m ⁴⁴	C V C T
+2615	Nanchang	three	三	san⁴²	s a n ⁴²		196	235	s a n ⁴²	C V C T
+2621	Shanghai	three	三	se⁵³	s e ⁵³		196	235	s e - ⁵³	C V T
+2618	Shexian	three	三	sɛ³¹	s ɛ ³¹		196	235	s ɛ - ³¹	C V T
+2617	Taiyuan	three	三	sæ̃¹¹	s æ̃ ¹¹		196	235	s æ̃ - ¹¹	C V T
+2610	Xiamen	three	三	sã⁵⁵	s ã ⁵⁵		196	235	s ã - ⁵⁵	C V T
+78	Chengdu	thunder (verb)	响雷	ɕjaŋ⁵³nwejuei³¹	ɕ j a ŋ ⁵³ n w e j u/w e i ³¹		219	256	ɕ j a ŋ ⁵³ - - - - - n w e j u/w e i - ³¹ -	C C V C T C C V C V V V T
+66	Meixian	thunder (verb)	响雷公	hjoŋ³¹lwi¹¹kuŋ⁴⁴	h j o ŋ ³¹ l w i ¹¹ k u ŋ ⁴⁴		219	256	h j o ŋ ³¹ l w i - ¹¹ k - - - - - u ŋ ⁴⁴ -	C C V C T C C V T C V C T
+84	Shanghai	thunder (verb)	雷响	le¹³ɕjã³⁴	l e ¹³ ɕ j ã ³ ⁴		219	256	- - - - - l - e - ¹³ ɕ - - j - - ã - ³ ⁴	C V T C C V T T
+79	Taiyuan	thunder (verb)	响忽雷	xjɒ̃⁵³xwəʔ²lwejuei¹¹	x j ɒ̃ ⁵³ x w ə ʔ ² l w e j u/w e i ¹¹		219	256	x j ɒ̃ - ⁵³ x w ə ʔ ² l w e j u/w e i - ¹¹ -	C C V T C C V C T C C V C V V V T
+82	Beijing	thunder (verb)	打雷	ta²¹⁴lej³⁵	t a ²¹⁴ l e j ³⁵		97	870	t a ²¹⁴ - - - l - e j - - - ³⁵	C V T C V C T
+67	Changsha	thunder (verb)	打雷	ta⁴¹lej¹³	t a ⁴¹ l e j ¹³		97	870	t a ⁴¹ - - - l - e j - - - ¹³	C V T C V C T
+77	Chengdu	thunder (verb)	打雷	ta⁵³nwejuei³¹	t a ⁵³ n w e j u/w e i ³¹		97	870	t a ⁵³ - - - n w e j u/w e i ³¹	C V T C C V C V V V T
+68	Guixian	thunder (verb)	打雷	ta⁴²lwejuei²¹	t a ⁴² l w e j u/w e i ²¹		97	870	t a ⁴² - - - l w e j u/w e i ²¹	C V T C C V C V V V T
+73	Hangzhou	thunder (verb)	打雷	tɑ⁵³lej²¹³	t ɑ ⁵³ l e j ²¹³		97	870	t ɑ ⁵³ - - - l - e j - - - ²¹³	C V T C V C T
+71	Hefei	thunder (verb)	打雷	ta²⁴le⁵⁵	t a ²⁴ l e ⁵⁵		97	870	t a ²⁴ - - - l - - - - - e ⁵⁵	C V T C V T
+72	Jinan	thunder (verb)	打雷	ta⁵⁵lwejuei⁴²	t a ⁵⁵ l w e j u/w e i ⁴²		97	870	t a ⁵⁵ - - - l w e j u/w e i ⁴²	C V T C C V C V V V T
+76	Nanchang	thunder (verb)	打雷	tɑ²¹³lwi⁴⁵	t ɑ ²¹³ l w i ⁴⁵		97	870	t ɑ ²¹³ - - - l w i - - - - ⁴⁵	C V T C C V T
+85	Shanghai	thunder (verb)	打雷	tã³⁵le²³	t ã ³⁵ l e ²³		97	870	t ã ³⁵ - - - l - - - - - e ²³	C V T C V T
+81	Shexian	thunder (verb)	打天雷	ta³⁵tʰe³¹lɛ⁴⁴	t a ³⁵ tʰ e ³¹ l ɛ ⁴⁴		97	870	t a ³⁵ tʰ e ³¹ l - - - - - ɛ ⁴⁴	C V T C V T C V T
+2320	Beijing	tiny	细	ɕi⁵¹	ɕ i ⁵¹		967	867	ɕ i ⁵¹	C V T
+2311	Changsha	tiny	细	si⁵⁵	s i ⁵⁵		967	867	s i ⁵⁵	C V T
+2317	Chengdu	tiny	细	ɕi¹³	ɕ i ¹³		967	867	ɕ i ¹³	C V T
+2312	Guixian	tiny	细	ɕi²¹³	ɕ i ²¹³		967	867	ɕ i ²¹³	C V T
+2315	Hangzhou	tiny	细	ɕi⁴⁴⁵	ɕ i ⁴⁴⁵		967	867	ɕ i ⁴⁴⁵	C V T
+2313	Hefei	tiny	细	sɿ⁵³	s ɿ ⁵³		967	867	s ɿ ⁵³	C V T
+2314	Jinan	tiny	细	ɕi²¹	ɕ i ²¹		967	867	ɕ i ²¹	C V T
+2321	Kunming	tiny	细	ɕi²¹²	ɕ i ²¹²		967	867	ɕ i ²¹²	C V T
+2316	Nanchang	tiny	细	ɕi⁴⁵	ɕ i ⁴⁵		967	867	ɕ i ⁴⁵	C V T
+2322	Shanghai	tiny	细	ɕi³⁵	ɕ i ³⁵		967	867	ɕ i ³⁵	C V T
+2319	Shexian	tiny	细	si³²⁴	s i ³²⁴		967	867	s i ³²⁴	C V T
+2318	Taiyuan	tiny	细	ɕi⁴⁵	ɕ i ⁴⁵		967	867	ɕ i ⁴⁵	C V T
+238	Changsha	today	今日	ʨin³³ʐʅ²⁴	tɕ i n ³³ ʐ ʅ ²⁴		19	230	tɕ - i n ³³ - - - ʐ ʅ - ²⁴	C V C T C V T
+246	Guangzhou	today	今日	kɐm⁵³jɐt²	k ɐ m ⁵³ j ɐ t ²		19	230	k - ɐ m ⁵³ - - - j ɐ t ²	C V C T C V C T
+254	Kunming	today	今儿日	ʨjə⁴⁴ʐʅ³¹	tɕ j ə ⁴⁴ ʐ ʅ ³¹		19	230	tɕ j ə - ⁴⁴ - - - ʐ ʅ - ³¹	C C V T C V T
+236	Meixian	today	今日	kim⁴⁴ŋit¹	k i m ⁴⁴ ŋ i t ¹		19	230	k - i m ⁴⁴ - - - ŋ i t ¹	C V C T C V C T
+247	Nanchang	today	今日	ʨin⁴²ȵiʔ⁰²	tɕ i n ⁴² ɲ i ʔ ⁰²/¹²		19	230	tɕ - i n ⁴² - - - ɲ i ʔ ⁰²/¹²	C V C T C V C T
+249	Taiyuan	today	今日	ʨjəŋ¹¹zəŋ²	tɕ j ə ŋ ¹¹ z ə ŋ ²		19	230	tɕ j ə ŋ ¹¹ - - - z ə ŋ ²	C C V C T C V C T
+241	Xiamen	today	今仔日	kin⁵⁵na⁵³lit⁵	k i n ⁵⁵ n a ⁵³ l i t ⁵		19	230	k - i n ⁵⁵ n a ⁵³ l i t ⁵	C V C T C V T C V C T
+248	Chengdu	today	今天	ʨin⁵⁵tʰjan⁵⁵	tɕ i n ⁵⁵ tʰ j a n ⁵⁵		817	733	tɕ - i n ⁵⁵ tʰ j a n ⁵⁵	C V C T C C V C T
+239	Guixian	today	今天	ʨin⁵⁵tʰjan⁵⁵	tɕ i n ⁵⁵ tʰ j a n ⁵⁵		817	733	tɕ - i n ⁵⁵ tʰ j a n ⁵⁵	C V C T C C V C T
+243	Jinan	today	今天	ʨjẽ²¹³tʰjã²¹³	tɕ j ẽ ²¹³ tʰ j ã ²¹³		817	733	tɕ j ẽ - ²¹³ tʰ j ã - ²¹³	C C V T C C V T
+250	Taiyuan	today	今天	ʨjəŋ¹¹tʰje¹¹	tɕ j ə ŋ ¹¹ tʰ j e ¹¹		817	733	tɕ j ə ŋ ¹¹ tʰ j e - ¹¹	C C V C T C C V T
+2745	Shexian	twenty	两拾	lja³⁵ɕi²²	l j a ³⁵ ɕ i ²²		287	306	l j a - ³⁵ ɕ - i - ²²	C C V T C V T
+2604	Beijing	two	二	ər⁵¹	ə r ⁵¹		1106	92	- - ə r ⁵¹	V C T
+2592	Changsha	two	二	ə¹¹	ə ¹¹		1106	92	- - ə - ¹¹	V T
+2601	Chengdu	two	二	ər¹³	ə r ¹³		1106	92	- - ə r ¹³	V C T
+2599	Guangzhou	two	二	ji²²	j i ²²		1106	92	- j i - ²²	C V T
+2593	Guixian	two	二	ɚ²¹³	ɚ ²¹³		1106	92	- - ɚ - ²¹³	V T
+2598	Hangzhou	two	二	əl⁴⁴⁵	ə l ⁴⁴⁵		1106	92	- - ə l ⁴⁴⁵	V C T
+2596	Hefei	two	二	a⁵³	a ⁵³		1106	92	- - a - ⁵³	V T
+2597	Jinan	two	二	ər²¹	ə r ²¹		1106	92	- - ə r ²¹	V C T
+2605	Kunming	two	二	ə²¹²	ə ²¹²		1106	92	- - ə - ²¹²	V T
+2591	Meixian	two	二	ŋi⁵³	ŋ i ⁵³		1106	92	- ŋ i - ⁵³	C V T
+2600	Nanchang	two	二	ɵ²¹	ɵ ²¹		1106	92	- - ɵ - ²¹	V T
+2606	Shanghai	two	二	ȵi¹³	ɲ i ¹³		1106	92	- ɲ i - ¹³	C V T
+2603	Shexian	two	二	lja³⁵	l j a ³⁵		1106	92	l j a - ³⁵	C C V T
+2602	Taiyuan	two	二	ər⁴⁵	ə r ⁴⁵		1106	92	- - ə r ⁴⁵	V C T
+2595	Xiamen	two	二	li²²	l i ²²		1106	92	l - i - ²²	C V T
+2594	Xiamen	two	两	nŋ̍²²	n ŋ̍ ²²		287	306	- - - - - n - - ŋ̍ ²²	C C T
+2787	Beijing	two ounces	二两	ər⁵¹ljɑŋ²¹⁴	ə r ⁵¹ l j ɑ ŋ ²¹⁴		287	306	- - ə r ⁵¹ l j ɑ ŋ ²¹⁴	V C T C C V C T
+2776	Changsha	two ounces	二两	ə¹¹ljan⁴¹	ə ¹¹ l j a n ⁴¹		287	306	- - ə - ¹¹ l j a n ⁴¹	V T C C V C T
+2784	Chengdu	two ounces	二两	ər¹³njaŋ⁵³	ə r ¹³ n j a ŋ ⁵³		287	306	- - ə r ¹³ n j a ŋ ⁵³	V C T C C V C T
+2782	Guangzhou	two ounces	二两	ji²²lœŋ³⁵	j i ²² l œ ŋ ³⁵		287	306	- j i - ²² l - œ ŋ ³⁵	C V T C V C T
+2777	Guixian	two ounces	二两	ɚ²¹³ljaŋ⁴²	ɚ ²¹³ l j a ŋ ⁴²		287	306	- - ɚ - ²¹³ l j a ŋ ⁴²	V T C C V C T
+2781	Hangzhou	two ounces	二两	əl⁴⁴⁵ljɑŋ⁵³	ə l ⁴⁴⁵ l j ɑ ŋ ⁵³		287	306	- - ə l ⁴⁴⁵ l j ɑ ŋ ⁵³	V C T C C V C T
+2779	Hefei	two ounces	二两	a⁵³ljɑ̃²⁴	a ⁵³ l j ɑ̃ ²⁴		287	306	- - a - ⁵³ l j ɑ̃ - ²⁴	V T C C V T
+2780	Jinan	two ounces	二两	ər²¹ljaŋ	ə r ²¹ l j a ŋ		287	306	- - ə r ²¹ l j a ŋ -	V C T C C V C
+2788	Kunming	two ounces	二两	ə²¹²ljᴀ̃⁵³	ə ²¹² l j ᴀ̃/ã̱ ⁵³		287	306	- - ə - ²¹² l j ᴀ̃/ã̱ - ⁵³	V T C C V T
+2775	Meixian	two ounces	两两	ljoŋ³¹ljoŋ⁴⁴	l j o ŋ ³¹ l j o ŋ ⁴⁴		287	306	l j o ŋ ³¹ l j o ŋ ⁴⁴	C C V C T C C V C T
+2783	Nanchang	two ounces	二两	ɵ²¹ljɔŋ²¹³	ɵ ²¹ l j ɔ ŋ ²¹³		287	306	- - ɵ - ²¹ l j ɔ ŋ ²¹³	V T C C V C T
+2789	Shanghai	two ounces	二两	ȵi¹³ljã¹³	ɲ i ¹³ l j ã ¹³		287	306	- ɲ i - ¹³ l j ã - ¹³	C V T C C V T
+2785	Taiyuan	two ounces	二两	ər⁴⁵ljɒ̃⁵³	ə r ⁴⁵ l j ɒ̃ ⁵³		287	306	- - ə r ⁴⁵ l j ɒ̃ - ⁵³	V C T C C V T
+1986	Guixian	under	脚脚	ʨjo²¹ʨjo⁵⁵	tɕ j o ²¹ tɕ j o ⁵⁵		609	560	tɕ j o - ²¹ - - - tɕ j o ⁵⁵	C C V T C C V T
+1981	Changsha	under	下面	ɕja¹¹mjẽ	ɕ j a ¹¹ m j ẽ		167	211	ɕ j a ¹¹ m j ẽ - -	C C V T C C V
+2000	Chengdu	under	下面	ɕja¹³mjan¹³	ɕ j a ¹³ m j a n ¹³		167	211	ɕ j a ¹³ m j a n ¹³	C C V T C C V C T
+1988	Xiamen	under	下面	e²²bin²²	e ²² b i n ²²		167	211	- - e ²² b - i n ²²	V T C V C T
+1983	Changsha	under	底下	ti⁴¹xa¹¹	t i ⁴¹ x a ¹¹		524	503	- t i - ⁴¹ x - a ¹¹	C V T C V T
+2001	Chengdu	under	底下	ti⁵³ɕja¹³	t i ⁵³ ɕ j a ¹³		524	503	- t i - ⁵³ ɕ j a ¹³	C V T C C V T
+1993	Hangzhou	under	下底	ɦjɑ¹³ti⁵³	ɦ j ɑ ¹³ t i ⁵³		524	503	ɦ j ɑ - ¹³ t - i ⁵³	C C V T C V T
+1989	Hefei	under	底下	ʦɿ²⁴ɕja	ts ɿ ²⁴ ɕ j a		524	503	- ts ɿ - ²⁴ ɕ j a -	C V T C C V
+1992	Jinan	under	底下	ti⁵⁵ɕja	t i ⁵⁵ ɕ j a		524	503	- t i - ⁵⁵ ɕ j a -	C V T C C V
+1997	Nanchang	under	底下	tiʔ⁵kɑ²¹	t i ʔ ⁵ k ɑ ²¹		524	503	- t i ʔ ⁵ k - ɑ ²¹	C V C T C V T
+2010	Shanghai	under	下底	ɦo¹³ti³⁵	ɦ o ¹³ t i ³⁵		524	503	ɦ - o - ¹³ t - i ³⁵	C V T C V T
+2003	Taiyuan	under	底下	ti⁵³xa⁴⁵	t i ⁵³ x a ⁴⁵		524	503	- t i - ⁵³ x - a ⁴⁵	C V T C V T
+1987	Xiamen	under	下底	e²²twe	e ²² t w e		524	503	- - e - ²² t w e -	V T C C V
+2005	Beijing	under	下头	ɕja⁵¹tʰow¹	ɕ j a ⁵¹ tʰ o w ¹		611	563	ɕ j a ⁵¹ tʰ - o w ¹	C C V T C V C T
+1984	Changsha	under	下头	ɕja¹¹təw	ɕ j a ¹¹ t ə w		611	563	ɕ j a ¹¹ t - ə w -	C C V T C V C
+1998	Chengdu	under	下头	ɕja¹³tʰəw³¹	ɕ j a ¹³ tʰ ə w ³¹		611	563	ɕ j a ¹³ tʰ - ə w ³¹	C C V T C V C T
+1985	Guixian	under	下头	ɕja²¹³tʰəw⁵⁵	ɕ j a ²¹³ tʰ ə w ⁵⁵		611	563	ɕ j a ²¹³ tʰ - ə w ⁵⁵	C C V T C V C T
+1990	Jinan	under	下头	ɕja²¹tʰow	ɕ j a ²¹ tʰ o w		611	563	ɕ j a ²¹ tʰ - o w -	C C V T C V C
+1996	Nanchang	under	下头	hɑ²¹tʰɛw⁰²	h ɑ ²¹ tʰ ɛ w ⁰²/¹²		611	563	h - ɑ ²¹ tʰ - ɛ w ⁰²/¹²	C V T C V C T
+2009	Shanghai	under	下头	ɦo¹³dɤ¹³	ɦ o ¹³ d ɤ ¹³		611	563	ɦ - o ¹³ d - ɤ - ¹³	C V T C V T
+2004	Shexian	under	下头	xa³⁵tʰju⁴⁴	x a ³⁵ tʰ j u ⁴⁴		611	563	x - a ³⁵ tʰ j u - ⁴⁴	C V T C C V T
+2002	Taiyuan	under	下头	xa⁴⁵tʰəw⁵³	x a ⁴⁵ tʰ ə w ⁵³		611	563	x - a ⁴⁵ tʰ - ə w ⁵³	C V T C V C T
+2006	Beijing	under	下边儿	ɕja⁵¹pjar¹	ɕ j a ⁵¹ p j a r ¹		429	424	ɕ j a ⁵¹ p j a r ¹	C C V T C C V C T
+1999	Chengdu	under	下边	ɕja¹³pjan⁵⁵	ɕ j a ¹³ p j a n ⁵⁵		429	424	ɕ j a ¹³ p j a n ⁵⁵	C C V T C C V C T
+1991	Jinan	under	下边儿	ɕja²¹pjɛr	ɕ j a ²¹ p j ɛ r		429	424	ɕ j a ²¹ p j ɛ r -	C C V T C C V C
+2190	Beijing	watery	淡	tan⁵¹	t a n ⁵¹		1101	87	t a n ⁵¹	C V C T
+2178	Changsha	watery	淡	tan¹¹	t a n ¹¹		1101	87	t a n ¹¹	C V C T
+2186	Chengdu	watery	淡	tan¹³	t a n ¹³		1101	87	t a n ¹³	C V C T
+2184	Guangzhou	watery	淡	tʰam²³	tʰ a m ²³		1101	87	tʰ a m ²³	C V C T
+2179	Guixian	watery	淡	tan²¹³	t a n ²¹³		1101	87	t a n ²¹³	C V C T
+2183	Hangzhou	watery	淡	dᴇ̃¹³	d ᴇ̃/ẽ̞ ¹³		1101	87	d ᴇ̃/ẽ̞ - ¹³	C V T
+2180	Hefei	watery	淡	tæ̃⁵³	t æ̃ ⁵³		1101	87	t æ̃ - ⁵³	C V T
+2181	Jinan	watery	淡	tã²¹	t ã ²¹		1101	87	t ã - ²¹	C V T
+2191	Kunming	watery	淡	tᴀ̃²¹²	t ᴀ̃/ã̱ ²¹²		1101	87	t ᴀ̃/ã̱ - ²¹²	C V T
+2177	Meixian	watery	淡	tʰam⁴⁴	tʰ a m ⁴⁴		1101	87	tʰ a m ⁴⁴	C V C T
+2185	Nanchang	watery	淡	tʰan²¹	tʰ a n ²¹		1101	87	tʰ a n ²¹	C V C T
+2192	Shanghai	watery	淡	de¹³	d e ¹³		1101	87	d e - ¹³	C V T
+2189	Shexian	watery	淡	tɛ³⁵	t ɛ ³⁵		1101	87	t ɛ - ³⁵	C V T
+1581	Beijing	we	我们	wom̩	w o m̩		915	821	w o m̩ - - - - -	C V C
+1565	Changsha	we	我们	ŋo⁴¹mən	ŋ o ⁴¹ m ə n		915	821	ŋ o - ⁴¹ m ə n -	C V T C V C
+1577	Chengdu	we	我们	ŋo⁵³mən³¹	ŋ o ⁵³ m ə n ³¹		915	821	ŋ o - ⁵³ m ə n ³¹	C V T C V C T
+1567	Guixian	we	我们	ŋo⁴²men⁵⁵	ŋ o ⁴² m e n ⁵⁵		915	821	ŋ o - ⁴² m e n ⁵⁵	C V T C V C T
+1574	Hangzhou	we	我们	ŋo⁵³men²¹³	ŋ o ⁵³ m e n ²¹³		915	821	ŋ o - ⁵³ m e n ²¹³	C V T C V C T
+1569	Hefei	we	我们	ʊ²⁴mən	ʊ ²⁴ m ə n		915	821	- ʊ - ²⁴ m ə n -	V T C V C
+1570	Jinan	we	我们	və⁵⁵mẽ	v ə ⁵⁵ m ẽ		915	821	v ə - ⁵⁵ m ẽ - -	C V T C V
+1583	Kunming	we	我们	o⁵³mə⁴⁴	o ⁵³ m ə ⁴⁴		915	821	- o - ⁵³ m ə - ⁴⁴	V T C V T
+1575	Nanchang	we	我们	ŋo²¹³mɨn⁰⁴	ŋ o ²¹³ m ɨ n ⁰⁴/¹⁴		915	821	ŋ o - ²¹³ m ɨ n ⁰⁴/¹⁴	C V T C V C T
+1578	Taiyuan	we	我们	ɣɤ⁵³məʔ	ɣ ɤ ⁵³ m ə ʔ		915	821	ɣ ɤ - ⁵³ m ə ʔ -	C V T C V C
+2277	Beijing	well smelling	香	ɕjɑŋ⁵⁵	ɕ j ɑ ŋ ⁵⁵		1092	78	ɕ j ɑ ŋ ⁵⁵	C C V C T
+2266	Changsha	well smelling	香	ɕjan³³	ɕ j a n ³³		1092	78	ɕ j a n ³³	C C V C T
+2274	Chengdu	well smelling	香	ɕjaŋ⁵⁵	ɕ j a ŋ ⁵⁵		1092	78	ɕ j a ŋ ⁵⁵	C C V C T
+2272	Guangzhou	well smelling	香	hœŋ⁵³	h œ ŋ ⁵³		1092	78	h - œ ŋ ⁵³	C V C T
+2267	Guixian	well smelling	香	ɕjaŋ⁵⁵	ɕ j a ŋ ⁵⁵		1092	78	ɕ j a ŋ ⁵⁵	C C V C T
+2271	Hangzhou	well smelling	香	ɕjɑŋ³³	ɕ j ɑ ŋ ³³		1092	78	ɕ j ɑ ŋ ³³	C C V C T
+2269	Hefei	well smelling	香	ɕjɑ̃²¹	ɕ j ɑ̃ ²¹		1092	78	ɕ j ɑ̃ - ²¹	C C V T
+2270	Jinan	well smelling	香	ɕjaŋ²¹³	ɕ j a ŋ ²¹³		1092	78	ɕ j a ŋ ²¹³	C C V C T
+2278	Kunming	well smelling	香	ɕjᴀ̃⁴⁴	ɕ j ᴀ̃/ã̱ ⁴⁴		1092	78	ɕ j ᴀ̃/ã̱ - ⁴⁴	C C V T
+2265	Meixian	well smelling	香	hjoŋ⁴⁴	h j o ŋ ⁴⁴		1092	78	h j o ŋ ⁴⁴	C C V C T
+2273	Nanchang	well smelling	香	ɕjɔŋ⁴²	ɕ j ɔ ŋ ⁴²		1092	78	ɕ j ɔ ŋ ⁴²	C C V C T
+2279	Shanghai	well smelling	香	ɕjã⁵³	ɕ j ã ⁵³		1092	78	ɕ j ã - ⁵³	C C V T
+2276	Shexian	well smelling	香	ɕja³¹	ɕ j a ³¹		1092	78	ɕ j a - ³¹	C C V T
+2275	Taiyuan	well smelling	香	ɕjɒ̃¹¹	ɕ j ɒ̃ ¹¹		1092	78	ɕ j ɒ̃ - ¹¹	C C V T
+1670	Kunming	what	哪样	nᴀ⁵³jᴀ̃²¹²	n ᴀ/a̱ ⁵³ j ᴀ̃/ã̱ ²¹²		271	294	n ᴀ/a̱ ⁵³ j ᴀ̃/ã̱ ²¹²	C V T C V T
+1791	Beijing	what kind of	哪个	na²¹⁴kə	n a ²¹⁴ k ə		640	587	n a - ²¹⁴ - k ə - -	C V T C V
+1784	Jinan	what kind of	哪一个	na⁵⁵ikə	n a ⁵⁵ i k ə		640	587	n a - ⁵⁵ i k ə - -	C V T V C V
+1790	Taiyuan	what kind of	哪个	na⁵³kɤ⁴⁵	n a ⁵³ k ɤ ⁴⁵		640	587	n a - ⁵³ - k ɤ - ⁴⁵	C V T C V T
+1789	Taiyuan	what kind of	哪块	na⁵³kwajuai⁴⁵	n a ⁵³ k w a j u a i ⁴⁵		280	302	n a ⁵³ k w a j u a i ⁴⁵ - - - - - - - -	C V T C C V C V V V T
+270	Beijing	wheat	麦子	maj⁵¹ʦɿ¹	m a j ⁵¹ ts ɿ ¹		939	843	m - a j ⁵¹ ts ɿ - ¹	C V C T C V T
+257	Changsha	wheat	麦子	mə²⁴ʦɿ	m ə ²⁴ ts ɿ		939	843	m - ə - ²⁴ ts ɿ - -	C V T C V
+266	Chengdu	wheat	麦子	me³¹ʦɿ⁵³	m e ³¹ ts ɿ ⁵³		939	843	m - e - ³¹ ts ɿ - ⁵³	C V T C V T
+258	Guixian	wheat	麦子	mɛ²¹ʦɿ⁴²	m ɛ ²¹ ts ɿ ⁴²		939	843	m - ɛ - ²¹ ts ɿ - ⁴²	C V T C V T
+263	Hangzhou	wheat	麦子	mɑʔ²ʦɿ⁵³	m ɑ ʔ ² ts ɿ ⁵³		939	843	m - ɑ ʔ ² ts ɿ - ⁵³	C V C T C V T
+261	Hefei	wheat	麦子	mɐʔ⁵ʦə	m ɐ ʔ ⁵ ts ə		939	843	m - ɐ ʔ ⁵ ts ə - -	C V C T C V
+262	Jinan	wheat	麦子	mej²¹ʦɿ	m e j ²¹ ts ɿ		939	843	m - e j ²¹ ts ɿ - -	C V C T C V
+271	Kunming	wheat	麦子	mə³¹ʦɿ⁵³	m ə ³¹ ts ɿ ⁵³		939	843	m - ə - ³¹ ts ɿ - ⁵³	C V T C V T
+265	Nanchang	wheat	麦子	mɑʔ²ʦɿ⁰²	m ɑ ʔ ² ts ɿ ⁰²/¹²		939	843	m - ɑ ʔ ² ts ɿ - ⁰²/¹²	C V C T C V T
+272	Shanghai	wheat	麦子	maʔ¹ʦɿ³⁵	m a ʔ ¹ ts ɿ ³⁵		939	843	m - a ʔ ¹ ts ɿ - ³⁵	C V C T C V T
+267	Taiyuan	wheat	麦子	mjəʔ²ʦəʔ	m j ə ʔ ² ts ə ʔ		939	843	m j ə ʔ ² ts ə ʔ -	C C V C T C V C
+264	Guangzhou	wheat	麦	mɐk²	m ɐ k ²		384	389	m ɐ k ²	C V C T
+269	Shexian	wheat	麦	mɛ²²	m ɛ ²²		384	389	m ɛ - ²²	C V T
+260	Xiamen	wheat	麦	beʔ⁵	b e ʔ ⁵		384	389	b e ʔ ⁵	C V C T
+268	Shexian	wheat	小麦	sjɔ³⁵mɛ²²	s j ɔ ³⁵ m ɛ ²²		172	217	s j ɔ - ³⁵ m ɛ - ²²	C C V T C V T
+1730	Jinan	where	哪	na⁵⁵	n a ⁵⁵		271	294	n a ⁵⁵ - - -	C V T
+1722	Changsha	where	哪块子	la⁴¹kʰwajuai⁴¹ʦɿ	l a ⁴¹ kʰ w a j u a i ⁴¹ ts ɿ		280	302	l a ⁴¹ kʰ w a j u a i ⁴¹ - - - - - ts ɿ -	C V T C C V C V V V T C V
+1721	Changsha	where	哪里	la⁴¹li	l a ⁴¹ l i		209	247	l a ⁴¹ l i -	C V T C V
+1732	Hangzhou	where	哪里	nɑ⁵³li	n ɑ ⁵³ l i		209	247	n ɑ ⁵³ l i -	C V T C V
+1729	Jinan	where	哪里	na⁵⁵ȵi	n a ⁵⁵ ɲ i		209	247	n a ⁵⁵ ɲ i -	C V T C V
+1736	Nanchang	where	哪里	lɑ²¹³li⁰⁴	l ɑ ²¹³ l i ⁰⁴/¹⁴		209	247	l ɑ ²¹³ l i ⁰⁴/¹⁴	C V T C V T
+1740	Shexian	where	哪里	la³⁵li	l a ³⁵ l i		209	247	l a ³⁵ l i -	C V T C V
+1738	Taiyuan	where	哪里	na⁵³lɤ	n a ⁵³ l ɤ		209	247	n a ⁵³ l ɤ -	C V T C V
+1724	Guixian	where	哪点	la⁴²tɛ⁴²	l a ⁴² t ɛ ⁴²		168	212	l a - ⁴² t - ɛ ⁴² - -	C V T C V T
+1744	Kunming	where	哪点儿	nᴀ⁵³tjə³¹ə³¹	n ᴀ/a̱ ⁵³ t j ə ³¹ ə ³¹		168	212	n ᴀ/a̱ - ⁵³ t j ə ³¹ ə ³¹	C V T C C V T V T
+1739	Taiyuan	where	哪儿家	nar⁵³ʨja¹¹	n a r ⁵³ tɕ j a ¹¹		168	212	n a r ⁵³ tɕ j a ¹¹ - -	C V C T C C V T
+1639	Changsha	who	哪个	laj⁴¹ko	l a j ⁴¹ k o		640	587	l a j ⁴¹ - k o - -	C V C T C V
+1648	Chengdu	who	哪个	na⁵³ko¹³	n a ⁵³ k o ¹³		640	587	n a - ⁵³ - k o - ¹³	C V T C V T
+1640	Guixian	who	哪个	la⁴²ko²¹³	l a ⁴² k o ²¹³		640	587	l a - ⁴² - k o - ²¹³	C V T C V T
+1645	Hangzhou	who	哪个	nɑ⁵³koʔ⁵	n ɑ ⁵³ k o ʔ ⁵		640	587	n ɑ - ⁵³ - k o ʔ ⁵	C V T C V C T
+1652	Kunming	who	哪个	nᴀ⁵³kə²¹²	n ᴀ/a̱ ⁵³ k ə ²¹²		640	587	n ᴀ/a̱ - ⁵³ - k ə - ²¹²	C V T C V T
+1647	Nanchang	who	哪个	lɑ²¹³ko⁰⁴	l ɑ ²¹³ k o ⁰⁴/¹⁴		640	587	l ɑ - ²¹³ - k o - ⁰⁴/¹⁴	C V T C V T
+1650	Shexian	who	哪一个	la³⁵iko³²⁴	l a ³⁵ i k o ³²⁴		640	587	l a - ³⁵ i k o - ³²⁴	C V T V C V T
+1651	Beijing	who	谁	ʂej³⁵	ʂ e j ³⁵		615	566	ʂ - e j - - - ³⁵	C V C T
+1644	Jinan	who	谁	ʂej⁴²	ʂ e j ⁴²		615	566	ʂ - e j - - - ⁴²	C V C T
+1649	Taiyuan	who	谁	swejuei¹¹	s w e j u/w e i ¹¹		615	566	s w e j u/w e i ¹¹	C C V C V V V T
+945	Guangzhou	wife	老婆	low²³pʰɔ²¹	l o w ²³ pʰ ɔ ²¹		594	548	l o w ²³ pʰ ɔ ²¹ - - - - -	C V C T C V T
+942	Hangzhou	wife	老婆	lɔ⁵³bo²¹³	l ɔ ⁵³ b o ²¹³		594	548	l ɔ - ⁵³ b o ²¹³ - - - - -	C V T C V T
+959	Kunming	wife	老婆	lɔ⁵³pʰo³¹	l ɔ ⁵³ pʰ o ³¹		594	548	l ɔ - ⁵³ pʰ o ³¹ - - - - -	C V T C V T
+927	Meixian	wife	老婆	law³¹pʰo¹¹	l a w ³¹ pʰ o ¹¹		594	548	l a w ³¹ pʰ o ¹¹ - - - - -	C V C T C V T
+946	Nanchang	wife	老婆	lɑw²¹³pʰo⁰⁴	l ɑ w ²¹³ pʰ o ⁰⁴/¹⁴		594	548	l ɑ w ²¹³ pʰ o ⁰⁴/¹⁴ - - - - -	C V C T C V T
+933	Guixian	wife	婆娘	pʰo²¹ljaŋ⁵⁵	pʰ o ²¹ l j a ŋ ⁵⁵		1104	90	pʰ o ²¹ l j a ŋ ⁵⁵	C V T C C V C T
+958	Kunming	wife	婆娘	pʰo³¹njᴀ̃³¹	pʰ o ³¹ n j ᴀ̃/ã̱ ³¹		1104	90	pʰ o ³¹ n j ᴀ̃/ã̱ - ³¹	C V T C C V T
+931	Guixian	wife	女的	li⁴²lɛ⁵⁵	l i ⁴² l ɛ ⁵⁵		792	711	l i ⁴² l - ɛ - ⁵⁵	C V T C V T
+938	Jinan	wife	女的	ȵy⁵⁵ti	ɲ y ⁵⁵ t i		792	711	ɲ y ⁵⁵ t - i - -	C V T C V
+949	Chengdu	wife	女人	ȵy⁵³zən³¹	ɲ y ⁵³ z ə n ³¹		485	468	ɲ y - ⁵³ z ə n ³¹ - - - -	C V T C V C T
+932	Guixian	wife	女人	li⁴²zen²¹	l i ⁴² z e n ²¹		485	468	l i - ⁴² z e n ²¹ - - - -	C V T C V C T
+961	Kunming	wife	女人	ni⁵³ʐə̃³¹	n i ⁵³ ʐ ə̃ ³¹		485	468	n i - ⁵³ ʐ ə̃ - ³¹ - - - -	C V T C V T
+966	Shanghai	wife	女人	ȵy¹³ȵiŋ¹³	ɲ y ¹³ ɲ i ŋ ¹³		485	468	ɲ y - ¹³ ɲ i ŋ ¹³ - - - -	C V T C V C T
+954	Shexian	wife	女人	ny³⁵jʌ̃⁴⁴	n y ³⁵ j ʌ̃ ⁴⁴		485	468	n y - ³⁵ j ʌ̃ - ⁴⁴ - - - -	C V T C V T
+936	Hefei	wife	奶奶们	lᴇ²⁴lᴇmən	l ᴇ/e̞ ²⁴ l ᴇ/e̞ m ə n		398	400	l ᴇ/e̞ - ²⁴ l ᴇ/e̞ m ə n - - - -	C V T C V C V C
+956	Beijing	wife	媳妇儿	ɕi³⁵fər³	ɕ i ³⁵ f ə r ³		528	507	ɕ i ³⁵ f ə r ³	C V T C V C T
+940	Jinan	wife	媳妇	ɕi²¹³fu	ɕ i ²¹³ f u		528	507	ɕ i ²¹³ f u - -	C V T C V
+960	Kunming	wife	媳妇	ɕi³¹fu²¹²	ɕ i ³¹ f u ²¹²		528	507	ɕ i ³¹ f u - ²¹²	C V T C V T
+493	Chengdu	window	窗子	ʦʰwaŋ⁵⁵ʦɿ	tsʰ w a ŋ ⁵⁵ ts ɿ		364	372	tsʰ w a ŋ ⁵⁵ ts ɿ - -	C C V C T C V
+481	Guixian	window	窗子	ʦʰwaŋ⁵⁵ʦɿ⁴²	tsʰ w a ŋ ⁵⁵ ts ɿ ⁴²		364	372	tsʰ w a ŋ ⁵⁵ ts ɿ - ⁴²	C C V C T C V T
+487	Hangzhou	window	窗子	ʦʰɥɑŋ³³ʦɿ⁵³	tsʰ ɥ ɑ ŋ ³³ ts ɿ ⁵³		364	372	tsʰ ɥ ɑ ŋ ³³ ts ɿ - ⁵³	C C V C T C V T
+483	Hefei	window	窗子	t͡ʂʰwɑ̃²¹ʦə	ʈʂʰ w ɑ̃ ²¹ ts ə		364	372	ʈʂʰ w ɑ̃ - ²¹ ts ə - -	C C V T C V
+485	Jinan	window	窗子	t͡ʂʰwaŋ²¹³ʦɿ	ʈʂʰ w a ŋ ²¹³ ts ɿ		364	372	ʈʂʰ w a ŋ ²¹³ ts ɿ - -	C C V C T C V
+490	Nanchang	window	窗子	ʦʰɔŋ⁴²ʦɿ⁰²	tsʰ ɔ ŋ ⁴² ts ɿ ⁰²/¹²		364	372	tsʰ - ɔ ŋ ⁴² ts ɿ - ⁰²/¹²	C V C T C V T
+495	Taiyuan	window	窗子	ʦʰwɒ̃¹¹ʦəʔ	tsʰ w ɒ̃ ¹¹ ts ə ʔ		364	372	tsʰ w ɒ̃ - ¹¹ ts ə ʔ -	C C V T C V C
+498	Beijing	window	窗户	t͡ʂʰwɑŋ⁵⁵xu²	ʈʂʰ w ɑ ŋ ⁵⁵ x u ²		1149	129	ʈʂʰ w ɑ ŋ ⁵⁵ x u - ²	C C V C T C V T
+492	Chengdu	window	窗户	ʦʰwaŋ⁵⁵xu	tsʰ w a ŋ ⁵⁵ x u		1149	129	tsʰ w a ŋ ⁵⁵ x u - -	C C V C T C V
+484	Jinan	window	窗户	t͡ʂʰwaŋ²¹³xu	ʈʂʰ w a ŋ ²¹³ x u		1149	129	ʈʂʰ w a ŋ ²¹³ x u - -	C C V C T C V
+499	Kunming	window	窗户	t͡ʂʰwᴀ̃⁴⁴xoŋ⁴⁴	ʈʂʰ w ᴀ̃/ã̱ ⁴⁴ x o ŋ ⁴⁴		1149	129	ʈʂʰ w ᴀ̃/ã̱ - ⁴⁴ x o ŋ ⁴⁴	C C V T C V C T
+494	Taiyuan	window	窗户	ʦʰwɒ̃¹¹xu⁴⁵	tsʰ w ɒ̃ ¹¹ x u ⁴⁵		1149	129	tsʰ w ɒ̃ - ¹¹ x u - ⁴⁵	C C V T C V T
+489	Guangzhou	window	窗门	ʦʰœŋ⁵⁵mun²¹	tsʰ œ ŋ ⁵⁵ m u n ²¹		475	462	tsʰ - œ ŋ ⁵⁵ m u n ²¹	C V C T C V C T
+486	Hangzhou	window	窗门	ʦʰɥɑŋ³³men²¹³	tsʰ ɥ ɑ ŋ ³³ m e n ²¹³		475	462	tsʰ ɥ ɑ ŋ ³³ m e n ²¹³	C C V C T C V C T
+500	Shanghai	window	窗门	ʦʰɑ̃⁵³məŋ¹³	tsʰ ɑ̃ ⁵³ m ə ŋ ¹³		475	462	tsʰ - ɑ̃ - ⁵³ m ə ŋ ¹³	C V T C V C T
+1221	Beijing	woman	女的	ny²¹⁴tə⁴	n y ²¹⁴ t ə ⁴		792	711	n y ²¹⁴ t - ə - ⁴	C V T C V T
+1197	Changsha	woman	女的	ȵy⁴¹ti	ɲ y ⁴¹ t i		792	711	ɲ y ⁴¹ t - i - -	C V T C V
+1213	Chengdu	woman	女的	ȵy⁵³ni	ɲ y ⁵³ n i		792	711	ɲ y ⁵³ n - i - -	C V T C V
+1203	Hefei	woman	女的	zy²⁴tjəʔ	z y ²⁴ t j ə ʔ		792	711	z y ²⁴ t j ə ʔ -	C V T C C V C
+1215	Taiyuan	woman	女的	ny⁵³təʔ	n y ⁵³ t ə ʔ		792	711	n y ⁵³ t - ə ʔ -	C V T C V C
+1202	Xiamen	woman	女的	lu⁵³e	l u ⁵³ e		792	711	l u ⁵³ - - e - -	C V T V
+1220	Beijing	woman	女人	ny²¹⁴ʐən³⁵	n y ²¹⁴ ʐ ə n ³⁵		485	468	n y - ²¹⁴ ʐ ə n ³⁵ - - - -	C V T C V C T
+1196	Changsha	woman	女人	ȵy⁴¹ʐən¹³	ɲ y ⁴¹ ʐ ə n ¹³		485	468	ɲ y - ⁴¹ ʐ ə n ¹³ - - - -	C V T C V C T
+1209	Guangzhou	woman	女人	nøɥ²³jɐn²¹	n ø ɥ ²³ j ɐ n ²¹		485	468	n ø ɥ ²³ j ɐ n ²¹ - - - -	C V C T C V C T
+1208	Hangzhou	woman	女人家	ny⁵³zen²¹³ʨjɑ³³	n y ⁵³ z e n ²¹³ tɕ j ɑ ³³		485	468	n y - ⁵³ z e n ²¹³ tɕ j ɑ ³³	C V T C V C T C C V T
+1205	Jinan	woman	女人	ȵy⁵⁵ʐẽ⁴²	ɲ y ⁵⁵ ʐ ẽ ⁴²		485	468	ɲ y - ⁵⁵ ʐ ẽ - ⁴² - - - -	C V T C V T
+1216	Taiyuan	woman	女人家	ny⁵³zəŋ¹¹ʨja¹¹	n y ⁵³ z ə ŋ ¹¹ tɕ j a ¹¹		485	468	n y - ⁵³ z ə ŋ ¹¹ tɕ j a ¹¹	C V T C V C T C C V T
+1601	Beijing	you	你们	nim̩²¹⁴	n i m̩ ²¹⁴		1007	9	n i m̩ ²¹⁴ - - - -	C V C T
+1587	Changsha	you	你们	ȵi⁴¹mən	ɲ i ⁴¹ m ə n		1007	9	ɲ i - ⁴¹ m ə n -	C V T C V C
+1597	Chengdu	you	你们	ȵi⁵³mən³¹	ɲ i ⁵³ m ə n ³¹		1007	9	ɲ i - ⁵³ m ə n ³¹	C V T C V C T
+1589	Guixian	you	你们	li⁴²men⁵⁵	l i ⁴² m e n ⁵⁵		1007	9	l i - ⁴² m e n ⁵⁵	C V T C V C T
+1594	Hangzhou	you	你们	ni⁵³men²¹³	n i ⁵³ m e n ²¹³		1007	9	n i - ⁵³ m e n ²¹³	C V T C V C T
+1591	Hefei	you	你们	li²⁴mən	l i ²⁴ m ə n		1007	9	l i - ²⁴ m ə n -	C V T C V C
+1592	Jinan	you	你们	ȵi⁵⁵mẽ	ɲ i ⁵⁵ m ẽ		1007	9	ɲ i - ⁵⁵ m ẽ - -	C V T C V
+1602	Kunming	you	你们	ni⁵³mə⁴⁴	n i ⁵³ m ə ⁴⁴		1007	9	n i - ⁵³ m ə - ⁴⁴	C V T C V T
+1595	Nanchang	you	你们	n̩²¹³mɨn⁰⁴	n̩ ²¹³ m ɨ n ⁰⁴/¹⁴		1007	9	n̩ - - ²¹³ m ɨ n ⁰⁴/¹⁴	C T C V C T
+1598	Taiyuan	you	你们	ni⁵³məʔ	n i ⁵³ m ə ʔ		1007	9	n i - ⁵³ m ə ʔ -	C V T C V C

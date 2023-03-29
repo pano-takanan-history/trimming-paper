@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/lingreg/__init__.py
+src/lingreg/reg.py
+src/lingreg/trim.py
+src/lingreg/util.py
+src/lingreg.egg-info/PKG-INFO
+src/lingreg.egg-info/SOURCES.txt
+src/lingreg.egg-info/dependency_links.txt
+src/lingreg.egg-info/not-zip-safe
+src/lingreg.egg-info/requires.txt
+src/lingreg.egg-info/top_level.txt

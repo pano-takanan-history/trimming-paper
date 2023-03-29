@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: lingreg
+Version: 0.1.0.dev0
+Summary: fetch functionalities for EDICTOR
+Home-page: 
+Author: Frederic Blum and Johann-Mattis List
+Author-email: frederic_blum@eva.mpg.de
+License: Apache 2.0
+Keywords: data
+Platform: any
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: test
